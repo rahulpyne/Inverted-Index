@@ -1,0 +1,965 @@
+https://en.wikipedia.org/wiki/Window_insulation_film
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Window insulation film - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Window_insulation_film","wgTitle":"Window insulation film","wgCurRevisionId":682934270,"wgRevisionId":682934270,"wgArticleId":21133261,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Building insulation materials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Window_insulation_film","wgRelevantArticleId":21133261,"wgRequestId":"WBxG7wpAEKYAAF0Tks0AAABS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2302022","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Window_insulation_film" rel="alternate"/>
+  <link href="/w/index.php?title=Window_insulation_film&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Window_insulation_film&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Window_insulation_film" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Window_insulation_film rootpage-Window_insulation_film skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Window insulation film
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Window insulation film
+      </b>
+      is a plastic film which can be applied to
+      <a class="mw-redirect" href="/wiki/Glass_window" title="Glass window">
+       glass windows
+      </a>
+      to reduce heat transfer. There are two types in common use designed to reduce heat flow via
+      <a href="/wiki/Radiation" title="Radiation">
+       radiation
+      </a>
+      and
+      <a href="/wiki/Convection" title="Convection">
+       convection
+      </a>
+      respectively.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Solar_control_film">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Solar control film
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Convection_control_film">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Convection control film
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Applications">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Applications
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Solar_control_film">
+       Solar control film
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Window_insulation_film&amp;action=edit&amp;section=1" title="Edit section: Solar control film">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      This works by reflecting the infra-red component of
+      <a href="/wiki/Solar_energy" title="Solar energy">
+       solar energy
+      </a>
+      (often 700W/sq M) and absorbing the UV component. Some films are also silvered or tinted to reduce visible light.
+     </p>
+     <p>
+      Typical absorption for a silvered film is 65% for visible and infra red with 99% for UV. This type of film sticks directly onto the glass.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Convection_control_film">
+       Convection control film
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Window_insulation_film&amp;action=edit&amp;section=2" title="Edit section: Convection control film">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A film is attached to the window frame to trap a pocket of air between the glass and the film, creating a double-glazed system with an insulating gap of still air.
+      <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">
+       Thermal conductivity
+      </a>
+      of still air is 0.024 W/m/K and much lower than that of glass (0.96 W/m/K).
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Factors which limit the performance of a double glazed window are gap width, convection within the cavity and radiative heat transfer across the gap which is largely independent of its width.
+     </p>
+     <p>
+      Optimal gap width depends on the temperature difference imposed across the gap. A European standard (EN 673) uses 20 °C difference between the inside and outside temperature which results in an optimal simulated gap width of about 17 mm for a standard double glazed window. A US standard (NFRC) uses a 39 °C difference which yields a smaller optimal gap width of about 13 mm. Using the European standard a window with an ideal gap of 17 mm has a simulated
+      <a href="/wiki/R-value_(insulation)" title="R-value (insulation)">
+       U-Value
+      </a>
+      of about 2.8 W/m²/K, a window with a much smaller gap of 6 mm has a U-value of about 3.3 W/m²/K, while a single glazed window has a U-value of about 5.5 W/m²/K.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      (see also
+      <a href="/wiki/Insulated_glazing" title="Insulated glazing">
+       insulated glazing
+      </a>
+      ).
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Window-insulation-kit.jpg">
+        <img alt="" class="thumbimage" data-file-height="280" data-file-width="449" height="187" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Window-insulation-kit.jpg/300px-Window-insulation-kit.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/b/b6/Window-insulation-kit.jpg 1.5x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Window-insulation-kit.jpg" title="Enlarge">
+         </a>
+        </div>
+        <b>
+         Typical window insulation film kit
+        </b>
+        of plastic shrink film (folded-up) and a roll of double-sided tape
+       </div>
+      </div>
+     </div>
+     <p>
+      One commonly used film is a heat-shrink plastic which is attached to the window frame using double-sided pressure-sensitive tape. A hair dryer is used to remove creases and improve optical clarity.
+     </p>
+     <p>
+      Reduced heat flow also helps prevent
+      <a href="/wiki/Condensation" title="Condensation">
+       condensation
+      </a>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      which is triggered when the temperature of the inside surface falls below the
+      <a href="/wiki/Dew_point" title="Dew point">
+       dew point
+      </a>
+      . Assuming an outside temperature of 0 °C with wind velocity 15 mph and inside temperature 20 °C condensation occurs at only 30%RH
+      <a href="/wiki/Relative_humidity" title="Relative humidity">
+       relative humidity
+      </a>
+      with a single-glazed system compared with 60%RH for a double-glazed system.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      Condensation also transfers additional heat, which can be significant.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Applications">
+       Applications
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Window_insulation_film&amp;action=edit&amp;section=3" title="Edit section: Applications">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      "Low-E" glass was introduced to the North American residential building market in the 1980s by a collaboration between Rob Hammon, now with BIRAenergy, and a windshield glass manufacturer.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Solar control film is an effective way to control excessive sunshine during the summer months.
+     </p>
+     <p>
+      Convection control film is often used in winter when the outgoing heat flow is more important, especially for single-glazed windows where the temperature difference is often sufficient to cause condensation.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Window_insulation_film&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Shrink_film" title="Shrink film">
+        Shrink film
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Window_insulation_film&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.engineeringtoolbox.com" rel="nofollow">
+          Thermal conductivity of common materials
+         </a>
+         Engineering toolbox
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="https://windows.lbl.gov/adv_sys/hi_R_insert/GapWidths.html" rel="nofollow">
+          [1]
+         </a>
+         Optimal gap width for double and triple glazing systems
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://archive.nrc-cnrc.gc.ca/eng/ibp/irc/cbd/building-digest-4.html" rel="nofollow">
+          Condensation on Inside Window Surfaces
+         </a>
+         CANADIAN BUILDING DIGEST, Originally published April 1960, A. G. Wilson
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://c.ymcdn.com/sites/www.nfrccommunity.org/resource/resmgr/fact_sheets/factsheetcondres_oct12.pdf" rel="nofollow">
+          Questions about windows and condensation
+         </a>
+         National Fenestration Rating Council
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.inive.org/members_area/medias/pdf/Inive/EnVIE/deOliveiraFernandes.pdf" rel="nofollow">
+          Strategies to Prevent Condensation in Buildings
+         </a>
+         Eduardo de Oliveira Fernandes, Vítor Leal and Francisco Craveiro IDMEC and DEMEGI, Faculty of Engineering, University of Porto Porto
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.rlcengineering.com/win_chart.htm" rel="nofollow">
+          Condensation Potential Chart
+         </a>
+         RLC Engineering, LLC.
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.usglassmag.com/USGlass/2002/0208/LowEGrowth.html" rel="nofollow">
+          http://www.usglassmag.com/USGlass/2002/0208/LowEGrowth.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.biraenergy.com/bira_team.html" rel="nofollow">
+          http://www.biraenergy.com/bira_team.html
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:21133261-0!*!0!!en!4!* and timestamp 20161022124417 and revision id 682934270
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Window_insulation_film&amp;oldid=682934270">
+      https://en.wikipedia.org/w/index.php?title=Window_insulation_film&amp;oldid=682934270
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Building_insulation_materials" title="Category:Building insulation materials">
+         Building insulation materials
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Window+insulation+film" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Window+insulation+film" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Window_insulation_film" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Window_insulation_film" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Window_insulation_film">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Window_insulation_film&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Window_insulation_film&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Window_insulation_film" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Window_insulation_film" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Window_insulation_film&amp;oldid=682934270" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Window_insulation_film&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2302022" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Window_insulation_film&amp;id=682934270" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Window+insulation+film">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Window+insulation+film&amp;returnto=Window+insulation+film&amp;oldid=682934270&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Window_insulation_film&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sonnenschutzfolie" hreflang="de" lang="de" title="Sonnenschutzfolie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B9%D8%A7%DB%8C%D9%82_%D8%AF%D8%B1%D8%B2%DA%AF%DB%8C%D8%B1_%D9%BE%D9%86%D8%AC%D8%B1%D9%87" hreflang="fa" lang="fa" title="عایق درزگیر پنجره – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Aurinkosuojakalvo" hreflang="fi" lang="fi" title="Aurinkosuojakalvo – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2302022#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 27 September 2015, at 01:22.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Window_insulation_film&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.016",
+            "walltime": "0.019",
+            "ppvisitednodes": {
+                "value": 135,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 147,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 4,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%    5.198      1 Template:Reflist",
+                "100.00%    5.198      1 -total"
+            ]
+        },
+        "cachereport": {
+            "origin": "mw1274",
+            "timestamp": "20161022124417",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1211"});});
+  </script>
+ </body>
+</html>

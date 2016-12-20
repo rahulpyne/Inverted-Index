@@ -1,0 +1,4821 @@
+https://en.wikipedia.org/wiki/Anti-consumerism
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Anti-consumerism - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anti-consumerism","wgTitle":"Anti-consumerism","wgCurRevisionId":747700773,"wgRevisionId":747700773,"wgArticleId":3942109,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","All articles with unsourced statements","Articles with unsourced statements from November 2007","Articles with unsourced statements from September 2010","Articles with unsourced statements from February 2009","Wikipedia articles needing clarification from August 2013","All Wikipedia articles needing clarification","Articles using small message boxes","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from October 2015","Articles with excessive see also sections from February 2015","Commons category with local link same as on Wikidata","Anti-corporate activism","Anti-globalization","Business ethics","Consumerism","Counterculture","Social theories","Sustainability"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anti-consumerism","wgRelevantArticleId":3942109,"wgRequestId":"WB0B2wpAMFwAALLr@LMAAACJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1783091","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anti-consumerism" rel="alternate"/>
+  <link href="/w/index.php?title=Anti-consumerism&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Anti-consumerism&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Anti-consumerism" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anti-consumerism rootpage-Anti-consumerism skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Anti-consumerism
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+      <tr>
+       <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+        <strong class="selflink">
+         Anti-consumerism
+        </strong>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          Ideas and theory
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Advanced_capitalism" title="Advanced capitalism">
+              Advanced capitalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alternative_culture" title="Alternative culture">
+              Alternative culture
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Autonomous_building" title="Autonomous building">
+              Autonomous building
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Buy_Nothing_Day" title="Buy Nothing Day">
+              Buy Nothing Day
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Commodity_fetishism" title="Commodity fetishism">
+              Commodity fetishism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Conspicuous_consumption" title="Conspicuous consumption">
+              Conspicuous consumption
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Consumer_capitalism" title="Consumer capitalism">
+              Consumer capitalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Cultural_hegemony" title="Cultural hegemony">
+              Cultural hegemony
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Culture_jamming" title="Culture jamming">
+              Culture jamming
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Degrowth" title="Degrowth">
+              Degrowth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Do_it_yourself" title="Do it yourself">
+              Do it yourself
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ethical_consumerism" title="Ethical consumerism">
+              Ethical consumerism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Freeganism" title="Freeganism">
+              Freeganism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Microgeneration" title="Microgeneration">
+              Microgeneration
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Planned_obsolescence" title="Planned obsolescence">
+              Planned obsolescence
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Simple_living" title="Simple living">
+              Simple living
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Spectacle_(critical_theory)" title="Spectacle (critical theory)">
+              Spectacle
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          Related
+          <a href="/wiki/Social_movement" title="Social movement">
+           social movements
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Alter-globalization" title="Alter-globalization">
+              Alter-globalization
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Anti-corporate_activism" title="Anti-corporate activism">
+              Anti-corporate activism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">
+              Anti-globalization movement
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Diggers_(theater)" title="Diggers (theater)">
+              Diggers
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Environmentalism" title="Environmentalism">
+              Environmentalism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Libertarian_socialism" title="Libertarian socialism">
+              Libertarian socialism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Occupy_Wall_Street" title="Occupy Wall Street">
+              Occupy Wall Street
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Postmodernism" title="Postmodernism">
+              Postmodernism
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Punk_ideologies" title="Punk ideologies">
+              Punk
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Situationist_International" title="Situationist International">
+              Situationist International
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Social_anarchism" title="Social anarchism">
+              Social anarchism
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          Popular works
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;font-style:italic;">
+          <div class="plainlist">
+           <ul>
+            <li>
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/The_Society_of_the_Spectacle" title="The Society of the Spectacle">
+                 The Society of the Spectacle
+                 <span style="font-style:normal;">
+                  (book
+                 </span>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/The_Society_of_the_Spectacle_(film)" title="The Society of the Spectacle (film)">
+                 <span style="font-style:normal;">
+                  film)
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </li>
+            <li>
+             <a href="/wiki/Evasion_(book)" title="Evasion (book)">
+              Evasion
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/No_Logo" title="No Logo">
+              No Logo
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Corporation_(film)" title="The Corporation (film)">
+              The Corporation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Affluenza:_The_All-Consuming_Epidemic" title="Affluenza: The All-Consuming Epidemic">
+              Affluenza: The All-Consuming Epidemic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">
+              Escape from Affluenza
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Theory_of_the_Leisure_Class" title="The Theory of the Leisure Class">
+              The Theory of the Leisure Class
+             </a>
+            </li>
+            <li>
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/Fight_Club_(novel)" title="Fight Club (novel)">
+                 Fight Club
+                 <span style="font-style:normal;">
+                  (novel
+                 </span>
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Fight_Club" title="Fight Club">
+                 <span style="font-style:normal;">
+                  film)
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </li>
+            <li>
+             <a href="/wiki/Steal_This_Book" title="Steal This Book">
+              Steal This Book
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Surplus:_Terrorized_into_Being_Consumers" title="Surplus: Terrorized into Being Consumers">
+              Surplus: Terrorized into Being Consumers
+             </a>
+            </li>
+            <li>
+             <div style="padding:0.2em 0.4em; line-height:1.2em;">
+              <a class="mw-redirect" href="/wiki/Profit_over_People:_Neoliberalism_and_Global_Order" title="Profit over People: Neoliberalism and Global Order">
+               Profit over People: Neoliberalism
+               <br/>
+               and Global Order
+              </a>
+             </div>
+            </li>
+            <li>
+             <a href="/wiki/So,_What%27s_Your_Price%3F" title="So, What's Your Price?">
+              So, What's Your Price?
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/What_Would_Jesus_Buy%3F" title="What Would Jesus Buy?">
+              What Would Jesus Buy?
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Atlantic" title="The Atlantic">
+              The Atlantic
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Cultural_Creatives" title="The Cultural Creatives">
+              The Cultural Creatives
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/One-Dimensional_Man" title="One-Dimensional Man">
+              One-Dimensional Man
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Walden" title="Walden">
+              Walden
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          Organizations and groups
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Adbusters" title="Adbusters">
+              Adbusters
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Freecycle_Network" title="The Freecycle Network">
+              Freecycle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Green_party" title="Green party">
+              Green party
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/CrimethInc." title="CrimethInc.">
+              CrimethInc.
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/RTMark" title="RTMark">
+              RTMark
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">
+              Rage Against the Machine
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/Reverend_Billy_and_the_Church_of_Life_After_Shopping" title="Reverend Billy and the Church of Life After Shopping">
+              Reverend Billy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/The_Yes_Men" title="The Yes Men">
+              The Yes Men
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Democracy_Now!" title="Democracy Now!">
+              Democracy Now!
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Occupy_Wall_Street" title="Occupy Wall Street">
+              Occupy Wall Street
+             </a>
+            </li>
+            <li>
+             <a class="mw-redirect" href="/wiki/The_Venus_Project" title="The Venus Project">
+              The Venus Project
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          People
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Slavoj_%C5%BDi%C5%BEek" title="Slavoj Žižek">
+              Slavoj Žižek
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ralph_Nader" title="Ralph Nader">
+              Ralph Nader
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bernard_Stiegler" title="Bernard Stiegler">
+              Bernard Stiegler
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_Zerzan" title="John Zerzan">
+              John Zerzan
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Noam_Chomsky" title="Noam Chomsky">
+              Noam Chomsky
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ron_English_(artist)" title="Ron English (artist)">
+              Ron English
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Above_(artist)" title="Above (artist)">
+              ABOVE
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Naomi_Klein" title="Naomi Klein">
+              Naomi Klein
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Benjamin_Barber" title="Benjamin Barber">
+              Benjamin Barber
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">
+              Thorstein Veblen
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hugo_Ch%C3%A1vez" title="Hugo Chávez">
+              Hugo Chávez
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Abbie_Hoffman" title="Abbie Hoffman">
+              Abbie Hoffman
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Guy_Debord" title="Guy Debord">
+              Guy Debord
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Michael_Moore" title="Michael Moore">
+              Michael Moore
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jos%C3%A9_Bov%C3%A9" title="José Bové">
+              José Bové
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Michel_Foucault" title="Michel Foucault">
+              Michel Foucault
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jello_Biafra" title="Jello Biafra">
+              Jello Biafra
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Vandana_Shiva" title="Vandana Shiva">
+              Vandana Shiva
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Bill_Hicks" title="Bill Hicks">
+              Bill Hicks
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Anomie_Belle" title="Anomie Belle">
+              Anomie Belle
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Thom_Yorke" title="Thom Yorke">
+              Thom Yorke
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Kurt_Cobain" title="Kurt Cobain">
+              Kurt Cobain
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Alex_Jones_(radio_host)" title="Alex Jones (radio host)">
+              Alex Jones
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Webster_Tarpley" title="Webster Tarpley">
+              Webster Tarpley
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/David_Icke" title="David Icke">
+              David Icke
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/George_Noory" title="George Noory">
+              George Noory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Jacque_Fresco" title="Jacque Fresco">
+              Jacque Fresco
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">
+          Related topics
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Advertising" title="Advertising">
+              Advertising
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Capitalism" title="Capitalism">
+              Capitalism
+             </a>
+            </li>
+            <li>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <a href="/wiki/Category:Economic_problems" title="Category:Economic problems">
+              Economic problems
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Left-wing_politics" title="Left-wing politics">
+              Left-wing politics
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Sweatshop" title="Sweatshop">
+              Sweatshops
+             </a>
+            </li>
+            <li>
+             <img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/>
+             <a href="/wiki/List_of_anti-consumerists" title="List of anti-consumerists">
+              Anti-consumerists
+             </a>
+            </li>
+            <li>
+             <img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/>
+             <a href="/wiki/List_of_social_movements" title="List of social movements">
+              Social movements
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Anti-consumerism" title="Template:Anti-consumerism">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Anti-consumerism" title="Template talk:Anti-consumerism">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anti-consumerism&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Anti-consumerism
+      </b>
+      is a
+      <a class="mw-redirect" href="/wiki/Sociopolitical" title="Sociopolitical">
+       sociopolitical
+      </a>
+      <a href="/wiki/Ideology" title="Ideology">
+       ideology
+      </a>
+      that is opposed to
+      <a href="/wiki/Consumerism" title="Consumerism">
+       consumerism
+      </a>
+      , the continual buying and consuming of material possessions. Anti-consumerism is concerned with the private actions of business corporations in pursuit of financial and economic goals at the expense of the public welfare, especially in matters of environmental protection,
+      <a href="/wiki/Social_stratification" title="Social stratification">
+       social stratification
+      </a>
+      , and
+      <a href="/wiki/Ethics" title="Ethics">
+       ethics
+      </a>
+      in the governing of a society. In politics, anti-consumerism overlaps with
+      <a class="mw-redirect" href="/wiki/Environmental_activism" title="Environmental activism">
+       environmental activism
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Anti-globalization" title="Anti-globalization">
+       anti-globalization
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/Animal-rights" title="Animal-rights">
+       animal-rights
+      </a>
+      activism; moreover, a conceptual variation of anti-consumerism is
+      <i>
+       <a href="/wiki/Post-consumerism" title="Post-consumerism">
+        post-consumerism
+       </a>
+      </i>
+      , living in a material way that transcends consumerism.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Anti-consumerism arose in response to the problems caused by the long-term mistreatment of human consumers and of the animals consumed, and from the incorporation of
+      <a href="/wiki/Consumer_education" title="Consumer education">
+       consumer education
+      </a>
+      to school
+      <a href="/wiki/Curriculum" title="Curriculum">
+       curricula
+      </a>
+      ; examples of anti-consumerism are the book
+      <i>
+       <a href="/wiki/No_Logo" title="No Logo">
+        No Logo
+       </a>
+      </i>
+      (2000) by
+      <a href="/wiki/Naomi_Klein" title="Naomi Klein">
+       Naomi Klein
+      </a>
+      , and documentary films such as
+      <i>
+       <a href="/wiki/The_Corporation_(film)" title="The Corporation (film)">
+        The Corporation
+       </a>
+      </i>
+      (2003), by Mark Achbar and Jennifer Abbott, and
+      <i>
+       <a class="mw-redirect" href="/wiki/Surplus_(film)" title="Surplus (film)">
+        Surplus: Terrorized into Being Consumers
+       </a>
+      </i>
+      (2003), by Erik Gandini; each made
+      <a href="/wiki/Anti-corporate_activism" title="Anti-corporate activism">
+       anti-corporate activism
+      </a>
+      popular as an ideologically accessible form of civil and political action.
+     </p>
+     <p>
+      The criticism of
+      <a href="/wiki/Economic_materialism" title="Economic materialism">
+       economic materialism
+      </a>
+      as a dehumanizing behaviour that is destructive of the Earth, as
+      <a href="/wiki/Biosphere" title="Biosphere">
+       human habitat
+      </a>
+      , comes from
+      <a href="/wiki/Religion" title="Religion">
+       religion
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Social_activism" title="Social activism">
+       social activism
+      </a>
+      . The religious criticism asserts that materialist consumerism interferes with the connection between the individual man and woman and God, and so is an inherently
+      <a class="mw-redirect" href="/wiki/Immoral" title="Immoral">
+       immoral
+      </a>
+      style of life; thus the German historian
+      <a href="/wiki/Oswald_Spengler" title="Oswald Spengler">
+       Oswald Spengler
+      </a>
+      (1880–1936) said that "Life in America is exclusively economic in structure, and lacks depth."
+      <sup class="reference" id="cite_ref-ReferenceA_2-0">
+       <a href="#cite_note-ReferenceA-2">
+        [2]
+       </a>
+      </sup>
+      From the Roman Catholic perspective,
+      <a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">
+       Thomas Aquinas
+      </a>
+      said that "Greed is a sin against God, just as all mortal sins, in as much as man condemns things eternal for the sake of temporal things"; in that vein,
+      <a href="/wiki/Francis_of_Assisi" title="Francis of Assisi">
+       Francis of Assisi
+      </a>
+      ,
+      <a href="/wiki/Ammon_Hennacy" title="Ammon Hennacy">
+       Ammon Hennacy
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/Mohandas_Gandhi" title="Mohandas Gandhi">
+       Mohandas Gandhi
+      </a>
+      said that spiritual inspiration guided them towards
+      <a href="/wiki/Simple_living" title="Simple living">
+       simple living
+      </a>
+      .
+     </p>
+     <p>
+      From the secular perspective, social activism indicates that from consumerist materialism derive
+      <a href="/wiki/Crime" title="Crime">
+       crime
+      </a>
+      (which originates from the
+      <a href="/wiki/Poverty" title="Poverty">
+       poverty
+      </a>
+      of
+      <a href="/wiki/Economic_inequality" title="Economic inequality">
+       economic inequality
+      </a>
+      ), industrial
+      <a href="/wiki/Pollution" title="Pollution">
+       pollution
+      </a>
+      and the consequent
+      <a href="/wiki/Environmental_degradation" title="Environmental degradation">
+       environmental degradation
+      </a>
+      , and
+      <a href="/wiki/War" title="War">
+       war
+      </a>
+      as a business. About the societal discontent born of
+      <a href="/wiki/Malaise" title="Malaise">
+       malaise
+      </a>
+      and
+      <a href="/wiki/Hedonism" title="Hedonism">
+       hedonism
+      </a>
+      ,
+      <a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">
+       Pope Benedict XVI
+      </a>
+      said that the philosophy of materialism offers no
+      <i>
+       <a class="extiw" href="https://en.wiktionary.org/wiki/raison_d%27%C3%AAtre" title="wikt:raison d'être">
+        raison d'être
+       </a>
+      </i>
+      for human existence;
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      likewise, the writer
+      <a href="/wiki/Georges_Duhamel" title="Georges Duhamel">
+       Georges Duhamel
+      </a>
+      said that "American materialism [is] a beacon of mediocrity that threatened to eclipse French civilization".
+      <sup class="reference" id="cite_ref-ReferenceA_2-1">
+       <a href="#cite_note-ReferenceA-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Background">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Background
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Politics_and_society">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Politics and society
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Conspicuous_consumption">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Conspicuous consumption
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Consumerism_and_advertising">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Consumerism and advertising
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Alternatives_to_mainstream_economic_concepts">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Alternatives to mainstream economic concepts
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Criticism">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Criticism
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Notes">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Notes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#References">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#External_links">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Background">
+       Background
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=1" title="Edit section: Background">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Anti-consumerism originated from criticism of consumption, starting with
+      <a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">
+       Thorstein Veblen
+      </a>
+      , who, in the book
+      <i>
+       <a class="mw-redirect" href="/wiki/Theory_of_the_Leisure_Class" title="Theory of the Leisure Class">
+        The Theory of the Leisure Class: An Economic Study of Institutions
+       </a>
+      </i>
+      (1899), indicated that
+      <a href="/wiki/Consumerism" title="Consumerism">
+       consumerism
+      </a>
+      dates from the
+      <a href="/wiki/Cradle_of_civilization" title="Cradle of civilization">
+       cradle of civilization
+      </a>
+      . The term
+      <i>
+       consumerism
+      </i>
+      also denotes economic policies associated with
+      <a href="/wiki/Keynesian_economics" title="Keynesian economics">
+       Keynesian economics
+      </a>
+      , and the belief that the free choice of consumers should dictate the economic structure of a society. (cf.
+      <a href="/wiki/Producerism" title="Producerism">
+       producerism
+      </a>
+      )
+     </p>
+     <h2>
+      <span class="mw-headline" id="Politics_and_society">
+       Politics and society
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=2" title="Edit section: Politics and society">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:252px;">
+       <a class="image" href="/wiki/File:Anticonsumismo.JPG">
+        <img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Anticonsumismo.JPG/250px-Anticonsumismo.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Anticonsumismo.JPG/375px-Anticonsumismo.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Anticonsumismo.JPG/500px-Anticonsumismo.JPG 2x" width="250"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Anticonsumismo.JPG" title="Enlarge">
+         </a>
+        </div>
+        An anti-consumerist
+        <a href="/wiki/Stencil_graffiti" title="Stencil graffiti">
+         stencil graffiti
+        </a>
+        saying "Consuming consumes you"
+       </div>
+      </div>
+     </div>
+     <p>
+      Many
+      <a class="mw-redirect" href="/wiki/Anti-corporate_activist" title="Anti-corporate activist">
+       anti-corporate activists
+      </a>
+      believe the rise of large-business corporations poses a threat to the legitimate authority of
+      <a class="mw-redirect" href="/wiki/Nation_states" title="Nation states">
+       nation states
+      </a>
+      and the public sphere.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (November 2007)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      They feel corporations are invading people's
+      <a href="/wiki/Privacy" title="Privacy">
+       privacy
+      </a>
+      , manipulating politics and governments, and creating false needs in consumers. They state evidence such as invasive advertising
+      <a href="/wiki/Adware" title="Adware">
+       adware
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Spam_(electronic)" title="Spam (electronic)">
+       spam
+      </a>
+      ,
+      <a href="/wiki/Telemarketing" title="Telemarketing">
+       telemarketing
+      </a>
+      , child-targeted advertising, aggressive
+      <a href="/wiki/Guerrilla_marketing" title="Guerrilla marketing">
+       guerrilla marketing
+      </a>
+      , massive corporate campaign contributions in political elections, interference in the policies of sovereign nation states (
+      <a href="/wiki/Ken_Saro-Wiwa" title="Ken Saro-Wiwa">
+       Ken Saro-Wiwa
+      </a>
+      ), and news stories about
+      <a class="mw-redirect" href="/wiki/Corporate_corruption" title="Corporate corruption">
+       corporate corruption
+      </a>
+      (
+      <a href="/wiki/Enron" title="Enron">
+       Enron
+      </a>
+      , for example).
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (September 2010)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      Anti-consumerism protesters point out that the main responsibility of a corporation is to answer only to
+      <a class="mw-redirect" href="/wiki/Shareholders" title="Shareholders">
+       shareholders
+      </a>
+      , giving
+      <a href="/wiki/Human_rights" title="Human rights">
+       human rights
+      </a>
+      and other issues almost no consideration.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (February 2009)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      The management does have a primary responsibility to their shareholders, since any
+      <a class="mw-redirect" href="/wiki/Philanthropic" title="Philanthropic">
+       philanthropic
+      </a>
+      activities that do not directly serve the business could be deemed to be a
+      <a href="/wiki/Position_of_trust" title="Position of trust">
+       breach of trust
+      </a>
+      . This sort of financial responsibility means that multi-national corporations will pursue strategies to intensify labor and reduce costs. For example, they will attempt to find low wage economies with laws which are conveniently lenient on human rights, the
+      <a href="/wiki/Natural_environment" title="Natural environment">
+       natural environment
+      </a>
+      ,
+      <a href="/wiki/Trade_union" title="Trade union">
+       trade union
+      </a>
+      organization and so on (see, for example,
+      <a href="/wiki/Nike,_Inc.#Human_rights_concerns" title="Nike, Inc.">
+       Nike
+      </a>
+      ).
+     </p>
+     <p>
+      An important contribution to the critique of consumerism has been made by French philosopher
+      <a href="/wiki/Bernard_Stiegler" title="Bernard Stiegler">
+       Bernard Stiegler
+      </a>
+      , arguing modern capitalism is governed by consumption rather than production, and the advertising techniques used to create
+      <a href="/wiki/Consumer_behaviour" title="Consumer behaviour">
+       consumer behaviour
+      </a>
+      amount to the destruction of psychic and collective
+      <a href="/wiki/Individuation" title="Individuation">
+       individuation
+      </a>
+      . The diversion of libidinal energy toward the consumption of consumer products, he argues, results in an addictive cycle of consumption, leading to hyper consumption, the exhaustion of desire, and the reign of symbolic misery.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Conspicuous_consumption">
+       Conspicuous consumption
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=3" title="Edit section: Conspicuous consumption">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Conspicuous_consumption" title="Conspicuous consumption">
+       Conspicuous consumption
+      </a>
+     </div>
+     <blockquote class="templatequote">
+      <p>
+       It is preoccupation with possessions, more than anything else, that prevents us from living freely and nobly.
+      </p>
+      <div class="templatequotecite">
+       <cite>
+        —
+        <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">
+         Bertrand Russell
+        </a>
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+       </cite>
+      </div>
+     </blockquote>
+     <blockquote class="templatequote">
+      <p>
+       Trying to reduce environmental pollution without reducing consumerism is like combating drug trafficking without reducing the drug addiction.
+      </p>
+      <div class="templatequotecite">
+       <cite>
+        —
+        <a href="/wiki/Jorge_Majfud" title="Jorge Majfud">
+         Jorge Majfud
+        </a>
+        <sup class="reference" id="cite_ref-5">
+         <a href="#cite_note-5">
+          [5]
+         </a>
+        </sup>
+       </cite>
+      </div>
+     </blockquote>
+     <p>
+      In many critical contexts,
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (February 2009)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      the term describes the tendency of people to identify strongly with products or services they consume, especially with commercial
+      <a href="/wiki/Brand" title="Brand">
+       brand
+      </a>
+      names and obvious
+      <a href="/wiki/Status_symbol" title="Status symbol">
+       status-enhancing
+      </a>
+      appeal, such as a brand of expensive automobiles or
+      <a class="mw-redirect" href="/wiki/Jewelry" title="Jewelry">
+       jewelry
+      </a>
+      . It is a pejorative term which most people deny, having some more specific excuse or
+      <a href="/wiki/Rationalization_(psychology)" title="Rationalization (psychology)">
+       rationalization
+      </a>
+      for consumption other than the idea that they are "compelled to consume". A culture that has a high amount of consumerism is referred to as a
+      <a class="mw-redirect" href="/wiki/Consumer_culture" title="Consumer culture">
+       consumer culture
+      </a>
+      .
+     </p>
+     <p>
+      To those who embrace the idea of consumerism, these products are not seen as valuable in themselves, but rather as social signals that allow them to identify like-minded people through consumption and display of similar products. Few would yet go so far, though, as to admit that their relationships with a product or brand name could be substitutes for healthy human relationships that sometimes lack in a dysfunctional modern
+      <a href="/wiki/Society" title="Society">
+       society
+      </a>
+      .
+     </p>
+     <p>
+      The older term
+      <i>
+       conspicuous consumption
+      </i>
+      described the
+      <a href="/wiki/United_States" title="United States">
+       United States
+      </a>
+      in the 1960s, but was soon linked to larger debates about
+      <a class="mw-redirect" href="/wiki/Media_influence" title="Media influence">
+       media influence
+      </a>
+      ,
+      <a href="/wiki/Culture_jamming" title="Culture jamming">
+       culture jamming
+      </a>
+      , and its corollary
+      <a href="/wiki/Productivism" title="Productivism">
+       productivism
+      </a>
+      .
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:BarsStencil.jpg">
+        <img alt="" class="thumbimage" data-file-height="2136" data-file-width="2848" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/BarsStencil.jpg/220px-BarsStencil.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/BarsStencil.jpg/330px-BarsStencil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/BarsStencil.jpg/440px-BarsStencil.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:BarsStencil.jpg" title="Enlarge">
+         </a>
+        </div>
+        Anti-consumerist
+        <a href="/wiki/Stencil" title="Stencil">
+         stencil
+        </a>
+        art
+       </div>
+      </div>
+     </div>
+     <p>
+      The term and concept of
+      <i>
+       conspicuous consumption
+      </i>
+      originated at the turn of the 20th century in the writing of economist
+      <a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">
+       Thorstein Veblen
+      </a>
+      . The term describes an apparently irrational and confounding form of economic behaviour. Veblen's scathing proposal that this unnecessary consumption is a form of status display is made in darkly humorous observations like the following:
+     </p>
+     <blockquote class="templatequote">
+      <p>
+       It is true of dress in even a higher degree than of most other items of consumption, that people will undergo a very considerable degree of privation in the comforts or the necessaries of life in order to afford what is considered a decent amount of wasteful consumption; so that it is by no means an uncommon occurrence, in an inclement climate, for people to go ill clad in order to appear well dressed.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+     </blockquote>
+     <p>
+      In 1955, economist
+      <a class="new" href="/w/index.php?title=Victor_Lebow&amp;action=edit&amp;redlink=1" title="Victor Lebow (page does not exist)">
+       Victor Lebow
+      </a>
+      stated (as quoted by
+      <a class="mw-redirect" href="/wiki/William_E._Rees_(academic)" title="William E. Rees (academic)">
+       William Rees
+      </a>
+      , 2009):
+     </p>
+     <blockquote class="templatequote">
+      <p>
+       "Our enormously productive economy demands that we make consumption our way of life, that we convert the buying and use of goods into rituals, that we seek our spiritual satisfaction and our ego satisfaction in consumption. We need things consumed, burned up, worn out, replaced and discarded at an ever-increasing rate".
+      </p>
+     </blockquote>
+     <p>
+      According to archaeologists, evidence of conspicuous consumption up to several millennia ago has been found, suggesting that such behavior is inherent to humans.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Consumerism_and_advertising">
+       Consumerism and advertising
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=4" title="Edit section: Consumerism and advertising">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Anti-consumerists believe
+      <a href="/wiki/Advertising" title="Advertising">
+       advertising
+      </a>
+      plays a huge role in human life by informing values and assumptions of the cultural system, deeming what is acceptable and determining social standards.
+      <sup class="reference" id="cite_ref-World._Dir_1997_8-0">
+       <a href="#cite_note-World._Dir_1997-8">
+        [8]
+       </a>
+      </sup>
+      They declare that ads create a hyper-real world where commodities appear as the key to securing happiness. Anti-consumerists cite studies that find that individuals believe their quality of life improves in relation to social values that lie outside the capability of the market place. Therefore, advertising attempts to equate the social with the material by utilizing images and slogans to link commodities with the real sources of human happiness, such as meaningful relationships. Ads are then a detriment to society because they tell consumers that accumulating more and more possessions will bring them closer to self-actualization, or the concept of a complete and secure being. "The underlying message is that owning these products will enhance our image and ensure our popularity with others".
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      And while advertising promises that a product will make the consumer happy, advertising simultaneously depends upon the consumer never being
+      <i>
+       truly
+      </i>
+      happy, as then the consumer would no longer feel the need to consume needless products.
+     </p>
+     <p>
+      Anti-consumerists claim that in a consumerist society, advertisement images disempower and objectify the consumer.
+      <sup class="reference" id="cite_ref-Rumbo_10-0">
+       <a href="#cite_note-Rumbo-10">
+        [10]
+       </a>
+      </sup>
+      By stressing individual power, choice and desire, advertising falsely implies the control lies with the consumer. Because anti-consumerists believe commodities only supply short-term gratification, they detract from a sustainably happy society. Further, advertisers have resorted to new techniques of capturing attention, such as the increased speed of ads and
+      <a href="/wiki/Product_placement" title="Product placement">
+       product placements
+      </a>
+      .
+      <sup class="reference" id="cite_ref-World._Dir_1997_8-1">
+       <a href="#cite_note-World._Dir_1997-8">
+        [8]
+       </a>
+      </sup>
+      In this way, commercials infiltrate the consumerist society and become an inextricable part of culture. Anti-consumerists condemn advertising because it constructs a simulated world that offers fantastical
+      <a href="/wiki/Escapism" title="Escapism">
+       escapism
+      </a>
+      to consumers, rather than reflecting actual reality. They further argue that ads depict the interests and lifestyles of the elite as natural; cultivating a deep sense of inadequacy among viewers.
+      <sup class="reference" id="cite_ref-Rumbo_10-1">
+       <a href="#cite_note-Rumbo-10">
+        [10]
+       </a>
+      </sup>
+      They denounce use of beautiful models because they glamorize the commodity beyond reach of the average individual.
+     </p>
+     <p>
+      In an opinion segment of
+      <i>
+       <a href="/wiki/New_Scientist" title="New Scientist">
+        New Scientist
+       </a>
+      </i>
+      magazine published in August 2009, reporter Andy Coghlan cited
+      <a class="mw-redirect" href="/wiki/William_E._Rees_(academic)" title="William E. Rees (academic)">
+       William Rees
+      </a>
+      of the
+      <a href="/wiki/University_of_British_Columbia" title="University of British Columbia">
+       University of British Columbia
+      </a>
+      and
+      <a href="/wiki/Epidemiology" title="Epidemiology">
+       epidemiologist
+      </a>
+      <a href="/wiki/Warren_Hern" title="Warren Hern">
+       Warren Hern
+      </a>
+      of the
+      <a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">
+       University of Colorado at Boulder
+      </a>
+      , saying that human beings, despite considering themselves civilized thinkers, are "subconsciously still driven by an impulse for survival, domination and expansion... an impulse which now finds expression in the idea that inexorable economic growth is the answer to everything, and, given time, will redress all the world's existing inequalities." According to figures presented by Rees at the annual meeting of the
+      <a href="/wiki/Ecological_Society_of_America" title="Ecological Society of America">
+       Ecological Society of America
+      </a>
+      , human society is in a "global overshoot", consuming 30% more material than is sustainable from the world's resources. Rees went on to state that at present, 85 countries are exceeding their domestic "bio-capacities", and compensate for their lack of local material by depleting the stocks of other countries.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Alternatives_to_mainstream_economic_concepts">
+       Alternatives to mainstream economic concepts
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=5" title="Edit section: Alternatives to mainstream economic concepts">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <table class="plainlinks metadata ambox mbox-small-left ambox-style ambox-confusing" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <img alt="" data-file-height="48" data-file-width="48" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/20px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/30px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png 2x" width="20"/>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This section
+         <b>
+          may be
+          <a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness">
+           confusing or unclear
+          </a>
+          to readers
+         </b>
+         .
+         <small>
+          <i>
+           (August 2013)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      Such anti consumerist, anti capitalist notions are not without their detractors. New thought and theory has spurred movements to alter world economic climate. Green movements and some other thinkers are opposed to the focus put on economics. The need for terminology has created familiar ideas such as
+      <a class="mw-redirect" href="/wiki/Carrying-capacity" title="Carrying-capacity">
+       carrying-capacity
+      </a>
+      , and
+      <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+       ecological footprint
+      </a>
+      .
+     </p>
+     <p>
+      <a href="/wiki/David_Ricardo" title="David Ricardo">
+       David Ricardo
+      </a>
+      , an early economist, had ideas that state the finitude of growth, rather than the opposite; his ideas were similar to those of
+      <a href="/wiki/Mark_Twain" title="Mark Twain">
+       Mark Twain
+      </a>
+      , when he said "Buy land, they don't make it anymore." To Ricardian logic, land was a limiting factor.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Criticism">
+       Criticism
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=6" title="Edit section: Criticism">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Many
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch">
+         <span title="The material near this tag possibly uses too-vague attribution or weasel words. (October 2015)">
+          who?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      have accused anti-consumerists of opposing modernity or
+      <a href="/wiki/Utilitarianism" title="Utilitarianism">
+       utilitarianism
+      </a>
+      . Right-wing critics see anti-consumerism as rooted in socialism. In 1999, the
+      <a class="mw-redirect" href="/wiki/Libertarian" title="Libertarian">
+       libertarian
+      </a>
+      magazine
+      <i>
+       Reason
+      </i>
+      attacked anti-consumerism, claiming
+      <a href="/wiki/Marxism" title="Marxism">
+       Marxist
+      </a>
+      academics are repackaging themselves as anti-consumerists. James Twitchell, a professor at the
+      <a href="/wiki/University_of_Florida" title="University of Florida">
+       University of Florida
+      </a>
+      and popular writer, referred to anti-consumerism arguments as "Marxism Lite."
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      There have also been socialist critics of anti-consumerism who see it as a form of anti-modern "reactionary socialism", and state that anti-consumerism has also been adopted by
+      <a class="new" href="/w/index.php?title=Ultra-conservatism&amp;action=edit&amp;redlink=1" title="Ultra-conservatism (page does not exist)">
+       ultra-conservatives
+      </a>
+      and
+      <a href="/wiki/Fascism" title="Fascism">
+       fascists
+      </a>
+      .
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox ambox-style" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This "
+         <a href="/wiki/Wikipedia:Manual_of_Style/Layout#.22See_also.22_section" title="Wikipedia:Manual of Style/Layout">
+          see also
+         </a>
+         " section
+         <b>
+          may contain an excessive number of suggestions
+         </b>
+         . Please ensure that only the most relevant links are given, that they are not
+         <a href="/wiki/Wikipedia:Red_link" title="Wikipedia:Red link">
+          red links
+         </a>
+         , and that any links are not already in this article.
+         <small>
+          <i>
+           (February 2015)
+          </i>
+         </small>
+        </span>
+        <small class="hide-when-compact">
+         <i>
+          (
+          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+           Learn how and when to remove this template message
+          </a>
+          )
+         </i>
+        </small>
+       </td>
+      </tr>
+     </table>
+     <div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+      <ul>
+       <li>
+        <a href="/wiki/Adbusters" title="Adbusters">
+         Adbusters
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Affluenza" title="Affluenza">
+         Affluenza
+        </a>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Affluenza:_The_All-Consuming_Epidemic" title="Affluenza: The All-Consuming Epidemic">
+          Affluenza: The All-Consuming Epidemic
+         </a>
+        </i>
+        (2001 book)
+       </li>
+       <li>
+        <a href="/wiki/Almighty_dollar" title="Almighty dollar">
+         Almighty dollar
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Communism" title="Communism">
+         Communism
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Corporate_scandal" title="Corporate scandal">
+         Corporate scandal
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Counter-economics" title="Counter-economics">
+         Counter-economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Culture_war" title="Culture war">
+         Culture war
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Degrowth" title="Degrowth">
+         Degrowth
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/D%C3%A9tournement" title="Détournement">
+         Détournement
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Downshifting" title="Downshifting">
+         Downshifting
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Fab_Lab" title="Fab Lab">
+         Fab Lab
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Freeganism" title="Freeganism">
+         Freeganism
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Genuine_Progress_Indicator" title="Genuine Progress Indicator">
+         Genuine Progress Indicator
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Gross_National_Happiness" title="Gross National Happiness">
+         Gross National Happiness
+        </a>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Growth_Fetish" title="Growth Fetish">
+          Growth Fetish
+         </a>
+        </i>
+       </li>
+       <li>
+        <a href="/wiki/Kashless.org" title="Kashless.org">
+         Kashless.org
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Keeping_up_with_the_Joneses" title="Keeping up with the Joneses">
+         Keeping up with the Joneses
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_anti-consumerists" title="List of anti-consumerists">
+         List of anti-consumerists
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Mottainai" title="Mottainai">
+         Mottainai
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Multinational_Monitor" title="Multinational Monitor">
+         Multinational Monitor
+        </a>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/One-Dimensional_Man" title="One-Dimensional Man">
+          One-Dimensional Man
+         </a>
+        </i>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">
+         Over-consumption
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Open_design" title="Open design">
+         Open design
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Philosophy_of_futility" title="Philosophy of futility">
+         Philosophy of futility
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Planned_obsolescence" title="Planned obsolescence">
+         Planned obsolescence
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Prosumerism" title="Prosumerism">
+         Prosumerism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Repair_Caf%C3%A9" title="Repair Café">
+         Repair Café
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sharing_economy" title="Sharing economy">
+         Sharing economy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Social_justice" title="Social justice">
+         Social justice
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Waste_picker" title="Waste picker">
+         Waste picker
+        </a>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/What_Would_Jesus_Buy%3F" title="What Would Jesus Buy?">
+          What Would Jesus Buy?
+         </a>
+        </i>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Zero_growth" title="Zero growth">
+         Zero growth
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/The_Zeitgeist_Movement" title="The Zeitgeist Movement">
+         The Zeitgeist Movement
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Notes">
+       Notes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=8" title="Edit section: Notes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ol class="references">
+      <li id="cite_note-1">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-1">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <i>
+          postconsumers.com
+         </i>
+         <a class="external free" href="http://www.postconsumers.com" rel="nofollow">
+          http://www.postconsumers.com
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.postconsumers.com&amp;rft.jtitle=postconsumers.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+        <span class="error citation-comment" style="font-size:100%">
+         Missing or empty
+         <code style="color:inherit; border:inherit; padding:inherit;">
+          |title=
+         </code>
+         (
+         <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+          help
+         </a>
+         )
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-ReferenceA-2">
+       <span class="mw-cite-backlink">
+        ^
+        <a href="#cite_ref-ReferenceA_2-0">
+         <sup>
+          <i>
+           <b>
+            a
+           </b>
+          </i>
+         </sup>
+        </a>
+        <a href="#cite_ref-ReferenceA_2-1">
+         <sup>
+          <i>
+           <b>
+            b
+           </b>
+          </i>
+         </sup>
+        </a>
+       </span>
+       <span class="reference-text">
+        Stearns, Peter.
+        <i>
+         Consumerism in World History
+        </i>
+        . Routledge
+       </span>
+      </li>
+      <li id="cite_note-3">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-3">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Web log. 17 July 2008.
+        <a class="external free" href="http://babs22.wordpress.com/2008/07/17/australia-pope-attacks-consumerism/" rel="nofollow">
+         http://babs22.wordpress.com/2008/07/17/australia-pope-attacks-consumerism/
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-4">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-4">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <i>
+         The Routledge Dictionary of Quotations
+        </i>
+        , by Robert Andrews,
+        <a href="/wiki/Routledge" title="Routledge">
+         Routledge
+        </a>
+        , 1987,
+        <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0710207298">
+         ISBN 0-7102-0729-8
+        </a>
+        , pg 212
+       </span>
+      </li>
+      <li id="cite_note-5">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-5">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation journal">
+         Majfud, Jorge (August 2009).
+         <a class="external text" href="https://web.archive.org/web/20130719034751/http://www.un.org/wcm/content/site/chronicle/home/archive/issues2009/toprotectsucceedinggenerations/pid/21570" rel="nofollow">
+          "The Pandemic of Consumerism"
+         </a>
+         .
+         <i>
+          <a href="/wiki/UN_Chronicle" title="UN Chronicle">
+           UN Chronicle
+          </a>
+         </i>
+         .
+         <b>
+          46
+         </b>
+         (3-4): 85. Archived from
+         <a class="external text" href="http://www.un.org/wcm/content/site/chronicle/home/archive/issues2009/toprotectsucceedinggenerations/pid/21570" rel="nofollow">
+          the original
+         </a>
+         on 19 July 2013.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.atitle=The+Pandemic+of+Consumerism&amp;rft.aufirst=Jorge&amp;rft.aulast=Majfud&amp;rft.date=2009-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fwcm%2Fcontent%2Fsite%2Fchronicle%2Fhome%2Farchive%2Fissues2009%2Ftoprotectsucceedinggenerations%2Fpid%2F21570&amp;rft.issue=3-4&amp;rft.jtitle=UN+Chronicle&amp;rft.pages=85&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-6">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-6">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a href="/wiki/The_Theory_of_the_Leisure_Class" title="The Theory of the Leisure Class">
+         The Theory of the Leisure Class
+        </a>
+        , 1899
+       </span>
+      </li>
+      <li id="cite_note-7">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-7">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation book">
+         <a class="mw-redirect" href="/wiki/Colin_Renfrew" title="Colin Renfrew">
+          Renfrew, Colin
+         </a>
+         ; Bahn, Peter (2008).
+         <i>
+          Archaeology: Theories, methods and practice
+         </i>
+         (5th ed.). London:
+         <a href="/wiki/Thames_%26_Hudson" title="Thames &amp; Hudson">
+          Thames &amp; Hudson
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-500-28719-4" title="Special:BookSources/978-0-500-28719-4">
+          978-0-500-28719-4
+         </a>
+         .
+         <a href="/wiki/OCLC" title="OCLC">
+          OCLC
+         </a>
+         <a class="external text" href="//www.worldcat.org/oclc/181139910" rel="nofollow">
+          181139910
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.au=Bahn%2C+Peter&amp;rft.aufirst=Colin&amp;rft.aulast=Renfrew&amp;rft.btitle=Archaeology%3A+Theories%2C+methods+and+practice&amp;rft.date=2008&amp;rft.edition=5th&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F181139910&amp;rft.isbn=978-0-500-28719-4&amp;rft.place=London&amp;rft.pub=Thames+%26+Hudson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-World._Dir_1997-8">
+       <span class="mw-cite-backlink">
+        ^
+        <a href="#cite_ref-World._Dir_1997_8-0">
+         <sup>
+          <i>
+           <b>
+            a
+           </b>
+          </i>
+         </sup>
+        </a>
+        <a href="#cite_ref-World._Dir_1997_8-1">
+         <sup>
+          <i>
+           <b>
+            b
+           </b>
+          </i>
+         </sup>
+        </a>
+       </span>
+       <span class="reference-text">
+        [ Advertising and the End of the World. Dir. Sut Jhally. Perf.
+        <a href="/wiki/Sut_Jhally" title="Sut Jhally">
+         Sut Jhally
+        </a>
+        . DVD. Media Education Foundation , 1997.]
+       </span>
+      </li>
+      <li id="cite_note-9">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-9">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        [Tim Kasser, "The High Price of Materialism", 2002, p.9, Achorn Graphic Services]
+       </span>
+      </li>
+      <li id="cite_note-Rumbo-10">
+       <span class="mw-cite-backlink">
+        ^
+        <a href="#cite_ref-Rumbo_10-0">
+         <sup>
+          <i>
+           <b>
+            a
+           </b>
+          </i>
+         </sup>
+        </a>
+        <a href="#cite_ref-Rumbo_10-1">
+         <sup>
+          <i>
+           <b>
+            b
+           </b>
+          </i>
+         </sup>
+        </a>
+       </span>
+       <span class="reference-text">
+        Joseph D. Rumbo, "Consumer Resistance in a World of Advertising Clutter: The Case of Adbusters", Psychology and Marketing, Vol.19(2), February 2002
+       </span>
+      </li>
+      <li id="cite_note-11">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-11">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         Twitchell, James B. (August 2000).
+         <a class="external text" href="http://www.reason.com/news/show/27795.html" rel="nofollow">
+          "In Praise of Consumerism"
+         </a>
+         .
+         <i>
+          <a href="/wiki/Reason_(magazine)" title="Reason (magazine)">
+           Reason
+          </a>
+         </i>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.atitle=In+Praise+of+Consumerism&amp;rft.aufirst=James+B.&amp;rft.aulast=Twitchell&amp;rft.date=2000-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.reason.com%2Fnews%2Fshow%2F27795.html&amp;rft.jtitle=Reason&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-12">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-12">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation journal">
+         Varul, Matthias Zick (May 2013).
+         <a class="external text" href="http://www.ephemerajournal.org/contribution/towards-consumerist-critique-capitalism-socialist-defence-consumer-culture" rel="nofollow">
+          "Towards a consumerist critique of capitalism: A socialist defence of consumer culture"
+         </a>
+         .
+         <i>
+          Ephemera: Theory &amp; Politics in Organization
+         </i>
+         .
+         <b>
+          13
+         </b>
+         (2): 293–315.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/9781906948177" title="Special:BookSources/9781906948177">
+          9781906948177
+         </a>
+         .
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+         <a class="external text" href="//www.worldcat.org/issn/1473-2866" rel="nofollow">
+          1473-2866
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.atitle=Towards+a+consumerist+critique+of+capitalism%3A+A+socialist+defence+of+consumer+culture&amp;rft.aufirst=Matthias+Zick&amp;rft.aulast=Varul&amp;rft.date=2013-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ephemerajournal.org%2Fcontribution%2Ftowards-consumerist-critique-capitalism-socialist-defence-consumer-culture&amp;rft.isbn=9781906948177&amp;rft.issn=1473-2866&amp;rft.issue=2&amp;rft.jtitle=Ephemera%3A+Theory+%26+Politics+in+Organization&amp;rft.pages=293-315&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13">
+         <span style="display:none;">
+         </span>
+        </span>
+        <span style="position:relative; top: -2px;">
+         <a href="/wiki/Open_access" title="open access publication - free to read">
+          <img alt="open access publication - free to read" data-file-height="1000" data-file-width="640" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" width="9"/>
+         </a>
+        </span>
+       </span>
+      </li>
+     </ol>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=9" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Bakan, Joel (2004)
+       <i>
+        <a href="/wiki/The_Corporation_(film)" title="The Corporation (film)">
+         The Corporation
+        </a>
+       </i>
+       .
+      </li>
+      <li>
+       Elizabeth Chin (2001)
+       <i>
+        Purchasing Power: Black Kids and American Consumer Culture
+       </i>
+       University of Minnesota Press
+       <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780816635115">
+        ISBN 978-0-8166-3511-5
+       </a>
+      </li>
+      <li>
+       Hertz, N (2002)
+       <i>
+        Silent Takeover: Global Capitalism and the Death of Democracy
+       </i>
+       . Arrow.
+      </li>
+      <li>
+       <cite class="citation book">
+        Klein, Naomi (2000).
+        <i>
+         <a href="/wiki/No_Logo" title="No Logo">
+          No Logo
+         </a>
+        </i>
+        . Vintage Canada.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-676-97282-9" title="Special:BookSources/0-676-97282-9">
+         0-676-97282-9
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnti-consumerism&amp;rft.au=Klein%2C+Naomi&amp;rft.btitle=No+Logo&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-676-97282-9&amp;rft.pub=Vintage+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       Luedicke, Marius K, Craig J. Thompson and Markus Giesler. 2010.
+       <a class="external text" href="http://www.journals.uchicago.edu/toc/jcr/current" rel="nofollow">
+        "'Consumption as Moral Protagonism:' How Myth and Ideology Animate a Brand-Mediated Moral Conflict."
+       </a>
+       <i>
+        Journal of Consumer Research.
+       </i>
+       36 (April).
+      </li>
+      <li>
+       Monbiot, G (2001)
+       <i>
+        Captive State: The Corporate Takeover of Britain
+       </i>
+       . Pan.
+      </li>
+      <li>
+       Schor, J. (2010)
+       <a class="external text" href="http://www.julietschor.org/the-book/" rel="nofollow">
+        <i>
+         Plenitude
+        </i>
+       </a>
+       , Penguin Press HC.
+      </li>
+      <li>
+       Zehner, O (2012)
+       <a class="external text" href="http://greenillusions.org" rel="nofollow">
+        <i>
+         Green Illusions
+        </i>
+       </a>
+       , University of Nebraska Press.
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Anti-consumerism&amp;action=edit&amp;section=10" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Anti-consumerism" title="commons:Category:Anti-consumerism">
+           Anti-consumerism
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.consumerismandkids.com" rel="nofollow">
+        Consumerism and Kids
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.earthhealing.info/fifty.htm" rel="nofollow">
+        Fifty Possible Ways to Challenge Over-Commercialism
+       </a>
+       by Albert J. Fritsch, SJ, PhD
+      </li>
+      <li>
+       <a class="external text" href="http://www.thismagazine.ca/issues/2002/11/rebelsell.php" rel="nofollow">
+        The Rebel Sell
+       </a>
+       ,
+       <i>
+        <a class="mw-redirect" href="/wiki/This_Magazine" title="This Magazine">
+         This Magazine
+        </a>
+       </i>
+       , By
+       <a href="/wiki/Joseph_Heath" title="Joseph Heath">
+        Joseph Heath
+       </a>
+       and
+       <a href="/wiki/Andrew_Potter" title="Andrew Potter">
+        Andrew Potter
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.multinationalmonitor.org/mm2005/012005/ruskin.html" rel="nofollow">
+        25 Years of Monitoring the Multinationals
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.storyofstuff.com" rel="nofollow">
+        The story of stuff by Annie Leonard
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.postconsumers.com" rel="nofollow">
+        Website of Postconsumers
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://eth.sagepub.com/content/11/3/331" rel="nofollow">
+        Chinese Consumers: The Romantic Reappraisal
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.renegadeconsumer.com/" rel="nofollow">
+        Renegade Consumer
+       </a>
+       - active opposition to consumerism
+      </li>
+      <li>
+       <a class="external text" href="https://www.bbvaopenmind.com/en/article/the-good-life-an-international-perspective/?fullscreen=true" rel="nofollow">
+        The Good Life: An International Perspective
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Simple_living" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col" style="text-align:center;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Simple_living" title="Template:Simple living">
+             <abbr style="text-align:center;;;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Simple_living" title="Template talk:Simple living">
+             <abbr style="text-align:center;;;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Simple_living&amp;action=edit">
+             <abbr style="text-align:center;;;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Simple_living" style="font-size:114%">
+          <a href="/wiki/Simple_living" title="Simple living">
+           Simple living
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Practices
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Barter" title="Barter">
+             Barter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/DIY_ethic" title="DIY ethic">
+             DIY ethic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Downshifting" title="Downshifting">
+             Downshifting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dry_toilet" title="Dry toilet">
+             Dry toilet
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Forest_gardening" title="Forest gardening">
+             Forest gardening
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Freeganism" title="Freeganism">
+             Freeganism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Frugality" title="Frugality">
+             Frugality
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gift_economy" title="Gift economy">
+             Gift economy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intentional_community" title="Intentional community">
+             Intentional community
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Local_currency" title="Local currency">
+             Local currency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">
+             Low-impact development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Minimalism" title="Minimalism">
+             Minimalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/No_frills" title="No frills">
+             No frills
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Off-the-grid" title="Off-the-grid">
+             Off-the-grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Permaculture" title="Permaculture">
+             Permaculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Self-sufficiency" title="Self-sufficiency">
+             Self-sufficiency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Subsistence_agriculture" title="Subsistence agriculture">
+             Subsistence agriculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_living" title="Sustainable living">
+             Sustainable living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">
+             Sustainable sanitation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Veganism" title="Veganism">
+             Veganism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vegetarianism" title="Vegetarianism">
+             Vegetarianism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tax_resistance" title="Tax resistance">
+             War tax resistance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/WWOOF" title="WWOOF">
+             WWOOF
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Religious and spiritual
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Asceticism" title="Asceticism">
+             Asceticism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Aparigraha" title="Aparigraha">
+             Aparigraha
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">
+             Cynicism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Detachment_(philosophy)" title="Detachment (philosophy)">
+             Detachment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Distributism" title="Distributism">
+             Distributism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jesus_movement" title="Jesus movement">
+             Jesus movement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mendicant" title="Mendicant">
+             Mendicant
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sati_(Buddhism)" title="Sati (Buddhism)">
+             Mindfulness
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Monasticism" title="Monasticism">
+             Monasticism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Monasticism" title="New Monasticism">
+             New Monasticism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plain_dress" title="Plain dress">
+             Plain dress
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plain_people" title="Plain people">
+             Plain people
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quakers" title="Quakers">
+             Quakers
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Rastafari_movement" title="Rastafari movement">
+             Rastafari movement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Temperance_(virtue)" title="Temperance (virtue)">
+             Temperance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Testimony_of_Simplicity" title="Testimony of Simplicity">
+             Testimony of simplicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tolstoyan_movement" title="Tolstoyan movement">
+             Tolstoyan movement
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Secular movements
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Back-to-the-land_movement" title="Back-to-the-land movement">
+             Back-to-the-land
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Car-free_movement" title="Car-free movement">
+             Car-free
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Movement_for_Compassionate_Living" title="Movement for Compassionate Living">
+             Compassionate living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmental_movement" title="Environmental movement">
+             Environmental
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hippie" title="Hippie">
+             Hippie
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Slow_movement_(culture)" title="Slow movement (culture)">
+             Slow
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Small_house_movement" title="Small house movement">
+             Small house
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transition_town" title="Transition town">
+             Transition town
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Open_Source_Ecology" title="Open Source Ecology">
+             Open Source Ecology
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Notable writers
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Wendell_Berry" title="Wendell Berry">
+             Wendell Berry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ernest_Callenbach" title="Ernest Callenbach">
+             Ernest Callenbach
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/G.K._Chesterton" title="G.K. Chesterton">
+             G.K. Chesterton
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Duane_Elgin" title="Duane Elgin">
+             Duane Elgin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">
+             Mahatma Gandhi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Richard_Gregg_(social_philosopher)" title="Richard Gregg (social philosopher)">
+             Richard Gregg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tom_Hodgkinson" title="Tom Hodgkinson">
+             Tom Hodgkinson
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Harlan_Hubbard" title="Harlan Hubbard">
+             Harlan Hubbard
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Satish_Kumar" title="Satish Kumar">
+             Satish Kumar
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Helen_Nearing" title="Helen Nearing">
+             Helen Nearing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Scott_Nearing" title="Scott Nearing">
+             Scott Nearing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peace_Pilgrim" title="Peace Pilgrim">
+             Peace Pilgrim
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vicki_Robin" title="Vicki Robin">
+             Vicki Robin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nick_Rosen" title="Nick Rosen">
+             Nick Rosen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dugald_Semple" title="Dugald Semple">
+             Dugald Semple
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">
+             E. F. Schumacher
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">
+             Henry David Thoreau
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">
+             Leo Tolstoy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Modern-day adherents
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Mark_Boyle_(Moneyless_Man)" title="Mark Boyle (Moneyless Man)">
+             Mark Boyle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jim_Merkel" title="Jim Merkel">
+             Jim Merkel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Suelo" title="Suelo">
+             Suelo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Thomas_(activist)" title="Thomas (activist)">
+             Thomas
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Media
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            "
+            <a href="/wiki/Anekdote_zur_Senkung_der_Arbeitsmoral" title="Anekdote zur Senkung der Arbeitsmoral">
+             Anekdote zur Senkung der Arbeitsmoral
+            </a>
+            "
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">
+              Escape from Affluenza
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/The_Good_Life_(1975_TV_series)" title="The Good Life (1975 TV series)">
+              The Good Life
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/The_Moon_and_the_Sledgehammer" title="The Moon and the Sledgehammer">
+              The Moon and the Sledgehammer
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Mother_Earth_News" title="Mother Earth News">
+              Mother Earth News
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/The_Power_of_Half" title="The Power of Half">
+              The Power of Half
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Small_Is_Beautiful" title="Small Is Beautiful">
+              Small Is Beautiful
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Walden" title="Walden">
+              Walden
+             </a>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="text-align:center;">
+         Related topics
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Affluenza" title="Affluenza">
+             Affluenza
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Agrarianism" title="Agrarianism">
+             Agrarianism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">
+             Anarcho-primitivism
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Anti-consumerism
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Appropriate_technology" title="Appropriate technology">
+             Appropriate technology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bohemianism" title="Bohemianism">
+             Bohemianism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Deep_ecology" title="Deep ecology">
+             Deep ecology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Degrowth" title="Degrowth">
+             Degrowth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+             Ecological footprint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Food_miles" title="Food miles">
+             Food miles
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Green_anarchism" title="Green anarchism">
+             Green anarchism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/The_good_life" title="The good life">
+             The good life
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Global_warming" title="Global warming">
+             Global warming
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hedonophobia" title="Hedonophobia">
+             Hedonophobia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intentional_living" title="Intentional living">
+             Intentional living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Itinerant_groups_in_Europe" title="Itinerant groups in Europe">
+             Itinerant
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Low-technology" title="Low-technology">
+             Low-technology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nonviolence" title="Nonviolence">
+             Nonviolence
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_oil" title="Peak oil">
+             Peak oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability" title="Sustainability">
+             Sustainability
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Work%E2%80%93life_balance" title="Work–life balance">
+             Work–life balance
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Sustainability" title="Template:Sustainability">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Sustainability" style="font-size:114%">
+          <a href="/wiki/Sustainability" title="Sustainability">
+           Sustainability
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">
+          Principles
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ecological_modernization" title="Ecological modernization">
+             Ecological modernization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmentalism" title="Environmentalism">
+             Environmentalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">
+             Human impact on the environment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_boundaries" title="Planetary boundaries">
+             Planetary boundaries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Social_sustainability" title="Social sustainability">
+             Social sustainability
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stewardship" title="Stewardship">
+             Stewardship
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_development" title="Sustainable development">
+             Sustainable development
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Consumption_(economics)" title="Consumption (economics)">
+          Consumption
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropization" title="Anthropization">
+             Anthropization
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Anti-consumerism
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+             Ecological footprint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethical_consumerism" title="Ethical consumerism">
+             Ethical
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">
+             Over-consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Simple_living" title="Simple living">
+             Simple living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_advertising" title="Sustainability advertising">
+             Sustainability advertising
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_brand" title="Sustainability brand">
+             Sustainability brand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">
+             Sustainability marketing myopia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_consumption" title="Sustainable consumption">
+             Sustainable
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">
+             Systemic change resistance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">
+             Tragedy of the commons
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Population" title="Population">
+          Population
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Birth_control" title="Birth control">
+             Birth control
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Family_planning" title="Family planning">
+             Family planning
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">
+             Control
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Human_overpopulation" title="Human overpopulation">
+             Overpopulation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zero_population_growth" title="Zero population growth">
+             Zero growth
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Technology
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Appropriate_technology" title="Appropriate technology">
+             Appropriate
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmental_technology" title="Environmental technology">
+             Environmental
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_design" title="Sustainable design">
+             Sustainable
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Biodiversity" title="Biodiversity">
+          Biodiversity
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Biosecurity" title="Biosecurity">
+             Biosecurity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biosphere" title="Biosphere">
+             Biosphere
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Conservation_biology" title="Conservation biology">
+             Conservation biology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Deep_ecology" title="Deep ecology">
+             Deep ecology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Endangered_species" title="Endangered species">
+             Endangered species
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Holocene_extinction" title="Holocene extinction">
+             Holocene extinction
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Invasive_species" title="Invasive species">
+             Invasive species
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Energy
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+             Carbon footprint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">
+             Climate change mitigation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_conservation" title="Energy conservation">
+             Conservation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_descent" title="Energy descent">
+             Descent
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+             Efficiency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Emissions_trading" title="Emissions trading">
+             Emissions trading
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_oil" title="Peak oil">
+             Peak oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy" title="Renewable energy">
+             Renewable
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_poverty" title="Energy poverty">
+             Energy poverty
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Food
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Forest_gardening" title="Forest gardening">
+             Forest gardening
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Local_food" title="Local food">
+             Local
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Permaculture" title="Permaculture">
+             Permaculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Food_security" title="Food security">
+             Security
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">
+             Sustainable agriculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_fishery" title="Sustainable fishery">
+             Sustainable fishery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Urban_horticulture" title="Urban horticulture">
+             Urban horticulture
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Water
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Water_conservation" title="Water conservation">
+             Conservation
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">
+             Crisis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Water_efficiency" title="Water efficiency">
+             Efficiency
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Water_footprint" title="Water footprint">
+             Footprint
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Accountability
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainability_accounting" title="Sustainability accounting">
+             Sustainability accounting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">
+             Sustainability measurement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">
+             Sustainability metrics and indices
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_reporting" title="Sustainability reporting">
+             Sustainability reporting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">
+             Standards and certification
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_yield" title="Sustainable yield">
+             Sustainable yield
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Applications
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainable_advertising" title="Sustainable advertising">
+             Advertising
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_architecture" title="Sustainable architecture">
+             Architecture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_art" title="Sustainable art">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_business" title="Sustainable business">
+             Business
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_city" title="Sustainable city">
+             City
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">
+             College programs
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_community" title="Sustainable community">
+             Community
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_design" title="Sustainable design">
+             Design
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecovillage" title="Ecovillage">
+             Ecovillage
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">
+             Education for Sustainable Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_fashion" title="Sustainable fashion">
+             Fashion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_gardening" title="Sustainable gardening">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geopark" title="Geopark">
+             Geopark
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Green_marketing" title="Green marketing">
+             Green marketing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_industries" title="Sustainable industries">
+             Industries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">
+             Landscape architecture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_living" title="Sustainable living">
+             Living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">
+             Low-impact development
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">
+             Sustainable market
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_organizations" title="Sustainability organizations">
+             Organizations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_packaging" title="Sustainable packaging">
+             Packaging
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">
+             Practices
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_procurement" title="Sustainable procurement">
+             Procurement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_tourism" title="Sustainable tourism">
+             Tourism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_transport" title="Sustainable transport">
+             Transport
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">
+             Urban drainage systems
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">
+             Urban infrastructure
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Urbanism" title="New Urbanism">
+             Urbanism
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Management
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">
+             Environmental
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fisheries_management" title="Fisheries management">
+             Fisheries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">
+             Forest
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">
+             Materials
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Natural_resource_management" title="Natural resource management">
+             Natural resource
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_management" title="Planetary management">
+             Planetary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management" title="Waste management">
+             Waste
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Agreements
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment">
+             <span class="wrap">
+              UN Conference on the Human Environment (Stockholm 1972)
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brundtland_Commission" title="Brundtland Commission">
+             Brundtlandt Commission Report (1983)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Our_Common_Future" title="Our Common Future">
+             <i>
+              Our Common Future
+             </i>
+             (1987)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Summit" title="Earth Summit">
+             Earth Summit (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">
+             Rio Declaration on Environment and Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Agenda_21" title="Agenda 21">
+             Agenda 21 (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">
+             Convention on Biological Diversity (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">
+             ICPD Programme of Action (1994)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Charter" title="Earth Charter">
+             Earth Charter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lisbon_Principles" title="Lisbon Principles">
+             Lisbon Principles
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">
+             UN Millennium Declaration (2000)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">
+             Earth Summit 2002
+            </a>
+            (Rio+10, Johannesburg)
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">
+             United Nations Conference on Sustainable Development
+            </a>
+            (Rio+20, 2012)
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">
+             Sustainable Development Goals
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <a href="/wiki/Category:Sustainability" title="Category:Sustainability">
+             Category
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">
+             Lists
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">
+             Outline
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Portal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_science" title="Sustainability science">
+             Science
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_studies" title="Sustainability studies">
+             Studies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">
+             Degrees
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Consumerism" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Consumerism" title="Template:Consumerism">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Consumerism" title="Template talk:Consumerism">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Consumerism&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Consumerism" style="font-size:114%">
+          <a href="/wiki/Consumerism" title="Consumerism">
+           Consumerism
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          the philosophy of and activism for
+          <a href="/wiki/Consumer_protection" title="Consumer protection">
+           consumer protection
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consumerism" title="Consumerism">
+             Consumerism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_protection" title="Consumer protection">
+             Consumer protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer" title="Consumer">
+             Consumer
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Anti-consumerism
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_capitalism" title="Consumer capitalism">
+             Consumer capitalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethical_consumerism" title="Ethical consumerism">
+             Ethical consumerism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_privacy" title="Consumer privacy">
+             Consumer privacy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Informed_consumer" title="Informed consumer">
+             Informed consumer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_revolution" title="Consumer revolution">
+             Consumer revolution
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Activism
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consumer_movement" title="Consumer movement">
+             Consumer movement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_activism" title="Consumer activism">
+             Consumer activism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_education" title="Consumer education">
+             Consumer education
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Guidelines_for_Consumer_Protection" title="United Nations Guidelines for Consumer Protection">
+             United Nations Guidelines for Consumer Protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_Bill_of_Rights" title="Consumer Bill of Rights">
+             Consumer Bill of Rights
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_complaint" title="Consumer complaint">
+             Consumer complaint
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Fields of study
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Euthenics" title="Euthenics">
+             Euthenics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Home_economics" title="Home economics">
+             Home economics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_math" title="Consumer math">
+             Consumer math
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Key players
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/List_of_consumer_organizations" title="List of consumer organizations">
+             List of consumer organizations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_organization" title="Consumer organization">
+             Consumer organization
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect mw-disambig" href="/wiki/Consumers%27_Association_(disambiguation)" title="Consumers' Association (disambiguation)">
+             Consumers' Association
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ellen_Swallow_Richards" title="Ellen Swallow Richards">
+             Ellen Swallow Richards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ralph_Nader" title="Ralph Nader">
+             Ralph Nader
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Esther_Peterson" title="Esther Peterson">
+             Esther Peterson
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:3942109-0!*!0!!en!4!* and timestamp 20161103214619 and revision id 747700773
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anti-consumerism&amp;oldid=747700773">
+      https://en.wikipedia.org/w/index.php?title=Anti-consumerism&amp;oldid=747700773
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Anti-corporate_activism" title="Category:Anti-corporate activism">
+         Anti-corporate activism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Anti-globalization" title="Category:Anti-globalization">
+         Anti-globalization
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Business_ethics" title="Category:Business ethics">
+         Business ethics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Consumerism" title="Category:Consumerism">
+         Consumerism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Counterculture" title="Category:Counterculture">
+         Counterculture
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Social_theories" title="Category:Social theories">
+         Social theories
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainability" title="Category:Sustainability">
+         Sustainability
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2007" title="Category:Articles with unsourced statements from November 2007">
+         Articles with unsourced statements from November 2007
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">
+         Articles with unsourced statements from September 2010
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2009" title="Category:Articles with unsourced statements from February 2009">
+         Articles with unsourced statements from February 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2013" title="Category:Wikipedia articles needing clarification from August 2013">
+         Wikipedia articles needing clarification from August 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">
+         All Wikipedia articles needing clarification
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+         Articles using small message boxes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">
+         All articles with specifically marked weasel-worded phrases
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2015" title="Category:Articles with specifically marked weasel-worded phrases from October 2015">
+         Articles with specifically marked weasel-worded phrases from October 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_excessive_see_also_sections_from_February_2015" title="Category:Articles with excessive see also sections from February 2015">
+         Articles with excessive see also sections from February 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anti-consumerism" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anti-consumerism" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Anti-consumerism" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Anti-consumerism" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Anti-consumerism">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Anti-consumerism&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Anti-consumerism&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Anti-consumerism" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anti-consumerism" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Anti-consumerism&amp;oldid=747700773" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Anti-consumerism&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1783091" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anti-consumerism&amp;id=747700773" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anti-consumerism">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Anti-consumerism&amp;returnto=Anti-consumerism&amp;oldid=747700773&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Anti-consumerism&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Anti-consumerism" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BC%D0%B0%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE" hreflang="bg" lang="bg" title="Антиконсуматорство – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Konsumverweigerung" hreflang="de" lang="de" title="Konsumverweigerung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Anticonsumismo" hreflang="es" lang="es" title="Anticonsumismo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Anticonsommation" hreflang="fr" lang="fr" title="Anticonsommation – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Anticonsumismo" hreflang="gl" lang="gl" title="Anticonsumismo – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%98%D7%99-%D7%A6%D7%A8%D7%9B%D7%A0%D7%95%D7%AA" hreflang="he" lang="he" title="אנטי-צרכנות – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Anticonsumismo" hreflang="pt" lang="pt" title="Anticonsumismo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" hreflang="ru" lang="ru" title="Антипотребительство – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%81%E0%AE%95%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%AF_%E0%AE%8E%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="நுகர்விய எதிர்ப்பு – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%81%D0%BF%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D1%86%D1%82%D0%B2%D0%BE" hreflang="uk" lang="uk" title="Антиспоживацтво – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E6%B6%88%E8%B2%BB%E4%B8%BB%E7%BE%A9" hreflang="zh" lang="zh" title="反消費主義 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1783091#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 3 November 2016, at 21:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anti-consumerism&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.340",
+            "walltime": "0.468",
+            "ppvisitednodes": {
+                "value": 2145,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 104806,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 4558,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 6,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  348.972      1 -total",
+                " 23.54%   82.134      5 Template:Fix",
+                " 21.64%   75.518      4 Template:Citation_needed",
+                " 15.60%   54.449      1 Template:Commons_category",
+                " 12.97%   45.248      5 Template:Delink",
+                " 12.81%   44.699      1 Template:Anti-consumerism",
+                " 12.12%   42.308      1 Template:Sidebar_with_collapsible_lists",
+                "  9.27%   32.350      2 Template:Cite_web",
+                "  8.81%   30.753      9 Template:Category_handler",
+                "  5.78%   20.168      4 Template:Quote"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.133",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4350842,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1181",
+            "timestamp": "20161103214618",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1257"});});
+  </script>
+ </body>
+</html>

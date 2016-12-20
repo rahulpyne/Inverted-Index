@@ -1,0 +1,2053 @@
+https://en.wikipedia.org/wiki/Run-of-the-river_hydroelectricity
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Run-of-the-river hydroelectricity - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Run-of-the-river_hydroelectricity","wgTitle":"Run-of-the-river hydroelectricity","wgCurRevisionId":746610427,"wgRevisionId":746610427,"wgArticleId":9022422,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Hydroelectricity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Run-of-the-river_hydroelectricity","wgRelevantArticleId":9022422,"wgRequestId":"WB0AkQpAEK8AAFbAwDIAAAAI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1411996","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Run-of-the-river_hydroelectricity" rel="alternate"/>
+  <link href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Run-of-the-river_hydroelectricity" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Run-of-the-river_hydroelectricity rootpage-Run-of-the-river_hydroelectricity skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Run-of-the-river hydroelectricity
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Run-of-the-river hydroelectricity
+      </b>
+      (
+      <b>
+       ROR
+      </b>
+      ) is a type of
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       hydroelectric
+      </a>
+      generation plant whereby little or no water storage is provided. Run-of-the-river power plants may have no water storage at all or a limited amount of storage, in which case the storage reservoir is referred to as
+      <a href="/wiki/Pondage" title="Pondage">
+       pondage
+      </a>
+      . A plant without pondage has no water storage and is, therefore, subject to seasonal river flows. Thus, the plant will operate as an
+      <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+       intermittent energy source
+      </a>
+      while a plant with pondage can regulate the water flow at all times and can serve as a
+      <a href="/wiki/Peaking_power_plant" title="Peaking power plant">
+       peaking power plant
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Base_load_power_plant" title="Base load power plant">
+       base load power plant
+      </a>
+      .
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:442px;">
+       <a class="image" href="/wiki/File:Chief_Joseph_Dam.jpg">
+        <img alt="" class="thumbimage" data-file-height="993" data-file-width="1500" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chief_Joseph_Dam.jpg/440px-Chief_Joseph_Dam.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chief_Joseph_Dam.jpg/660px-Chief_Joseph_Dam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chief_Joseph_Dam.jpg/880px-Chief_Joseph_Dam.jpg 2x" width="440"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Chief_Joseph_Dam.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Chief_Joseph_Dam" title="Chief Joseph Dam">
+         Chief Joseph Dam
+        </a>
+        near
+        <a href="/wiki/Bridgeport,_Washington" title="Bridgeport, Washington">
+         Bridgeport, Washington
+        </a>
+        , USA, is a major run-of-the-river station without a sizeable reservoir.
+       </div>
+      </div>
+     </div>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Concept">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Concept
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Advantages">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Advantages
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Cleaner_power.2C_fewer_greenhouse_gases">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Cleaner power, fewer greenhouse gases
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Less_flooding.2Freservoirs">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Less flooding/reservoirs
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Disadvantages">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Disadvantages
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#.22Unfirm.22_power">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            "Unfirm" power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Availability_of_sites">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Availability of sites
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Environmental_impacts">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            Environmental impacts
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Concerns">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Concerns
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Major_examples">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Major examples
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#Notes">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Notes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#References">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Concept">
+       Concept
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=1" title="Edit section: Concept">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Run-of-the-river or ROR hydroelectricity is considered ideal for streams or rivers that can sustain a minimum flow or those regulated by a lake or reservoir upstream.
+      <sup class="reference" id="cite_ref-Dwivedi_1-0">
+       <a href="#cite_note-Dwivedi-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-raghun_2-0">
+       <a href="#cite_note-raghun-2">
+        [2]
+       </a>
+      </sup>
+      A small dam is usually built to create a headpond ensuring that there is enough water entering the
+      <a href="/wiki/Penstock" title="Penstock">
+       penstock
+      </a>
+      pipes that lead to the
+      <a class="mw-redirect" href="/wiki/Turbines" title="Turbines">
+       turbines
+      </a>
+      which are at a lower elevation.
+      <sup class="reference" id="cite_ref-two_3-0">
+       <a href="#cite_note-two-3">
+        [3]
+       </a>
+      </sup>
+      Projects with pondage, as opposed to those without pondage, can store water for daily load demands.
+      <sup class="reference" id="cite_ref-Dwivedi_1-1">
+       <a href="#cite_note-Dwivedi-1">
+        [1]
+       </a>
+      </sup>
+      In general, projects divert some or most of a river's flow (up to 95% of mean annual discharge)
+      <sup class="reference" id="cite_ref-one_4-0">
+       <a href="#cite_note-one-4">
+        [4]
+       </a>
+      </sup>
+      through a pipe and/or tunnel leading to electricity-generating turbines, then return the water back to the river downstream.
+      <sup class="reference" id="cite_ref-two_3-1">
+       <a href="#cite_note-two-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      ROR projects are dramatically different in design and appearance from conventional hydroelectric projects. Traditional hydro dams store enormous quantities of water in
+      <a class="mw-redirect" href="/wiki/Reservoirs" title="Reservoirs">
+       reservoirs
+      </a>
+      , sometimes flooding large tracts of land. In contrast, run-of-river projects do not have most of the
+      <a href="/wiki/Hydroelectricity#Disadvantages" title="Hydroelectricity">
+       disadvantages associated with dams and reservoirs
+      </a>
+      , which is why they are often considered environmentally friendly.
+      <sup class="reference" id="cite_ref-three_5-0">
+       <a href="#cite_note-three-5">
+        [5]
+       </a>
+      </sup>
+      In Canada no large hydroelectric reservoir has been created since the 1980s.
+     </p>
+     <p>
+      The use of the term "run-of-the-river" for power projects varies around the world. Some may consider a project ROR if power is produced with no water storage while limited storage is considered ROR by others. Developers may mislabel a project ROR to soothe public perception about its environmental or social effects. The
+      <a href="/wiki/Bureau_of_Indian_Standards" title="Bureau of Indian Standards">
+       Bureau of Indian Standards
+      </a>
+      describes run-of-the-river hydroelectricity as:
+      <sup class="reference" id="cite_ref-INDDAM_6-0">
+       <a href="#cite_note-INDDAM-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <blockquote>
+      <p>
+       A power station utilizing the run of the river flows for generation of power with sufficient pondage for supplying water for meeting diurnal or weekly fluctuations of demand. In such stations, the normal course of the river is not materially altered.
+       <sup class="reference" id="cite_ref-INDDAM_6-1">
+        <a href="#cite_note-INDDAM-6">
+         [6]
+        </a>
+       </sup>
+      </p>
+     </blockquote>
+     <p>
+      Many of the larger ROR projects have been designed to a scale and generating capacity rivaling some traditional hydro dams.
+      <sup class="reference" id="cite_ref-four_7-0">
+       <a href="#cite_note-four-7">
+        [7]
+       </a>
+      </sup>
+      For example, the
+      <a href="/wiki/Beauharnois_Hydroelectric_Generating_Station" title="Beauharnois Hydroelectric Generating Station">
+       Beauharnois Hydroelectric Generating Station
+      </a>
+      in Quebec is rated at 1,853 MW
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      and a 2006 proposal in
+      <a href="/wiki/British_Columbia" title="British Columbia">
+       British Columbia
+      </a>
+      , Canada has been designed to generate 1027 megawatts capacity.
+      <sup class="reference" id="cite_ref-five_9-0">
+       <a href="#cite_note-five-9">
+        [9]
+       </a>
+      </sup>
+      Some run of the river projects are downstream of other dams and reservoirs. The run of the river project didn't build the reservoir, but does take advantage of the water supplied by it. An example would be the 1995, 1,436 MW
+      <a href="/wiki/La_Grande-1_generating_station" title="La Grande-1 generating station">
+       La Grande-1 generating station
+      </a>
+      , previous upstream dams and reservoirs are part of the 1980s
+      <a href="/wiki/James_Bay_Project" title="James Bay Project">
+       James Bay Project
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Advantages">
+       Advantages
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=2" title="Edit section: Advantages">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      When developed with care to footprint size and location, ROR hydro projects can create sustainable energy minimizing impacts to the surrounding environment and nearby communities.
+      <sup class="reference" id="cite_ref-two_3-2">
+       <a href="#cite_note-two-3">
+        [3]
+       </a>
+      </sup>
+      Advantages include:
+     </p>
+     <h3>
+      <span class="mw-headline" id="Cleaner_power.2C_fewer_greenhouse_gases">
+       Cleaner power, fewer greenhouse gases
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=3" title="Edit section: Cleaner power, fewer greenhouse gases">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Like all hydro-electric power, run-of-the-river hydro harnesses the natural potential energy of water, eliminating the need to burn coal or
+      <a href="/wiki/Natural_gas" title="Natural gas">
+       natural gas
+      </a>
+      to generate the electricity needed by consumers and industry.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Less_flooding.2Freservoirs">
+       Less flooding/reservoirs
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=4" title="Edit section: Less flooding/reservoirs">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Substantial flooding of the upper part of the river is not required for run-of-river projects as a large reservoir is not required. As a result, people living at or near the river don't need to be relocated and natural habitats and productive farmlands are not wiped out.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Disadvantages">
+       Disadvantages
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=5" title="Edit section: Disadvantages">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id=".22Unfirm.22_power">
+       "Unfirm" power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=6" title='Edit section: "Unfirm" power'>
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Run-of-the-River power is considered an "unfirm" source of power: a run-of-the-river project has little or no capacity for energy storage
+      <sup class="reference" id="cite_ref-six_10-0">
+       <a href="#cite_note-six-10">
+        [10]
+       </a>
+      </sup>
+      and hence can't co-ordinate the output of electricity generation to match consumer demand. It thus generates much more power during times when seasonal river flows are high (i.e., spring freshet),
+      <sup class="reference" id="cite_ref-five_9-1">
+       <a href="#cite_note-five-9">
+        [9]
+       </a>
+      </sup>
+      and depending on location, much less during drier summer months or frozen winter months.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Availability_of_sites">
+       Availability of sites
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=7" title="Edit section: Availability of sites">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The potential power at a site is a result of the
+      <a href="/wiki/Hydraulic_head" title="Hydraulic head">
+       head
+      </a>
+      and flow of water. By damming a river, the head is available to generate power at the face of the dam. Where a dam may create a reservoir hundreds of kilometers long, in run of the river the head is usually delivered by a canal, pipe or tunnel constructed upstream of the power house. Due to the cost of upstream construction, a steep drop in the river is desirable.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Environmental_impacts">
+       Environmental impacts
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=8" title="Edit section: Environmental impacts">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Small, well-sited ROR projects can be developed with minimal environmental impacts.
+      <sup class="reference" id="cite_ref-two_3-3">
+       <a href="#cite_note-two-3">
+        [3]
+       </a>
+      </sup>
+      Larger projects have more environmental concerns. For example, Plutonic Power Corp.'s canceled
+      <a href="/wiki/Bute_Inlet" title="Bute Inlet">
+       Bute Inlet
+      </a>
+      Hydroelectric Project in BC would have seen three clusters of run-of-river projects with 17 river diversions;
+      <sup class="reference" id="cite_ref-four_7-1">
+       <a href="#cite_note-four-7">
+        [7]
+       </a>
+      </sup>
+      as proposed, this run-of-river project would divert over 90 kilometres of streams and rivers into tunnels and pipelines, requiring 443 km of new transmission line, 267 km of permanent roads, and 142 bridges to be built in wilderness areas.
+      <sup class="reference" id="cite_ref-seven_11-0">
+       <a href="#cite_note-seven-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      British Columbia's mountainous terrain and wealth of big rivers have made it a global testing ground for run-of-river technology. As of March 2010, there were 628 applications pending for new water licences solely for the purposes of power generation – representing more than 750 potential points of river diversion.
+      <sup class="reference" id="cite_ref-eight_12-0">
+       <a href="#cite_note-eight-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Concerns">
+       Concerns
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=9" title="Edit section: Concerns">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Diverting large amounts of river water reduces river flows, affecting water velocity and depth, minimizing habitat quality for fish and aquatic organisms; reduced flows can lead to excessively warm water for salmon and other fish in summer.
+       <sup class="reference" id="cite_ref-two_3-4">
+        <a href="#cite_note-two-3">
+         [3]
+        </a>
+       </sup>
+      </li>
+      <li>
+       New access roads and transmission lines can cause extensive habitat fragmentation for many species, allowing the introduction of invasive species and increases in undesirable human activities, like illegal hunting.
+       <sup class="reference" id="cite_ref-two_3-5">
+        <a href="#cite_note-two-3">
+         [3]
+        </a>
+       </sup>
+      </li>
+      <li>
+       The lack of reservoir storage may result in intermittent operation, reducing the project's viability.
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Major_examples">
+       Major examples
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=10" title="Edit section: Major examples">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/List_of_run-of-the-river_hydroelectric_power_stations" title="List of run-of-the-river hydroelectric power stations">
+       List of run-of-the-river hydroelectric power stations
+      </a>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Belo_Monte_Dam" title="Belo Monte Dam">
+        Belo Monte Dam
+       </a>
+       , 11,233 megawatts (15,064,000 hp),
+       <a href="/wiki/Par%C3%A1" title="Pará">
+        Pará
+       </a>
+       ,
+       <a href="/wiki/Brazil" title="Brazil">
+        Brazil
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Chief_Joseph_Dam" title="Chief Joseph Dam">
+        Chief Joseph Dam
+       </a>
+       , 2,620 megawatts (3,510,000 hp)
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Beauharnois_Hydroelectric_Power_Station" title="Beauharnois Hydroelectric Power Station">
+        Beauharnois Hydroelectric Power Station
+       </a>
+       , 1,903 megawatts (2,552,000 hp)
+       <sup class="reference" id="cite_ref-HQP_13-0">
+        <a href="#cite_note-HQP-13">
+         [13]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Bonneville_Dam" title="Bonneville Dam">
+        Bonneville Dam
+       </a>
+       , 1,092 megawatts (1,464,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Nathpa_Jhakri_Dam" title="Nathpa Jhakri Dam">
+        Satluj Jal Vldyut Nigam Ltd
+       </a>
+       ,
+       <a href="/wiki/Sutlej" title="Sutlej">
+        Satluj River
+       </a>
+       , Shimla, India, 1,500 megawatts (2,000,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Ghazi-Barotha_Hydropower_Project" title="Ghazi-Barotha Hydropower Project">
+        Ghazi-Barotha Hydropower Project
+       </a>
+       on
+       <a class="mw-redirect" href="/wiki/River_Indus" title="River Indus">
+        River Indus
+       </a>
+       in
+       <a href="/wiki/Pakistan" title="Pakistan">
+        Pakistan
+       </a>
+       , 1,450 megawatts (1,940,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/La_Grande-1_generating_station" title="La Grande-1 generating station">
+        La Grande-1 generating station
+       </a>
+       , 1,436 megawatts (1,926,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Kohala_Hydropower_Project" title="Kohala Hydropower Project">
+        Kohala Hydropower Project
+       </a>
+       ,
+       <a href="/wiki/Jhelum_River" title="Jhelum River">
+        Jhelum River
+       </a>
+       ,
+       <a href="/wiki/Muzaffarabad" title="Muzaffarabad">
+        Muzaffarabad
+       </a>
+       ,
+       <a href="/wiki/Pakistan" title="Pakistan">
+        Pakistan
+       </a>
+       , 1,100 megawatts (1,500,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Neelum%E2%80%93Jhelum_Hydropower_Plant" title="Neelum–Jhelum Hydropower Plant">
+        Neelum–Jhelum Hydropower Plant
+       </a>
+       ,
+       <a href="/wiki/Jhelum_River" title="Jhelum River">
+        Jhelum River
+       </a>
+       ,
+       <a href="/wiki/Muzaffarabad" title="Muzaffarabad">
+        Muzaffarabad
+       </a>
+       ,
+       <a href="/wiki/Azad_Kashmir" title="Azad Kashmir">
+        Azad Kashmir
+       </a>
+       ,
+       <a href="/wiki/Pakistan" title="Pakistan">
+        Pakistan
+       </a>
+       , 969 megawatts (1,299,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Baglihar_Dam" title="Baglihar Dam">
+        Baglihar Hydroelectric Power Projecton
+       </a>
+       <a href="/wiki/Chenab_River" title="Chenab River">
+        Chenab River
+       </a>
+       in India, 900 megawatts (1,200,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Carillon_Generating_Station" title="Carillon Generating Station">
+        Carillon Generating Station
+       </a>
+       , Quebec, Canada, 752 megawatts (1,008,000 hp)
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Upper_Tamakoshi_Project" title="Upper Tamakoshi Project">
+        Upper Tamakoshi Project
+       </a>
+       , Nepal, 456 MW
+      </li>
+      <li>
+       <a href="/wiki/Nyagak_Hydroelectric_Power_Station" title="Nyagak Hydroelectric Power Station">
+        Nyagak Hydroelectric Power Station
+       </a>
+       on
+       <a href="/wiki/Nyagak_River" title="Nyagak River">
+        Nyagak River
+       </a>
+       in
+       <a href="/wiki/Zombo_District" title="Zombo District">
+        Zombo District
+       </a>
+       ,
+       <a href="/wiki/Uganda" title="Uganda">
+        Uganda
+       </a>
+       , 3.5 megawatts (4,700 hp)
+      </li>
+      <li>
+       <a href="/wiki/Toba_River_(British_Columbia)#Toba_Montrose" title="Toba River (British Columbia)">
+        East Toba/Montrose Hydro Project
+       </a>
+       , British Columbia, Canada, 196 megawatts (263,000 hp)
+      </li>
+      <li>
+       Forrest Kerr Hydro Project, British Columbia, Canada, 195 megawatts (261,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Patrind_Hydropower_Plant" title="Patrind Hydropower Plant">
+        Patrind Hydropower Plant
+       </a>
+       ,
+       <a href="/wiki/Kunhar_River" title="Kunhar River">
+        Kunhar River
+       </a>
+       ,
+       <a href="/wiki/Pakistan" title="Pakistan">
+        Pakistan
+       </a>
+       , 150 megawatts (200,000 hp)
+      </li>
+      <li>
+       <a href="/wiki/Alterra_Power#Upper_Toba_Valley" title="Alterra Power">
+        Upper Toba Valley
+       </a>
+       , British Columbia, Canada, 123 megawatts (165,000 hp)
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Upper_Kotmale_Hydropower_Project" title="Upper Kotmale Hydropower Project">
+        Upper Kotmale Hydropower Project
+       </a>
+       (UKHP), Talawakele, Sri Lanka, 150 megawatts (200,000 hp)
+      </li>
+      <li>
+       Sechelt Creek Generating Station, British Columbia, Canada, 16 megawatts (21,000 hp)
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:442px;">
+       <a class="image" href="/wiki/File:Edison_Sault_hydroelectric_power_plant.JPG">
+        <img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edison_Sault_hydroelectric_power_plant.JPG/440px-Edison_Sault_hydroelectric_power_plant.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edison_Sault_hydroelectric_power_plant.JPG/660px-Edison_Sault_hydroelectric_power_plant.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edison_Sault_hydroelectric_power_plant.JPG/880px-Edison_Sault_hydroelectric_power_plant.JPG 2x" width="440"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Edison_Sault_hydroelectric_power_plant.JPG" title="Enlarge">
+         </a>
+        </div>
+        Saint Marys Falls - run of the river (1902)
+       </div>
+      </div>
+     </div>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Environmental_concerns_with_electricity_generation" title="Environmental concerns with electricity generation">
+        Environmental concerns with electricity generation
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Environmental_impacts_of_dams" title="Environmental impacts of dams">
+        Environmental impacts of dams
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Hydropower" title="Hydropower">
+        Hydropower
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Micro_hydro" title="Micro hydro">
+        Micro hydro
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Pico_hydro" title="Pico hydro">
+        Pico hydro
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+        Pumped-storage hydroelectricity
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Small_hydro" title="Small hydro">
+        Small hydro
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Notes">
+       Notes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=12" title="Edit section: Notes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-Dwivedi-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Dwivedi_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Dwivedi_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Dwivedi, A.K. Raja, Amit Prakash Srivastava, Manish (2006).
+          <a class="external text" href="https://books.google.com/books?id=P-7kM_VZqxcC&amp;pg=PA354" rel="nofollow">
+           <i>
+            Power Plant Engineering
+           </i>
+          </a>
+          . New Delhi: New Age International. p. 354.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/81-224-1831-7" title="Special:BookSources/81-224-1831-7">
+           81-224-1831-7
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARun-of-the-river+hydroelectricity&amp;rft.aufirst=A.K.+Raja%2C+Amit+Prakash+Srivastava%2C+Manish&amp;rft.aulast=Dwivedi&amp;rft.btitle=Power+Plant+Engineering&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DP-7kM_VZqxcC%26pg%3DPA354&amp;rft.isbn=81-224-1831-7&amp;rft.pages=354&amp;rft.place=New+Delhi&amp;rft.pub=New+Age+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-raghun-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-raghun_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Raghunath, H.M. (2009).
+          <a class="external text" href="https://books.google.com/books?id=-N1G5VSoRngC&amp;pg=PA288" rel="nofollow">
+           <i>
+            Hydrology : principles, analysis, and design
+           </i>
+          </a>
+          (Rev. 2nd ed.). New Delhi: New Age International. p. 288.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/81-224-1825-2" title="Special:BookSources/81-224-1825-2">
+           81-224-1825-2
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARun-of-the-river+hydroelectricity&amp;rft.aufirst=H.M.&amp;rft.aulast=Raghunath&amp;rft.btitle=Hydrology+%3A+principles%2C+analysis%2C+and+design&amp;rft.date=2009&amp;rft.edition=Rev.+2nd&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D-N1G5VSoRngC%26pg%3DPA288&amp;rft.isbn=81-224-1825-2&amp;rft.pages=288&amp;rft.place=New+Delhi&amp;rft.pub=New+Age+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-two-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-two_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-two_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-two_3-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-two_3-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-two_3-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-two_3-5">
+          <sup>
+           <i>
+            <b>
+             f
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Douglas T, Broomhall P, Orr C. (2007).
+         <a class="external text" href="http://www.rivershed.com/documents/Guide_to_RunRiver.pdf" rel="nofollow">
+          Run-of-the-River Hydropower in BC: A Citizen's Guide to Understanding Approvals, Impacts and Sustainability of Independent Power Projects
+         </a>
+         . Watershed Watch.
+        </span>
+       </li>
+       <li id="cite_note-one-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-one_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Knight Piesold Consulting.
+         <a class="external text" href="http://a100.gov.bc.ca/appsdata/epic/documents/p316/d26174/1210629972391_8e248a8d30d9de771b58862f4ef2acd0a2105751f9de.pdf" rel="nofollow">
+          Plutonic Hydro Inc. Bute Inlet Project. Summary of Project Intake and Turbine Parameters
+         </a>
+         . Knight Piesold Consulting.
+        </span>
+       </li>
+       <li id="cite_note-three-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-three_5-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hydromax Energy Limited.
+         <a class="external text" href="http://www.hydromaxenergy.com/Green+Power/Green+Power.htm" rel="nofollow">
+          Hydromax Energy Limited website
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-INDDAM-6">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-INDDAM_6-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-INDDAM_6-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Partha J. Das1, Neeraj Vagholikar.
+          <a class="external text" href="http://www.conflicts.indiawaterportal.org/sites/conflicts.indiawaterportal.org/files/Damming%20Northeast%20India,%20Single%20page%20format.pdf" rel="nofollow">
+           "Damming Northeast India"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . Kalpavriksh, Aaranyak and ActionAid India. pp. 4–5
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            11 July
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARun-of-the-river+hydroelectricity&amp;rft.aufirst=Neeraj+Vagholikar&amp;rft.aulast=Partha+J.+Das1&amp;rft.btitle=Damming+Northeast+India&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.conflicts.indiawaterportal.org%2Fsites%2Fconflicts.indiawaterportal.org%2Ffiles%2FDamming%2520Northeast%2520India%2C%2520Single%2520page%2520format.pdf&amp;rft.pages=4-5&amp;rft.pub=Kalpavriksh%2C+Aaranyak+and+ActionAid+India&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-four-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-four_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-four_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Plutonic Power (2008).
+         <a class="external text" href="http://www.ceaa.gc.ca/050/documents/33401/33401E.pdf" rel="nofollow">
+          Revised Project Description for Bute Inlet Hydroelectric Project Requirements. P1
+         </a>
+         . Plutonic Power.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.hydroquebec.com/generation/centrale-hydroelectrique.html" rel="nofollow">
+          http://www.hydroquebec.com/generation/centrale-hydroelectrique.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-five-9">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-five_9-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-five_9-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Wilderness Committee.
+         <a class="external text" href="http://www.ceaa.gc.ca/050/documents/33144/33144E.pdf" rel="nofollow">
+          Wilderness Committee Comments on the Draft Terms of Reference, Bute Inlet Hydroelectric Private Power Project. Letter to Kathy Eichenberger, Project Assistant Director. P1
+         </a>
+         . Wilderness Committee.
+        </span>
+       </li>
+       <li id="cite_note-six-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-six_10-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Douglas, T. (2007).
+         <a class="external text" href="http://www.watershed-watch.org/publications/files/Run-of-River-long.pdf" rel="nofollow">
+          "Green" Hydro Power: Understanding Impacts, Approvals, and Sustainability of Run-of River Independent Power Projects in British Columbia
+         </a>
+         . Watershed Watch.
+        </span>
+       </li>
+       <li id="cite_note-seven-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-seven_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.watershed-watch.org/BACKGROUNDER-ButeInlet_Feb3.pdf" rel="nofollow">
+           "The Bute Inlet Hydroelectric Project, Backgrounder"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Watershed Watch Salmon Society
+          </i>
+          . Watershed Watch. 2009. p. 2
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARun-of-the-river+hydroelectricity&amp;rft.atitle=The+Bute+Inlet+Hydroelectric+Project%2C+Backgrounder&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.watershed-watch.org%2FBACKGROUNDER-ButeInlet_Feb3.pdf&amp;rft.jtitle=Watershed+Watch+Salmon+Society&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-eight-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-eight_12-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         IPPwatch.com website.
+         <a class="external text" href="http://www.ippwatch.info/w/" rel="nofollow">
+          IPPwatch.com
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-HQP-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-HQP_13-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFHydro-Qu.C3.A9bec_Production2012">
+          Hydro-Québec Production (2012),
+          <a class="external text" href="http://www.hydroquebec.com/generation/centrale-hydroelectrique.html" rel="nofollow">
+           <i>
+            Hydroelectric Generating Stations (as of December 31, 2010)
+           </i>
+          </a>
+          , Hydro-Québec
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            2011-05-17
+           </span>
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARun-of-the-river+hydroelectricity&amp;rft.au=Hydro-Qu%C3%A9bec+Production&amp;rft.btitle=Hydroelectric+Generating+Stations+%28as+of+December+31%2C+2010%29&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hydroquebec.com%2Fgeneration%2Fcentrale-hydroelectrique.html&amp;rft.pub=Hydro-Qu%C3%A9bec&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit&amp;section=13" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Freedman, B., 2007, Environmental Science: a Canadian Perspective; 4th edition, Pearson Education Canada, Toronto, pp 226,394.
+      </li>
+     </ul>
+     <div aria-labelledby="Hydropower" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Hydropower" title="Template:Hydropower">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Hydropower" title="Template talk:Hydropower">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hydropower&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Hydropower" style="font-size:114%">
+          <a href="/wiki/Hydropower" title="Hydropower">
+           Hydropower
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+          Hydroelectricity
+         </a>
+         generation
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Dam" title="Dam">
+             Dam
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_conventional_hydroelectric_power_stations" title="List of conventional hydroelectric power stations">
+             List of conventional hydroelectric power stations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+             Pumped-storage hydroelectricity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Small_hydro" title="Small hydro">
+             Small hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Micro_hydro" title="Micro hydro">
+             Micro hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pico_hydro" title="Pico hydro">
+             Pico hydro
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:ThreeGorgesDam-China2009.jpg">
+           <img alt="ThreeGorgesDam-China2009.jpg" data-file-height="1768" data-file-width="2847" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/100px-ThreeGorgesDam-China2009.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/150px-ThreeGorgesDam-China2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/200px-ThreeGorgesDam-China2009.jpg 2x" width="100"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+          Hydroelectricity
+         </a>
+         equipment
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Francis_turbine" title="Francis turbine">
+             Francis turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kaplan_turbine" title="Kaplan turbine">
+             Kaplan turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tyson_turbine" title="Tyson turbine">
+             Tyson turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gorlov_helical_turbine" title="Gorlov helical turbine">
+             Gorlov helical turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pelton_wheel" title="Pelton wheel">
+             Pelton wheel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Turgo_turbine" title="Turgo turbine">
+             Turgo turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cross-flow_turbine" title="Cross-flow turbine">
+             Banki turbine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Water_wheel" title="Water wheel">
+             Water wheel
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:9022422-0!*!0!!en!4!* and timestamp 20161028131003 and revision id 746610427
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Run-of-the-river_hydroelectricity&amp;oldid=746610427">
+      https://en.wikipedia.org/w/index.php?title=Run-of-the-river_hydroelectricity&amp;oldid=746610427
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Hydroelectricity" title="Category:Hydroelectricity">
+         Hydroelectricity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Run-of-the-river+hydroelectricity" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Run-of-the-river+hydroelectricity" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Run-of-the-river_hydroelectricity" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Run-of-the-river_hydroelectricity" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Run-of-the-river_hydroelectricity">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Run-of-the-river_hydroelectricity" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Run-of-the-river_hydroelectricity" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;oldid=746610427" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1411996" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Run-of-the-river_hydroelectricity&amp;id=746610427" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Run-of-the-river+hydroelectricity">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Run-of-the-river+hydroelectricity&amp;returnto=Run-of-the-river+hydroelectricity&amp;oldid=746610427&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Run-of-the-river_hydroelectricity&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Run-of-the-river_hydroelectric_power_plants" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Хидрокинетична електроцентрала – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Pr%C5%AFto%C4%8Dn%C3%A1_vodn%C3%AD_elektr%C3%A1rna" hreflang="cs" lang="cs" title="Průtočná vodní elektrárna – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Laufwasserkraftwerk" hreflang="de" lang="de" title="Laufwasserkraftwerk – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Hydro%C3%A9lectricit%C3%A9_au_fil_de_l%27eau" hreflang="fr" lang="fr" title="Hydroélectricité au fil de l'eau – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Elvekraftverk" hreflang="no" lang="no" title="Elvekraftverk – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Elektrownia_wodna_przep%C5%82ywowa" hreflang="pl" lang="pl" title="Elektrownia wodna przepływowa – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Usina_hidrel%C3%A9trica_a_fio_d%27%C3%A1gua" hreflang="pt" lang="pt" title="Usina hidrelétrica a fio d'água – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1" hreflang="ru" lang="ru" title="Русловая ГЭС – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B7%9D%E6%B5%81%E5%BC%8F%E7%99%BC%E9%9B%BB" hreflang="zh" lang="zh" title="川流式發電 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1411996#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 28 October 2016, at 13:10.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Run-of-the-river_hydroelectricity&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.140",
+            "walltime": "0.179",
+            "ppvisitednodes": {
+                "value": 703,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 18854,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 32,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  134.584      1 -total",
+                " 41.65%   56.056      1 Template:Reflist",
+                " 32.00%   43.073     18 Template:Convert",
+                " 19.75%   26.577      2 Template:Cite_book",
+                " 14.28%   19.212      1 Template:Main_article",
+                "  6.57%    8.838      1 Template:Hydropower",
+                "  5.75%    7.738      2 Template:Cite_web",
+                "  5.71%    7.679      1 Template:Navbox",
+                "  5.19%    6.985      1 Template:Citation",
+                "  4.02%    5.414      1 Template:Portal"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.064",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4715507,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1253",
+            "timestamp": "20161028131003",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1220"});});
+  </script>
+ </body>
+</html>

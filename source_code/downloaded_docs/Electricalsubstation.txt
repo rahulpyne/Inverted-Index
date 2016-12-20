@@ -1,0 +1,2913 @@
+https://en.wikipedia.org/wiki/Electrical_substation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Electrical substation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electrical_substation","wgTitle":"Electrical substation","wgCurRevisionId":741770380,"wgRevisionId":741770380,"wgArticleId":320217,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electric power","Electric power infrastructure"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electrical_substation","wgRelevantArticleId":320217,"wgRequestId":"WByqcQpAICsAADCMEecAAABE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q174814","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electrical_substation" rel="alternate"/>
+  <link href="/w/index.php?title=Electrical_substation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Electrical_substation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Electrical_substation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electrical_substation rootpage-Electrical_substation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Electrical substation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Electrical_substation_model_(side-view).PNG">
+        <img alt="" class="thumbimage" data-file-height="460" data-file-width="2000" height="69" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Electrical_substation_model_%28side-view%29.PNG/300px-Electrical_substation_model_%28side-view%29.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Electrical_substation_model_%28side-view%29.PNG/450px-Electrical_substation_model_%28side-view%29.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Electrical_substation_model_%28side-view%29.PNG/600px-Electrical_substation_model_%28side-view%29.PNG 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Electrical_substation_model_(side-view).PNG" title="Enlarge">
+         </a>
+        </div>
+        <b>
+         Elements of a substation
+        </b>
+        <br/>
+        A: Primary power lines' side B: Secondary power lines' side
+        <br/>
+        1. Primary power lines 2. Ground wire 3. Overhead lines
+        <br/>
+        4. Transformer for measurement of electric voltage
+        <br/>
+        5. Disconnect switch 6. Circuit breaker
+        <br/>
+        7. Current transformer 8. Lightning arrester
+        <br/>
+        9. Main transformer 10. Control building 11. Security fence 12. Secondary power lines
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Melbourne_Terminal_Station.JPG">
+        <img alt="" class="thumbimage" data-file-height="3000" data-file-width="4000" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Melbourne_Terminal_Station.JPG/300px-Melbourne_Terminal_Station.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Melbourne_Terminal_Station.JPG/450px-Melbourne_Terminal_Station.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Melbourne_Terminal_Station.JPG/600px-Melbourne_Terminal_Station.JPG 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Melbourne_Terminal_Station.JPG" title="Enlarge">
+         </a>
+        </div>
+        A 50 Hz electrical substation in
+        <a href="/wiki/Melbourne" title="Melbourne">
+         Melbourne
+        </a>
+        ,
+        <a href="/wiki/Australia" title="Australia">
+         Australia
+        </a>
+        . This is showing three of the five 220 kV/66 kV transformers, each with a capacity of 150 MVA. This substation is constructed using steel lattice structures to support strain bus wires and apparatus.
+        <sup class="reference" id="cite_ref-1">
+         <a href="#cite_note-1">
+          [1]
+         </a>
+        </sup>
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Electrical_Substation.JPG">
+        <img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Electrical_Substation.JPG/300px-Electrical_Substation.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Electrical_Substation.JPG/450px-Electrical_Substation.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Electrical_Substation.JPG/600px-Electrical_Substation.JPG 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Electrical_Substation.JPG" title="Enlarge">
+         </a>
+        </div>
+        A 115 kV to 41.6/12.47 kV 5 MVA 60 Hz substation with circuit switcher, regulators, reclosers and control building at
+        <a href="/wiki/Warren,_Minnesota" title="Warren, Minnesota">
+         Warren, Minnesota
+        </a>
+        . This substation shows elements of low-profile construction; apparatus is mounted on individual columns.
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <b>
+       substation
+      </b>
+      is a part of an electrical
+      <a href="/wiki/Electricity_generation" title="Electricity generation">
+       generation
+      </a>
+      ,
+      <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+       transmission
+      </a>
+      , and
+      <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+       distribution
+      </a>
+      system. Substations transform
+      <a href="/wiki/Voltage" title="Voltage">
+       voltage
+      </a>
+      from high to low, or the reverse, or perform any of several other important functions. Between the generating station and consumer, electric power may flow through several substations at different voltage levels. A substation may include
+      <a href="/wiki/Transformer" title="Transformer">
+       transformers
+      </a>
+      to change voltage levels between high transmission voltages and lower distribution voltages, or at the interconnection of two different transmission voltages.
+     </p>
+     <p>
+      Substations may be owned and operated by an electrical utility, or may be owned by a large industrial or commercial customer. Generally substations are unattended, relying on
+      <a href="/wiki/SCADA" title="SCADA">
+       SCADA
+      </a>
+      for remote supervision and control.
+     </p>
+     <p>
+      The word
+      <i>
+       substation
+      </i>
+      comes from the days before the distribution system became a
+      <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+       grid
+      </a>
+      . As central generation stations became larger, smaller generating plants were converted to distribution stations, receiving their energy supply from a larger plant instead of using their own generators. The first substations were connected to only one
+      <a href="/wiki/Power_station" title="Power station">
+       power station
+      </a>
+      , where the generators were housed, and were subsidiaries of that power station.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Types">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Types
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Transmission_substation">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Transmission substation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Distribution_substation">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            Distribution substation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Collector_substation">
+           <span class="tocnumber">
+            1.3
+           </span>
+           <span class="toctext">
+            Collector substation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Converter_substations">
+           <span class="tocnumber">
+            1.4
+           </span>
+           <span class="toctext">
+            Converter substations
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Switching_station">
+           <span class="tocnumber">
+            1.5
+           </span>
+           <span class="toctext">
+            Switching station
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Railways">
+           <span class="tocnumber">
+            1.6
+           </span>
+           <span class="toctext">
+            Railways
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Design">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Design
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Elements_of_a_substation">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Elements of a substation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Location_selection">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Location selection
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Design_diagrams">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Design diagrams
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-12">
+          <a href="#Automation">
+           <span class="tocnumber">
+            2.4
+           </span>
+           <span class="toctext">
+            Automation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-13">
+          <a href="#Insulation">
+           <span class="tocnumber">
+            2.5
+           </span>
+           <span class="toctext">
+            Insulation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-14">
+          <a href="#Structure">
+           <span class="tocnumber">
+            2.6
+           </span>
+           <span class="toctext">
+            Structure
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-16">
+        <a href="#References_and_further_reading">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References and further reading
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Types">
+       Types
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=1" title="Edit section: Types">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Substations may be described by their voltage class, their applications within the power system, the method used to insulate most connections, and by the style and materials of the structures used. These categories are not disjointed; for example, to solve a particular problem, a transmission substation may include significant distribution functions.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Transmission_substation">
+       Transmission substation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=2" title="Edit section: Transmission substation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A
+      <b>
+       transmission substation
+      </b>
+      connects two or more transmission lines.
+      <sup class="reference" id="cite_ref-Design_Guide_for_Rural_Substations_2-0">
+       <a href="#cite_note-Design_Guide_for_Rural_Substations-2">
+        [2]
+       </a>
+      </sup>
+      The simplest case is where all transmission lines have the same voltage. In such cases, substation contains high-voltage switches that allow lines to be connected or isolated for fault clearance or maintenance. A transmission station may have
+      <a href="/wiki/Transformer" title="Transformer">
+       transformers
+      </a>
+      to convert between two transmission voltages,
+      <a href="/wiki/Voltage_compensation" title="Voltage compensation">
+       voltage control
+      </a>
+      /
+      <a href="/wiki/Power_factor#Power_factor_correction_.28PFC.29_in_non-linear_loads" title="Power factor">
+       power factor correction
+      </a>
+      devices such as capacitors, reactors or
+      <a href="/wiki/Static_VAR_compensator" title="Static VAR compensator">
+       static VAR compensators
+      </a>
+      and equipment such as
+      <a href="/wiki/Quadrature_booster" title="Quadrature booster">
+       phase shifting transformers
+      </a>
+      to control power flow between two adjacent power systems.
+     </p>
+     <p>
+      Transmission substations can range from simple to complex. A small "switching station" may be little more than a
+      <a href="/wiki/Busbar" title="Busbar">
+       bus
+      </a>
+      plus some
+      <a href="/wiki/Circuit_breaker#High-voltage_circuit_breakers" title="Circuit breaker">
+       circuit breakers
+      </a>
+      . The largest transmission substations can cover a large area (several acres/hectares) with multiple voltage levels, many circuit breakers, and a large amount of protection and control equipment (
+      <a href="/wiki/Instrument_transformer" title="Instrument transformer">
+       voltage and current transformers
+      </a>
+      ,
+      <a href="/wiki/Digital_protective_relay" title="Digital protective relay">
+       relays
+      </a>
+      and
+      <a href="/wiki/SCADA" title="SCADA">
+       SCADA
+      </a>
+      systems). Modern substations may be implemented using international standards such as
+      <a href="/wiki/IEC_61850" title="IEC 61850">
+       IEC Standard 61850
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Distribution_substation">
+       Distribution substation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=3" title="Edit section: Distribution substation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:SubstationHouseScarborough.jpg">
+        <img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/SubstationHouseScarborough.jpg/220px-SubstationHouseScarborough.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/SubstationHouseScarborough.jpg/330px-SubstationHouseScarborough.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/SubstationHouseScarborough.jpg/440px-SubstationHouseScarborough.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:SubstationHouseScarborough.jpg" title="Enlarge">
+         </a>
+        </div>
+        A distribution substation in
+        <a href="/wiki/Scarborough,_Toronto" title="Scarborough, Toronto">
+         Scarborough
+        </a>
+        ,
+        <a href="/wiki/Ontario" title="Ontario">
+         Ontario
+        </a>
+        disguised as a house, complete with a driveway, front walk and a mown lawn and shrubs in the front yard. A warning notice can be clearly seen on the "front door". Disguises for substations are common in many cities.
+        <sup class="reference" id="cite_ref-3">
+         <a href="#cite_note-3">
+          [3]
+         </a>
+        </sup>
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <i>
+       distribution substation
+      </i>
+      transfers power from the transmission system to the distribution system of an area.
+      <sup class="reference" id="cite_ref-Design_Guide_for_Rural_Substations_2-1">
+       <a href="#cite_note-Design_Guide_for_Rural_Substations-2">
+        [2]
+       </a>
+      </sup>
+      It is uneconomical to directly connect electricity consumers to the main transmission network, unless they use large amounts of power, so the distribution station reduces voltage to a level suitable for local distribution.
+     </p>
+     <p>
+      The input for a distribution substation is typically at least two transmission or sub-transmission lines. Input voltage may be, for example, 115 kV, or whatever is common in the area. The output is a number of feeders. Distribution voltages are typically medium voltage, between 2.4 kV and 33 kV, depending on the size of the area served and the practices of the local utility. The feeders run along streets overhead (or underground, in some cases) and power the distribution transformers at or near the customer premises.
+     </p>
+     <p>
+      In addition to transforming voltage, distribution substations also isolate faults in either the transmission or distribution systems. Distribution substations are typically the points of
+      <a href="/wiki/Voltage_regulation" title="Voltage regulation">
+       voltage regulation
+      </a>
+      , although on long distribution circuits (of several miles/kilometers), voltage regulation equipment may also be installed along the line.
+     </p>
+     <p>
+      The downtown areas of large cities feature complicated distribution substations, with high-voltage switching, and switching and backup systems on the low-voltage side. More typical distribution substations have a switch, one transformer, and minimal facilities on the low-voltage side.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Collector_substation">
+       Collector substation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=4" title="Edit section: Collector substation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In
+      <a href="/wiki/Distributed_generation" title="Distributed generation">
+       distributed generation
+      </a>
+      projects such as a
+      <a href="/wiki/Wind_farm" title="Wind farm">
+       wind farm
+      </a>
+      , a collector substation may be required. It resembles a distribution substation although power flow is in the opposite direction, from many
+      <a href="/wiki/Wind_turbine" title="Wind turbine">
+       wind turbines
+      </a>
+      up into the transmission grid. Usually for economy of construction the collector system operates around 35 kV, and the collector substation steps up voltage to a transmission voltage for the grid. The collector substation can also provide
+      <a class="mw-redirect" href="/wiki/Power_factor_correction" title="Power factor correction">
+       power factor correction
+      </a>
+      if it is needed, metering, and control of the wind farm. In some special cases a collector substation can also contain an HVDC converter station.
+     </p>
+     <p>
+      Collector substations also exist where multiple thermal or hydroelectric power plants of comparable output power are in proximity. Examples for such substations are
+      <a href="/wiki/Brauweiler" title="Brauweiler">
+       Brauweiler
+      </a>
+      in Germany and
+      <a href="/wiki/Hradec_substation" title="Hradec substation">
+       Hradec
+      </a>
+      in the Czech Republic, where power is collected from nearby
+      <a href="/wiki/Lignite" title="Lignite">
+       lignite
+      </a>
+      -fired power plants. If no transformers are required for increasing the voltage to transmission level, the substation is a switching station.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Converter_substations">
+       Converter substations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=5" title="Edit section: Converter substations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Converter substations may be associated with
+      <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">
+       HVDC
+      </a>
+      converter plants,
+      <a class="mw-redirect" href="/wiki/Traction_current" title="Traction current">
+       traction current
+      </a>
+      , or interconnected non-synchronous networks. These stations contain power electronic devices to change the frequency of current, or else convert from alternating to direct current or the reverse. Formerly
+      <a href="/wiki/Rotary_converter" title="Rotary converter">
+       rotary converters
+      </a>
+      changed frequency to interconnect two systems; nowadays such substations are rare.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Switching_station">
+       Switching station
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=6" title="Edit section: Switching station">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:352px;">
+       <a class="image" href="/wiki/File:Grand_Coulee_Dam_electrical_switchyward.jpg">
+        <img alt="" class="thumbimage" data-file-height="575" data-file-width="1294" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grand_Coulee_Dam_electrical_switchyward.jpg/350px-Grand_Coulee_Dam_electrical_switchyward.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grand_Coulee_Dam_electrical_switchyward.jpg/525px-Grand_Coulee_Dam_electrical_switchyward.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grand_Coulee_Dam_electrical_switchyward.jpg/700px-Grand_Coulee_Dam_electrical_switchyward.jpg 2x" width="350"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Grand_Coulee_Dam_electrical_switchyward.jpg" title="Enlarge">
+         </a>
+        </div>
+        Switchyard at
+        <a href="/wiki/Grand_Coulee_Dam" title="Grand Coulee Dam">
+         Grand Coulee Dam
+        </a>
+        , USA, 2006
+       </div>
+      </div>
+     </div>
+     <p>
+      A switching station is a substation without transformers and operating only at a single voltage level. Switching stations are sometimes used as collector and distribution stations. Sometimes they are used for switching the current to back-up lines or for parallelizing circuits in case of failure. An example is the switching stations for the
+      <a class="mw-redirect" href="/wiki/Inga%E2%80%93Shaba" title="Inga–Shaba">
+       HVDC Inga–Shaba
+      </a>
+      transmission line.
+     </p>
+     <p>
+      A switching station may also be known as a switchyard, and these are commonly located directly adjacent to or nearby a
+      <a href="/wiki/Power_station" title="Power station">
+       power station
+      </a>
+      . In this case the generators from the power station supply their power into the yard onto the Generator Bus on one side of the yard, and the transmission lines take their power from a Feeder Bus on the other side of the yard.
+     </p>
+     <p>
+      An important function performed by a substation is
+      <a href="/wiki/Switch#Power_switching" title="Switch">
+       switching
+      </a>
+      , which is the connecting and disconnecting of transmission lines or other components to and from the system. Switching events may be planned or unplanned. A transmission line or other component may need to be de-energized for maintenance or for new construction, for example, adding or removing a transmission line or a transformer. To maintain reliability of supply, companies aim at keeping the system up and running while performing maintenance. All work to be performed, from routine testing to adding entirely new substations, should be done while keeping the whole system running.
+     </p>
+     <p>
+      Unplanned switching events are caused by a
+      <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">
+       fault
+      </a>
+      in a transmission line or any other component, for example:
+     </p>
+     <ul>
+      <li>
+       a line is hit by lightning and develops an
+       <a href="/wiki/Electric_arc" title="Electric arc">
+        arc
+       </a>
+       ,
+      </li>
+      <li>
+       a
+       <a href="/wiki/Transmission_tower" title="Transmission tower">
+        tower
+       </a>
+       is blown down by high wind.
+      </li>
+     </ul>
+     <p>
+      The function of the switching station is to isolate the faulty portion of the system in the shortest possible time. De-energizing faulty equipment protects it from further damage, and isolating a fault helps keep the rest of the electrical grid operating with stability.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Railways">
+       Railways
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=7" title="Edit section: Railways">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Traction_substation" title="Traction substation">
+       Traction substation
+      </a>
+     </div>
+     <p>
+      Electrified railways also use substations, often distribution substations. In some cases a conversion of the current type takes place, commonly with
+      <a href="/wiki/Rectifier" title="Rectifier">
+       rectifiers
+      </a>
+      for
+      <a href="/wiki/Direct_current" title="Direct current">
+       direct current
+      </a>
+      (DC) trains, or
+      <a href="/wiki/Rotary_converter" title="Rotary converter">
+       rotary converters
+      </a>
+      for trains using
+      <a href="/wiki/Alternating_current" title="Alternating current">
+       alternating current
+      </a>
+      (AC) at frequencies other than that of the public grid. Sometimes they are also transmission substations or collector substations if the railway network also operates its own grid and generators.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Design">
+       Design
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=8" title="Edit section: Design">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Poste_Adelard-Godbout_06.JPG">
+        <img alt="" class="thumbimage" data-file-height="3000" data-file-width="4000" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poste_Adelard-Godbout_06.JPG/220px-Poste_Adelard-Godbout_06.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poste_Adelard-Godbout_06.JPG/330px-Poste_Adelard-Godbout_06.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poste_Adelard-Godbout_06.JPG/440px-Poste_Adelard-Godbout_06.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Poste_Adelard-Godbout_06.JPG" title="Enlarge">
+         </a>
+        </div>
+        The
+        <a href="/wiki/Poste_Ad%C3%A9lard-Godbout" title="Poste Adélard-Godbout">
+         Adélard-Godbout
+        </a>
+        substation in
+        <a href="/wiki/Old_Montreal" title="Old Montreal">
+         Old Montreal
+        </a>
+        is Canada's oldest substation, in continuous operation since 1901. It has a facade in clay brick with grey stone ornaments, to blend in to its downtown environment.
+       </div>
+      </div>
+     </div>
+     <h3>
+      <span class="mw-headline" id="Elements_of_a_substation">
+       Elements of a substation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=9" title="Edit section: Elements of a substation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Substations generally have switching, protection and control equipment, and transformers. In a large substation,
+      <a href="/wiki/Circuit_breaker" title="Circuit breaker">
+       circuit breakers
+      </a>
+      are used to interrupt any
+      <a href="/wiki/Short_circuit" title="Short circuit">
+       short circuits
+      </a>
+      or overload currents that may occur on the network. Smaller distribution stations may use
+      <a class="mw-redirect" href="/wiki/Autorecloser" title="Autorecloser">
+       recloser circuit breakers
+      </a>
+      or
+      <a href="/wiki/Fuse_(electrical)" title="Fuse (electrical)">
+       fuses
+      </a>
+      for protection of distribution circuits. Substations themselves do not usually have generators, although a
+      <a class="mw-redirect" href="/wiki/Power_plant" title="Power plant">
+       power plant
+      </a>
+      may have a substation nearby. Other devices such as
+      <a href="/wiki/Capacitor" title="Capacitor">
+       capacitors
+      </a>
+      and
+      <a href="/wiki/Voltage_regulator" title="Voltage regulator">
+       voltage regulators
+      </a>
+      may also be located at a substation.
+     </p>
+     <p>
+      Substations may be on the surface in fenced enclosures, underground, or located in special-purpose buildings. High-rise buildings may have several indoor substations. Indoor substations are usually found in urban areas to reduce the noise from the transformers, for reasons of appearance, or to protect switchgear from extreme climate or pollution conditions.
+     </p>
+     <p>
+      A
+      <a href="/wiki/Ground_(electricity)" title="Ground (electricity)">
+       grounding
+      </a>
+      (earthing) system must be designed. The total
+      <a href="/wiki/Earth_potential_rise" title="Earth potential rise">
+       ground potential rise
+      </a>
+      , and the gradients in potential during a fault (called
+      <i>
+       touch
+      </i>
+      and
+      <i>
+       step
+      </i>
+      potentials),
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      must be calculated to protect passers-by during a short-circuit in the transmission system. Earth faults at a substation can cause a
+      <a href="/wiki/Earth_potential_rise" title="Earth potential rise">
+       ground potential rise
+      </a>
+      . Currents flowing in the Earth's surface during a fault can cause metal objects to have a significantly different voltage than the ground under a person's feet; this touch potential presents a hazard of electrocution. Where a substation has a metallic fence, it must be properly grounded to protect people from this hazard.
+     </p>
+     <p>
+      The main issues facing a
+      <a href="/wiki/Power_engineering" title="Power engineering">
+       power engineer
+      </a>
+      are reliability and cost. A good design attempts to strike a balance between these two, to achieve reliability without excessive cost. The design should also allow expansion of the station, when required.
+      <sup class="reference" id="cite_ref-STD11_6-0">
+       <a href="#cite_note-STD11-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Location_selection">
+       Location selection
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=10" title="Edit section: Location selection">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Selection of the location of a substation must consider many factors. Sufficient land area is required for installation of equipment with necessary clearances for electrical safety, and for access to maintain large apparatus such as transformers.
+     </p>
+     <p>
+      Where land is costly, such as in urban areas, gas insulated
+      <a href="/wiki/Switchgear" title="Switchgear">
+       switchgear
+      </a>
+      may save money overall. Substations located in coastal areas affected by flooding and tropical storms may often require an elevated structure to keep equipment sensitive to surges hardened against these elements.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      The site must have room for expansion due to load growth or planned transmission additions. Environmental effects of the substation must be considered, such as
+      <a href="/wiki/Drainage" title="Drainage">
+       drainage
+      </a>
+      , noise and road traffic effects.
+     </p>
+     <p>
+      The substation site must be reasonably central to the distribution area to be served. The site must be secure from intrusion by passers-by, both to protect people from injury by electric shock or arcs, and to protect the electrical system from misoperation due to vandalism.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Design_diagrams">
+       Design diagrams
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=11" title="Edit section: Design diagrams">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:LEB_substation,_Tottenham_Marshes.JPG">
+        <img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LEB_substation%2C_Tottenham_Marshes.JPG/220px-LEB_substation%2C_Tottenham_Marshes.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LEB_substation%2C_Tottenham_Marshes.JPG/330px-LEB_substation%2C_Tottenham_Marshes.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LEB_substation%2C_Tottenham_Marshes.JPG/440px-LEB_substation%2C_Tottenham_Marshes.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:LEB_substation,_Tottenham_Marshes.JPG" title="Enlarge">
+         </a>
+        </div>
+        Tottenham Substation, set in wild parkland in North London.
+       </div>
+      </div>
+     </div>
+     <p>
+      The first step in planning a substation layout is the preparation of a
+      <a href="/wiki/One-line_diagram" title="One-line diagram">
+       one-line diagram
+      </a>
+      , which shows in simplified form the switching and protection arrangement required, as well as the incoming supply lines and outgoing feeders or transmission lines. It is a usual practice by many electrical utilities to prepare one-line diagrams with principal elements (lines, switches, circuit breakers, transformers) arranged on the page similarly to the way the apparatus would be laid out in the actual station.
+      <sup class="reference" id="cite_ref-Design_Guide_for_Rural_Substations_2-2">
+       <a href="#cite_note-Design_Guide_for_Rural_Substations-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In a common design, incoming lines have a disconnect switch and a
+      <a href="/wiki/Circuit_breaker" title="Circuit breaker">
+       circuit breaker
+      </a>
+      . In some cases, the lines will not have both, with either a switch or a circuit breaker being all that is considered necessary. A disconnect switch is used to provide isolation, since it cannot interrupt load current. A circuit breaker is used as a protection device to interrupt fault currents automatically, and may be used to switch loads on and off, or to cut off a line when power is flowing in the 'wrong' direction. When a large fault current flows through the circuit breaker, this is detected through the use of
+      <a href="/wiki/Current_transformer" title="Current transformer">
+       current transformers
+      </a>
+      . The magnitude of the current transformer outputs may be used to trip the circuit breaker resulting in a disconnection of the load supplied by the circuit break from the feeding point. This seeks to isolate the fault point from the rest of the system, and allow the rest of the system to continue operating with minimal impact. Both switches and circuit breakers may be operated locally (within the substation) or remotely from a supervisory control center.
+     </p>
+     <p>
+      With
+      <a class="mw-redirect" href="/wiki/Overhead_transmission_line" title="Overhead transmission line">
+       Overhead Transmission Lines (OHTLs)
+      </a>
+      , the propagation of
+      <a href="/wiki/Lightning" title="Lightning">
+       lightning
+      </a>
+      and switching
+      <a href="/wiki/Voltage_spike" title="Voltage spike">
+       surges
+      </a>
+      can cause
+      <a href="/wiki/Insulator_(electricity)" title="Insulator (electricity)">
+       insulation
+      </a>
+      failures into substation equipment. Line entrance
+      <a href="/wiki/Surge_arrester" title="Surge arrester">
+       surge arrestors
+      </a>
+      are used to protect substation equipment accordingly. Insulation Coordination studies are carried out extensively to ensure equipment failure (and associated
+      <a href="/wiki/Power_outage" title="Power outage">
+       outages
+      </a>
+      ) is minimal.
+     </p>
+     <p>
+      Once past the switching components, the lines of a given voltage connect to one or more
+      <a href="/wiki/Busbar" title="Busbar">
+       buses
+      </a>
+      . These are sets of
+      <a href="/wiki/Busbar" title="Busbar">
+       busbars
+      </a>
+      , usually in multiples of three, since
+      <a href="/wiki/Three-phase" title="Three-phase">
+       three-phase
+      </a>
+      electrical power distribution is largely universal around the world.
+     </p>
+     <p>
+      The arrangement of switches, circuit breakers, and buses used affects the cost and reliability of the substation. For important substations a ring bus, double bus, or so-called "breaker and a half" setup can be used, so that the failure of any one circuit breaker does not interrupt power to other circuits, and so that parts of the substation may be de-energized for maintenance and repairs. Substations feeding only a single industrial load may have minimal switching provisions, especially for small installations.
+      <sup class="reference" id="cite_ref-STD11_6-1">
+       <a href="#cite_note-STD11-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Breaker_and_a_half.svg">
+        <img alt="" class="thumbimage" data-file-height="358" data-file-width="319" height="247" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Breaker_and_a_half.svg/220px-Breaker_and_a_half.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Breaker_and_a_half.svg/330px-Breaker_and_a_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Breaker_and_a_half.svg/440px-Breaker_and_a_half.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Breaker_and_a_half.svg" title="Enlarge">
+         </a>
+        </div>
+        This single-line diagram illustrates the breaker and a half concept often used in switchyards.
+       </div>
+      </div>
+     </div>
+     <p>
+      Once having established buses for the various voltage levels, transformers may be connected between the voltage levels. These will again have a circuit breaker, much like transmission lines, in case a transformer has a
+      <i>
+       fault
+      </i>
+      (commonly called a "short circuit").
+     </p>
+     <p>
+      Along with this, a substation always has control circuitry needed to command the various circuit breakers to open in case of the failure of some component.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Automation">
+       Automation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=12" title="Edit section: Automation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a class="mw-redirect" href="/wiki/Power_system_automation" title="Power system automation">
+       Power system automation
+      </a>
+     </div>
+     <p>
+      Early electrical substations required manual switching or adjustment of equipment, and manual collection of data for load, energy consumption, and abnormal events. As the complexity of distribution networks grew, it became economically necessary to automate supervision and control of substations from a centrally attended point, to allow overall coordination in case of emergencies and to reduce operating costs. Early efforts to remote control substations used dedicated communication wires, often run alongside power circuits.
+      <a class="mw-redirect" href="/wiki/Power_line_communication" title="Power line communication">
+       Power-line carrier
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Microwave_radio" title="Microwave radio">
+       microwave radio
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Fiber_optic" title="Fiber optic">
+       fiber optic
+      </a>
+      cables as well as dedicated wired remote control circuits have all been applied to
+      <a href="/wiki/SCADA" title="SCADA">
+       Supervisory Control and Data Acquisition
+      </a>
+      (SCADA) for substations. The development of the
+      <a href="/wiki/Microprocessor" title="Microprocessor">
+       microprocessor
+      </a>
+      made for an exponential increase in the number of points that could be economically controlled and monitored. Today, standardized communication protocols such as
+      <a href="/wiki/DNP3" title="DNP3">
+       DNP3
+      </a>
+      ,
+      <a href="/wiki/IEC_61850" title="IEC 61850">
+       IEC 61850
+      </a>
+      and
+      <a href="/wiki/Modbus" title="Modbus">
+       Modbus
+      </a>
+      , to list a few, are used to allow multiple intelligent electronic devices to communicate with each other and supervisory control centers. Distributed automatic control at substations is one element of the so-called
+      <a href="/wiki/Smart_grid" title="Smart grid">
+       smart grid
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Insulation">
+       Insulation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=13" title="Edit section: Insulation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Switches, circuit breakers, transformers and other apparatus may be interconnected by air-insulated bare conductors strung on support structures. The air space required increases with system voltage and with the lightning surge voltage rating. For medium-voltage distribution substations, metal-enclosed switch gear may be used and no live conductors exposed at all. For higher voltages, gas-insulated switch gear reduces the space required around live bus. Instead of bare conductors, bus and apparatus are built into pressurized tubular containers filled with
+      <a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">
+       sulfur hexafluoride
+      </a>
+      (SF
+      <sub>
+       6
+      </sub>
+      ) gas. This gas has a higher insulating value than air, allowing the dimensions of the apparatus to be reduced. In addition to air or SF
+      <sub>
+       6
+      </sub>
+      gas, apparatus will use other insulation materials such as
+      <a href="/wiki/Transformer_oil" title="Transformer oil">
+       transformer oil
+      </a>
+      , paper, porcelain, and polymer insulators.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Structure">
+       Structure
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=14" title="Edit section: Structure">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Outdoor, above-ground substation structures include wood pole, lattice metal tower, and tubular metal structures, although other variants are available. Where space is plentiful and appearance of the station is not a factor, steel lattice towers provide low-cost supports for transmission lines and apparatus. Low-profile substations may be specified in suburban areas where appearance is more critical. Indoor substations may be gas-insulated switchgear (at high voltages), or metal-enclosed or metal-clad switchgear at lower voltages. Urban and suburban indoor substations may be finished on the outside so as to blend in with other buildings in the area.
+     </p>
+     <p>
+      A
+      <i>
+       compact substation
+      </i>
+      is generally an outdoor substation built in a metal enclosure, in which each item of the electrical equipment is located very near to each other to create a relatively smaller footprint size of the substation.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=15" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Power-line_communication" title="Power-line communication">
+        Power-line communication
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/HVDC_converter_station" title="HVDC converter station">
+        HVDC converter station
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Traction_substation" title="Traction substation">
+        Traction substation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_EHV-substations_in_Austria" title="List of EHV-substations in Austria">
+        List of EHV-substations in Austria
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_EHV-substations_in_Germany" title="List of EHV-substations in Germany">
+        List of EHV-substations in Germany
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_EHV-substations_in_Switzerland" title="List of EHV-substations in Switzerland">
+        List of EHV-substations in Switzerland
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References_and_further_reading">
+       References and further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_substation&amp;action=edit&amp;section=16" title="Edit section: References and further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Electrical_substation" title="commons:Electrical substation">
+           Electrical substation
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://jemena.com.au/getattachment/industry/electricity/Network-planning/Western-metropolitan-Melbourne-transmission-connection-and-subtransmission-capacity.pdf.aspx" rel="nofollow">
+           "Joint Consultation Paper: Western Metropolitan Melbourne Transmission Connection and Subtransmission Capacity"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Jemena
+          </i>
+          . Powercor Australia, Jemena, Australian Energy Market Operator
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=Joint+Consultation+Paper%3A+Western+Metropolitan+Melbourne+Transmission+Connection+and+Subtransmission+Capacity&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fjemena.com.au%2Fgetattachment%2Findustry%2Felectricity%2FNetwork-planning%2FWestern-metropolitan-Melbourne-transmission-connection-and-subtransmission-capacity.pdf.aspx&amp;rft.jtitle=Jemena&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Design_Guide_for_Rural_Substations-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Design_Guide_for_Rural_Substations_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Design_Guide_for_Rural_Substations_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Design_Guide_for_Rural_Substations_2-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Stockton, Blaine.
+          <a class="external text" href="http://www.rd.usda.gov/files/UEP_Bulletin_1724E-300.pdf" rel="nofollow">
+           "Design Guide for Rural Substations"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           USDA Rural Development
+          </i>
+          . United States Department of Agriculture
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=Design+Guide+for+Rural+Substations&amp;rft.aufirst=Blaine&amp;rft.aulast=Stockton&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rd.usda.gov%2Ffiles%2FUEP_Bulletin_1724E-300.pdf&amp;rft.jtitle=USDA+Rural+Development&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Steinberg, Neil.
+          <a class="external text" href="http://www.messynessychic.com/2013/12/13/lights-on-but-nobody-home-behind-the-fake-buildings-that-power-chicago/" rel="nofollow">
+           "Lights On but Nobody Home: Behind the Fake Buildings that Power Chicago"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            14 December
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.aufirst=Neil&amp;rft.aulast=Steinberg&amp;rft.btitle=Lights+On+but+Nobody+Home%3A+Behind+the+Fake+Buildings+that+Power+Chicago&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.messynessychic.com%2F2013%2F12%2F13%2Flights-on-but-nobody-home-behind-the-fake-buildings-that-power-chicago%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.metacafe.com/watch/39058/transformer_fire_video/" rel="nofollow">
+           "Transformer Fire Video"
+          </a>
+          .
+          <i>
+           metacafe
+          </i>
+          . User Eagle Eye
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=Transformer+Fire+Video&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metacafe.com%2Fwatch%2F39058%2Ftransformer_fire_video%2F&amp;rft.jtitle=metacafe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          John, Alvin.
+          <a class="external text" href="http://www.eng.uwi.tt/depts/elec/staff/alvin/ee35t/notes/Substation-Design.html" rel="nofollow">
+           "EE35T - Substation Design and Layout"
+          </a>
+          .
+          <i>
+           The University Of The West Indies at St. Augustine, Trinidad And Tobago
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=EE35T+-+Substation+Design+and+Layout&amp;rft.aufirst=Alvin&amp;rft.aulast=John&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eng.uwi.tt%2Fdepts%2Felec%2Fstaff%2Falvin%2Fee35t%2Fnotes%2FSubstation-Design.html&amp;rft.jtitle=The+University+Of+The+West+Indies+at+St.+Augustine%2C+Trinidad+And+Tobago&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-STD11-6">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-STD11_6-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-STD11_6-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Donald G. Fink, H. Wayne Beatty
+         <i>
+          Standard Handbook for Electrical Engineers Eleventh Edition
+         </i>
+         , McGraw Hill 1978
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/007020974X">
+          ISBN 0-07-020974-X
+         </a>
+         Chapter 17
+         <i>
+          Substation Design
+         </i>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Baker, Joseph W,.
+          <a class="external text" href="http://www.distransubstations.com/images/uploads/resources/poster-v3.1.pdf" rel="nofollow">
+           "Eliminating Hurricane Induced Storm Surge Damage To Electric Utilities Via In-place Elevation Of Substation Structures And Equipment"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           DIS-TRAN Packaged Substations
+          </i>
+          . Crest Industries
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=Eliminating+Hurricane+Induced+Storm+Surge+Damage+To+Electric+Utilities+Via+In-place+Elevation+Of+Substation+Structures+And+Equipment&amp;rft.aufirst=Joseph+W%2C&amp;rft.aulast=Baker&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.distransubstations.com%2Fimages%2Fuploads%2Fresources%2Fposter-v3.1.pdf&amp;rft.jtitle=DIS-TRAN+Packaged+Substations&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <ol>
+      <li>
+       <cite class="citation journal">
+        R. M. S. de Oliveira and C. L. S. S. Sobrinho (2009). "Computational Environment for Simulating Lightning Strokes in a Power Substation by Finite-Difference Time-Domain Method".
+        <i>
+         IEEE Transactions on Electromagnetic Compatibility
+        </i>
+        .
+        <b>
+         51
+        </b>
+        (4): 995–1000.
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="//dx.doi.org/10.1109%2FTEMC.2009.2028879" rel="nofollow">
+         10.1109/TEMC.2009.2028879
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+substation&amp;rft.atitle=Computational+Environment+for+Simulating+Lightning+Strokes+in+a+Power+Substation+by+Finite-Difference+Time-Domain+Method&amp;rft.au=R.+M.+S.+de+Oliveira+and+C.+L.+S.+S.+Sobrinho&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTEMC.2009.2028879&amp;rft.issue=4&amp;rft.jtitle=IEEE+Transactions+on+Electromagnetic+Compatibility&amp;rft.pages=995-1000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+     </ol>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00563091" rel="nofollow">
+               00563091
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Electricity_delivery" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Electricity_delivery" style="font-size:114%">
+          <a href="/wiki/Electricity_delivery" title="Electricity delivery">
+           Electricity delivery
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Availability_factor" title="Availability factor">
+             Availability factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Base_load" title="Base load">
+             Base load
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Black_start" title="Black start">
+             Black start
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Capacity_factor" title="Capacity factor">
+             Capacity factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_factor" title="Demand factor">
+             Demand factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_demand_management" title="Energy demand management">
+             Demand management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">
+             Fault
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grid_energy_storage" title="Grid energy storage">
+             Grid storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+             Intermittency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">
+             Load factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+             Load following
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+             Nameplate capacity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_demand" title="Peak demand">
+             Peak demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_quality" title="Electric power quality">
+             Power quality
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power-flow_study" title="Power-flow study">
+             Power-flow study
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Repowering" title="Repowering">
+             Repowering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">
+             Variability
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Sources
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a class="mw-redirect" href="/wiki/Non-renewable_energy" title="Non-renewable energy">
+              Nonrenewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Coal" title="Coal">
+                Coal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">
+                Fossil-fuel power station
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Natural_gas" title="Natural gas">
+                Natural gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Petroleum" title="Petroleum">
+                Petroleum
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power" title="Nuclear power">
+                Nuclear
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oil_shale" title="Oil shale">
+                Oil shale
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Renewable_energy" title="Renewable energy">
+              Renewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Biomass" title="Biomass">
+                Biomass
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Biofuel" title="Biofuel">
+                Biofuel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Geothermal_power" title="Geothermal power">
+                Geothermal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+                Hydro
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Marine_energy" title="Marine energy">
+                Marine
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Marine_current_power" title="Marine current power">
+                  Current
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Osmotic_power" title="Osmotic power">
+                  Osmotic
+                 </a>
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/Ocean_thermal_energy" title="Ocean thermal energy">
+                  Thermal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Tidal_power" title="Tidal power">
+                  Tidal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Wave_power" title="Wave power">
+                  Wave
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Solar_power" title="Solar power">
+                Solar
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power" title="Wind power">
+                Wind
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+          Generation
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/AC_power" title="AC power">
+             AC power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cogeneration" title="Cogeneration">
+             Cogeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Combined_cycle" title="Combined cycle">
+             Combined cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooling_tower" title="Cooling tower">
+             Cooling tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induction_generator" title="Induction generator">
+             Induction generator
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">
+             Micro CHP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Microgeneration" title="Microgeneration">
+             Microgeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rankine_cycle" title="Rankine cycle">
+             Rankine cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">
+             Three-phase electric power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Virtual_power_plant" title="Virtual power plant">
+             Virtual power plant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+           Transmission
+          </a>
+          <br/>
+          and
+          <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+           distribution
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Power_outage" title="Power outage">
+             Blackout
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Rolling_blackout" title="Rolling blackout">
+             Rolling blackout
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">
+             Brownout
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_response" title="Demand response">
+             Demand response
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Distributed_generation" title="Distributed generation">
+             Distributed generation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">
+             Dynamic demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+             Electric power distribution
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_system" title="Electric power system">
+             Electric power system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+             Electric power transmission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_grid" title="Electrical grid">
+             Electrical grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">
+             High-voltage direct current
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_management" title="Load management">
+             Load management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+             Pumped hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power_station" title="Power station">
+             Power station
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Power_storage" title="Power storage">
+             Power storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Smart_grid" title="Smart grid">
+             Smart grid
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Substation
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Super_grid" title="Super grid">
+             Super grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transformer" title="Transformer">
+             Transformer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transmission_system_operator" title="Transmission system operator">
+             Transmission system operator
+            </a>
+            (TSO)
+           </li>
+           <li>
+            <a href="/wiki/Transmission_tower" title="Transmission tower">
+             Transmission tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Utility_pole" title="Utility pole">
+             Utility pole
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Protective
+          <br/>
+          devices
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">
+             Arc-fault_circuit_interrupter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">
+             Earth leakage circuit breaker
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Residual-current_device" title="Residual-current device">
+             Residual-current device
+            </a>
+            (GFI)
+           </li>
+           <li>
+            <a href="/wiki/Power-system_protection" title="Power-system protection">
+             Power-system protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Protective_relay" title="Protective relay">
+             Protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Digital_protective_relay" title="Digital protective relay">
+             Digital protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">
+             Sulfur hexafluoride circuit breaker
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Economics
+          <br/>
+          and policies
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_offset" title="Carbon offset">
+             Carbon offset
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">
+             Cost of electricity by source
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecotax" title="Ecotax">
+             Ecotax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_subsidies" title="Energy subsidies">
+             Energy subsidies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">
+             Feed-in tariff
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Net_metering" title="Net metering">
+             Net metering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pigovian_tax" title="Pigovian tax">
+             Pigovian tax
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_Energy_Certificates" title="Renewable Energy Certificates">
+             Renewable Energy Certificates
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_payments" title="Renewable energy payments">
+             Renewable energy payments
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_policy" title="Renewable energy policy">
+             Renewable energy policy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spark_spread" title="Spark spread">
+             Spark spread
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <dl>
+           <dt>
+            Categories
+           </dt>
+           <dd>
+            <a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">
+             Electric power distribution
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">
+             Electricity economics
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+             Power station technology
+            </a>
+           </dd>
+           <dt>
+            Portals
+           </dt>
+           <dd>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </dd>
+          </dl>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:320217-0!*!0!!en!4!* and timestamp 20161104153140 and revision id 741770380
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electrical_substation&amp;oldid=741770380">
+      https://en.wikipedia.org/w/index.php?title=Electrical_substation&amp;oldid=741770380
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Electric_power" title="Category:Electric power">
+         Electric power
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Electric_power_infrastructure" title="Category:Electric power infrastructure">
+         Electric power infrastructure
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electrical+substation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Electrical+substation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Electrical_substation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Electrical_substation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Electrical_substation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Electrical_substation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Electrical_substation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Electrical_substation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Electrical_substation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Electrical_substation&amp;oldid=741770380" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Electrical_substation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q174814" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electrical_substation&amp;id=741770380" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electrical+substation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electrical+substation&amp;returnto=Electrical+substation&amp;oldid=741770380&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Electrical_substation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Electrical_substations" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B7%D8%A9_%D9%81%D8%B1%D8%B9%D9%8A%D8%A9" hreflang="ar" lang="ar" title="محطة فرعية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Электрычная падстанцыя – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Електрическа подстанция – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Subestaci%C3%B3_el%C3%A8ctrica" hreflang="ca" lang="ca" title="Subestació elèctrica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Elektrick%C3%A1_stanice" hreflang="cs" lang="cs" title="Elektrická stanice – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Elektrisk_understation" hreflang="da" lang="da" title="Elektrisk understation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Umspannwerk" hreflang="de" lang="de" title="Umspannwerk – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Alajaam" hreflang="et" lang="et" title="Alajaam – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Subestaci%C3%B3n_el%C3%A9ctrica" hreflang="es" lang="es" title="Subestación eléctrica – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Subcentralo" hreflang="eo" lang="eo" title="Subcentralo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B3%D8%AA_%D8%A8%D8%B1%D9%82" hreflang="fa" lang="fa" title="پست برق – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Poste_%C3%A9lectrique" hreflang="fr" lang="fr" title="Poste électrique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%80%EC%A0%84%EC%86%8C" hreflang="ko" lang="ko" title="변전소 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B7%D5%AC%D5%A5%D5%AF%D5%BF%D6%80%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A5%D5%B6%D5%A9%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6" hreflang="hy" lang="hy" title="Էլեկտրական ենթակայան – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0" hreflang="hi" lang="hi" title="विद्युत उपकेंद्र – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sottostazione_elettrica" hreflang="it" lang="it" title="Sottostazione elettrica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%9E%D7%A9%D7%A0%D7%94" hreflang="he" lang="he" title="תחנת משנה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%B2%E0%B4%95%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BD_%E0%B4%B8%E0%B4%AC%E0%B5%8D%E2%80%8C%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB" hreflang="ml" lang="ml" title="ഇലക്ട്രിക്കൽ സബ്‌സ്റ്റേഷൻ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4_%E0%A4%89%E0%A4%AA%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="विद्युत उपकेंद्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pencawang_elektrik" hreflang="ms" lang="ms" title="Pencawang elektrik – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Onderstation" hreflang="nl" lang="nl" title="Onderstation – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%89%E9%9B%BB%E6%89%80" hreflang="ja" lang="ja" title="変電所 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Stacja_elektroenergetyczna" hreflang="pl" lang="pl" title="Stacja elektroenergetyczna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Subesta%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Subestação – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Sta%C8%9Bie_electric%C4%83" hreflang="ro" lang="ro" title="Stație electrică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Электрическая подстанция – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Electrical_substation" hreflang="simple" lang="simple" title="Electrical substation – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%98%D0%B5%D1%9A%D0%B5" hreflang="sr" lang="sr" title="Разводно постројење – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Razvodno_postrojenje" hreflang="sh" lang="sh" title="Razvodno postrojenje – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/St%C3%A4llverk_(elkraft)" hreflang="sv" lang="sv" title="Ställverk (elkraft) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C5%9Ealt_sahas%C4%B1" hreflang="tr" lang="tr" title="Şalt sahası – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0_%D0%BF%D1%96%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Електрична підстанція – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%AE%8A%E9%9B%BB%E6%89%80" hreflang="zh" lang="zh" title="變電所 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q174814#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 29 September 2016, at 15:21.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Electrical_substation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.148",
+            "walltime": "0.199",
+            "ppvisitednodes": {
+                "value": 1012,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 39968,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 886,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  130.494      1 -total",
+                " 41.98%   54.775      1 Template:Reflist",
+                " 33.82%   44.139      6 Template:Cite_web",
+                " 18.62%   24.300      1 Template:Authority_control",
+                " 14.32%   18.692      2 Template:Main",
+                " 14.31%   18.680      2 Template:Navbox",
+                " 13.64%   17.802      1 Template:Electricity_generation",
+                "  6.47%    8.438      1 Template:Navbox_subgroup",
+                "  5.88%    7.672      1 Template:Commons",
+                "  5.02%    6.553      1 Template:Sister_project"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.054",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2554338,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1177",
+            "timestamp": "20161104153141",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1173"});});
+  </script>
+ </body>
+</html>

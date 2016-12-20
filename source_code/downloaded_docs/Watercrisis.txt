@@ -1,0 +1,3214 @@
+https://en.wikipedia.org/wiki/Water_crisis
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Water security - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_security","wgTitle":"Water security","wgCurRevisionId":746643309,"wgRevisionId":746643309,"wgArticleId":21161137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Articles with Wayback Machine links","Pages with citations lacking titles","Pages with citations having bare URLs","Articles to be merged from July 2014","All articles to be merged","Water and the environment","Water security","Security studies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_security","wgRelevantArticleId":21161137,"wgRequestId":"WBv-qwpAADoAAPl@xgcAAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Water_crisis","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Water_security","wgWikibaseItemId":"Q7973735","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Water_security" rel="alternate"/>
+  <link href="/w/index.php?title=Water_security&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Water_security&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Water_security" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_security rootpage-Water_security skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Water security
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Water_crisis&amp;redirect=no" title="Water crisis">
+       Water crisis
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-move" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="20" data-file-width="50" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/75px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/100px-Mergefrom.svg.png 2x" width="50"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         It has been suggested that
+         <i>
+          <a href="/wiki/Water_security_and_emergency_preparedness" title="Water security and emergency preparedness">
+           Water security and emergency preparedness
+          </a>
+         </i>
+         be
+         <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">
+          merged
+         </a>
+         into this article. (
+         <a href="/wiki/Talk:Water_security#Proposed_merge_with_Water_security_and_emergency_preparedness" title="Talk:Water security">
+          Discuss
+         </a>
+         )
+         <small>
+          <i>
+           Proposed since July 2014.
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:602px;">
+       <a class="image" href="/wiki/File:WWDR4_Water_scarcity.PNG">
+        <img alt="" class="thumbimage" data-file-height="424" data-file-width="1028" height="247" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/WWDR4_Water_scarcity.PNG/600px-WWDR4_Water_scarcity.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/WWDR4_Water_scarcity.PNG/900px-WWDR4_Water_scarcity.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fd/WWDR4_Water_scarcity.PNG 2x" width="600"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:WWDR4_Water_scarcity.PNG" title="Enlarge">
+         </a>
+        </div>
+        A 2012 map of the world showing in red the places with least water security.
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       <a href="/wiki/Water" title="Water">
+        Water
+       </a>
+       security
+      </b>
+      has been defined as "the reliable availability of an acceptable quantity and quality of water for health, livelihoods and production, coupled with an acceptable level of water-related risks."
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Sustainable development will not be achieved without a water secure world. A water secure world integrates a concern for the intrinsic value of water with a concern for its use for human survival and well-being. A water secure world harnesses water's productive power and minimises its destructive force. Water security also means addressing environmental protection and the negative effects of poor management. It is also concerned with ending fragmented responsibility for water and integrating water resources management across all sectors – finance, planning, agriculture, energy, tourism, industry, education and health. A water secure world
+      <a href="/wiki/Poverty_reduction" title="Poverty reduction">
+       reduces poverty
+      </a>
+      , advances education, and increases living standards. It is a world where there is an improved quality of life for all, especially for the most vulnerable—usually women and children—who benefit most from good water governance.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Background">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Background
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Fresh_Water">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Fresh Water
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Research">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Research
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Most_affected_countries">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Most affected countries
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#International_competition">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          International competition
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Intra-national_competition">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Intra-national competition
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Australia">
+           <span class="tocnumber">
+            6.1
+           </span>
+           <span class="toctext">
+            Australia
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#India">
+           <span class="tocnumber">
+            6.2
+           </span>
+           <span class="toctext">
+            India
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Blue_Peace">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Blue Peace
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Conventional_fossil_or_nuclear_energy_based_desalination">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Conventional fossil or nuclear energy based desalination
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#Solar_energy_based_desalination">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Solar energy based desalination
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#See_also">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#References">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          12
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#External_links">
+         <span class="tocnumber">
+          13
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Background">
+       Background
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=1" title="Edit section: Background">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      According to the
+      <a href="/wiki/Pacific_Institute" title="Pacific Institute">
+       Pacific Institute
+      </a>
+      "While regional impacts will vary, global
+      <a href="/wiki/Climate_change" title="Climate change">
+       climate change
+      </a>
+      will potentially alter agricultural productivity, freshwater availability and quality, access to vital minerals, coastal and island flooding, and more. Among the consequences of these impacts will be challenges to political relationships, realignment of energy markets and regional economies, and threats to security".
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      It impacts regions, states and countries. Tensions exist between upstream and downstream users of water within individual jurisdictions.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      During history there has been much conflict over use of water from
+      <a href="/wiki/River" title="River">
+       rivers
+      </a>
+      such as the
+      <a href="/wiki/Tigris" title="Tigris">
+       Tigris
+      </a>
+      and
+      <a href="/wiki/Euphrates" title="Euphrates">
+       Euphrates
+      </a>
+      Rivers.
+      <sup class="reference" id="cite_ref-stormingmedia.us_5-0">
+       <a href="#cite_note-stormingmedia.us-5">
+        [5]
+       </a>
+      </sup>
+      Another highly politicized example is
+      <a href="/wiki/Israel" title="Israel">
+       Israel's
+      </a>
+      control of water resources in the
+      <a href="/wiki/Levant" title="Levant">
+       Levant
+      </a>
+      region since its creation,
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      where Israel securing its water resources was one of several drivers for the 1967
+      <a class="mw-redirect" href="/wiki/Six_Day_War" title="Six Day War">
+       Six Day War
+      </a>
+      .
+     </p>
+     <p>
+      Water security is sometimes sought by implementing
+      <a class="mw-redirect" href="/wiki/Water_desalination" title="Water desalination">
+       water desalination
+      </a>
+      ,
+      <a href="/wiki/Pipeline_transport" title="Pipeline transport">
+       pipelines
+      </a>
+      between sources and users, water licences with different security levels and
+      <a href="/wiki/War" title="War">
+       war
+      </a>
+      .
+     </p>
+     <p>
+      Water allocation between competing users is increasingly determined by application of market-based pricing for either water licenses or actual water.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Fresh_Water">
+       Fresh Water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=2" title="Edit section: Fresh Water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Water, in absolute terms, is not in short supply planet-wide. But, according to the United Nations water organization, UN-Water, the total usable freshwater supply for ecosystems and humans is only about 200,000 km3 of water – less than one percent (&lt;1%) of all freshwater resources. And, water use has been growing at more than twice the rate of the population increase in the last century. Specifically, water withdrawals are predicted to increase by 50 percent by 2025 in developing countries, and 18 per cent in developed countries. By 2025, 1.8 billion people will be living in countries or regions with absolute water scarcity, and two-thirds of the world population could be under stress conditions.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Research">
+       Research
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=3" title="Edit section: Research">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Thailand_nan_river_fishing.jpg">
+        <img alt="" class="thumbimage" data-file-height="499" data-file-width="686" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thailand_nan_river_fishing.jpg/220px-Thailand_nan_river_fishing.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thailand_nan_river_fishing.jpg/330px-Thailand_nan_river_fishing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thailand_nan_river_fishing.jpg/440px-Thailand_nan_river_fishing.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Thailand_nan_river_fishing.jpg" title="Enlarge">
+         </a>
+        </div>
+        Thailand nan river fishing
+       </div>
+      </div>
+     </div>
+     <p>
+      According to
+      <i>
+       <a href="/wiki/Nature_(journal)" title="Nature (journal)">
+        Nature
+       </a>
+      </i>
+      (2010), about 80% of the world's population (5.6 billion in 2011) live in areas with threats to water security. The water security is a shared threat to human and nature and it is pandemic. Human water-management strategies can be detrimental to wildlife, such as migrating fish. Regions with intensive agriculture and dense populations, such as the US and Europe, have a high threat of water security. Water is increasingly being used as a weapon in conflict.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      Water insecurity is always accompanied by one or more issues such as poverty, war and conflict, low women’s development and environmental degradation.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      Researchers estimate that during 2010-2015, ca US$800 billion will be required to cover the annual global investment in
+      <a class="mw-redirect" href="/wiki/Water_infrastructure" title="Water infrastructure">
+       water infrastructure
+      </a>
+      . Good management of water resources can jointly manage
+      <a href="/wiki/Biodiversity" title="Biodiversity">
+       biodiversity
+      </a>
+      protection and human water security. Preserving flood plains rather than constructing flood-control reservoirs would provide a cost-effective way to control floods while protecting the biodiversity of wildlife that occupies such areas.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Lawrence Smith, the president of the population institute, asserts that although an overwhelming majority of the planet's surface is composed of water, 97% of this water is constituted of saltwater; the
+      <a href="/wiki/Fresh_water" title="Fresh water">
+       fresh water
+      </a>
+      used to sustain humans is only 3% of the total amount of water on Earth.
+      <sup class="reference" id="cite_ref-Hoevel_12-0">
+       <a href="#cite_note-Hoevel-12">
+        [12]
+       </a>
+      </sup>
+      Therefore, Smith believes that the competition for water in an overpopulated world would pose a major threat to human stability,
+      <sup class="reference" id="cite_ref-Hoevel_12-1">
+       <a href="#cite_note-Hoevel-12">
+        [12]
+       </a>
+      </sup>
+      even going so far as to postulate apocalyptic world wars being fought over the control of thinning ice sheets and nearly desiccated reservoirs.
+      <sup class="reference" id="cite_ref-Hoevel_12-2">
+       <a href="#cite_note-Hoevel-12">
+        [12]
+       </a>
+      </sup>
+      Nevertheless, 2 billion people have supposedly gained access to a safe water source since 1990 who may have earlier lacked it.
+      <sup class="reference" id="cite_ref-MDG_13-0">
+       <a href="#cite_note-MDG-13">
+        [13]
+       </a>
+      </sup>
+      The proportion of people in developing countries with access to safe water is calculated to have improved from 30 percent in 1970
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      to 71 percent in 1990, 79 percent in 2000 and 84 percent in 2004, parallel with rising population. This trend is projected to continue.
+      <sup class="reference" id="cite_ref-MDG_13-1">
+       <a href="#cite_note-MDG-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The
+      <a href="/wiki/Earth" title="Earth">
+       Earth
+      </a>
+      has a limited though renewable
+      <a href="/wiki/Water_supply" title="Water supply">
+       supply of fresh water
+      </a>
+      , stored in
+      <a href="/wiki/Aquifer" title="Aquifer">
+       aquifers
+      </a>
+      ,
+      <a href="/wiki/Surface_water" title="Surface water">
+       surface waters
+      </a>
+      and the
+      <a href="/wiki/Atmosphere" title="Atmosphere">
+       atmosphere
+      </a>
+      .
+      <a href="/wiki/Ocean" title="Ocean">
+       Oceans
+      </a>
+      are a good source of usable water, but the amount of energy needed to convert
+      <a href="/wiki/Saline_water" title="Saline water">
+       saline water
+      </a>
+      to
+      <a class="mw-redirect" href="/wiki/Potable_water" title="Potable water">
+       potable water
+      </a>
+      is prohibitive with conventional approaches, explaining why only a very small fraction of the world's water supply is derived from
+      <a href="/wiki/Desalination" title="Desalination">
+       desalination
+      </a>
+      .
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      However, modern technologies, such as the
+      <a class="mw-redirect" href="/wiki/Seawater_Greenhouse" title="Seawater Greenhouse">
+       Seawater Greenhouse
+      </a>
+      , use solar energy to desalinate seawater for agriculture and drinking uses in an extremely cost-effective manner.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Most_affected_countries">
+       Most affected countries
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=4" title="Edit section: Most affected countries">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Communal_tap_(standpost)_for_drinking_water_in_Soweto,_Johannesburg,_South_Africa_(2941729790).jpg">
+        <img alt="" class="thumbimage" data-file-height="1704" data-file-width="2272" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg/220px-Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg/330px-Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg/440px-Communal_tap_%28standpost%29_for_drinking_water_in_Soweto%2C_Johannesburg%2C_South_Africa_%282941729790%29.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Communal_tap_(standpost)_for_drinking_water_in_Soweto,_Johannesburg,_South_Africa_(2941729790).jpg" title="Enlarge">
+         </a>
+        </div>
+        Communal tap (standpost) for drinking water in Soweto, Johannesburg, South Africa
+       </div>
+      </div>
+     </div>
+     <p>
+      Based on the map published by the
+      <a class="mw-redirect" href="/wiki/Consultative_Group_on_International_Agricultural_Research" title="Consultative Group on International Agricultural Research">
+       Consultative Group on International Agricultural Research
+      </a>
+      (CGIAR),
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      the countries and regions suffering most
+      <a href="/wiki/Water_scarcity" title="Water scarcity">
+       water stress
+      </a>
+      are
+      <a href="/wiki/North_Africa" title="North Africa">
+       North Africa
+      </a>
+      , the
+      <a href="/wiki/Middle_East" title="Middle East">
+       Middle East
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      <a href="/wiki/India" title="India">
+       India
+      </a>
+      ,
+      <a href="/wiki/Central_Asia" title="Central Asia">
+       Central Asia
+      </a>
+      ,
+      <a href="/wiki/China" title="China">
+       China
+      </a>
+      ,
+      <a href="/wiki/Chile" title="Chile">
+       Chile
+      </a>
+      ,
+      <a href="/wiki/Colombia" title="Colombia">
+       Colombia
+      </a>
+      ,
+      <a href="/wiki/South_Africa" title="South Africa">
+       South Africa
+      </a>
+      and
+      <a href="/wiki/Australia" title="Australia">
+       Australia
+      </a>
+      . Water scarcity is also increasing in
+      <a href="/wiki/South_Asia" title="South Asia">
+       South Asia
+      </a>
+      .
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="International_competition">
+       International competition
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=5" title="Edit section: International competition">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Water_conflict#Notable_conflicts" title="Water conflict">
+       Water_conflict § Notable_conflicts
+      </a>
+     </div>
+     <p>
+      More than 50 countries on five continents are said to be at risk of conflict over water.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Turkey" title="Turkey">
+       Turkey's
+      </a>
+      <a href="/wiki/Southeastern_Anatolia_Project" title="Southeastern Anatolia Project">
+       Southeastern Anatolia Project
+      </a>
+      (Guneydogu Anadolu Projesi, or GAP) on the
+      <a href="/wiki/Euphrates" title="Euphrates">
+       Euphrates
+      </a>
+      has potentially serious consequences for water supplies in
+      <a href="/wiki/Syria" title="Syria">
+       Syria
+      </a>
+      and
+      <a href="/wiki/Iraq" title="Iraq">
+       Iraq
+      </a>
+      .
+      <sup class="reference" id="cite_ref-stormingmedia.us_5-1">
+       <a href="#cite_note-stormingmedia.us-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      China, is constructing dams on the Mekong, leaving Vietnam, Laos, Cambodia and Thailand without same amout of water as before investment. A huge project of reversing the flow of the Brahmaputra (Chinese: Tsangpo) river, which after leaving Chinese Tibet flows through India and Bangladesh. The struggle for water in some afflicted regions has led inhabitants to hiring guards in order to protect wells. Moreover, Amu Daria River, shared by Uzbekistan, Turkmenistan, Tajikistan and Afghanistan, which has been nearly completely dried out, so much so that it has ceased to reach the Aral Sea/Lake, which is evaporating in an alarming pace. The fact that Turkmenistan retains much of the water before it flows into Uzbekistan.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Intra-national_competition">
+       Intra-national competition
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=6" title="Edit section: Intra-national competition">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Australia">
+       Australia
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=7" title="Edit section: Australia">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Water_security_in_Australia" title="Water security in Australia">
+       Water security in Australia
+      </a>
+     </div>
+     <p>
+      In
+      <a href="/wiki/Australia" title="Australia">
+       Australia
+      </a>
+      there is competition for the resources of the Darling River system between
+      <a href="/wiki/Queensland" title="Queensland">
+       Queensland
+      </a>
+      ,
+      <a href="/wiki/New_South_Wales" title="New South Wales">
+       New South Wales
+      </a>
+      and
+      <a href="/wiki/South_Australia" title="South Australia">
+       South Australia
+      </a>
+      .
+     </p>
+     <p>
+      In
+      <a class="mw-redirect" href="/wiki/Victoria,_Australia" title="Victoria, Australia">
+       Victoria, Australia
+      </a>
+      a proposed pipeline from the
+      <a href="/wiki/Goulburn_Valley" title="Goulburn Valley">
+       Goulburn Valley
+      </a>
+      to
+      <a class="mw-redirect" href="/wiki/Melbourne,_Victoria" title="Melbourne, Victoria">
+       Melbourne
+      </a>
+      has led to protests by farmers.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In the
+      <a href="/wiki/Macquarie_Marshes" title="Macquarie Marshes">
+       Macquarie Marshes
+      </a>
+      of NSW
+      <a href="/wiki/Grazing" title="Grazing">
+       grazing
+      </a>
+      and
+      <a href="/wiki/Irrigation" title="Irrigation">
+       irrigation
+      </a>
+      interests compete for water flowing to the marshes
+     </p>
+     <p>
+      The
+      <a href="/wiki/Snowy_Mountains_Scheme" title="Snowy Mountains Scheme">
+       Snowy Mountains Scheme
+      </a>
+      diverted water from the
+      <a href="/wiki/Snowy_River" title="Snowy River">
+       Snowy River
+      </a>
+      to the
+      <a href="/wiki/Murray_River" title="Murray River">
+       Murray River
+      </a>
+      and the
+      <a href="/wiki/Murrumbidgee_River" title="Murrumbidgee River">
+       Murrumbidgee River
+      </a>
+      for the benefit of irrigators and
+      <a href="/wiki/Electricity" title="Electricity">
+       electricity
+      </a>
+      generation through
+      <a class="mw-redirect" href="/wiki/Hydro-electric_power" title="Hydro-electric power">
+       hydro-electric power
+      </a>
+      . During recent years government has taken action to increase
+      <a class="mw-redirect" href="/wiki/Environmental_flows" title="Environmental flows">
+       environmental flows
+      </a>
+      to the Snowy in spite of severe drought in the
+      <a class="mw-redirect" href="/wiki/Murray_Darling_Basin" title="Murray Darling Basin">
+       Murray Darling Basin
+      </a>
+      . The Australian Government has implemented buy-backs of water allocations, or properties with water allocations, to endeavour to increase environmental flows.
+     </p>
+     <h3>
+      <span class="mw-headline" id="India">
+       India
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=8" title="Edit section: India">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main articles:
+      <a href="/wiki/Water_supply_and_sanitation_in_India" title="Water supply and sanitation in India">
+       Water supply and sanitation in India
+      </a>
+      ,
+      <a href="/wiki/Pollution_of_the_Ganges" title="Pollution of the Ganges">
+       Pollution of the Ganges
+      </a>
+      , and
+      <a href="/wiki/Energy_policy_of_India" title="Energy policy of India">
+       Energy policy of India
+      </a>
+     </div>
+     <p>
+      In India, there is competition for water resources of all inter state rivers except the main
+      <a class="mw-redirect" href="/wiki/Brahmaputra_river" title="Brahmaputra river">
+       Brahmaputra river
+      </a>
+      among the riparian states of India and also with neighbouring countries which are Nepal, China, Pakistan, Bhutan, Bangladesh, etc.
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+      Vast area of the
+      <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">
+       Indian subcontinent
+      </a>
+      is under tropical climate which is conducive for agriculture due to favourable warm and sunny conditions provided perennial water supply is available to cater to the high rate of
+      <a href="/wiki/Evapotranspiration" title="Evapotranspiration">
+       evapotranspiration
+      </a>
+      from the cultivated land. Though the overall water resources are adequate to meet all the requirements of the subcontinent, the water supply gaps due to temporal and spatial distribution of water resources among the states and countries in the subcontinent are to be bridged.
+     </p>
+     <p>
+      There is
+      <a href="/wiki/Interstate_River_Water_Disputes_Act" title="Interstate River Water Disputes Act">
+       intense competition for the water
+      </a>
+      available in the inter state rivers such as
+      <a href="/wiki/Kaveri_River_water_dispute" title="Kaveri River water dispute">
+       Kavery
+      </a>
+      ,
+      <a href="/wiki/Krishna_Water_Disputes_Tribunal" title="Krishna Water Disputes Tribunal">
+       Krishna
+      </a>
+      ,
+      <a href="/wiki/Godavari_Water_Disputes_Tribunal" title="Godavari Water Disputes Tribunal">
+       Godavari
+      </a>
+      ,
+      <a href="/wiki/Vamsadhara_River" title="Vamsadhara River">
+       Vamsadhara
+      </a>
+      ,
+      <a href="/wiki/Mandovi_River" title="Mandovi River">
+       Mandovi
+      </a>
+      ,
+      <a href="/wiki/Ravi_River" title="Ravi River">
+       Ravi-Beas-Sutlez
+      </a>
+      ,
+      <a href="/wiki/Narmada_River" title="Narmada River">
+       Narmada
+      </a>
+      ,
+      <a href="/wiki/Tapti_River" title="Tapti River">
+       Tapti
+      </a>
+      ,
+      <a href="/wiki/Mahanadi" title="Mahanadi">
+       Mahanadi
+      </a>
+      , etc. among the riparian states of India in the absence of water augmentation from the water surplus rivers such as Brahmaputra,
+      <a href="/wiki/Himalayas" title="Himalayas">
+       Himalayan
+      </a>
+      tributaries of
+      <a href="/wiki/Ganges" title="Ganges">
+       Ganga
+      </a>
+      and west flowing coastal rivers of
+      <a class="mw-redirect" href="/wiki/Western_ghats" title="Western ghats">
+       western ghats
+      </a>
+      . All river basins face severe water shortage even for drinking needs of people, cattle and wild life during the intense summer season when the rainfall is negligible.
+     </p>
+     <p>
+      Water security can be achieved along with
+      <a href="/wiki/Energy_security" title="Energy security">
+       energy security
+      </a>
+      as it is going to consume electricity to link the surplus water areas with the water deficit areas by lift canals, pipe lines, etc.
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+      The total water resources going waste to the sea are nearly 1200 billion cubic meters after sparing moderate environmental /
+      <a href="/wiki/Dissolved_load" title="Dissolved load">
+       salt export
+      </a>
+      water requirements of all rivers.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      <a href="/wiki/Talk:Kalpasar_Project" title="Talk:Kalpasar Project">
+       Interlinking rivers
+      </a>
+      of the subcontinent is possible to achieve water security in the Indian subcontinent with the active cooperation of the countries in the region.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Blue_Peace">
+       Blue Peace
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=9" title="Edit section: Blue Peace">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg">
+        <img alt="" class="thumbimage" data-file-height="2100" data-file-width="1500" height="308" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg/220px-US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg/330px-US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg/440px-US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:US_Navy_091231-N-1572M-001_Seabees_tap_new_water_well.jpg" title="Enlarge">
+         </a>
+        </div>
+        US Navy Seabees tapping an artesian well in
+        <a href="/wiki/Helmand_Province" title="Helmand Province">
+         Helmand Province
+        </a>
+        , Afghanistan
+       </div>
+      </div>
+     </div>
+     <p>
+      Blue Peace is a method which seeks to transforms trans-boundary water issues into instruments for cooperation. This unique approach to turn tensions around water into opportunities for socio-economic development was developed by
+      <a href="/wiki/Strategic_Foresight_Group" title="Strategic Foresight Group">
+       Strategic Foresight Group
+      </a>
+      in partnership with the Governments of Switzerland and Sweden.
+     </p>
+     <p>
+      “The Blue Peace is an innovative approach to engage political leaders, diplomats and populations in harnessing and managing collaborative solutions for sustainable water management.” – Foreign Minister Didier Burkhalter of Swirtzerland, speaking at the UN General Assembly
+     </p>
+     <h2>
+      <span class="mw-headline" id="Conventional_fossil_or_nuclear_energy_based_desalination">
+       Conventional fossil or nuclear energy based desalination
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=10" title="Edit section: Conventional fossil or nuclear energy based desalination">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Sameura_dam_20050903.jpg">
+        <img alt="" class="thumbimage" data-file-height="960" data-file-width="1280" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sameura_dam_20050903.jpg/220px-Sameura_dam_20050903.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sameura_dam_20050903.jpg/330px-Sameura_dam_20050903.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sameura_dam_20050903.jpg/440px-Sameura_dam_20050903.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Sameura_dam_20050903.jpg" title="Enlarge">
+         </a>
+        </div>
+        Due to record low rainfall in Summer 2005, the reservoir behind
+        <a href="/wiki/Sameura_Dam" title="Sameura Dam">
+         Sameura Dam
+        </a>
+        runs low. The reservoir supplies water to
+        <a href="/wiki/Takamatsu,_Kagawa" title="Takamatsu, Kagawa">
+         Takamatsu
+        </a>
+        ,
+        <a class="mw-redirect" href="/wiki/Shikoku_Island" title="Shikoku Island">
+         Shikoku Island
+        </a>
+        , Japan.
+       </div>
+      </div>
+     </div>
+     <p>
+      As new technological innovations continue to reduce the capital cost of
+      <a href="/wiki/Desalination" title="Desalination">
+       desalination
+      </a>
+      , more countries are building desalination plants as a small element in addressing their water crises.
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Israel" title="Israel">
+        Israel
+       </a>
+       desalinizes water for a cost of 53 cents per cubic meter
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Singapore" title="Singapore">
+        Singapore
+       </a>
+       desalinizes water for 49 cents per cubic meter
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+       and also treats sewage with
+       <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">
+        reverse osmosis
+       </a>
+       for industrial and potable use (
+       <a href="/wiki/NEWater" title="NEWater">
+        NEWater
+       </a>
+       ).
+      </li>
+      <li>
+       China and India, the world's two most populous countries, are turning to desalination to provide a small part of their water needs
+       <sup class="reference" id="cite_ref-28">
+        <a href="#cite_note-28">
+         [28]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+      </li>
+      <li>
+       In 2007 Pakistan announced plans to use desalination
+       <sup class="reference" id="cite_ref-30">
+        <a href="#cite_note-30">
+         [30]
+        </a>
+       </sup>
+      </li>
+      <li>
+       All Australian capital cities (except
+       <a href="/wiki/Darwin,_Northern_Territory" title="Darwin, Northern Territory">
+        Darwin, Northern Territory
+       </a>
+       and
+       <a href="/wiki/Hobart" title="Hobart">
+        Hobart
+       </a>
+       ) are either in the process of building desalination plants, or are already using them. In late 2011,
+       <a href="/wiki/Melbourne" title="Melbourne">
+        Melbourne
+       </a>
+       will begin using Australia's largest desalination plant, the
+       <a class="mw-redirect" href="/wiki/Wonthaggi_desalination_plant" title="Wonthaggi desalination plant">
+        Wonthaggi desalination plant
+       </a>
+       to raise low reservoir levels.
+      </li>
+      <li>
+       In 2007
+       <a href="/wiki/Bermuda" title="Bermuda">
+        Bermuda
+       </a>
+       signed a contract to purchase a desalination plant
+       <sup class="reference" id="cite_ref-31">
+        <a href="#cite_note-31">
+         [31]
+        </a>
+       </sup>
+      </li>
+      <li>
+       The largest desalination plant in the
+       <a href="/wiki/United_States" title="United States">
+        United States
+       </a>
+       is the one at
+       <a href="/wiki/Tampa_Bay" title="Tampa Bay">
+        Tampa Bay
+       </a>
+       ,
+       <a href="/wiki/Florida" title="Florida">
+        Florida
+       </a>
+       , which began desalinizing 25 million gallons (95000 m³) of water per day in December 2007.
+       <sup class="reference" id="cite_ref-32">
+        <a href="#cite_note-32">
+         [32]
+        </a>
+       </sup>
+       In the United States, the cost of desalination is $3.06 for 1,000 gallons, or 81 cents per cubic meter.
+       <sup class="reference" id="cite_ref-33">
+        <a href="#cite_note-33">
+         [33]
+        </a>
+       </sup>
+       In the United States,
+       <a href="/wiki/California" title="California">
+        California
+       </a>
+       ,
+       <a href="/wiki/Arizona" title="Arizona">
+        Arizona
+       </a>
+       ,
+       <a href="/wiki/Texas" title="Texas">
+        Texas
+       </a>
+       , and Florida use desalination for a very small part of their water supply.
+       <sup class="reference" id="cite_ref-34">
+        <a href="#cite_note-34">
+         [34]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-35">
+        <a href="#cite_note-35">
+         [35]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-36">
+        <a href="#cite_note-36">
+         [36]
+        </a>
+       </sup>
+      </li>
+      <li>
+       After being desalinized at
+       <a href="/wiki/Jubail" title="Jubail">
+        Jubail
+       </a>
+       ,
+       <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">
+        Saudi Arabia
+       </a>
+       , water is pumped 200 miles (320 km) inland though a pipeline to the capital city of
+       <a href="/wiki/Riyadh" title="Riyadh">
+        Riyadh
+       </a>
+       .
+       <sup class="reference" id="cite_ref-37">
+        <a href="#cite_note-37">
+         [37]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      A January 17, 2008, article in the
+      <i>
+       <a class="mw-redirect" href="/wiki/Wall_Street_Journal" title="Wall Street Journal">
+        Wall Street Journal
+       </a>
+      </i>
+      states, "World-wide, 13,080 desalination plants produce more than 12 billion gallons of water a day, according to the International Desalination Association."
+      <sup class="reference" id="cite_ref-38">
+       <a href="#cite_note-38">
+        [38]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The world's largest desalination plant is the
+      <a href="/wiki/Jebel_Ali" title="Jebel Ali">
+       Jebel Ali
+      </a>
+      Desalination Plant (Phase 2) in the
+      <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">
+       United Arab Emirates
+      </a>
+      . It is a dual-purpose facility that uses multi-stage flash distillation and is capable of producing 300 million cubic meters of water per year.
+      <sup class="reference" id="cite_ref-39">
+       <a href="#cite_note-39">
+        [39]
+       </a>
+      </sup>
+     </p>
+     <p>
+      A typical
+      <a href="/wiki/Aircraft_carrier" title="Aircraft carrier">
+       aircraft carrier
+      </a>
+      in the U.S. military uses nuclear power to desalinize 400,000 US gallons (1,500,000 L) of water per day.
+      <sup class="reference" id="cite_ref-40">
+       <a href="#cite_note-40">
+        [40]
+       </a>
+      </sup>
+     </p>
+     <p>
+      While desalinizing 1,000 US gallons (3,800 L) of water can cost as much as $3, the same amount of
+      <a href="/wiki/Bottled_water" title="Bottled water">
+       bottled water
+      </a>
+      costs $7,945.
+      <sup class="reference" id="cite_ref-41">
+       <a href="#cite_note-41">
+        [41]
+       </a>
+      </sup>
+     </p>
+     <p>
+      However, given the energy intensive nature of desalination, with associated economic and environmental costs, desalination is generally considered a last resort after
+      <a href="/wiki/Water_conservation" title="Water conservation">
+       water conservation
+      </a>
+      . But this is changing as prices continue to fall.
+     </p>
+     <p>
+      According to
+      <a href="/wiki/MSNBC" title="MSNBC">
+       MSNBC
+      </a>
+      , a report by Lux Research estimated that the worldwide desalinated water supply will triple between 2008 and 2020.
+      <sup class="reference" id="cite_ref-42">
+       <a href="#cite_note-42">
+        [42]
+       </a>
+      </sup>
+     </p>
+     <p>
+      However, not everyone is convinced that desalination is or will be economically viable or environmentally sustainable for the foreseeable future.
+      <a href="/wiki/Debbie_Cook" title="Debbie Cook">
+       Debbie Cook
+      </a>
+      , the former mayor of
+      <a href="/wiki/Huntington_Beach,_California" title="Huntington Beach, California">
+       Huntington Beach, California
+      </a>
+      , has been a frequent critic of desalination proposals ever since she was appointed as a member of the California Desalination Task Force. Cook claims that in addition to being energy intensive, desalination schemes are very costly—often much more costly than desalination proponents claim. In her writing on the subject, Cook points to a long list of projects that have stalled or been aborted for financial or other reasons, and suggests that water-stressed regions would do better to focus on conservation or other water supply solutions than to invest in desalination plants.
+      <sup class="reference" id="cite_ref-43">
+       <a href="#cite_note-43">
+        [43]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Solar_energy_based_desalination">
+       Solar energy based desalination
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=11" title="Edit section: Solar energy based desalination">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A novel approach to desalination is the
+      <a class="mw-redirect" href="/wiki/Seawater_Greenhouse" title="Seawater Greenhouse">
+       Seawater Greenhouse
+      </a>
+      which takes seawater and uses solar energy to desalinate it in conjunction with growing food crops in a specially adapted greenhouse.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=12" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Right_to_water" title="Right to water">
+        Right to water
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Water_scarcity" title="Water scarcity">
+        Water scarcity
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Water_security_and_emergency_preparedness" title="Water security and emergency preparedness">
+        Water security and emergency preparedness
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=13" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          David Grey and Claudia W. Sadoff - (2007-09-01).
+          <a class="external text" href="http://www.iwaponline.com/wp/00906/wp009060545.htm" rel="nofollow">
+           "Sink or Swim? Water security for growth and development"
+          </a>
+          .
+          <i>
+           Water Policy
+          </i>
+          . Iwaponline.com.
+          <b>
+           9
+          </b>
+          (6): 545–571
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-08-16
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.atitle=Sink+or+Swim%3F+Water+security+for+growth+and+development&amp;rft.date=2007-09-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.iwaponline.com%2Fwp%2F00906%2Fwp009060545.htm&amp;rft.issue=6&amp;rft.jtitle=Water+Policy&amp;rft.pages=545-571&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="citation-comment" style="display:none; color:#33aa33">
+          CS1 maint: Uses authors parameter (
+          <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+           link
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.gwp.org/The-Challenge/What-is-water-security/" rel="nofollow">
+           "What is Water Security? - THE CHALLENGE - Global Water Partnership"
+          </a>
+          . Gwp.org. 2010-03-25
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-08-16
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=What+is+Water+Security%3F+-+THE+CHALLENGE+-+Global+Water+Partnership&amp;rft.date=2010-03-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gwp.org%2FThe-Challenge%2FWhat-is-water-security%2F&amp;rft.pub=Gwp.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.pacinst.org/topics/global_change/climate_security/index.htm" rel="nofollow">
+          [1]
+         </a>
+         <a class="external text" href="https://web.archive.org/web/20100905020030/http://www.pacinst.org/topics/global_change/climate_security/index.htm" rel="nofollow">
+          Archived
+         </a>
+         September 5, 2010, at the
+         <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+          Wayback Machine
+         </a>
+         .
+         <span style="padding: 0; font-size: xx-small; color: #000; border: 1px solid #aaa; background-color: #f9f9f9;">
+          ‹The
+          <a href="/wiki/Help:Template" title="Help:Template">
+           template
+          </a>
+          <i>
+           <a href="/wiki/Template:Wayback" title="Template:Wayback">
+            Wayback
+           </a>
+          </i>
+          is being
+          <a href="/wiki/Wikipedia:Templates_for_discussion/Log/2016_October_24#Web_archive_templates" title="Wikipedia:Templates for discussion/Log/2016 October 24">
+           considered for merging
+          </a>
+          .›
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://md1.csa.com/partners/viewrecord.php?requester=gs&amp;collection=ENV&amp;recid=4406040&amp;q=%22water+security%22&amp;uid=&amp;setcookie=yes" rel="nofollow">
+          Retrieved 2009-01-19
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-stormingmedia.us-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-stormingmedia.us_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-stormingmedia.us_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.stormingmedia.us/75/7593/A759324.html" rel="nofollow">
+          http://www.stormingmedia.us/75/7593/A759324.html
+         </a>
+         Retrieved 2009-01-19
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="new" href="/w/index.php?title=Jameel_M._Zayed&amp;action=edit&amp;redlink=1" title="Jameel M. Zayed (page does not exist)">
+          Jameel M. Zayed
+         </a>
+         , No Peace Without Water – The Role of Hydropolitics in the Israel-Palestine Conflict
+         <a class="external free" href="http://www.jnews.org.uk/commentary/“no-peace-without-water”-–-the-role-of-hydropolitics-in-the-israel-palestine-conflict" rel="nofollow">
+          http://www.jnews.org.uk/commentary/“no-peace-without-water”-–-the-role-of-hydropolitics-in-the-israel-palestine-conflict
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Patrick_Webb" title="Patrick Webb">
+          Patrick Webb
+         </a>
+         and Maria Iskandarani, Water Insecurity and the Poor: Issues and Research Needs.
+         <a class="external free" href="http://www.zef.de/fileadmin/webfiles/downloads/zef_dp/zef_dp2-98.pdf" rel="nofollow">
+          http://www.zef.de/fileadmin/webfiles/downloads/zef_dp/zef_dp2-98.pdf
+         </a>
+         , Center for Development Research, Discussion Papers on Development Policy No. 2, Bonn, October 1998
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.un.org/waterforlifedecade/scarcity.shtml" rel="nofollow">
+          [2]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Report: Water and Violence Link:
+         <a class="external free" href="http://strategicforesight.com/publication_pdf/63948150123-web.pdf" rel="nofollow">
+          http://strategicforesight.com/publication_pdf/63948150123-web.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://gulfnews.com/news/mena/jordan/refugees-exacerbate-water-crisis-in-middle-east-1.1475639" rel="nofollow">
+          http://gulfnews.com/news/mena/jordan/refugees-exacerbate-water-crisis-in-middle-east-1.1475639
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nature.com/news/2010/100929/full/news.2010.505.html" rel="nofollow">
+          Balancing water supply and wildlife
+         </a>
+         Nature online 29 September 2010
+        </span>
+       </li>
+       <li id="cite_note-Hoevel-12">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Hoevel_12-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Hoevel_12-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Hoevel_12-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Hoevel, Ann (April 8, 2008).
+          <a class="external text" href="http://www.cnn.com/2007/TECH/science/09/25/overpopulation.overview/index.html" rel="nofollow">
+           "Overpopulation could be people, planet problem"
+          </a>
+          . CNN
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-07-20
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.atitle=Overpopulation+could+be+people%2C+planet+problem&amp;rft.au=Hoevel%2C+Ann&amp;rft.date=2008-04-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2007%2FTECH%2Fscience%2F09%2F25%2Foverpopulation.overview%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-MDG-13">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-MDG_13-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-MDG_13-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://mdgs.un.org/unsd/mdg/Resources/Static/Products/Progress2008/MDG_Report_2008_En.pdf#page=44" rel="nofollow">
+           "The Millennium Development Goals Report, 2008"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . United Nations.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=The+Millennium+Development+Goals+Report%2C+2008&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmdgs.un.org%2Funsd%2Fmdg%2FResources%2FStatic%2FProducts%2FProgress2008%2FMDG_Report_2008_En.pdf%23page%3D44&amp;rft.pub=United+Nations&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Björn Lomborg (2001).
+          <a class="external text" href="http://www.lomborg.com/dyn/files/basic_items/69-file/skeptenvironChap1.pdf" rel="nofollow">
+           <i>
+            The Skeptical Environmentalist
+           </i>
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . Cambridge University Press. p. 22.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-521-01068-3" title="Special:BookSources/0-521-01068-3">
+           0-521-01068-3
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.au=Bj%C3%B6rn+Lomborg&amp;rft.btitle=The+Skeptical+Environmentalist&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.lomborg.com%2Fdyn%2Ffiles%2Fbasic_items%2F69-file%2FskeptenvironChap1.pdf&amp;rft.isbn=0-521-01068-3&amp;rft.pages=22&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          <i>
+           World Energy Outlook 2005: Middle East and North Africa Insights
+          </i>
+          . International Energy Agency, Paris. 2005.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=World+Energy+Outlook+2005%3A+Middle+East+and+North+Africa+Insights&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=International+Energy+Agency%2C+Paris&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cgiar.org/enews/june2007/images_06_07/story12c.gif" rel="nofollow">
+          Retrieved 2009-01-19
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Jameel M. Zayed, No Peace Without Water – The Role of Hydropolitics in the Israel-Palestine Conflict
+         <a class="external free" href="http://www.jnews.org.uk/commentary/“no-peace-without-water”-–-the-role-of-hydropolitics-in-the-israel-palestine-conflict" rel="nofollow">
+          http://www.jnews.org.uk/commentary/“no-peace-without-water”-–-the-role-of-hydropolitics-in-the-israel-palestine-conflict
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/World_Bank" title="World Bank">
+          World Bank
+         </a>
+         <a class="external text" href="http://siteresources.worldbank.org/SOUTHASIAEXT/Resources/223546-1171488994713/3455847-1227656528691/SARlifelineatrisk.pdf" rel="nofollow">
+          Climate Change Water: South Asia’s Lifeline at Risk
+         </a>
+         ,
+         <a href="/wiki/World_Bank" title="World Bank">
+          World Bank
+         </a>
+         Washington D.C
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.globalpolicy.org/security/natres/waterindex.htm" rel="nofollow">
+          Retrieved 2009-01-19
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFProkurat2015">
+          Prokurat, Sergiusz (2015),
+          <a class="external text" href="http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.desklight-95d2a7ec-8c5f-474d-84ed-8b8baed8f8c0/c/235_PDFsam_Joms_3_26_2015.pdf" rel="nofollow">
+           <i>
+            Drought and water shortages in Asia as a threat and economic problem
+           </i>
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          , Józefów: "Journal of Modern Science” 3/26/2015, pp. 235–250
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            13 August
+           </span>
+           2016
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.aufirst=Sergiusz&amp;rft.aulast=Prokurat&amp;rft.btitle=Drought+and+water+shortages+in+Asia+as+a+threat+and+economic+problem&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fyadda.icm.edu.pl%2Fyadda%2Felement%2Fbwmeta1.element.desklight-95d2a7ec-8c5f-474d-84ed-8b8baed8f8c0%2Fc%2F235_PDFsam_Joms_3_26_2015.pdf&amp;rft.pages=235-250&amp;rft.place=J%C3%B3zef%C3%B3w&amp;rft.pub=%22Journal+of+Modern+Science%9D+3%2F26%2F2015&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.news.com.au/heraldsun/story/0,21985,23069045-5010020,00.html" rel="nofollow">
+          Retrieved 2009-01-19
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2008/06/25/000333037_20080625020800/Rendered/PDF/443760PUB0IN0W1Box0327398B01PUBLIC1.pdf" rel="nofollow">
+           "India's water economy bracing for a turbulent future, World Bank report, 2006"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            29 May
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=India%99s+water+economy+bracing+for+a+turbulent+future%2C+World+Bank+report%2C+2006&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww-wds.worldbank.org%2Fexternal%2Fdefault%2FWDSContentServer%2FWDSP%2FIB%2F2008%2F06%2F25%2F000333037_20080625020800%2FRendered%2FPDF%2F443760PUB0IN0W1Box0327398B01PUBLIC1.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Brown, Lester R. (November 29, 2013).
+          <a class="external text" href="http://www.earth-policy.org/plan_b_updates/2013/update119" rel="nofollow">
+           "India's dangerous 'food bubble
+           <span style="padding-right:0.2em;">
+            '
+           </span>
+           "
+          </a>
+          .
+          <i>
+           Los Angeles Times
+          </i>
+          . Archived from
+          <a class="external text" href="http://articles.latimes.com/2013/nov/29/opinion/la-oe-brown-india-food-bubble-famine-20131129" rel="nofollow">
+           the original
+          </a>
+          on December 4, 2013
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            July 13,
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.atitle=India%27s+dangerous+%27food+bubble%27&amp;rft.aufirst=Lester+R.&amp;rft.aulast=Brown&amp;rft.date=2013-11-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2013%2Fnov%2F29%2Fopinion%2Fla-oe-brown-india-food-bubble-famine-20131129&amp;rft.jtitle=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          IWMI Research Report 83.
+          <a class="external text" href="http://www.iwmi.cgiar.org/Publications/IWMI_Research_Reports/PDF/pub083/RR83.pdf" rel="nofollow">
+           "Spatial variation in water supply and demand across river basins of India"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            23 June
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.au=IWMI+Research+Report+83&amp;rft.btitle=Spatial+variation+in+water+supply+and+demand+across+river+basins+of+India&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iwmi.cgiar.org%2FPublications%2FIWMI_Research_Reports%2FPDF%2Fpub083%2FRR83.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="https://web.archive.org/web/20071007124901/http://www.medrc.org/new_content/industry_news/sept00/story1.htm" rel="nofollow">
+           https://web.archive.org/web/20071007124901/http://www.medrc.org/new_content/industry_news/sept00/story1.htm
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.medrc.org/new_content/industry_news/sept00/story1.htm" rel="nofollow">
+           the original
+          </a>
+          on October 7, 2007
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            November 21,
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.medrc.org%2Fnew_content%2Findustry_news%2Fsept00%2Fstory1.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.ejpress.org/article/4873" rel="nofollow">
+           "EJP | News | France | French-run water plant launched in Israel"
+          </a>
+          . Ejpress.org. 2005-12-28
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=EJP+%26%23124%3B+News+%26%23124%3B+France+%26%23124%3B+French-run+water+plant+launched+in+Israel&amp;rft.date=2005-12-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ejpress.org%2Farticle%2F4873&amp;rft.pub=Ejpress.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.edie.net/news/news_story.asp?id=11402&amp;channel=0" rel="nofollow">
+           "Black &amp; Veatch-Designed Desalination Plant Wins Global Water Distinction"
+          </a>
+          . Edie.net. 2006-05-04
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=Black+%26+Veatch-Designed+Desalination+Plant+Wins+Global+Water+Distinction&amp;rft.date=2006-05-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.edie.net%2Fnews%2Fnews_story.asp%3Fid%3D11402%26channel%3D0&amp;rft.pub=Edie.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&amp;objectid=10408553" rel="nofollow">
+           "Drought hopes hinge on desalination - World - NZ Herald News"
+          </a>
+          . Nzherald.co.nz. 2006-11-01
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=Drought+hopes+hinge+on+desalination+-+World+-+NZ+Herald+News&amp;rft.date=2006-11-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nzherald.co.nz%2Fsection%2F2%2Fstory.cfm%3Fc_id%3D2%26objectid%3D10408553&amp;rft.pub=Nzherald.co.nz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.hindu.com/2007/01/17/stories/2007011719260300.htm" rel="nofollow">
+           "Tamil Nadu / Chennai News : Two sites for desalination plant identified"
+          </a>
+          . Chennai, India: The Hindu. 2007-01-17
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.atitle=Tamil+Nadu+%2F+Chennai+News+%3A+Two+sites+for+desalination+plant+identified&amp;rft.date=2007-01-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hindu.com%2F2007%2F01%2F17%2Fstories%2F2007011719260300.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="https://web.archive.org/web/20081216051640/http://www.world-nuclear-news.org/newNuclear/190107Pakistan_embarks_on_nuclear_desalination.shtml" rel="nofollow">
+           https://web.archive.org/web/20081216051640/http://www.world-nuclear-news.org/newNuclear/190107Pakistan_embarks_on_nuclear_desalination.shtml
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.world-nuclear-news.org/newNuclear/190107Pakistan_embarks_on_nuclear_desalination.shtml" rel="nofollow">
+           the original
+          </a>
+          on December 16, 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            November 21,
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.world-nuclear-news.org%2FnewNuclear%2F190107Pakistan_embarks_on_nuclear_desalination.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.caribbeannetnews.com/cgi-script/csArticles/articles/000052/005273.htm" rel="nofollow">
+           "Bermuda signs contract for seawater desalination plant"
+          </a>
+          . Caribbean Net News. 2007-01-20
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=Bermuda+signs+contract+for+seawater+desalination+plant&amp;rft.date=2007-01-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.caribbeannetnews.com%2Fcgi-script%2FcsArticles%2Farticles%2F000052%2F005273.htm&amp;rft.pub=Caribbean+Net+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www2.tbo.com/content/2007/dec/22/na-applause-at-last-for-desalination-plant/" rel="nofollow">
+          Applause, At Last, For Desalination Plant
+         </a>
+         , The Tampa Tribune, December 22, 2007
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.lasvegassun.com/news/2008/mar/21/desalination-gets-serious-look/" rel="nofollow">
+          Desalination gets a serious look
+         </a>
+         , Las Vegas Sun, March 21, 2008
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.carlsbaddesal.com/" rel="nofollow">
+           "Carlsbad Desalination Project"
+          </a>
+          . Carlsbaddesal.com. 2006-07-27
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-03-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=Carlsbad+Desalination+Project&amp;rft.date=2006-07-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.carlsbaddesal.com%2F&amp;rft.pub=Carlsbaddesal.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          RANDAL C. ARCHIBOLD; KIRK JOHNSON &amp; Randal C. Archibold (2007-04-04).
+          <a class="external text" href="http://select.nytimes.com/gst/abstract.html?res=FB0714FE3D5B0C778CDDAD0894DF404482" rel="nofollow">
+           "No Longer Waiting for Rain, an Arid West Takes Action"
+          </a>
+          . reported from Yuma, Ariz., and Kirk Johnson from Denver. Western States (US); Utah; Arizona; California; Colorado; Nevada; New Mexico; Wyoming; Montana; Colorado River; Las Vegas (Nev); Yuma (Ariz): Select.nytimes.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-03-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.au=KIRK+JOHNSON&amp;rft.au=Randal+C.+Archibold&amp;rft.au=RANDAL+C.+ARCHIBOLD&amp;rft.btitle=No+Longer+Waiting+for+Rain%2C+an+Arid+West+Takes+Action&amp;rft.date=2007-04-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fselect.nytimes.com%2Fgst%2Fabstract.html%3Fres%3DFB0714FE3D5B0C778CDDAD0894DF404482&amp;rft.place=Western+States+%28US%29%3B+Utah%3B+Arizona%3B+California%3B+Colorado%3B+Nevada%3B+New+Mexico%3B+Wyoming%3B+Montana%3B+Colorado+River%3B+Las+Vegas+%28Nev%29%3B+Yuma+%28Ariz%29&amp;rft.pub=Select.nytimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-36">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-36">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.newscientisttech.com/channel/tech/mg19125586.100.html" rel="nofollow">
+           "Technology news and new technology highlights from New Scientist - New Scientist Tech - New Scientist"
+          </a>
+          . New Scientist Tech
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=Technology+news+and+new+technology+highlights+from+New+Scientist+-+New+Scientist+Tech+-+New+Scientist&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.newscientisttech.com%2Fchannel%2Ftech%2Fmg19125586.100.html&amp;rft.pub=New+Scientist+Tech&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-37">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-37">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.redorbit.com/news/science/1367352/desalination_is_the_solution_to_water_shortages/" rel="nofollow">
+          Desalination is the Solution to Water Shortages
+         </a>
+         , redOrbit, May 2, 2008
+        </span>
+       </li>
+       <li id="cite_note-38">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-38">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://online.wsj.com/article/SB120053698876396483.html?mod=googlenews_wsj" rel="nofollow">
+          Water, Water, Everywhere...
+         </a>
+         , The Wall. St Journal, January 17, 2008
+        </span>
+       </li>
+       <li id="cite_note-39">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-39">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.worldwater.org/data20062007/Table21.pdf" rel="nofollow">
+           "100 Largest Desalination Plants Planned, in Construction, or in Operation—January 1, 2005"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-03-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.btitle=100+Largest+Desalination+Plants+Planned%2C+in+Construction%2C+or+in+Operation%94January+1%2C+2005&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.worldwater.org%2Fdata20062007%2FTable21.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-40">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-40">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Harris, Tom (2002-08-29).
+          <a class="external text" href="http://science.howstuffworks.com/aircraft-carrier2.htm" rel="nofollow">
+           "How Aircraft Carriers Work"
+          </a>
+          . Science.howstuffworks.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-03-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.aufirst=Tom&amp;rft.aulast=Harris&amp;rft.btitle=How+Aircraft+Carriers+Work&amp;rft.date=2002-08-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscience.howstuffworks.com%2Faircraft-carrier2.htm&amp;rft.pub=Science.howstuffworks.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-41">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-41">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.libraryindex.com/pages/2644/Arid-West-Where-Water-Scarce-DESALINATION-GROWING-WATERSUPPLY-SOURCE.html" rel="nofollow">
+          The Arid West—Where Water Is Scarce - Desalination—a Growing Watersupply Source
+         </a>
+         , Library Index
+        </span>
+       </li>
+       <li id="cite_note-42">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-42">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.msnbc.msn.com/id/29735521/" rel="nofollow">
+          A Rising Tide for New Desalinated Water Technologies
+         </a>
+         , MSNBC, March. 17, 2009
+        </span>
+       </li>
+       <li id="cite_note-43">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-43">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://blogs.ei.columbia.edu/2011/01/17/desalination-unlocking-lessons-from-yesterdays-solution-part-1/" rel="nofollow">
+          Desalination: Unlocking Lessons from Yesterday’s Solution (part 1)
+         </a>
+         , Water Matters, January 17, 2009
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=14" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       International Water Security: Domestic Threats and Opportunities, 2008,
+       <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9789280811506">
+        ISBN 978-92-808-1150-6
+       </a>
+       , 328 pages, Paperback by
+       <a href="/wiki/United_Nations_University" title="United Nations University">
+        United Nations University
+       </a>
+      </li>
+      <li>
+       <cite class="citation news">
+        Jameel M. Zayed.
+        <a class="external text" href="http://www.jnews.org.uk/commentary/“no-peace-without-water”-–-the-role-of-hydropolitics-in-the-israel-palestine-conflict" rel="nofollow">
+         "No Peace Without Water – The Role of Hydropolitics in the Israel-Palestine Conflict"
+        </a>
+        . London.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+security&amp;rft.atitle=No+Peace+Without+Water+%93+The+Role+of+Hydropolitics+in+the+Israel-Palestine+Conflict&amp;rft.au=Jameel+M.+Zayed&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jnews.org.uk%2Fcommentary%2F%9Cno-peace-without-water%9D-%93-the-role-of-hydropolitics-in-the-israel-palestine-conflict&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       Rahaman, M. M. (Editor) Special Issue:
+       <a class="external text" href="http://www.inderscience.com/browse/index.php?journalID=297&amp;year=2012&amp;vol=4&amp;issue=1/2" rel="nofollow">
+        Water Wars in 21st Century along International Rivers Basins: Speculation or Reality?
+       </a>
+       , International Journal of Sustainable Society, Vol. 4, Nos. 1/2, 193 pages. 2012
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_security&amp;action=edit&amp;section=15" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://waterqualityandsecurity.wordpress.com/" rel="nofollow">
+        Water Quality and Security Blog
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.worldwatercouncil.org" rel="nofollow">
+        World Water Council
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.fao.org/nr/water/docs/ca-en.pdf" rel="nofollow">
+        Water for Food, Water for Life: A Comprehensive Assessment of Water Management in Agriculture
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.worldwater.org/chronology.html" rel="nofollow">
+        Water Conflict Chronology from "The World's Water" (Island Press, Washington)
+       </a>
+       Edited by
+       <a href="/wiki/Peter_Gleick" title="Peter Gleick">
+        Peter Gleick
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.w-watersecurity.com" rel="nofollow">
+        Whitewater Security
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.asiasociety.org/files/pdf/WaterSecurityReport.pdf" rel="nofollow">
+        Asia's Next Challenge: Securing the Region's Water Future
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.strategicforesight.com/focus.php?id=2" rel="nofollow">
+        Water Diplomacy
+       </a>
+       ,
+       <a href="/wiki/Strategic_Foresight_Group" title="Strategic Foresight Group">
+        Strategic Foresight Group
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.isn.ethz.ch/Dossiers/Detail/?param0=Security&amp;lng=en&amp;id=153669&amp;contextid782=153669" rel="nofollow">
+        Article Collection: Water Security in a Changing World
+       </a>
+       ,
+       <a href="/wiki/International_Relations_and_Security_Network" title="International Relations and Security Network">
+        International Relations and Security Network
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:21161137-0!*!0!!en!4!* and timestamp 20161030130101 and revision id 746643309
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Water_security&amp;oldid=746643309">
+      https://en.wikipedia.org/w/index.php?title=Water_security&amp;oldid=746643309
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Water_and_the_environment" title="Category:Water and the environment">
+         Water and the environment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_security" title="Category:Water security">
+         Water security
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Security_studies" title="Category:Security studies">
+         Security studies
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">
+         CS1 maint: Uses authors parameter
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">
+         Articles with Wayback Machine links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_merged_from_July_2014" title="Category:Articles to be merged from July 2014">
+         Articles to be merged from July 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">
+         All articles to be merged
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Water+security" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+security" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Water_security" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Water_security" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Water_security">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Water_security&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Water_security&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Water_security" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Water_security" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Water_security&amp;oldid=746643309" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Water_security&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q7973735" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Water_security&amp;id=746643309" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+security">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Water+security&amp;returnto=Water+security&amp;oldid=746643309&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Water_security&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Water_security" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%85%D9%86_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A" hreflang="ar" lang="ar" title="الأمن المائي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D8%A2%D8%A8" hreflang="fa" lang="fa" title="امنیت آب – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sicurezza_idrica" hreflang="it" lang="it" title="Sicurezza idrica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Varnost_voda" hreflang="sl" lang="sl" title="Varnost voda – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q7973735#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 28 October 2016, at 17:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Water_security&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.348",
+            "walltime": "0.417",
+            "ppvisitednodes": {
+                "value": 1479,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 45212,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 478,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  346.338      1 -total",
+                " 56.26%  194.837      1 Template:Reflist",
+                " 17.85%   61.821     15 Template:Cite_web",
+                " 17.81%   61.693      1 Template:Merge_from",
+                " 11.07%   38.339      3 Template:Convert",
+                " 10.41%   36.038      1 Template:Cite_journal",
+                "  9.29%   32.174      1 Template:Mbox",
+                "  5.37%   18.587      4 Template:Cite_news",
+                "  3.29%   11.389      1 Template:Wayback",
+                "  2.92%   10.104      1 Template:Citation"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.153",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 6386857,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1220",
+            "timestamp": "20161030130102",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1263"});});
+  </script>
+ </body>
+</html>

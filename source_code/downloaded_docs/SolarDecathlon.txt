@@ -1,0 +1,3871 @@
+https://en.wikipedia.org/wiki/Solar_Decathlon
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Solar Decathlon - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_Decathlon","wgTitle":"Solar Decathlon","wgCurRevisionId":739645716,"wgRevisionId":739645716,"wgArticleId":2701674,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","CS1 Japanese-language sources (ja)","Use mdy dates from March 2015","Commons category with page title same as on Wikidata","Science competitions","Solar architecture","2002 establishments in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_Decathlon","wgRelevantArticleId":2701674,"wgRequestId":"WBw-vQpAIDYAAH9kLlQAAABW","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1783140","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_Decathlon" rel="alternate"/>
+  <link href="/w/index.php?title=Solar_Decathlon&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Solar_Decathlon&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Solar_Decathlon" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solar_Decathlon rootpage-Solar_Decathlon skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Solar Decathlon
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:282px;">
+       <a class="image" href="/wiki/File:Solar_Decathlon_09_aerial_view.jpg">
+        <img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Solar_Decathlon_09_aerial_view.jpg/280px-Solar_Decathlon_09_aerial_view.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Solar_Decathlon_09_aerial_view.jpg/420px-Solar_Decathlon_09_aerial_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Solar_Decathlon_09_aerial_view.jpg/560px-Solar_Decathlon_09_aerial_view.jpg 2x" width="280"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Solar_Decathlon_09_aerial_view.jpg" title="Enlarge">
+         </a>
+        </div>
+        Student-built houses powered exclusively by solar power on display in
+        <a class="mw-redirect" href="/wiki/Washington_D.C." title="Washington D.C.">
+         Washington D.C.
+        </a>
+        at the Solar Decathlon 2009.
+       </div>
+      </div>
+     </div>
+     <p>
+      The U.S.
+      <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+       Department of Energy
+      </a>
+      <b>
+       Solar Decathlon
+      </b>
+      is an international competition that challenges 20 collegiate teams to design, build, and operate the most attractive, effective, and energy-efficient
+      <a href="/wiki/Solar_energy" title="Solar energy">
+       solar-powered
+      </a>
+      house. The winner of the competition is the team that best blends affordability, consumer appeal, and design excellence with optimal energy production and efficiency.
+     </p>
+     <p>
+      The first Solar Decathlon was held in 2002. The competition has since occurred biennially in 2005, 2007, 2009, 2011 and 2013;
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      the next Solar Decathlon will take place in
+      <a href="/wiki/California" title="California">
+       California
+      </a>
+      in October 2015.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      Open to the public and free of charge, the Solar Decathlon allows visitors to tour ultra-efficient houses, gather ideas to use in their own homes, and learn how energy-saving features can help reduce power bills.
+     </p>
+     <p>
+      The competition is presented by the
+      <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">
+       U.S. Department of Energy
+      </a>
+      and organized by the
+      <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+       National Renewable Energy Laboratory
+      </a>
+      (NREL). There is also a
+      <a href="/wiki/Solar_Decathlon_Europe" title="Solar Decathlon Europe">
+       Solar Decathlon Europe
+      </a>
+      , which was established under a 2007 agreement between the United States and
+      <a href="/wiki/Spain" title="Spain">
+       Spain
+      </a>
+      .
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      The Solar Decathlon China was established with the signing of a memorandum of understanding between the U.S. Department of Energy, China’s National Energy Administration,
+      <a href="/wiki/Peking_University" title="Peking University">
+       Peking University
+      </a>
+      and Applied Materials on January 20, 2011.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      The first Solar Decathlon China was held in 2013.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Awards">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Awards
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Scope_of_contests">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Scope of contests
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Contest_1:_Architecture">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Contest 1: Architecture
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Contest_2:_Market_Appeal">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Contest 2: Market Appeal
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Contest_3:_Engineering">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Contest 3: Engineering
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Contest_4:_Communications">
+           <span class="tocnumber">
+            2.4
+           </span>
+           <span class="toctext">
+            Contest 4: Communications
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Contest_5:_Affordability">
+           <span class="tocnumber">
+            2.5
+           </span>
+           <span class="toctext">
+            Contest 5: Affordability
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Contest_6:_Comfort_Zone">
+           <span class="tocnumber">
+            2.6
+           </span>
+           <span class="toctext">
+            Contest 6: Comfort Zone
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Contest_7:_Hot_water">
+           <span class="tocnumber">
+            2.7
+           </span>
+           <span class="toctext">
+            Contest 7: Hot water
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Contest_8:_Appliances">
+           <span class="tocnumber">
+            2.8
+           </span>
+           <span class="toctext">
+            Contest 8: Appliances
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-12">
+          <a href="#Contest_9:_Home_Entertainment">
+           <span class="tocnumber">
+            2.9
+           </span>
+           <span class="toctext">
+            Contest 9: Home Entertainment
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-13">
+          <a href="#Contest_10:_Energy_Balance">
+           <span class="tocnumber">
+            2.10
+           </span>
+           <span class="toctext">
+            Contest 10: Energy Balance
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#Competitors">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Competitors
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-15">
+          <a href="#2013">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            2013
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-16">
+          <a href="#2011">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            2011
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-17">
+          <a href="#2009">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            2009
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-18">
+          <a href="#2007">
+           <span class="tocnumber">
+            3.4
+           </span>
+           <span class="toctext">
+            2007
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-19">
+          <a href="#2005">
+           <span class="tocnumber">
+            3.5
+           </span>
+           <span class="toctext">
+            2005
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-20">
+          <a href="#2002">
+           <span class="tocnumber">
+            3.6
+           </span>
+           <span class="toctext">
+            2002
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-21">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-22">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-23">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Solar_Decathlon_2011_Map.svg">
+        <img alt="" class="thumbimage" data-file-height="792" data-file-width="612" height="285" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solar_Decathlon_2011_Map.svg/220px-Solar_Decathlon_2011_Map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solar_Decathlon_2011_Map.svg/330px-Solar_Decathlon_2011_Map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solar_Decathlon_2011_Map.svg/440px-Solar_Decathlon_2011_Map.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Solar_Decathlon_2011_Map.svg" title="Enlarge">
+         </a>
+        </div>
+        The Solar Decathlon 2011 was held in the
+        <a href="/wiki/National_Mall" title="National Mall">
+         National Mall
+        </a>
+        ’s
+        <a href="/wiki/West_Potomac_Park" title="West Potomac Park">
+         West Potomac Park
+        </a>
+        in Washington D.C.
+       </div>
+      </div>
+     </div>
+     <p>
+      The inaugural Solar Decathlon was open to the public between September 19 and October 6, 2002. Fourteen teams from across the United States, including
+      <a href="/wiki/Puerto_Rico" title="Puerto Rico">
+       Puerto Rico
+      </a>
+      , presented their projects on the
+      <a href="/wiki/National_Mall" title="National Mall">
+       National Mall
+      </a>
+      in
+      <a href="/wiki/Washington,_D.C." title="Washington, D.C.">
+       Washington, D.C.
+      </a>
+      The
+      <a href="/wiki/University_of_Colorado" title="University of Colorado">
+       University of Colorado
+      </a>
+      was awarded first place. At the second Solar Decathlon, likewise held on the National Mall on October 6–16, 2005, eighteen teams from the United States, Canada, and Spain participated; the University of Colorado successfully defended its championship.
+     </p>
+     <p>
+      The third Solar Decathlon took place on the National Mall on October 12–20, 2007. Twenty teams from the United States, Canada, Spain, and Germany competed, and
+      <a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">
+       Technische Universität Darmstadt
+      </a>
+      (Team Germany) was named the overall champion. The fourth Solar Decathlon was held on the National Mall on October 8–18, 2009, and included teams from the United States, Canada, Germany, and Spain; Team Germany was named the winner for a second time.
+     </p>
+     <p>
+      The fifth Solar Decathlon took place between September 23 and October 2, 2011, with nineteen participating teams representing the United States, China, New Zealand, Belgium, and Canada. The event was held in Washington D.C.'s
+      <a href="/wiki/West_Potomac_Park" title="West Potomac Park">
+       West Potomac Park
+      </a>
+      , near the
+      <a href="/wiki/Potomac_River" title="Potomac River">
+       Potomac River
+      </a>
+      , the
+      <a href="/wiki/Tidal_Basin" title="Tidal Basin">
+       Tidal Basin
+      </a>
+      and the
+      <a href="/wiki/Franklin_Delano_Roosevelt_Memorial" title="Franklin Delano Roosevelt Memorial">
+       Franklin Delano Roosevelt Memorial
+      </a>
+      , along a road between the
+      <a href="/wiki/Lincoln_Memorial" title="Lincoln Memorial">
+       Lincoln
+      </a>
+      and
+      <a href="/wiki/Jefferson_Memorial" title="Jefferson Memorial">
+       Jefferson Memorials
+      </a>
+      .
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      The
+      <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">
+       University of Maryland
+      </a>
+      was the overall competition winner.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      The sixth Solar Decathlon took place on October 3–13, 2013, in
+      <a href="/wiki/Orange_County_Great_Park" title="Orange County Great Park">
+       Orange County Great Park
+      </a>
+      in
+      <a href="/wiki/Irvine,_California" title="Irvine, California">
+       Irvine, California
+      </a>
+      – it was the first Solar Decathlon to take place outside Washington D.C., and was won by
+      <a class="mw-redirect" href="/wiki/Vienna_University_of_Technology" title="Vienna University of Technology">
+       Vienna University of Technology
+      </a>
+      (Team Austria).
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The seventh Solar Decathlon will take place in Cali, Colombia, as the first version in Latin America &amp; Caribbean, with main focus on social housing, regional relevance and density.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Awards">
+       Awards
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=2" title="Edit section: Awards">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In 2010, the
+      <a href="/wiki/National_Building_Museum" title="National Building Museum">
+       National Building Museum
+      </a>
+      awarded the Solar Decathlon an
+      <a href="/wiki/Honor_Award" title="Honor Award">
+       Honor Award
+      </a>
+      for its emphasis on "renewable energy, energy-efficient, and environmentally responsible systems" and its role in "educating a new generation of built-environment professionals".
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Scope_of_contests">
+       Scope of contests
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=3" title="Edit section: Scope of contests">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Solar Decathlon organizers selected the following ten contests for the 2011 competition. Each contest was worth a maximum of 100 points, for a possible total of 1,000 points. Teams earn points through task completion, performance monitoring, and jury evaluation.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_1:_Architecture">
+       Contest 1: Architecture
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=4" title="Edit section: Contest 1: Architecture">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Teams are required to design and build attractive, high-performance houses that integrate solar and energy-efficiency technology seamlessly into the design. A jury of professional architects evaluates team construction documents and the final constructed house. They evaluate three main factors: architectural elements, holistic design, and inspiration.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_2:_Market_Appeal">
+       Contest 2: Market Appeal
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=5" title="Edit section: Contest 2: Market Appeal">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      For the Market Appeal Contest, teams build their houses for a target market of their choosing. Teams are then asked to demonstrate the potential of their houses to keep costs affordable within that market. A jury of professionals from the homebuilding industry evaluates how well suited each house is for everyday living; determines whether the construction documents would enable a contractor to construct the house as intended, and assesses whether the house offers potential homebuyers within the target market a good value.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_3:_Engineering">
+       Contest 3: Engineering
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=6" title="Edit section: Contest 3: Engineering">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Solar Decathlon houses are marvels of modern engineering, and this contest “checks under the hood.” A jury of professional engineers evaluates each house for functionality, efficiency, innovation, and reliability.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_4:_Communications">
+       Contest 4: Communications
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=7" title="Edit section: Contest 4: Communications">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The Solar Decathlon challenges teams to communicate about the technical aspects of their houses, as well as their experiences, to a wide audience through Web sites and exhibits of their houses on the National Mall. The Communications Contest awards points to teams based on their success in delivering clear and consistent messages and images that represent the vision, process, and results of each team’s project. A jury of Web site development and public relations experts will evaluate the team Web sites, communications plans, and student-led house tours for effectiveness.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_5:_Affordability">
+       Contest 5: Affordability
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=8" title="Edit section: Contest 5: Affordability">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      New for the U.S. Department of Energy Solar Decathlon 2011, the Affordability Contest encourages teams to design and build affordable houses that combine energy-efficient construction and appliances with renewable energy systems. A professional estimator will determine the construction cost of each house. Teams can earn the maximum possible 100 points for achieving a target construction cost of $250,000 or less. A sliding point scale will be applied to houses with estimated construction costs between $250,001 and $600,000. Houses with estimated costs that are more than $600,000 will receive zero points.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_6:_Comfort_Zone">
+       Contest 6: Comfort Zone
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=9" title="Edit section: Contest 6: Comfort Zone">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Teams competing in the Solar Decathlon design their houses to maintain steady, uniform indoor environmental conditions. During the competition, full points are awarded for maintaining narrow temperature and relative humidity ranges inside the houses.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_7:_Hot_water">
+       Contest 7: Hot water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=10" title="Edit section: Contest 7: Hot water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      This contest demonstrates that a solar-powered house can provide all of the energy necessary to heat water for domestic uses. Teams score points in this contest by successfully completing several daily hot water draws.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_8:_Appliances">
+       Contest 8: Appliances
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=11" title="Edit section: Contest 8: Appliances">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The Appliances Contest is designed to mimic the appliance use and amenity in the average U.S. home while using less energy. Points are earned for refrigerating and freezing food, washing and drying laundry, and running the dishwasher.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_9:_Home_Entertainment">
+       Contest 9: Home Entertainment
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=12" title="Edit section: Contest 9: Home Entertainment">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The Home Entertainment Contest is designed to demonstrate that houses powered solely by the sun can deliver more than just basic household functionality. They can also provide a comfortable setting with power for the electronics, appliances, and modern conveniences that we love. The Home Entertainment Contest gauges whether the house has what it takes to be a home. Can it accommodate the pleasures of living, such as sharing meals with friends and family, watching television, or surfing the Web?
+     </p>
+     <h3>
+      <span class="mw-headline" id="Contest_10:_Energy_Balance">
+       Contest 10: Energy Balance
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=13" title="Edit section: Contest 10: Energy Balance">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      This contest demonstrates that the sun can supply the energy necessary for all the daily energy demands of a small household. For the contest, each house is equipped with
+      <i>
+       <a href="/wiki/Net_metering" title="Net metering">
+        Net metering
+       </a>
+      </i>
+      , a utility meter that measures the energy a house produces and consumes over the course of the competition. A team receives full points for producing at least as much energy as its house needs.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Competitors">
+       Competitors
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=14" title="Edit section: Competitors">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="2013">
+       2013
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=15" title="Edit section: 2013">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:AIR_House_CTU_01.jpg">
+        <img alt="" class="thumbimage" data-file-height="2148" data-file-width="4241" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/AIR_House_CTU_01.jpg/220px-AIR_House_CTU_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/AIR_House_CTU_01.jpg/330px-AIR_House_CTU_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/AIR_House_CTU_01.jpg/440px-AIR_House_CTU_01.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:AIR_House_CTU_01.jpg" title="Enlarge">
+         </a>
+        </div>
+        AIR House of
+        <a href="/wiki/Czech_Technical_University_in_Prague" title="Czech Technical University in Prague">
+         Czech Technical University
+        </a>
+        team. in 2014 rebuilt in Prague as the Information Centre of the CTU
+       </div>
+      </div>
+     </div>
+     <p>
+      Teams selected for the Solar Decathlon 2013 competition, the first one to be held outside
+      <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">
+       Washington, DC
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      were:
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Arizona_State_University" title="Arizona State University">
+        Arizona State University
+       </a>
+       and The
+       <a href="/wiki/University_of_New_Mexico" title="University of New Mexico">
+        University of New Mexico
+       </a>
+       (Tempe, Arizona, and Albuquerque, New Mexico)
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Czech_Technical_University" title="Czech Technical University">
+        Czech Technical University
+       </a>
+       (Prague, Czech Republic)
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Hampton_University" title="Hampton University">
+        Hampton University
+       </a>
+       and
+       <a href="/wiki/Old_Dominion_University" title="Old Dominion University">
+        Old Dominion University
+       </a>
+       (Hampton and Norfolk, Virginia)
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Middlebury_College" title="Middlebury College">
+        Middlebury College
+       </a>
+       (Middlebury, Vermont)
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Missouri_University_of_Science_and_Technology" title="Missouri University of Science and Technology">
+        Missouri University of Science and Technology
+       </a>
+       (Rolla, Missouri)
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Norwich_University" title="Norwich University">
+        Norwich University
+       </a>
+       (Northfield, Vermont)
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Queen%27s_University" title="Queen's University">
+        Queen's University
+       </a>
+       ,
+       <a href="/wiki/Carleton_University" title="Carleton University">
+        Carleton University
+       </a>
+       , and
+       <a href="/wiki/Algonquin_College" title="Algonquin College">
+        Algonquin College
+       </a>
+       (Kingston and Ottawa, Ontario, Canada)
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Santa_Clara_University" title="Santa Clara University">
+        Santa Clara University
+       </a>
+       (Santa Clara, California)
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Southern_California_Institute_of_Architecture" title="Southern California Institute of Architecture">
+        Southern California Institute of Architecture
+       </a>
+       and
+       <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">
+        California Institute of Technology
+       </a>
+       (Los Angeles, California)
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Stanford_University" title="Stanford University">
+        Stanford University
+       </a>
+       (Palo Alto, California)
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Stevens_Institute_of_Technology" title="Stevens Institute of Technology">
+        Stevens Institute of Technology
+       </a>
+       (Hoboken, New Jersey)
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_Catholic_University_of_America" title="The Catholic University of America">
+        The Catholic University of America
+       </a>
+       ,
+       <a href="/wiki/George_Washington_University" title="George Washington University">
+        George Washington University
+       </a>
+       , and
+       <a href="/wiki/American_University" title="American University">
+        American University
+       </a>
+       (Washington, DC)
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_University_of_North_Carolina_at_Charlotte" title="The University of North Carolina at Charlotte">
+        The University of North Carolina at Charlotte
+       </a>
+       (Charlotte, North Carolina)
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_University_of_Texas_at_El_Paso" title="The University of Texas at El Paso">
+        The University of Texas at El Paso
+       </a>
+       and
+       <a href="/wiki/El_Paso_Community_College" title="El Paso Community College">
+        El Paso Community College
+       </a>
+       (El Paso, Texas)
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Calgary" title="University of Calgary">
+        University of Calgary
+       </a>
+       (Calgary, Alberta, Canada)
+       <sup class="reference" id="cite_ref-28">
+        <a href="#cite_note-28">
+         [28]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Louisville" title="University of Louisville">
+        University of Louisville
+       </a>
+       ,
+       <a href="/wiki/Ball_State_University" title="Ball State University">
+        Ball State University
+       </a>
+       and
+       <a href="/wiki/University_of_Kentucky" title="University of Kentucky">
+        University of Kentucky
+       </a>
+       (Louisville, Kentucky; Muncie, Indiana; and Lexington, Kentucky)
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Nevada_Las_Vegas" title="University of Nevada Las Vegas">
+        University of Nevada Las Vegas
+       </a>
+       (Las Vegas, Nevada)
+       <sup class="reference" id="cite_ref-30">
+        <a href="#cite_note-30">
+         [30]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Southern_California" title="University of Southern California">
+        University of Southern California
+       </a>
+       (Los Angeles, California)
+       <sup class="reference" id="cite_ref-31">
+        <a href="#cite_note-31">
+         [31]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Vienna_University_of_Technology" title="Vienna University of Technology">
+        Vienna University of Technology
+       </a>
+       (Vienna, Austria)
+       <sup class="reference" id="cite_ref-32">
+        <a href="#cite_note-32">
+         [32]
+        </a>
+       </sup>
+       <i>
+        <b>
+         winner 2013
+        </b>
+       </i>
+      </li>
+      <li>
+       <a href="/wiki/West_Virginia_University" title="West Virginia University">
+        West Virginia University
+       </a>
+       (Morgantown, West Virginia)
+       <sup class="reference" id="cite_ref-33">
+        <a href="#cite_note-33">
+         [33]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="2011">
+       2011
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=16" title="Edit section: 2011">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Teams selected for the Solar Decathlon 2011 competition were:
+     </p>
+     <ul>
+      <li>
+       Appalachian State University (
+       <a class="external text" href="http://www.thesolarhomestead.com" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Florida International University (
+       <a class="external text" href="http://solardecathlon.fiu.edu" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Middlebury College (
+       <a class="external text" href="http://solardecathlon.middlebury.edu" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       New Zealand:
+       <a href="/wiki/Victoria_University_of_Wellington" title="Victoria University of Wellington">
+        Victoria University of Wellington
+       </a>
+       (
+       <a class="external text" href="http://firstlighthouse.ac.nz/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       The Ohio State University (
+       <a class="external text" href="http://solardecathlon.osu.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Parsons_The_New_School_for_Design" title="Parsons The New School for Design">
+        Parsons The New School for Design
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Milano_The_New_School_for_Management_and_Urban_Policy" title="Milano The New School for Management and Urban Policy">
+        Milano The New School for Management and Urban Policy
+       </a>
+       , and
+       <a href="/wiki/Stevens_Institute_of_Technology" title="Stevens Institute of Technology">
+        Stevens Institute of Technology
+       </a>
+       (
+       <a class="external text" href="http://parsit.parsons.edu" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Purdue_University" title="Purdue University">
+        Purdue University
+       </a>
+       (
+       <a class="external text" href="http://www.purdue.edu/inhome" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Southern_California_Institute_of_Architecture" title="Southern California Institute of Architecture">
+        The Southern California Institute of Architecture
+       </a>
+       and
+       <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">
+        California Institute of Technology
+       </a>
+       (
+       <a class="external text" href="http://www.chip2011.com/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Belgium: Ghent University (
+       <a class="external text" href="http://www.solardecathlon.ugent.be" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Canada: University of Calgary (
+       <a class="external text" href="http://www.solardecathlon.ca" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team China: Tongji University (
+       <a class="external text" href="http://www.safekidschina.org/solarDecathlon/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Florida:
+       <a href="/wiki/Florida_State_University" title="Florida State University">
+        Florida State University
+       </a>
+       , the
+       <a href="/wiki/University_of_Central_Florida" title="University of Central Florida">
+        University of Central Florida
+       </a>
+       , the
+       <a href="/wiki/University_of_Florida" title="University of Florida">
+        University of Florida
+       </a>
+       , and the
+       <a href="/wiki/University_of_South_Florida" title="University of South Florida">
+        University of South Florida
+       </a>
+       (
+       <a class="external text" href="http://www.flexhouse.org" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Massachusetts:
+       <a href="/wiki/Massachusetts_College_of_Art_and_Design" title="Massachusetts College of Art and Design">
+        Massachusetts College of Art and Design
+       </a>
+       and the
+       <a href="/wiki/University_of_Massachusetts_Lowell" title="University of Massachusetts Lowell">
+        University of Massachusetts Lowell
+       </a>
+       (
+       <a class="external text" href="http://www.4dhome.us" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team New Jersey: Rutgers - The State University of New Jersey and New Jersey Institute of Technology (
+       <a class="external text" href="http://www.solarteamnewjersey.com" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team New York: The City College of New York (
+       <a class="external text" href="http://www.ccnysolardecathlon.com/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Tidewater Virginia:
+       <a href="/wiki/Old_Dominion_University" title="Old Dominion University">
+        Old Dominion University
+       </a>
+       and
+       <a href="/wiki/Hampton_University" title="Hampton University">
+        Hampton University
+       </a>
+       (
+       <a class="external text" href="http://solardecathlon.odu.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       University of Hawaii (
+       <a class="external text" href="http://www.solar.hawaii.edu" rel="nofollow">
+        team page
+       </a>
+       )*On June 1, 2011, the U.S. Department of Energy received formal notification from the *University of Hawaii of its withdrawal from Solar Decathlon 2011.
+      </li>
+      <li>
+       <a href="/wiki/Illinois_Solar_Decathlon" title="Illinois Solar Decathlon">
+        University of Illinois at Urbana-Champaign
+       </a>
+       (
+       <a href="/wiki/Illinois_Solar_Decathlon" title="Illinois Solar Decathlon">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">
+        University of Maryland
+       </a>
+       (
+       <a class="external text" href="http://2011.solarteam.org" rel="nofollow">
+        team page
+       </a>
+       )
+       <i>
+        <b>
+         winner 2011
+        </b>
+       </i>
+      </li>
+      <li>
+       The University of Tennessee (
+       <a class="external text" href="http://www.livinglightutk.com" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="2009">
+       2009
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=17" title="Edit section: 2009">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The competing teams in Solar Decathlon 2009 were:
+      <sup class="reference" id="cite_ref-34">
+       <a href="#cite_note-34">
+        [34]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-35">
+       <a href="#cite_note-35">
+        [35]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Cornell_University" title="Cornell University">
+        Cornell University
+       </a>
+       (
+       <a class="external text" href="http://cusd.cornell.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Iowa_State_University_of_Science_and_Technology" title="Iowa State University of Science and Technology">
+        Iowa State University
+       </a>
+       (
+       <a class="external text" href="http://www.solard.iastate.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_Pennsylvania_State_University" title="The Pennsylvania State University">
+        Penn State
+       </a>
+       (
+       <a class="external text" href="http://solar.psu.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Rice_University" title="Rice University">
+        Rice University
+       </a>
+       (
+       <a class="external text" href="http://www.ricesolardecathlon.org" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Alberta_Solar_Decathlon_Project" title="Alberta Solar Decathlon Project">
+        Team Alberta
+       </a>
+       :
+       <a href="/wiki/University_of_Calgary" title="University of Calgary">
+        University of Calgary
+       </a>
+       , SAIT Polytechnic, Alberta College of Art and Design, and Mount Royal College (
+       <a class="external text" href="http://www.solabode.ca/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Boston:
+       <a href="/wiki/Boston_Architectural_College" title="Boston Architectural College">
+        Boston Architectural College
+       </a>
+       and
+       <a href="/wiki/Tufts_University" title="Tufts University">
+        Tufts University
+       </a>
+       (
+       <a class="external text" href="http://livecurio.us/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team California:
+       <a href="/wiki/Santa_Clara_University" title="Santa Clara University">
+        Santa Clara University
+       </a>
+       and
+       <a href="/wiki/California_College_of_the_Arts" title="California College of the Arts">
+        California College of the Arts
+       </a>
+       (
+       <a class="external text" href="http://www.scu-cca-solar.org/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Germany:
+       <a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">
+        Technische Universität Darmstadt
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.tu-darmstadt.de/home/home.en.jsp" rel="nofollow">
+        team page
+       </a>
+       )
+       <i>
+        <b>
+         winner 2009
+        </b>
+       </i>
+      </li>
+      <li>
+       Team Missouri:
+       <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">
+        Missouri University of Science and Technology
+       </a>
+       and
+       <a href="/wiki/University_of_Missouri" title="University of Missouri">
+        University of Missouri
+       </a>
+       (
+       <a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Ontario/BC:
+       <a href="/wiki/University_of_Waterloo" title="University of Waterloo">
+        University of Waterloo
+       </a>
+       ,
+       <a href="/wiki/Ryerson_University" title="Ryerson University">
+        Ryerson University
+       </a>
+       , and
+       <a href="/wiki/Simon_Fraser_University" title="Simon Fraser University">
+        Simon Fraser University
+       </a>
+       (
+       <a class="external text" href="http://www.team-north.com/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Spain:
+       <a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">
+        Universidad Politécnica de Madrid
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.upm.es/en/ecube.php" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_Ohio_State_University" title="The Ohio State University">
+        The Ohio State University
+       </a>
+       (
+       <a class="external text" href="http://solardecathlon.osu.edu/site/content/about-us/team-goals-and-history/team-goals" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/The_University_of_Arizona" title="The University of Arizona">
+        The University of Arizona
+       </a>
+       (
+       <a class="external text" href="http://www.uasolardecathlon.com/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">
+        Universidad de Puerto Rico
+       </a>
+       (
+       <a class="external text" href="http://www.casasolar.uprrp.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Illinois_at_Urbana-Champaign" title="University of Illinois at Urbana-Champaign">
+        University of Illinois at Urbana-Champaign
+       </a>
+       (
+       <a href="/wiki/Illinois_Solar_Decathlon" title="Illinois Solar Decathlon">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Kentucky" title="University of Kentucky">
+        University of Kentucky
+       </a>
+       (
+       <a class="external text" href="http://www.uky.edu/solarhouse/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Louisiana_at_Lafayette" title="University of Louisiana at Lafayette">
+        University of Louisiana at Lafayette
+       </a>
+       (
+       <a class="external text" href="http://www.beausoleilhome.org/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Minnesota" title="University of Minnesota">
+        University of Minnesota
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.umn.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Wisconsin%E2%80%93Milwaukee" title="University of Wisconsin–Milwaukee">
+        University of Wisconsin–Milwaukee
+       </a>
+       (
+       <a class="external text" href="http://www4.uwm.edu/uwm_sd09/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Virginia_Polytechnic_Institute_and_State_University" title="Virginia Polytechnic Institute and State University">
+        Virginia Tech
+       </a>
+       (
+       <a class="external text" href="http://www.solar.arch.vt.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="2007">
+       2007
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=18" title="Edit section: 2007">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Georgia_Tech_Solar_Decathlon_2007.jpg">
+        <img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Georgia_Tech_Solar_Decathlon_2007.jpg/220px-Georgia_Tech_Solar_Decathlon_2007.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Georgia_Tech_Solar_Decathlon_2007.jpg/330px-Georgia_Tech_Solar_Decathlon_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Georgia_Tech_Solar_Decathlon_2007.jpg/440px-Georgia_Tech_Solar_Decathlon_2007.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Georgia_Tech_Solar_Decathlon_2007.jpg" title="Enlarge">
+         </a>
+        </div>
+        Georgia Tech's entry to Solar Decathlon 2007, located on Tech campus.
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Maison_solaire_%C3%A9coologique,_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG">
+        <img alt="" class="thumbimage" data-file-height="3072" data-file-width="4608" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG/220px-Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG/330px-Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG/440px-Maison_solaire_%C3%A9coologique%2C_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Maison_solaire_%C3%A9coologique,_%C3%AEle_Sainte-H%C3%A9l%C3%A8ne_02.JPG" title="Enlarge">
+         </a>
+        </div>
+        Team Montréal:
+        <a class="mw-redirect" href="/wiki/%C3%89cole_de_Technologie_Sup%C3%A9rieure" title="École de Technologie Supérieure">
+         École de Technologie Supérieure
+        </a>
+        ,
+        <a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Université de Montréal">
+         Université de Montréal
+        </a>
+        , and
+        <a href="/wiki/McGill_University" title="McGill University">
+         McGill University
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      The 20 competing teams in Solar Decathlon 2007 were:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">
+        Carnegie Mellon University
+       </a>
+       (
+       <a class="external text" href="http://www.andrew.cmu.edu/org/SD2007/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Cornell_University" title="Cornell University">
+        Cornell University
+       </a>
+       (
+       <a class="external text" href="http://cusd.cornell.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">
+        Georgia Institute of Technology
+       </a>
+       (
+       <a class="external text" href="http://solar.gatech.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Kansas Project Solar House:
+       <a href="/wiki/Kansas_State_University" title="Kansas State University">
+        Kansas State University
+       </a>
+       and
+       <a href="/wiki/University_of_Kansas" title="University of Kansas">
+        University of Kansas
+       </a>
+       (
+       <a class="external text" href="http://solarhouse.capd.ksu.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Lawrence_Technological_University" title="Lawrence Technological University">
+        Lawrence Technological University
+       </a>
+       (
+       <a class="external text" href="http://solar.ltu.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+        Massachusetts Institute of Technology
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/New_York_Institute_of_Technology" title="New York Institute of Technology">
+        New York Institute of Technology
+       </a>
+       (
+       <a class="external text" href="http://iris.nyit.edu/solardecathlon2007/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Pennsylvania_State_University" title="Pennsylvania State University">
+        Penn State University
+       </a>
+       (
+       <a class="external text" href="http://solar.psu.edu/2007/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Santa_Clara_University" title="Santa Clara University">
+        Santa Clara University
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Illinois_at_Urbana-Champaign" title="University of Illinois at Urbana-Champaign">
+        University of Illinois at Urbana-Champaign
+       </a>
+       (
+       <a href="/wiki/Illinois_Solar_Decathlon" title="Illinois Solar Decathlon">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Team Montréal:
+       <a class="mw-redirect" href="/wiki/%C3%89cole_de_Technologie_Sup%C3%A9rieure" title="École de Technologie Supérieure">
+        École de Technologie Supérieure
+       </a>
+       ,
+       <a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Université de Montréal">
+        Université de Montréal
+       </a>
+       , and
+       <a href="/wiki/McGill_University" title="McGill University">
+        McGill University
+       </a>
+       (
+       <a class="external text" href="http://www.solarmontreal.ca/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">
+        Technische Universität Darmstadt
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.de/" rel="nofollow">
+        team page
+       </a>
+       )
+       <i>
+        <b>
+         winner 2007
+        </b>
+       </i>
+      </li>
+      <li>
+       <a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">
+        Texas A&amp;M University
+       </a>
+       (
+       <a class="external text" href="http://archone.tamu.edu/solardecathlon/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">
+        Universidad Politécnica de Madrid
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.upm.es/en/history-casa-solar-2007.php" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Universidad_de_Puerto_Rico" title="Universidad de Puerto Rico">
+        Universidad de Puerto Rico
+       </a>
+       (
+       <a class="external text" href="http://solar.uprm.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Cincinnati" title="University of Cincinnati">
+        University of Cincinnati
+       </a>
+       (
+       <a class="external text" href="http://solar.uc.edu/solar2007/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">
+        University of Colorado at Boulder
+       </a>
+       (
+       <a class="external text" href="http://solar.colorado.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">
+        University of Maryland
+       </a>
+       (
+       <a class="external text" href="http://2007.solarteam.org/page.php?id=250" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Missouri-Rolla" title="University of Missouri-Rolla">
+        University of Missouri-Rolla
+       </a>
+       (now
+       <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">
+        Missouri S&amp;T
+       </a>
+       ) (
+       <a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">
+        University of Texas at Austin
+       </a>
+       (
+       <a class="external text" href="http://www.ar.utexas.edu/utsolard/2007/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="2005">
+       2005
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=19" title="Edit section: 2005">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Solar_decathlon_building_at_Carnegie_Mellon_University.jpg">
+        <img alt="" class="thumbimage" data-file-height="4738" data-file-width="7096" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Solar_decathlon_building_at_Carnegie_Mellon_University.jpg/220px-Solar_decathlon_building_at_Carnegie_Mellon_University.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Solar_decathlon_building_at_Carnegie_Mellon_University.jpg/330px-Solar_decathlon_building_at_Carnegie_Mellon_University.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Solar_decathlon_building_at_Carnegie_Mellon_University.jpg/440px-Solar_decathlon_building_at_Carnegie_Mellon_University.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Solar_decathlon_building_at_Carnegie_Mellon_University.jpg" title="Enlarge">
+         </a>
+        </div>
+        Pittsburgh Synergy Solar Decathlon House at
+        <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">
+         Carnegie Mellon University
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      The 18 competing universities in Solar Decathlon 2005 were:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/California_Polytechnic_State_University" title="California Polytechnic State University">
+        California Polytechnic State University
+       </a>
+      </li>
+      <li>
+       Canadian Solar Decathlon:
+       <a class="mw-redirect" href="/wiki/Concordia_University_(Quebec)" title="Concordia University (Quebec)">
+        Concordia University
+       </a>
+       and Université de Montréal
+      </li>
+      <li>
+       Cornell University (
+       <a class="external text" href="http://www.cusd.cornell.edu" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Crowder_College" title="Crowder College">
+        Crowder College
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Florida_International_University" title="Florida International University">
+        Florida International University
+       </a>
+      </li>
+      <li>
+       New York Institute of Technology (
+       <a class="external text" href="http://iris.nyit.edu/solardecathlon/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       Pittsburgh Synergy: Carnegie Mellon University,
+       <a href="/wiki/University_of_Pittsburgh" title="University of Pittsburgh">
+        University of Pittsburgh
+       </a>
+       , and the
+       <a href="/wiki/Art_Institute_of_Pittsburgh" title="Art Institute of Pittsburgh">
+        Art Institute of Pittsburgh
+       </a>
+       (
+       <a class="external text" href="http://www.andrew.cmu.edu/org/pittsburghsynergy/SD/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Rhode_Island_School_of_Design" title="Rhode Island School of Design">
+        Rhode Island School of Design
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">
+        Universidad de Puerto Rico
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">
+        Universidad Politécnica de Madrid
+       </a>
+       (
+       <a class="external text" href="http://www.solardecathlon.upm.es/en/history-magic-box-2005.php" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Colorado_System" title="University of Colorado System">
+        University of Colorado
+       </a>
+       ,
+       <a href="/wiki/University_of_Colorado_Denver" title="University of Colorado Denver">
+        Denver
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">
+        Boulder
+       </a>
+       <i>
+        <b>
+         winner 2005
+        </b>
+       </i>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">
+        University of Maryland
+       </a>
+       (
+       <a class="external text" href="http://2005.solarteam.org/page.php?id=65" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_Massachusetts_Dartmouth" title="University of Massachusetts Dartmouth">
+        University of Massachusetts Dartmouth
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Michigan" title="University of Michigan">
+        University of Michigan
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Missouri%E2%80%93Rolla" title="University of Missouri–Rolla">
+        University of Missouri–Rolla
+       </a>
+       (now
+       <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">
+        Missouri S&amp;T
+       </a>
+       ) and Rolla Technical Institute (
+       <a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       University of Texas at Austin (
+       <a class="external text" href="http://www.utsolard.org" rel="nofollow">
+        UT SolarD team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Virginia_Tech" title="Virginia Tech">
+        Virginia Tech
+       </a>
+       (
+       <a class="external text" href="http://vtsolar.arch.vt.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Washington_State_University" title="Washington State University">
+        Washington State University
+       </a>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="2002">
+       2002
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=20" title="Edit section: 2002">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The 14 competing teams in Solar Decathlon 2002 were:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Auburn_University" title="Auburn University">
+        Auburn University
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">
+        Carnegie Mellon
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Crowder_College" title="Crowder College">
+        Crowder College
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">
+        Texas A&amp;M University
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Tuskegee_University" title="Tuskegee University">
+        Tuskegee University
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">
+        University of Colorado at Boulder
+       </a>
+       <i>
+        <b>
+         winner 2002
+        </b>
+       </i>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Delaware" title="University of Delaware">
+        University of Delaware
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">
+        University of Maryland
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/University_of_Missouri%E2%80%93Rolla" title="University of Missouri–Rolla">
+        University of Missouri–Rolla
+       </a>
+       (now
+       <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">
+        Missouri S&amp;T
+       </a>
+       ) and Rolla Technical Institute (
+       <a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/University_of_North_Carolina_at_Charlotte" title="University of North Carolina at Charlotte">
+        University of North Carolina at Charlotte
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">
+        Universidad de Puerto Rico
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">
+        University of Texas at Austin
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/University_of_Virginia" title="University of Virginia">
+        University of Virginia
+       </a>
+       (
+       <a class="external text" href="http://www.faculty.virginia.edu/solarhome/" rel="nofollow">
+        team page
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Virginia_Tech" title="Virginia Tech">
+        Virginia Tech
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=21" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Energy_conservation" title="Energy conservation">
+        Energy conservation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Green_building" title="Green building">
+        Green building
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">
+        Leadership in Energy and Environmental Design
+       </a>
+       , a U.S. certification for sustainable architecture
+      </li>
+      <li>
+       <a href="/wiki/Low-energy_house" title="Low-energy house">
+        Low-energy house
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Sustainable_architecture" title="Sustainable architecture">
+        Sustainable architecture
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=22" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/history.html" rel="nofollow">
+           "History"
+          </a>
+          . Solar Decathlon
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fhistory.html&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/faqs.html" rel="nofollow">
+           "FAQs"
+          </a>
+          . Solar Decathlon
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=FAQs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Ffaqs.html&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/sd_europe.html" rel="nofollow">
+           "Solar Decathlon Europe"
+          </a>
+          . Solar Decathlon
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Solar+Decathlon+Europe&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fsd_europe.html&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/blog/archives/697" rel="nofollow">
+           "Solar Decathlon China Coming in 2013"
+          </a>
+          . Solar Decathlon. January 20, 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Solar+Decathlon+China+Coming+in+2013&amp;rft.date=2011-01-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fblog%2Farchives%2F697&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://sbrc.uow.edu.au/news/UOW157974.html" rel="nofollow">
+           "TEAM UOW'S ILAWARRA FLAME HOUSE - WINNER OF THE SOLAR DECATHLON CHINA 2013"
+          </a>
+          . University of Wollongong. September 25, 2013
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=TEAM+UOW%99S+ILAWARRA+FLAME+HOUSE+-+WINNER+OF+THE+SOLAR+DECATHLON+CHINA+2013&amp;rft.date=2013-09-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsbrc.uow.edu.au%2Fnews%2FUOW157974.html&amp;rft.pub=University+of+Wollongong&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         *
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/blog/archives/731" rel="nofollow">
+           "Energy, Interior Departments Announce New Location for Solar Decathlon 2011"
+          </a>
+          .
+          <i>
+           Solar Decathlon News Blog
+          </i>
+          .
+          <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+           United States Department of Energy
+          </a>
+          . February 23, 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            February 28,
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=Energy%2C+Interior+Departments+Announce+New+Location+for+Solar+Decathlon+2011&amp;rft.date=2011-02-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fblog%2Farchives%2F731&amp;rft.jtitle=Solar+Decathlon+News+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         <br/>
+         *
+         <cite class="citation web">
+          <a class="external text" href="http://web.archive.org/web/20110304202236/http://www.solardecathlon.gov/pdfs/2011_map.pdf" rel="nofollow">
+           "Map: U.S. Department of Energy Solar Decathlon 2011: National Mall West Potomac Park"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           U.S. Department of Energy Solar Decathlon
+          </i>
+          .
+          <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+           National Renewable Energy Laboratory
+          </a>
+          . February 23, 2011. Archived from
+          <a class="external text" href="http://www.solardecathlon.gov/pdfs/2011_map.pdf" rel="nofollow">
+           the original
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          on March 4, 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            January 27,
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=Map%3A+U.S.+Department+of+Energy+Solar+Decathlon+2011%3A+National+Mall+West+Potomac+Park&amp;rft.date=2011-02-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fpdfs%2F2011_map.pdf&amp;rft.jtitle=U.S.+Department+of+Energy+Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         <br/>
+         *
+         <cite class="citation web">
+          Fears, Darryl (February 23, 2011).
+          <a class="external text" href="http://www.washingtonpost.com/wp-dyn/content/article/2011/02/23/AR2011022307849.html" rel="nofollow">
+           "Solar Decathlon houses now have a home on the Mall"
+          </a>
+          .
+          <i>
+           <a href="/wiki/The_Washington_Post" title="The Washington Post">
+            The Washington Post
+           </a>
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            February 27,
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=Solar+Decathlon+houses+now+have+a+home+on+the+Mall&amp;rft.aufirst=Darryl&amp;rft.aulast=Fears&amp;rft.date=2011-02-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2011%2F02%2F23%2FAR2011022307849.html&amp;rft.jtitle=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/blog/archives/1906" rel="nofollow">
+           "University of Maryland Wins Solar Decathlon 2011!"
+          </a>
+          . Solar Decathlon. October 1, 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            October 5,
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=University+of+Maryland+Wins+Solar+Decathlon+2011%21&amp;rft.date=2011-10-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fblog%2Farchives%2F1906&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.webcitation.org/6DzuzdbGF" rel="nofollow">
+           "About Solar Decathlon"
+          </a>
+          .
+          <i>
+           <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+            U.S. Department of Energy
+           </a>
+           Solar Decathlon
+          </i>
+          .
+          <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+           National Renewable Energy Laboratory
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.solardecathlon.gov/about.html" rel="nofollow">
+           the original
+          </a>
+          on January 27, 2013
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            January 27,
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=About+Solar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fabout.html&amp;rft.jtitle=U.S.+Department+of+Energy+Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/past/2013/" rel="nofollow">
+           "Highlights from Solar Decathlon 2013"
+          </a>
+          . Solar Decathlon. February 4, 2014
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Highlights+from+Solar+Decathlon+2013&amp;rft.date=2014-02-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fpast%2F2013%2F&amp;rft.pub=Solar+Decathlon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://solardecathlon2015.com.co/index.php/en/" rel="nofollow">
+          http://solardecathlon2015.com.co/index.php/en/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.nbm.org/support-us/awards_honors/honor-award/2010-honor-award.html" rel="nofollow">
+           "2010 Honor Award: A Salute to Civic Innovators"
+          </a>
+          .
+          <a href="/wiki/National_Building_Museum" title="National Building Museum">
+           National Building Museum
+          </a>
+          . 2010
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            March 26,
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=2010+Honor+Award%3A+A+Salute+to+Civic+Innovators&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nbm.org%2Fsupport-us%2Fawards_honors%2Fhonor-award%2F2010-honor-award.html&amp;rft.pub=National+Building+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://energy.gov/articles/solar-decathlon-2013-new-teams-new-location" rel="nofollow">
+           "Solar Decathlon 2013: New Teams! New Location!"
+          </a>
+          .
+          <i>
+           press release
+          </i>
+          . U.S. Department of Energy. 2012-01-26.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=Solar+Decathlon+2013%3A+New+Teams%21+New+Location%21&amp;rft.date=2012-01-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergy.gov%2Farticles%2Fsolar-decathlon-2013-new-teams-new-location&amp;rft.jtitle=press+release&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.gov/blog/archives/1978" rel="nofollow">
+           "DOE Announces Solar Decathlon 2013 Teams and Location"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=DOE+Announces+Solar+Decathlon+2013+Teams+and+Location&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.gov%2Fblog%2Farchives%2F1978&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://www.asunm.org/" rel="nofollow">
+           http://www.asunm.org/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.asunm.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.airhouse.cz/" rel="nofollow">
+           "AIR House"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=AIR+House&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.airhouse.cz%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.canopyhouse.org/" rel="nofollow">
+           "鶯谷の風俗について解説します！-鶯谷観光・スポット案内板-"
+          </a>
+          (in Japanese).
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=%E9%B6%AF%E8%B0%B7%E3%81%AE%E9%A2%A8%E4%BF%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81-%E9%B6%AF%E8%B0%B7%E8%A6%B3%E5%85%89%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%E6%A1%88%E5%86%85%E6%9D%BF-&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.canopyhouse.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://sd13.middlebury.edu/" rel="nofollow">
+           http://sd13.middlebury.edu/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsd13.middlebury.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">
+           "Solar House Team, Missouri S&amp;T"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Solar+House+Team%2C+Missouri+S%26T&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsolarhouse.mst.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.nusd2013.org/" rel="nofollow">
+           "Norwich forges its own path at Solar Decathlon"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Norwich+forges+its+own+path+at+Solar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nusd2013.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://ontariosd.ca/" rel="nofollow">
+           http://ontariosd.ca/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fontariosd.ca%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://sd13.scu.edu/" rel="nofollow">
+           "Radiant House"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Radiant+House&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsd13.scu.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.scical2013.com/" rel="nofollow">
+           "SCICal2013.com Home"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=SCICal2013.com+Home&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scical2013.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://solardecathlon.stanford.edu/" rel="nofollow">
+           http://solardecathlon.stanford.edu/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsolardecathlon.stanford.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.stevens.edu/sd2013/" rel="nofollow">
+           "EcoHabit, Stevens Solar Decathlon 2013"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=EcoHabit%2C+Stevens+Solar+Decathlon+2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stevens.edu%2Fsd2013%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.teamcapitoldc.org/" rel="nofollow">
+           "Harvest - Team Capitol DC"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Harvest+-+Team+Capitol+DC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.teamcapitoldc.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.uncc.edu/" rel="nofollow">
+           "Urban Eden"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=Urban+Eden&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.uncc.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.engineering.utep.edu/solardecathlon/" rel="nofollow">
+           "UTEP / College of Engineering"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=UTEP+%2F+College+of+Engineering&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.engineering.utep.edu%2Fsolardecathlon%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://www.solardecathlon.ca/" rel="nofollow">
+           http://www.solardecathlon.ca/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.ca%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://sd2013.teamkentuckiana.org/" rel="nofollow">
+           "The Phoenix House"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=The+Phoenix+House&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsd2013.teamkentuckiana.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external free" href="http://solardecathlon.unlv.edu/" rel="nofollow">
+           http://solardecathlon.unlv.edu/
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsolardecathlon.unlv.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://solardecathlon.usc.edu/" rel="nofollow">
+           "fluxHome"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=fluxHome&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsolardecathlon.usc.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.at/" rel="nofollow">
+           "LISI | HOUSE OF THE SOLAR DECATHLON TEAM AUSTRIA"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=LISI+%7C+HOUSE+OF+THE+SOLAR+DECATHLON+TEAM+AUSTRIA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.at%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://solar.wvu.edu/" rel="nofollow">
+           "West Virginia University Solar Decathlon Team"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=West+Virginia+University+Solar+Decathlon+Team&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsolar.wvu.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.energy.gov/news/5888.htm" rel="nofollow">
+           "Energy Department Selects Student Teams to Compete in 2009 Solar Decathlon"
+          </a>
+          .
+          <i>
+           press release
+          </i>
+          . U.S. Department of Energy. 2008-01-24.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.atitle=Energy+Department+Selects+Student+Teams+to+Compete+in+2009+Solar+Decathlon&amp;rft.date=2008-01-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.gov%2Fnews%2F5888.htm&amp;rft.jtitle=press+release&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solardecathlon.upm.es/en/solar-decathlon.php" rel="nofollow">
+           "2009 Solar Decathlon contact list"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+Decathlon&amp;rft.btitle=2009+Solar+Decathlon+contact+list&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solardecathlon.upm.es%2Fen%2Fsolar-decathlon.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Solar_Decathlon&amp;action=edit&amp;section=23" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Solar_Decathlon" title="commons:Category:Solar Decathlon">
+           Solar Decathlon
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.solardecathlon.gov" rel="nofollow">
+        Solar Decathlon official website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.sdeurope.org/index.php/eng/" rel="nofollow">
+        Solar Decathlon Europe official website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.sdchina.org/en/Default.aspx" rel="nofollow">
+        Solar Decathlon China official website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.dcphototour.com/WashingtonDCEventsPhotoTour/solar_decathlon_2009%20.shtml" rel="nofollow">
+        Solar Decathlon 2009 photo gallery
+       </a>
+       via DC Photo Tour
+      </li>
+      <li>
+       <a class="external text" href="http://www.eesi.org/101409_decathlon" rel="nofollow">
+        Congressional briefing on the 2009 Solar Decathlon
+       </a>
+       via EESI.org
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:2701674-0!*!0!!en!4!* and timestamp 20161011162255 and revision id 739645716
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_Decathlon&amp;oldid=739645716">
+      https://en.wikipedia.org/w/index.php?title=Solar_Decathlon&amp;oldid=739645716
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Science_competitions" title="Category:Science competitions">
+         Science competitions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_architecture" title="Category:Solar architecture">
+         Solar architecture
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:2002_establishments_in_the_United_States" title="Category:2002 establishments in the United States">
+         2002 establishments in the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">
+         CS1 Japanese-language sources (ja)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_mdy_dates_from_March_2015" title="Category:Use mdy dates from March 2015">
+         Use mdy dates from March 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">
+         Commons category with page title same as on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solar+Decathlon" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+Decathlon" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Solar_Decathlon" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Solar_Decathlon" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Solar_Decathlon">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Solar_Decathlon&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Solar_Decathlon&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Solar_Decathlon" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Solar_Decathlon" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Solar_Decathlon&amp;oldid=739645716" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Solar_Decathlon&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1783140" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_Decathlon&amp;id=739645716" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+Decathlon">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Solar+Decathlon&amp;returnto=Solar+Decathlon&amp;oldid=739645716&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Solar_Decathlon&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Solar_Decathlon" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Solar_Decathlon" hreflang="de" lang="de" title="Solar Decathlon – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Solar_Decathlon" hreflang="es" lang="es" title="Solar Decathlon – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA_%D8%AF%D9%87%DA%AF%D8%A7%D9%86%D9%87_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C" hreflang="fa" lang="fa" title="مسابقات دهگانه خورشیدی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Solar_Decathlon" hreflang="fr" lang="fr" title="Solar Decathlon – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Solar_Decathlon" hreflang="ru" lang="ru" title="Solar Decathlon – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Solar_Decathlon" hreflang="fi" lang="fi" title="Solar Decathlon – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1783140#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 16 September 2016, at 01:07.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Solar_Decathlon&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.292",
+            "walltime": "0.347",
+            "ppvisitednodes": {
+                "value": 1411,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 44430,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 284,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  252.945      1 -total",
+                " 71.99%  182.100      1 Template:Reflist",
+                " 56.40%  142.666     36 Template:Cite_web",
+                " 10.96%   27.712      1 Template:Commons_category",
+                "  9.28%   23.469      1 Template:Commons",
+                "  9.21%   23.290      1 Template:Use_mdy_dates",
+                "  8.72%   22.061      1 Template:Sister_project",
+                "  7.62%   19.273      1 Template:Side_box",
+                "  3.58%    9.052      1 Template:DMCA",
+                "  3.02%    7.646      1 Template:Dated_maintenance_category"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.124",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3434542,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1170",
+            "timestamp": "20161011162255",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1184"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1785 @@
+https://en.wikipedia.org/wiki/Energy_Modeling_Forum
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Energy Modeling Forum - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_Modeling_Forum","wgTitle":"Energy Modeling Forum","wgCurRevisionId":747254901,"wgRevisionId":747254901,"wgArticleId":15160793,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2009","All articles needing additional references","Economics organizations","Energy models","Energy organizations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_Modeling_Forum","wgRelevantArticleId":15160793,"wgRequestId":"WBz9@QpAAEQAAYN4ofwAAAAV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5376952","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_Modeling_Forum" rel="alternate"/>
+  <link href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Energy_Modeling_Forum" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_Modeling_Forum rootpage-Energy_Modeling_Forum skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Energy Modeling Forum
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (April 2009)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Energy Modeling Forum
+      </caption>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Abbreviation
+       </th>
+       <td class="nickname">
+        EMF
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Formation
+       </th>
+       <td class="note">
+        1976
+        <span class="noprint">
+         (40 years ago)
+        </span>
+        <span style="display:none">
+         (
+         <span class="bday dtstart published updated">
+          1976
+         </span>
+         )
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Founded at
+       </th>
+       <td>
+        <a href="/wiki/Stanford_University" title="Stanford University">
+         Stanford University
+        </a>
+        , California, USA
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Purpose
+       </th>
+       <td>
+        Scientific cooperation
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Official language
+        </div>
+       </th>
+       <td>
+        English
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Director
+        </div>
+       </th>
+       <td>
+        <a href="/wiki/John_Weyant" title="John Weyant">
+         John Weyant
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Website
+       </th>
+       <td>
+        <span class="url">
+         <a class="external text" href="https://emf.stanford.edu" rel="nofollow">
+          emf
+          <wbr>
+          </wbr>
+          .stanford
+          <wbr>
+          </wbr>
+          .edu
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Energy Modeling Forum
+      </b>
+      (
+      <b>
+       EMF
+      </b>
+      ) is a structured forum for discussing important issues in energy and the environment. The EMF was established in 1976 at
+      <a href="/wiki/Stanford_University" title="Stanford University">
+       Stanford University
+      </a>
+      . The EMF works through a series of ad hoc working groups, each focussing on a particular corporate or policy decision. The EMF provides a non-partisan platform that ensures objective consideration of opposing views. Participation is by invitation.
+     </p>
+     <p>
+      Since the late-1990s, the EMF has made contributions to the economics of
+      <a href="/wiki/Climate_change" title="Climate change">
+       climate change
+      </a>
+      , as witnessed in the reports of the
+      <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+       Intergovernmental Panel on Climate Change
+      </a>
+      (IPCC) and on
+      <a href="/wiki/Integrated_assessment_modelling" title="Integrated assessment modelling">
+       integrated assessment modeling
+      </a>
+      more generally.
+     </p>
+     <p>
+      <a href="/wiki/John_Weyant" title="John Weyant">
+       John Weyant
+      </a>
+      is the current director of the EMF.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Ethos">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Ethos
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#List_of_EMF_projects">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          List of EMF projects
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#External_links">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ethos">
+       Ethos
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=1" title="Edit section: Ethos">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The EMF was convened in 1976 over concerns that the insights that large-scale
+      <a href="/wiki/Energy_modeling" title="Energy modeling">
+       energy models
+      </a>
+      could provide
+      <a class="mw-redirect" href="/wiki/Policymaker" title="Policymaker">
+       policymakers
+      </a>
+      were being overshadowed by the "plethora of detailed quantitative results" being disseminated and discussed.
+      <sup class="reference" id="cite_ref-huntington-etal-1982_1-0">
+       <a href="#cite_note-huntington-etal-1982-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" style="white-space:nowrap;">
+       :449
+      </sup>
+      As a result, the EMF sought to bring energy modelers together to provide a proper context for their work. Indeed, the EMF was "formed to foster better communication between the builders and users of energy models in energy planning and policy analysis".
+      <sup class="reference" id="cite_ref-huntington-etal-1982_1-1">
+       <a href="#cite_note-huntington-etal-1982-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" style="white-space:nowrap;">
+       :449
+      </sup>
+      The EMF periodically establishes
+      <span class="nowrap">
+       ad hoc
+      </span>
+      working groups to conduct studies on selected energy topics. A working group then identifies relevant existing models and sets a series of tests to illuminate the basic structure and behavior of each model. Results are compared and the strengths and weaknesses of each model is documented in a (as of 1982) freely available report.
+      <sup class="reference" id="cite_ref-huntington-etal-1982_1-2">
+       <a href="#cite_note-huntington-etal-1982-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="List_of_EMF_projects">
+       List of EMF projects
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=2" title="Edit section: List of EMF projects">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Reports for most of the completed projects are available from the EMF website.
+      <sup class="reference" id="cite_ref-emf-projects_2-0">
+       <a href="#cite_note-emf-projects-2">
+        [2]
+       </a>
+      </sup>
+      Reports since 2006 have sometimes been published exclusively in special editions of (paywalled) academic journals instead.
+     </p>
+     <table class="wikitable">
+      <caption>
+       EMF projects
+       <sup class="reference" id="cite_ref-emf-projects_2-1">
+        <a href="#cite_note-emf-projects-2">
+         [2]
+        </a>
+       </sup>
+      </caption>
+      <tr>
+       <th>
+        Project
+       </th>
+       <th>
+        Reported
+       </th>
+       <th>
+        Description
+       </th>
+      </tr>
+      <tr>
+       <th colspan="3" style="text-align: left">
+        Completed projects
+       </th>
+      </tr>
+      <tr>
+       <td>
+        EMF 01
+       </td>
+       <td>
+        1977
+       </td>
+       <td>
+        Energy and the economy
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 02
+       </td>
+       <td>
+        1978
+       </td>
+       <td>
+        Coal in transition: 1980–2000
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 03
+       </td>
+       <td>
+        1979
+       </td>
+       <td>
+        Electric load forecasting: probing the issue with models
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 04
+       </td>
+       <td>
+        1980
+       </td>
+       <td>
+        Aggregate elasticity of energy demand
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 05
+       </td>
+       <td>
+        1982
+       </td>
+       <td>
+        US oil and gas supply
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 06
+       </td>
+       <td>
+        1981
+       </td>
+       <td>
+        World oil
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 07
+       </td>
+       <td>
+        1986
+       </td>
+       <td>
+        Macroeconomic impacts of energy shocks
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 08
+       </td>
+       <td>
+        1987
+       </td>
+       <td>
+        Industrial energy demand, conservation, and interfuel substitution
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 09
+       </td>
+       <td>
+        1989
+       </td>
+       <td>
+        North American natural gas markets
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 10
+       </td>
+       <td>
+        1991
+       </td>
+       <td>
+        Electricity markets and planning
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 11
+       </td>
+       <td>
+        1992
+       </td>
+       <td>
+        International oil supplies and demands
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 12
+       </td>
+       <td>
+        1993
+       </td>
+       <td>
+        Controlling global carbon emissions: costs and policy options
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 13
+       </td>
+       <td>
+        1996
+       </td>
+       <td>
+        Markets for energy efficiency
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 14
+       </td>
+       <td>
+        —
+       </td>
+       <td>
+        Integrated assessment of climate change
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 15
+       </td>
+       <td>
+        1998
+       </td>
+       <td>
+        A competitive electricity industry
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 16
+       </td>
+       <td>
+        1999
+       </td>
+       <td>
+        The costs of the Kyoto Protocol
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 17
+       </td>
+       <td>
+        —
+       </td>
+       <td>
+        Prices and emissions in a restructured electricity market
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 18
+       </td>
+       <td>
+        —
+       </td>
+       <td>
+        International trade dimensions of climate policies
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 19
+       </td>
+       <td>
+        2002
+       </td>
+       <td>
+        Climate change: technology strategies and international trade
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 20
+       </td>
+       <td>
+        2003
+       </td>
+       <td>
+        Natural gas, fuel diversity, and North American energy markets
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 21
+       </td>
+       <td>
+        2008
+       </td>
+       <td>
+        Multi-gas mitigation and climate change
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 22
+       </td>
+       <td>
+        2010
+       </td>
+       <td>
+        Climate change control scenarios
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 23
+       </td>
+       <td>
+        2009
+       </td>
+       <td>
+        World natural gas markets and trade
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 24
+       </td>
+       <td>
+        2014
+       </td>
+       <td>
+        US technology and climate policy strategies
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 25
+       </td>
+       <td>
+        2011
+       </td>
+       <td>
+        Energy efficiency and climate change mitigation
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 26
+       </td>
+       <td>
+        2013
+       </td>
+       <td>
+        Emissions and market implications of new natural gas supplies
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 27
+       </td>
+       <td>
+        2014
+       </td>
+       <td>
+        Global technology and climate policy strategies
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 28
+       </td>
+       <td>
+        2013
+       </td>
+       <td>
+        The effects of technology choices on EU climate policy
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 29
+       </td>
+       <td>
+        2012
+       </td>
+       <td>
+        The role of border carbon adjustment in unilateral climate policy
+       </td>
+      </tr>
+      <tr>
+       <th colspan="3" style="text-align: left">
+        Current projects
+        <span style="font-weight: normal">
+         (late-2016)
+        </span>
+       </th>
+      </tr>
+      <tr>
+       <td>
+        EMF 30
+       </td>
+       <td>
+       </td>
+       <td>
+        Short-lived climate forcers and air quality
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 31
+       </td>
+       <td>
+       </td>
+       <td>
+        North American natural gas markets in transition
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 32
+       </td>
+       <td>
+       </td>
+       <td>
+        US GHG and revenue recycling scenarios
+       </td>
+      </tr>
+      <tr>
+       <td>
+        EMF 33
+       </td>
+       <td>
+       </td>
+       <td>
+        Bio-energy and land use
+       </td>
+      </tr>
+      <tr>
+       <td colspan="3">
+        <small>
+         The reported year is that of the last revision
+         <br/>
+         A dash indicates that no report is available
+        </small>
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Energy_modeling" title="Energy modeling">
+        Energy modeling
+       </a>
+       – the process of building computer models of energy systems
+      </li>
+      <li>
+       <a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">
+        Open Energy Modelling Initiative
+       </a>
+       – an
+       <a href="/wiki/Open_source" title="Open source">
+        open source
+       </a>
+       energy modeling initiative, centered on Europe
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=4" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-huntington-etal-1982-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-huntington-etal-1982_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-huntington-etal-1982_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-huntington-etal-1982_1-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Huntington, Hillard G; Weyant, John P; Sweeney, James L (1 January 1982).
+          <a class="external text" href="https://web.stanford.edu/group/emf-research/docs/planning_papers/PP6.5.pdf" rel="nofollow">
+           "Modeling for insights, not numbers: the experiences of the Energy Modeling Forum"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Omega: The International Journal of Management Science
+          </i>
+          .
+          <b>
+           10
+          </b>
+          (5): 449–462.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1016%2F0305-0483%2882%2990002-0" rel="nofollow">
+           10.1016/0305-0483(82)90002-0
+          </a>
+          .
+          <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+           ISSN
+          </a>
+          <a class="external text" href="//www.worldcat.org/issn/0305-0483" rel="nofollow">
+           0305-0483
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-10-22
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Modeling+Forum&amp;rft.atitle=Modeling+for+insights%2C+not+numbers%3A+the+experiences+of+the+Energy+Modeling+Forum&amp;rft.aufirst=Hillard+G&amp;rft.aulast=Huntington&amp;rft.au=Sweeney%2C+James+L&amp;rft.au=Weyant%2C+John+P&amp;rft.date=1982-01-01&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fweb.stanford.edu%2Fgroup%2Femf-research%2Fdocs%2Fplanning_papers%2FPP6.5.pdf&amp;rft_id=info%3Adoi%2F10.1016%2F0305-0483%2882%2990002-0&amp;rft.issn=0305-0483&amp;rft.issue=5&amp;rft.jtitle=Omega%3A+The+International+Journal+of+Management+Science&amp;rft.pages=449-462&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-emf-projects-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-emf-projects_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-emf-projects_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://emf.stanford.edu/projects" rel="nofollow">
+           "Projects — Energy Modeling Forum"
+          </a>
+          .
+          <i>
+           Energy Modeling Forum (EMF)
+          </i>
+          . Stanford, CA, USA
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-10-23
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Modeling+Forum&amp;rft.atitle=Projects+%94+Energy+Modeling+Forum&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Femf.stanford.edu%2Fprojects&amp;rft.jtitle=Energy+Modeling+Forum+%28EMF%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit&amp;section=5" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="https://emf.stanford.edu/" rel="nofollow">
+        EMF home page
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Energy_modeling" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Energy_modeling" title="Template:Energy modeling">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Energy_modeling" title="Template talk:Energy modeling">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Energy_modeling&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Energy_modeling" style="font-size:114%">
+          <a href="/wiki/Energy_modeling" title="Energy modeling">
+           Energy modeling
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Models
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/ACEGES" title="ACEGES">
+             ACEGES
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/INEMS" title="INEMS">
+             iNEMS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/MARKAL" title="MARKAL">
+             MARKAL
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/National_Energy_Modeling_System" title="National Energy Modeling System">
+             NEMS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Prospective_Outlook_on_Long-term_Energy_Systems" title="Prospective Outlook on Long-term Energy Systems">
+             POLES
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Open data
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/OpenEI" title="OpenEI">
+             OpenEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reegle" title="Reegle">
+             Reegle
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">
+             Climate change mitigation scenarios
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Computer_simulation" title="Computer simulation">
+             Computer simulation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_modeling" title="Energy modeling">
+             Energy modeling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mathematical_optimization" title="Mathematical optimization">
+             Mathematical optimization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Scenario_analysis" title="Scenario analysis">
+             Scenario analysis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/System_dynamics" title="System dynamics">
+             System dynamics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Applications
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Electricity_market" title="Electricity market">
+             Electricity market
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+             Electric power transmission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_market" title="Energy market">
+             Energy market
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_planning" title="Energy planning">
+             Energy planning
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_policy" title="Energy policy">
+             Energy policy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Integrated_assessment_modelling" title="Integrated assessment modelling">
+             Integrated assessment modelling
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         People
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Hartmut_Bossel" title="Hartmut Bossel">
+             Hartmut Bossel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mark_Z._Jacobson" title="Mark Z. Jacobson">
+             Mark Jacobson
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/John_A._Laitner" title="John A. Laitner">
+             John Laitner
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/John_Weyant" title="John Weyant">
+             John Weyant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Organizations
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <strong class="selflink">
+             Energy Modeling Forum
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Open_Energy_Modelling_Initiative" title="Open Energy Modelling Initiative">
+             Openmod Initiative
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+         Categories
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Category:Economics_models" title="Category:Economics models">
+             Economics models
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Energy_models" title="Category:Energy models">
+             Energy models
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:15160793-0!*!0!!en!4!* and timestamp 20161104163020 and revision id 747254901
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;oldid=747254901">
+      https://en.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;oldid=747254901
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Economics_organizations" title="Category:Economics organizations">
+         Economics organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_models" title="Category:Energy models">
+         Energy models
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_organizations" title="Category:Energy organizations">
+         Energy organizations
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_April_2009" title="Category:Articles needing additional references from April 2009">
+         Articles needing additional references from April 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+Modeling+Forum" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+Modeling+Forum" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Energy_Modeling_Forum" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Energy_Modeling_Forum" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Energy_Modeling_Forum">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Energy_Modeling_Forum&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Energy_Modeling_Forum&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_Modeling_Forum" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_Modeling_Forum" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Energy_Modeling_Forum&amp;oldid=747254901" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Energy_Modeling_Forum&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5376952" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_Modeling_Forum&amp;id=747254901" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+Modeling+Forum">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+Modeling+Forum&amp;returnto=Energy+Modeling+Forum&amp;oldid=747254901&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Energy_Modeling_Forum&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5376952#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 1 November 2016, at 10:24.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_Modeling_Forum&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.180",
+            "walltime": "0.283",
+            "ppvisitednodes": {
+                "value": 1466,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 25665,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 874,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 14,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  243.770      1 -total",
+                " 37.30%   90.926      1 Template:Reflist",
+                " 33.64%   82.003      1 Template:Infobox_organization",
+                " 26.89%   65.552      1 Template:Infobox",
+                " 21.08%   51.395      1 Template:Cite_web",
+                " 17.30%   42.169      1 Template:Refimprove",
+                " 12.36%   30.134      1 Template:Cite_journal",
+                " 10.74%   26.175      1 Template:Ambox",
+                "  7.07%   17.224      4 Template:If_empty",
+                "  6.85%   16.710      1 Template:Energy_modeling"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.069",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3366026,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1215",
+            "timestamp": "20161104163020",
+            "ttl": 86400,
+            "transientcontent": true
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":52,"wgHostname":"mw1273"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,4590 @@
+https://en.wikipedia.org/wiki/Populus
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Populus - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Populus","wgTitle":"Populus","wgCurRevisionId":744862219,"wgRevisionId":744862219,"wgArticleId":94248,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from July 2011","Commons category with local link same as on Wikidata","Use dmy dates from May 2011","Populus","Dioecious plants","Eudicot genera"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Populus","wgRelevantArticleId":94248,"wgRequestId":"WB0R-QpAADsAASZZaAkAAABG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q25356","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Populus" rel="alternate"/>
+  <link href="/w/index.php?title=Populus&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Populus&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Populus" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Populus rootpage-Populus skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     Populus
+    </i>
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      Not to be confused with
+      <a href="/wiki/Liriodendron_tulipifera" title="Liriodendron tulipifera">
+       Liriodendron tulipifera
+      </a>
+      (tulip poplar), the source of poplar wood.
+     </div>
+     <div class="hatnote" role="note">
+      For the market research company, see
+      <a href="/wiki/Populus_Ltd" title="Populus Ltd">
+       Populus Ltd
+      </a>
+      . For other uses, see
+      <a class="mw-redirect mw-disambig" href="/wiki/Populus_(disambiguation)" title="Populus (disambiguation)">
+       Populus (disambiguation)
+      </a>
+      .
+     </div>
+     <div>
+      <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+       <tr>
+        <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)">
+         <i>
+          Populus
+         </i>
+        </th>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align: center">
+         <a class="image" href="/wiki/File:Lapo_gyslos.jpeg">
+          <img alt="Lapo gyslos.jpeg" data-file-height="518" data-file-width="521" height="219" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lapo_gyslos.jpeg/220px-Lapo_gyslos.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lapo_gyslos.jpeg/330px-Lapo_gyslos.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lapo_gyslos.jpeg/440px-Lapo_gyslos.jpeg 2x" width="220"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align: center; font-size: 88%">
+         A leaf of
+         <i>
+          <a href="/wiki/Populus_tremula" title="Populus tremula">
+           Populus tremula
+          </a>
+         </i>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)">
+         <a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">
+          Scientific classification
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td>
+         Kingdom:
+        </td>
+        <td>
+         <span class="kingdom">
+          <a href="/wiki/Plant" title="Plant">
+           Plantae
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         (unranked):
+        </td>
+        <td>
+         <span class="(unranked)">
+          <a class="mw-redirect" href="/wiki/Angiosperms" title="Angiosperms">
+           Angiosperms
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         (unranked):
+        </td>
+        <td>
+         <span class="(unranked)">
+          <a href="/wiki/Eudicots" title="Eudicots">
+           Eudicots
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         (unranked):
+        </td>
+        <td>
+         <span class="(unranked)">
+          <a href="/wiki/Rosids" title="Rosids">
+           Rosids
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Order:
+        </td>
+        <td>
+         <span class="order">
+          <a href="/wiki/Malpighiales" title="Malpighiales">
+           Malpighiales
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Family:
+        </td>
+        <td>
+         <span class="family">
+          <a href="/wiki/Salicaceae" title="Salicaceae">
+           Salicaceae
+          </a>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Tribe:
+        </td>
+        <td>
+         <span class="tribe">
+          <a class="new" href="/w/index.php?title=Saliceae&amp;action=edit&amp;redlink=1" title="Saliceae (page does not exist)">
+           Saliceae
+          </a>
+          <sup class="reference" id="cite_ref-UniProt_1-0">
+           <a href="#cite_note-UniProt-1">
+            [1]
+           </a>
+          </sup>
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Genus:
+        </td>
+        <td>
+         <span class="genus">
+          <i>
+           <b>
+            Populus
+           </b>
+          </i>
+         </span>
+         <br/>
+         <small>
+          <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">
+           L.
+          </a>
+         </small>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)">
+         <a href="/wiki/Type_species" title="Type species">
+          Type species
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align: center">
+         <i>
+          <a href="/wiki/Populus_tremula" title="Populus tremula">
+           Populus tremula
+          </a>
+         </i>
+         <br/>
+        </td>
+       </tr>
+       <tr>
+        <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)">
+         <a href="/wiki/Section_(botany)" title="Section (botany)">
+          Sections
+         </a>
+         and
+         <a href="/wiki/Species" title="Species">
+          Species
+         </a>
+        </th>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align: left">
+         <p>
+          See
+          <a href="#Classification">
+           text
+          </a>
+         </p>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <p>
+      <i>
+       <b>
+        Populus
+       </b>
+      </i>
+      is a genus of 25–35 species of
+      <a href="/wiki/Deciduous" title="Deciduous">
+       deciduous
+      </a>
+      <a href="/wiki/Flowering_plant" title="Flowering plant">
+       flowering plants
+      </a>
+      in the family
+      <a href="/wiki/Salicaceae" title="Salicaceae">
+       Salicaceae
+      </a>
+      , native to most of the
+      <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">
+       Northern Hemisphere
+      </a>
+      .
+      <a href="/wiki/English_language" title="English language">
+       English
+      </a>
+      names variously applied to different species include
+      <b>
+       poplar
+      </b>
+      <span class="nowrap">
+       <span class="IPA nopopups">
+        <a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">
+         /
+         <span style="border-bottom:1px dotted">
+          <span title="/ˈ/ primary stress follows">
+           ˈ
+          </span>
+          <span title="'p' in 'pie'">
+           p
+          </span>
+          <span title="/ɒ/ short 'o' in 'body'">
+           ɒ
+          </span>
+          <span title="'p' in 'pie'">
+           p
+          </span>
+          <span title="/./ syllable break">
+           .
+          </span>
+          <span title="'l' in 'lie'">
+           l
+          </span>
+          <span title="/ər/ 'er' in 'finger'">
+           ər
+          </span>
+         </span>
+         /
+        </a>
+       </span>
+      </span>
+      ,
+      <b>
+       <a href="/wiki/Aspen" title="Aspen">
+        aspen
+       </a>
+      </b>
+      , and
+      <b>
+       <a href="/wiki/Populus_sect._Aigeiros" title="Populus sect. Aigeiros">
+        cottonwood
+       </a>
+      </b>
+      .
+     </p>
+     <p>
+      In the September 2006 issue of
+      <i>
+       <a href="/wiki/Science_(journal)" title="Science (journal)">
+        Science Magazine
+       </a>
+      </i>
+      , the Joint Genome Institute announced that the western balsam poplar (
+      <i>
+       <a href="/wiki/Populus_trichocarpa" title="Populus trichocarpa">
+        P. trichocarpa
+       </a>
+      </i>
+      ) was the first tree whose full DNA code had been determined by
+      <a href="/wiki/DNA_sequencing" title="DNA sequencing">
+       DNA sequencing
+      </a>
+      .
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Description">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Description
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Ecology">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Ecology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Classification">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Classification
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Selected_species">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Selected species
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Cultivation">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Cultivation
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#India">
+           <span class="tocnumber">
+            4.1
+           </span>
+           <span class="toctext">
+            India
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Uses">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Uses
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Manufacturing">
+           <span class="tocnumber">
+            5.1
+           </span>
+           <span class="toctext">
+            Manufacturing
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Energy">
+           <span class="tocnumber">
+            5.2
+           </span>
+           <span class="toctext">
+            Energy
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Art_and_literature">
+           <span class="tocnumber">
+            5.3
+           </span>
+           <span class="toctext">
+            Art and literature
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Resistance_against_termites">
+           <span class="tocnumber">
+            5.4
+           </span>
+           <span class="toctext">
+            Resistance against termites
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-12">
+          <a href="#Land_management">
+           <span class="tocnumber">
+            5.5
+           </span>
+           <span class="toctext">
+            Land management
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-13">
+          <a href="#Agriculture">
+           <span class="tocnumber">
+            5.6
+           </span>
+           <span class="toctext">
+            Agriculture
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Description">
+       Description
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=1" title="Edit section: Description">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The genus has a large genetic diversity, and can grow from 15–50 m (49–164 ft) tall, with trunks up to 2.5 m (8 ft 2 in) in diameter.
+     </p>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:Populier_mannelijke_bloeiwijze_(Populus_canadensis_male_inflorescences).jpg">
+        <img alt="" class="thumbimage" data-file-height="2016" data-file-width="1356" height="253" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg/170px-Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg/255px-Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg/340px-Populier_mannelijke_bloeiwijze_%28Populus_canadensis_male_inflorescences%29.jpg 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Populier_mannelijke_bloeiwijze_(Populus_canadensis_male_inflorescences).jpg" title="Enlarge">
+         </a>
+        </div>
+        Male catkins of
+        <a href="/wiki/Populus_%C3%97_canadensis" title="Populus × canadensis">
+         <i>
+          Populus
+         </i>
+         x
+         <i>
+          canadensis
+         </i>
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      The
+      <a href="/wiki/Bark" title="Bark">
+       bark
+      </a>
+      on young trees is smooth, white to greenish or dark grey, and often has conspicuous
+      <a href="/wiki/Lenticel" title="Lenticel">
+       lenticels
+      </a>
+      ; on old trees, it remains smooth in some species, but becomes rough and deeply fissured in others. The shoots are stout, with (unlike in the related
+      <a href="/wiki/Willow" title="Willow">
+       willows
+      </a>
+      ) the terminal bud present. The
+      <a href="/wiki/Leaf" title="Leaf">
+       leaves
+      </a>
+      are spirally arranged, and vary in shape from triangular to circular or (rarely) lobed, and with a long
+      <a href="/wiki/Petiole_(botany)" title="Petiole (botany)">
+       petiole
+      </a>
+      ; in species in the sections
+      <i>
+       Populus
+      </i>
+      and
+      <i>
+       Aigeiros
+      </i>
+      , the petioles are laterally flattened, so that breezes easily cause the leaves to wobble back and forth, giving the whole tree a "twinkling" appearance in a breeze. Leaf size is very variable even on a single tree, typically with small leaves on side shoots, and very large leaves on strong-growing lead shoots. The leaves often turn bright gold to yellow before they fall during autumn.
+      <sup class="reference" id="cite_ref-rdm_3-0">
+       <a href="#cite_note-rdm-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-rushforth_4-0">
+       <a href="#cite_note-rushforth-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The
+      <a href="/wiki/Flower" title="Flower">
+       flowers
+      </a>
+      are mostly
+      <a class="mw-redirect" href="/wiki/Plant_sexuality" title="Plant sexuality">
+       dioecious
+      </a>
+      (rarely
+      <a class="mw-redirect" href="/wiki/Plant_sexuality" title="Plant sexuality">
+       monoecious
+      </a>
+      ) and appear in early spring before the leaves. They are borne in long, drooping, sessile or pedunculate
+      <a href="/wiki/Catkin" title="Catkin">
+       catkins
+      </a>
+      produced from buds formed in the axils of the leaves of the previous year. The flowers are each seated in a cup-shaped disk which is borne on the base of a scale which is itself attached to the rachis of the catkin. The scales are obovate, lobed, and fringed, membranous, hairy or smooth, and usually caducous. The male flowers are without
+      <a class="mw-redirect" href="/wiki/Calyx_(botany)" title="Calyx (botany)">
+       calyx
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Corolla_(flower)" title="Corolla (flower)">
+       corolla
+      </a>
+      , and comprise a group of four to 60
+      <a href="/wiki/Stamen" title="Stamen">
+       stamens
+      </a>
+      inserted on a disk; filaments are short and pale yellow;
+      <a class="mw-redirect" href="/wiki/Anther" title="Anther">
+       anthers
+      </a>
+      are oblong, purple or red, introrse, and two-celled; the cells open longitudinally. The female flower also has no calyx or corolla, and comprises a single-celled ovary seated in a cup-shaped disk. The style is short, with two to four stigmata, variously lobed, and numerous ovules. Pollination is by wind, with the female catkins lengthening considerably between pollination and maturity. The
+      <a href="/wiki/Fruit" title="Fruit">
+       fruit
+      </a>
+      is a two- to four-valved
+      <a href="/wiki/Dehiscence_(botany)" title="Dehiscence (botany)">
+       dehiscent
+      </a>
+      <a class="mw-redirect" href="/wiki/Capsule_(fruit)" title="Capsule (fruit)">
+       capsule
+      </a>
+      , green to reddish-brown, mature in midsummer, containing numerous minute light brown
+      <a href="/wiki/Seed" title="Seed">
+       seeds
+      </a>
+      surrounded by tufts of long, soft, white hairs which aid wind dispersal.
+      <sup class="reference" id="cite_ref-rdm_3-1">
+       <a href="#cite_note-rdm-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Keeler_5-0">
+       <a href="#cite_note-Keeler-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ecology">
+       Ecology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=2" title="Edit section: Ecology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Poplars of the cottonwood section are often wetlands or
+      <a class="mw-redirect" href="/wiki/Riparian" title="Riparian">
+       riparian
+      </a>
+      trees. The aspens are among the most important
+      <a href="/wiki/Boreal_ecosystem" title="Boreal ecosystem">
+       boreal
+      </a>
+      broadleaf trees.
+      <sup class="reference" id="cite_ref-rdm_3-2">
+       <a href="#cite_note-rdm-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Poplars and aspens are important
+      <a href="/wiki/List_of_Lepidoptera_that_feed_on_poplars" title="List of Lepidoptera that feed on poplars">
+       food plants
+      </a>
+      for the
+      <a href="/wiki/Larva" title="Larva">
+       larvae
+      </a>
+      of a large number of
+      <a href="/wiki/Lepidoptera" title="Lepidoptera">
+       Lepidoptera
+      </a>
+      species.
+      <i>
+       <a href="/wiki/Pleurotus_populinus" title="Pleurotus populinus">
+        Pleurotus populinus
+       </a>
+      </i>
+      , the aspen oyster mushroom, is found exclusively on dead wood of
+      <i>
+       Populus
+      </i>
+      trees in North America.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Classification">
+       Classification
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=3" title="Edit section: Classification">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Four_Poplars_in_four_seasons.JPG">
+        <img alt="" class="thumbimage" data-file-height="617" data-file-width="821" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Four_Poplars_in_four_seasons.JPG/220px-Four_Poplars_in_four_seasons.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Four_Poplars_in_four_seasons.JPG/330px-Four_Poplars_in_four_seasons.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Four_Poplars_in_four_seasons.JPG/440px-Four_Poplars_in_four_seasons.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Four_Poplars_in_four_seasons.JPG" title="Enlarge">
+         </a>
+        </div>
+        A
+        <i>
+         Populus
+        </i>
+        on a hill through April, September, October, February (Germany)
+       </div>
+      </div>
+     </div>
+     <p>
+      The genus
+      <i>
+       Populus
+      </i>
+      has traditionally been divided into six sections on the basis of leaf and flower characters;
+      <sup class="reference" id="cite_ref-rushforth_4-1">
+       <a href="#cite_note-rushforth-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      this classification is followed below. Recent genetic studies have largely supported this, confirming some previously suspected reticulate evolution due to past
+      <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">
+       hybridisation
+      </a>
+      and introgression events between the groups. Some species (noted below) had differing relationships indicated by their nuclear DNA (paternally inherited) and chloroplast DNA sequences (maternally inherited), a clear indication of likely hybrid origin.
+      <sup class="reference" id="cite_ref-hamzeh_7-0">
+       <a href="#cite_note-hamzeh-7">
+        [7]
+       </a>
+      </sup>
+      Hybridisation continues to be common in the genus, with several hybrids between species in different sections known.
+      <sup class="reference" id="cite_ref-rdm_3-3">
+       <a href="#cite_note-rdm-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Selected_species">
+       Selected species
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=4" title="Edit section: Selected species">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:PopulusNigra3.jpg">
+        <img alt="" class="thumbimage" data-file-height="2854" data-file-width="1982" height="245" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PopulusNigra3.jpg/170px-PopulusNigra3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PopulusNigra3.jpg/255px-PopulusNigra3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PopulusNigra3.jpg/340px-PopulusNigra3.jpg 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:PopulusNigra3.jpg" title="Enlarge">
+         </a>
+        </div>
+        <i>
+         <a href="/wiki/Populus_nigra" title="Populus nigra">
+          Populus nigra
+         </a>
+        </i>
+        in autumn
+       </div>
+      </div>
+     </div>
+     <ul>
+      <li>
+       <b>
+        <i>
+         Populus
+        </i>
+        section
+        <i>
+         Populus
+        </i>
+        –
+        <a href="/wiki/Aspen" title="Aspen">
+         aspens
+        </a>
+        and white poplar
+       </b>
+       (circumpolar subarctic and cool temperate, and mountains farther south, white poplar warm temperate)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_tremula" title="Populus tremula">
+           Populus tremula
+          </a>
+         </i>
+         – aspen, common aspen, Eurasian aspen, European aspen, quaking aspen (Europe, northern Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_adenopoda" title="Populus adenopoda">
+           Populus adenopoda
+          </a>
+         </i>
+         – Chinese aspen (eastern Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_alba" title="Populus alba">
+           Populus alba
+          </a>
+         </i>
+         – white poplar (Southern Europe to central Asia)
+         <ul>
+          <li>
+           <i>
+            <a href="/wiki/Populus_alba#Hybridization" title="Populus alba">
+             Populus × canescens
+            </a>
+           </i>
+           (
+           <i>
+            P. alba × P. tremula
+           </i>
+           ) – grey poplar
+          </li>
+          <li>
+           <i>
+            <a class="new" href="/w/index.php?title=Populus_spp._X&amp;action=edit&amp;redlink=1" title="Populus spp. X (page does not exist)">
+             Populus spp. X
+            </a>
+           </i>
+           (see "
+           <a class="mw-redirect" href="/wiki/Spp." title="Spp.">
+            spp.
+           </a>
+           ") –
+           <a class="new" href="/w/index.php?title=Pacific_albus&amp;action=edit&amp;redlink=1" title="Pacific albus (page does not exist)">
+            Pacific albus
+           </a>
+           (North America)
+          </li>
+         </ul>
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_davidiana&amp;action=edit&amp;redlink=1" title="Populus davidiana (page does not exist)">
+           Populus davidiana
+          </a>
+         </i>
+         – Korean aspen (eastern Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_grandidentata" title="Populus grandidentata">
+           Populus grandidentata
+          </a>
+         </i>
+         – bigtooth aspen (Eastern North America)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_sieboldii&amp;action=edit&amp;redlink=1" title="Populus sieboldii (page does not exist)">
+           Populus sieboldii
+          </a>
+         </i>
+         – Japanese aspen (eastern Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_tremuloides" title="Populus tremuloides">
+           Populus tremuloides
+          </a>
+         </i>
+         – quaking aspen or trembling aspen (North America)
+        </li>
+       </ul>
+      </li>
+      <li>
+       <b>
+        <a href="/wiki/Populus_sect._Aigeiros" title="Populus sect. Aigeiros">
+         <i>
+          Populus
+         </i>
+         section
+         <i>
+          Aigeiros
+         </i>
+        </a>
+        – black poplars, some of the cottonwoods
+       </b>
+       (North America, Europe, western Asia; temperate)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_deltoides" title="Populus deltoides">
+           Populus deltoides
+          </a>
+         </i>
+         – eastern cottonwood (Eastern North America)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_fremontii" title="Populus fremontii">
+           Populus fremontii
+          </a>
+         </i>
+         – Fremont cottonwood (Western North America)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_nigra" title="Populus nigra">
+           Populus nigra
+          </a>
+         </i>
+         – black poplar (Europe), placed here by nuclear DNA; cpDNA places it in sect.
+         <i>
+          Populus
+         </i>
+         (including
+         <i>
+          Populus afghanica
+         </i>
+         )
+         <ul>
+          <li>
+           <a href="/wiki/Populus_%C3%97_canadensis" title="Populus × canadensis">
+            <i>
+             Populus
+            </i>
+            ×
+            <i>
+             canadensis
+            </i>
+           </a>
+           (
+           <i>
+            P. deltoides
+           </i>
+           ×
+           <i>
+            P. nigra
+           </i>
+           ) – hybrid black poplar
+          </li>
+          <li>
+           <a class="new" href="/w/index.php?title=Populus_%C3%97_inopina&amp;action=edit&amp;redlink=1" title="Populus × inopina (page does not exist)">
+            <i>
+             Populus
+            </i>
+            ×
+            <i>
+             inopina
+            </i>
+           </a>
+           (
+           <i>
+            P. nigra
+           </i>
+           ×
+           <i>
+            P. fremontii
+           </i>
+           ) – hybrid black poplar
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:Populus_lasiocarpa_leaves_01_by_Line1.JPG">
+        <img alt="" class="thumbimage" data-file-height="2816" data-file-width="2112" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Populus_lasiocarpa_leaves_01_by_Line1.JPG/170px-Populus_lasiocarpa_leaves_01_by_Line1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Populus_lasiocarpa_leaves_01_by_Line1.JPG/255px-Populus_lasiocarpa_leaves_01_by_Line1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Populus_lasiocarpa_leaves_01_by_Line1.JPG/340px-Populus_lasiocarpa_leaves_01_by_Line1.JPG 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Populus_lasiocarpa_leaves_01_by_Line1.JPG" title="Enlarge">
+         </a>
+        </div>
+        Leaves of
+        <i>
+         <a href="/wiki/Populus_lasiocarpa" title="Populus lasiocarpa">
+          Populus lasiocarpa
+         </a>
+        </i>
+       </div>
+      </div>
+     </div>
+     <ul>
+      <li>
+       <b>
+        <a href="/wiki/Populus_sect._Tacamahaca" title="Populus sect. Tacamahaca">
+         <i>
+          Populus
+         </i>
+         section
+         <i>
+          Tacamahaca
+         </i>
+        </a>
+        – balsam poplars
+       </b>
+       (North America, Asia; cool temperate)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_angustifolia" title="Populus angustifolia">
+           Populus angustifolia
+          </a>
+         </i>
+         – willow-leaved poplar or narrowleaf cottonwood (Central North America)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_balsamifera" title="Populus balsamifera">
+           Populus balsamifera
+          </a>
+         </i>
+         – Ontario balsam poplar (northern North America) (=
+         <i>
+          P. candicans
+         </i>
+         ,
+         <i>
+          P. tacamahaca
+         </i>
+         )
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_cathayana&amp;action=edit&amp;redlink=1" title="Populus cathayana (page does not exist)">
+           Populus cathayana
+          </a>
+         </i>
+         – (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_koreana&amp;action=edit&amp;redlink=1" title="Populus koreana (page does not exist)">
+           Populus koreana
+          </a>
+         </i>
+         <small>
+          J.Rehnder
+         </small>
+         – Korean poplar (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_laurifolia&amp;action=edit&amp;redlink=1" title="Populus laurifolia (page does not exist)">
+           Populus laurifolia
+          </a>
+         </i>
+         – laurel-leaf poplar (central Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_maximowiczii&amp;action=edit&amp;redlink=1" title="Populus maximowiczii (page does not exist)">
+           Populus maximowiczii
+          </a>
+         </i>
+         <small>
+          A.Henry
+         </small>
+         – Maximowicz' poplar, Japanese poplar (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_simonii&amp;action=edit&amp;redlink=1" title="Populus simonii (page does not exist)">
+           Populus simonii
+          </a>
+         </i>
+         – Simon's poplar (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_suaveolens&amp;action=edit&amp;redlink=1" title="Populus suaveolens (page does not exist)">
+           Populus suaveolens
+          </a>
+         </i>
+         <small>
+          Fischer
+         </small>
+         – Mongolian poplar (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_szechuanica&amp;action=edit&amp;redlink=1" title="Populus szechuanica (page does not exist)">
+           Populus szechuanica
+          </a>
+         </i>
+         – Sichuan poplar (northeast Asia), placed here by nuclear DNA; cpDNA places it in sect.
+         <i>
+          Aigeiros
+         </i>
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_trichocarpa" title="Populus trichocarpa">
+           Populus trichocarpa
+          </a>
+         </i>
+         – western balsam poplar or black cottonwood (western North America)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_tristis&amp;action=edit&amp;redlink=1" title="Populus tristis (page does not exist)">
+           Populus tristis
+          </a>
+         </i>
+         (northeast Asia), placed here by nuclear DNA; cpDNA places it in sect.
+         <i>
+          Aigeiros
+         </i>
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_ussuriensis&amp;action=edit&amp;redlink=1" title="Populus ussuriensis (page does not exist)">
+           Populus ussuriensis
+          </a>
+         </i>
+         – Ussuri poplar (northeast Asia)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_yunnanensis&amp;action=edit&amp;redlink=1" title="Populus yunnanensis (page does not exist)">
+           Populus yunnanensis
+          </a>
+         </i>
+         – Yunnan poplar (east Asia)
+        </li>
+       </ul>
+      </li>
+      <li>
+       <b>
+        <i>
+         Populus
+        </i>
+        section
+        <i>
+         Leucoides
+        </i>
+        – necklace poplars or bigleaf poplars
+       </b>
+       (Eastern North America, eastern Asia; warm temperate)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_heterophylla" title="Populus heterophylla">
+           Populus heterophylla
+          </a>
+         </i>
+         – downy poplar (southeastern North America)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_lasiocarpa" title="Populus lasiocarpa">
+           Populus lasiocarpa
+          </a>
+         </i>
+         – Chinese necklace poplar (eastern Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_wilsonii" title="Populus wilsonii">
+           Populus wilsonii
+          </a>
+         </i>
+         – Wilson's poplar (eastern Asia)
+        </li>
+       </ul>
+      </li>
+      <li>
+       <b>
+        <i>
+         Populus
+        </i>
+        section
+        <i>
+         Turanga
+        </i>
+        – subtropical poplars
+       </b>
+       (Southwest Asia, east Africa; subtropical to tropical)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_euphratica" title="Populus euphratica">
+           Populus euphratica
+          </a>
+         </i>
+         – Euphrates poplar (North Africa, southwest and central Asia)
+        </li>
+        <li>
+         <i>
+          <a href="/wiki/Populus_ilicifolia" title="Populus ilicifolia">
+           Populus ilicifolia
+          </a>
+         </i>
+         – Tana River poplar (East Africa)
+        </li>
+       </ul>
+      </li>
+      <li>
+       <b>
+        <i>
+         Populus
+        </i>
+        section
+        <i>
+         Abaso
+        </i>
+        – Mexican poplars
+       </b>
+       (Mexico; subtropical to tropical)
+       <ul>
+        <li>
+         <i>
+          <a href="/wiki/Populus_guzmanantlensis" title="Populus guzmanantlensis">
+           Populus guzmanantlensis
+          </a>
+         </i>
+         (Mexico)
+        </li>
+        <li>
+         <i>
+          <a class="new" href="/w/index.php?title=Populus_mexicana&amp;action=edit&amp;redlink=1" title="Populus mexicana (page does not exist)">
+           Populus mexicana
+          </a>
+         </i>
+         – Mexico poplar (Mexico)
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Cultivation">
+       Cultivation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=5" title="Edit section: Cultivation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:Populus_nigra-bekes.jpg">
+        <img alt="" class="thumbimage" data-file-height="2104" data-file-width="1225" height="292" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Populus_nigra-bekes.jpg/170px-Populus_nigra-bekes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Populus_nigra-bekes.jpg/255px-Populus_nigra-bekes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Populus_nigra-bekes.jpg/340px-Populus_nigra-bekes.jpg 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Populus_nigra-bekes.jpg" title="Enlarge">
+         </a>
+        </div>
+        Fastigiate black poplar cultivar of the Plantierensis group, in
+        <a href="/wiki/Hungary" title="Hungary">
+         Hungary
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Poplars_of_Khorog_City_Park.JPG">
+        <img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Poplars_of_Khorog_City_Park.JPG/220px-Poplars_of_Khorog_City_Park.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Poplars_of_Khorog_City_Park.JPG/330px-Poplars_of_Khorog_City_Park.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Poplars_of_Khorog_City_Park.JPG/440px-Poplars_of_Khorog_City_Park.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Poplars_of_Khorog_City_Park.JPG" title="Enlarge">
+         </a>
+        </div>
+        Poplars dominate the flora of
+        <a class="mw-redirect" href="/wiki/Khorog" title="Khorog">
+         Khorog
+        </a>
+        City Park,
+        <a class="mw-redirect" href="/wiki/GBAO" title="GBAO">
+         GBAO
+        </a>
+        ,
+        <a href="/wiki/Tajikistan" title="Tajikistan">
+         Tajikistan
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      Many poplars are grown as
+      <a class="mw-redirect" href="/wiki/Ornamental_tree" title="Ornamental tree">
+       ornamental trees
+      </a>
+      , with numerous
+      <a href="/wiki/Cultivar" title="Cultivar">
+       cultivars
+      </a>
+      used. They have the advantage of growing to a very large size at a rapid pace. Almost all poplars take root readily from cuttings or where broken branches lie on the ground (they also often have remarkable suckering abilities, and can form huge colonies from a single original tree, such as the famous
+      <i>
+       <a href="/wiki/Pando_(tree)" title="Pando (tree)">
+        Pando
+       </a>
+      </i>
+      forest made of thousands of
+      <i>
+       <a href="/wiki/Populus_tremuloides" title="Populus tremuloides">
+        Populus tremuloides
+       </a>
+      </i>
+      clones).
+     </p>
+     <p>
+      Trees with
+      <a class="new" href="/w/index.php?title=Fastigiate&amp;action=edit&amp;redlink=1" title="Fastigiate (page does not exist)">
+       fastigiate
+      </a>
+      (erect, columnar) branching are particularly popular, and are widely grown across Europe and southwest Asia. However, like
+      <a href="/wiki/Willow" title="Willow">
+       willows
+      </a>
+      , poplars have very vigorous and invasive root systems stretching up to 40 m from the trees; planting close to houses or ceramic water pipes may result in damaged foundations and cracked walls and pipes due to their search for moisture.
+     </p>
+     <p>
+      A simple, reproducible, high-frequency micropropagation protocol in eastern cottonwood
+      <i>
+       Populus deltoides
+      </i>
+      has been reported by Yadav et al. 2009
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="India">
+       India
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=6" title="Edit section: India">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:KDJHPOP.JPG">
+        <img alt="" class="thumbimage" data-file-height="1285" data-file-width="901" height="242" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/KDJHPOP.JPG/170px-KDJHPOP.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/KDJHPOP.JPG/255px-KDJHPOP.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/KDJHPOP.JPG/340px-KDJHPOP.JPG 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:KDJHPOP.JPG" title="Enlarge">
+         </a>
+        </div>
+        Popular
+        <i>
+         Populus
+        </i>
+        variety G48 in Punjab, India; Jhalli Farms Village Niara/Hoshiarpur
+       </div>
+      </div>
+     </div>
+     <p>
+      In India, the poplar is grown commercially by farmers, mainly in the Punjab region. Common poplar varieties are:
+     </p>
+     <ul>
+      <li>
+       G48 (grown in the plains of Punjab, Haryana, UP)
+      </li>
+      <li>
+       w22 (grown in mountainous regions, e.g., Himachal Pradesh, Pathankot, Jammu)
+      </li>
+     </ul>
+     <p>
+      The trees are grown from
+      <i>
+       kalam
+      </i>
+      or cuttings, harvested annually in January and February, and commercially available up to 15
+      <span class="nowrap">
+      </span>
+      November.
+     </p>
+     <p>
+      Most commonly used to make
+      <a href="/wiki/Plywood" title="Plywood">
+       plywood
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Yamuna_Nagar" title="Yamuna Nagar">
+       Yamuna Nagar
+      </a>
+      in
+      <a href="/wiki/Haryana" title="Haryana">
+       Haryana
+      </a>
+      state has a large plywood industry reliant upon poplar. It is graded according to sizes known as "over" (over 24 inches (610 mm)), "under" (18–24 inches (460–610 mm)), and "sokta" (less than 18 inches (460 mm)).
+     </p>
+     <h2>
+      <span class="mw-headline" id="Uses">
+       Uses
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=7" title="Edit section: Uses">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Pamirihouse.JPG">
+        <img alt="" class="thumbimage" data-file-height="379" data-file-width="1024" height="81" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Pamirihouse.JPG/220px-Pamirihouse.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Pamirihouse.JPG/330px-Pamirihouse.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b6/Pamirihouse.JPG/440px-Pamirihouse.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Pamirihouse.JPG" title="Enlarge">
+         </a>
+        </div>
+        Traditional
+        <a href="/wiki/Pamiris" title="Pamiris">
+         Pamiris
+        </a>
+        house
+       </div>
+      </div>
+     </div>
+     <p>
+      Although the wood from
+      <i>
+       Populus
+      </i>
+      is known as poplar wood, a common high-quality hardwood "poplar" with a greenish colour is actually from an unrelated genus
+      <i>
+       <a href="/wiki/Liriodendron" title="Liriodendron">
+        Liriodendron
+       </a>
+      </i>
+      .
+      <i>
+       Populus
+      </i>
+      wood is a lighter, more porous material.
+     </p>
+     <p>
+      Its flexibility and close grain make it suitable for a number of applications, similar to those for willow. The Greeks and Etruscans made shields of poplar, and Pliny also recommended poplar for this purpose.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      Poplar continued to be used for shield construction through the Middle Ages and was renowned for a durability similar to that of oak, but at a substantial reduction in weight.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Manufacturing">
+       Manufacturing
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=8" title="Edit section: Manufacturing">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <ul>
+      <li>
+       In many areas, fast-growing
+       <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">
+        hybrid
+       </a>
+       poplars are grown on
+       <a href="/wiki/Plantation" title="Plantation">
+        plantations
+       </a>
+       for
+       <a href="/wiki/Pulpwood" title="Pulpwood">
+        pulpwood
+       </a>
+      </li>
+      <li>
+       Poplar is widely used for the manufacture of
+       <a href="/wiki/Paper" title="Paper">
+        paper
+       </a>
+       .
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </li>
+      <li>
+       It is also sold as inexpensive hardwood
+       <a class="mw-redirect" href="/wiki/Timber" title="Timber">
+        timber
+       </a>
+       , used for
+       <a href="/wiki/Pallet" title="Pallet">
+        pallets
+       </a>
+       and cheap
+       <a href="/wiki/Plywood" title="Plywood">
+        plywood
+       </a>
+       ; more specialised uses include
+       <a href="/wiki/Match" title="Match">
+        matches
+       </a>
+       and the boxes in which
+       <a class="mw-redirect" href="/wiki/Camembert_(cheese)" title="Camembert (cheese)">
+        Camembert cheese
+       </a>
+       is sold.
+      </li>
+      <li>
+       Poplar wood is also widely used in the
+       <a href="/wiki/Snowboard" title="Snowboard">
+        snowboard
+       </a>
+       industry for the snowboard core, because it has exceptional flexibility, and is sometimes used in the bodies of
+       <a href="/wiki/Electric_guitar" title="Electric guitar">
+        electric guitars
+       </a>
+       and
+       <a href="/wiki/Drum" title="Drum">
+        drums
+       </a>
+       .
+      </li>
+      <li>
+       Poplar wood, particularly when seasoned, makes a good hearth for a
+       <a href="/wiki/Bow_drill" title="Bow drill">
+        bow drill
+       </a>
+       .
+      </li>
+      <li>
+       Due to its high
+       <a href="/wiki/Tannic_acid" title="Tannic acid">
+        tannic acid
+       </a>
+       content, the bark has been used in Europe for tanning leather.
+       <sup class="reference" id="cite_ref-Keeler_5-1">
+        <a href="#cite_note-Keeler-5">
+         [5]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Poplar wood can be used to produce
+       <a href="/wiki/Chopsticks" title="Chopsticks">
+        chopsticks
+       </a>
+       or
+       <a class="mw-redirect" href="/wiki/Wooden_shoes" title="Wooden shoes">
+        wooden shoes
+       </a>
+       .
+      </li>
+      <li>
+       Baking
+       <a href="/wiki/Mold_(cooking_implement)" title="Mold (cooking implement)">
+        moulds
+       </a>
+       from
+       <a href="/wiki/Wood_veneer" title="Wood veneer">
+        peeled
+       </a>
+       poplar may be used in the freezer, oven, or microwave oven.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Energy">
+       Energy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=9" title="Edit section: Energy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Interest exists in using poplar as an
+      <a href="/wiki/Energy_crop" title="Energy crop">
+       energy crop
+      </a>
+      for
+      <a href="/wiki/Biomass" title="Biomass">
+       biomass
+      </a>
+      or
+      <a href="/wiki/Biofuel" title="Biofuel">
+       biofuel
+      </a>
+      , in
+      <a href="/wiki/Energy_forestry" title="Energy forestry">
+       energy forestry
+      </a>
+      systems, particularly in light of its high energy-in to energy-out ratio, large carbon mitigation potential, and fast growth.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Rotor_poplar_and_willow_cuttings_planter,_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG">
+        <img alt="" class="thumbimage" data-file-height="346" data-file-width="628" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG/220px-Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG/330px-Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG/440px-Rotor_poplar_and_willow_cuttings_planter%2C_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Rotor_poplar_and_willow_cuttings_planter,_planting_a_new_nursery_of_poplar_for_biomass_with_short_rotation..JPG" title="Enlarge">
+         </a>
+        </div>
+        Rotor poplar and willow cuttings planter, planting a new nursery of poplar for biomass with short rotation
+       </div>
+      </div>
+     </div>
+     <p>
+      In the
+      <a href="/wiki/United_Kingdom" title="United Kingdom">
+       United Kingdom
+      </a>
+      , poplar (as with fellow energy crop willow) is typically grown in a
+      <a href="/wiki/Short_rotation_coppice" title="Short rotation coppice">
+       short rotation coppice
+      </a>
+      system for two to five years (with single or multiple stems), then harvested and burned - the yield of some varieties can be as high as 12 oven-dry tonnes per hectare every year
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Art_and_literature">
+       Art and literature
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=10" title="Edit section: Art and literature">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Poplar was the most common wood used in Italy for
+      <a href="/wiki/Panel_painting" title="Panel painting">
+       panel paintings
+      </a>
+      ; the
+      <i>
+       <a href="/wiki/Mona_Lisa" title="Mona Lisa">
+        Mona Lisa
+       </a>
+      </i>
+      and most famous early renaissance Italian paintings are on poplar. The wood is generally white, often with a slightly yellowish colour.
+     </p>
+     <p>
+      Some
+      <a class="mw-redirect" href="/wiki/Stringed_instrument" title="Stringed instrument">
+       stringed instruments
+      </a>
+      are made with one-piece poplar backs;
+      <a href="/wiki/Viola" title="Viola">
+       violas
+      </a>
+      made in this fashion are said
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (July 2011)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      to have a particularly resonant tone. Similarly, though typically it is considered to have a less attractive grain than the traditional
+      <a class="mw-redirect" href="/wiki/Sitka_spruce" title="Sitka spruce">
+       sitka spruce
+      </a>
+      , poplar is beginning to be targeted by some
+      <a href="/wiki/Harp" title="Harp">
+       harp
+      </a>
+      <a href="/wiki/Luthier" title="Luthier">
+       luthiers
+      </a>
+      as a sustainable and even superior alternative for their
+      <a href="/wiki/Sound_board_(music)" title="Sound board (music)">
+       sound boards
+      </a>
+      :
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      in these cases another hardwood veneer is sometimes applied to the resonant poplar base both for cosmetic reasons, and supposedly to fine-tune the acoustic properties.
+     </p>
+     <p>
+      Two notable poems in English lament the cutting down of poplars,
+      <a href="/wiki/William_Cowper" title="William Cowper">
+       William Cowper
+      </a>
+      's "The Poplar Field" and
+      <a href="/wiki/Gerard_Manley_Hopkins" title="Gerard Manley Hopkins">
+       Gerard Manley Hopkins
+      </a>
+      ' "
+      <a href="/wiki/Binsey_Poplars" title="Binsey Poplars">
+       Binsey Poplars
+      </a>
+      felled 1879".
+     </p>
+     <p>
+      <a href="/wiki/Abel_Meeropol" title="Abel Meeropol">
+       Abel Meeropol
+      </a>
+      's poem "
+      <a href="/wiki/Strange_Fruit" title="Strange Fruit">
+       Strange Fruit
+      </a>
+      : mentions poplar trees in the context of
+      <a href="/wiki/Lynching" title="Lynching">
+       lynching
+      </a>
+      .
+     </p>
+     <p>
+      The Odd Poplers Alley, in
+      <a href="/wiki/Ia%C8%99i" title="Iași">
+       Iași
+      </a>
+      , Romania, is one of the spots where
+      <a href="/wiki/Mihai_Eminescu" title="Mihai Eminescu">
+       Mihai Eminescu
+      </a>
+      sought inspiration in his works (the poem "Down Where the Lonely Poplars Grow"). In 1973, the 15 white poplars still left (with age ranges between 233 and 371 years) were declared natural monuments.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Resistance_against_termites">
+       Resistance against termites
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=11" title="Edit section: Resistance against termites">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In Pakistan, poplar is grown on commercial level by farmers in Punjab, Sindh, and Khyber Pakhtunkhwa Provinces. However, all varieties are seriously susceptible to termite attack, causing significant losses to poplar every year. Logs of poplar are therefore also used in termite traps (termaps) for biocontrol of termites in crops.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Land_management">
+       Land management
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=12" title="Edit section: Land management">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a class="mw-redirect" href="/wiki/Lombardy_poplar" title="Lombardy poplar">
+       Lombardy poplars
+      </a>
+      are frequently used as a
+      <a href="/wiki/Windbreak" title="Windbreak">
+       windbreak
+      </a>
+      around agricultural fields to protect against wind erosion.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Agriculture">
+       Agriculture
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=13" title="Edit section: Agriculture">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Logs from the poplar provide a growing medium for
+      <a href="/wiki/Shiitake" title="Shiitake">
+       shiitake
+      </a>
+      mushrooms.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=14" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Poplar_Walk" title="Poplar Walk">
+        Poplar Walk
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Christ_Church_Meadow" title="Christ Church Meadow">
+        Christ Church Meadow
+       </a>
+       ,
+       <a href="/wiki/Oxford" title="Oxford">
+        Oxford
+       </a>
+       , England
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Poplar_Tree_Incident" title="Poplar Tree Incident">
+        Poplar Tree Incident
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Populus&amp;action=edit&amp;section=15" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Populus" title="commons:Category:Populus">
+           Populus
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wikispecies-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1103" data-file-width="941" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" width="34"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        <a href="/wiki/Wikispecies" title="Wikispecies">
+         Wikispecies
+        </a>
+        has information related to:
+        <i>
+         <b>
+          <a class="extiw" href="https://species.wikimedia.org/wiki/Populus" title="wikispecies:Populus">
+           Populus
+          </a>
+         </b>
+        </i>
+       </td>
+      </tr>
+     </table>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wikisource-logo.svg">
+         <img alt="" class="noviewer" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        <a href="/wiki/Wikisource" title="Wikisource">
+         Wikisource
+        </a>
+        has the text of the
+        <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">
+         1911
+         <i>
+          Encyclopædia Britannica
+         </i>
+        </a>
+        article
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Poplar_(tree)" title="wikisource:1911 Encyclopædia Britannica/Poplar (tree)">
+           Poplar (tree)
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-UniProt-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-UniProt_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.uniprot.org/taxonomy/3689" rel="nofollow">
+           "Genus
+           <b>
+            Populus (poplars)
+           </b>
+           "
+          </a>
+          .
+          <i>
+           Taxonomy
+          </i>
+          . UniProt
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            4 February
+           </span>
+           2010
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.atitle=Genus+Populus+%28poplars%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.uniprot.org%2Ftaxonomy%2F3689&amp;rft.jtitle=Taxonomy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Joint Genome Institute,
+         <a class="external text" href="http://genome.jgi-psf.org/Poptr1_1/Poptr1_1.home.html" rel="nofollow">
+          <i>
+           Populus trichocarpa
+          </i>
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-rdm-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-rdm_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-rdm_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-rdm_3-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-rdm_3-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Meikle, R. D. (1984).
+         <i>
+          Willows and Poplars of Great Britain and Ireland
+         </i>
+         . BSBI Handbook No. 4.
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0901158070">
+          ISBN 0-901158-07-0
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-rushforth-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-rushforth_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-rushforth_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Rushforth, K. (1999).
+         <i>
+          Trees of Britain and rope
+         </i>
+         . Collins
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0002200139">
+          ISBN 0-00-220013-9
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-Keeler-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Keeler_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Keeler_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Keeler, H. L. (1900).
+          <i>
+           Our Native Trees and How to Identify Them
+          </i>
+          . New York: Charles Scriber's Sons. pp. 410–412.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.aufirst=H.+L.&amp;rft.aulast=Keeler&amp;rft.btitle=Our+Native+Trees+and+How+to+Identify+Them&amp;rft.date=1900&amp;rft.genre=book&amp;rft.pages=410-412&amp;rft.place=New+York&amp;rft.pub=Charles+Scriber%27s+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Eckenwalder, J.E. (1996). "Systematics and evolution of
+          <i>
+           Populus
+          </i>
+          ". In R.F. Stettler; H.D. Bradshaw; P.E. Heilman; T.M. Hinckley.
+          <a class="external text" href="https://books.google.com/?id=HvuTJC32C3YC&amp;pg=PR1#v=onepage&amp;q&amp;f=false" rel="nofollow">
+           <i>
+            Biology of
+           </i>
+           Populus
+           <i>
+            and its implications for management and conservation
+           </i>
+          </a>
+          . Ottawa: NRC Research Press, National Research Council of Canada.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780660165066" title="Special:BookSources/9780660165066">
+           9780660165066
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.atitle=Systematics+and+evolution+of+Populus&amp;rft.au=Eckenwalder%2C+J.E.&amp;rft.btitle=Biology+of+Populus+and+its+implications+for+management+and+conservation&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DHvuTJC32C3YC%26pg%3DPR1%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=9780660165066&amp;rft.place=Ottawa&amp;rft.pub=NRC+Research+Press%2C+National+Research+Council+of+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-hamzeh-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-hamzeh_7-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hamzeh, M., &amp; Dayanandan, S. (2004). Phylogeny of
+         <i>
+          Populus
+         </i>
+         (Salicaceae) based on nucleotide sequences of chloroplast TRNT-TRNF region and nuclear rDNA.
+         <i>
+          Amer. J. Bot
+         </i>
+         . 91: 1398-1408. Available
+         <a class="external text" href="http://www.amjbot.org/cgi/content/full/91/9/1398" rel="nofollow">
+          online
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Eckenwalder, J.E. (2001). "Key to species and main crosses". In D.I. Dickmann; J.G. Isebrands; J.E. Eckenwalder; J. Richardson.
+          <i>
+           Poplar culture in North America
+          </i>
+          . Ottawa: NRC Research Press. pp. 325–330.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-660-18145-5" title="Special:BookSources/978-0-660-18145-5">
+           978-0-660-18145-5
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.atitle=Key+to+species+and+main+crosses&amp;rft.au=Eckenwalder%2C+J.E.&amp;rft.btitle=Poplar+culture+in+North+America&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft.isbn=978-0-660-18145-5&amp;rft.pages=325-330&amp;rft.place=Ottawa&amp;rft.pub=NRC+Research+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.springerlink.com/content/553472252334p7kq/fulltext.pdf" rel="nofollow">
+          http://www.springerlink.com/content/553472252334p7kq/fulltext.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="https://books.google.com/books?id=6LUcuGdJF30C&amp;pg=PA69&amp;lpg=PA69&amp;dq=greek+shield+poplar&amp;source=bl&amp;ots=QwHVY5pBbo&amp;sig=mHrOh_hjrGxAvuc9M3eLoDvvVys&amp;hl=en&amp;ei=G4oNTvLBDoK0-Qa02bXqDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6&amp;ved=0CDAQ6AEwBQ#v=onepage&amp;q=greek%20shield%20poplar&amp;f=false" rel="nofollow">
+          [1]
+         </a>
+         The Cambridge Companion to Archaic Greece, p.69.
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.peupliersdefrance.org/indexGB.htm/" rel="nofollow">
+          Poplar cultivation in Europe
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Aiken, Laura (18 April 2012).
+          <a class="external text" href="http://www.bakersjournal.com/news/breaking-bread-abroad-3747" rel="nofollow">
+           "Baking Bread Abroad"
+          </a>
+          .
+          <i>
+           <a class="new" href="/w/index.php?title=Bakers_Journal&amp;action=edit&amp;redlink=1" title="Bakers Journal (page does not exist)">
+            Bakers Journal
+           </a>
+          </i>
+          . Simcoe, Ontario.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.atitle=Baking+Bread+Abroad&amp;rft.aufirst=Laura&amp;rft.aulast=Aiken&amp;rft.date=2012-04-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bakersjournal.com%2Fnews%2Fbreaking-bread-abroad-3747&amp;rft.jtitle=Bakers+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Aylott, Matthew J.; Casella, E; Tubby, I; Street, NR; Smith, P; Taylor, G (2008).
+          <a class="external text" href="http://www3.interscience.wiley.com/journal/119394739/abstract" rel="nofollow">
+           "Yield and spatial supply of bioenergy poplar and willow short-rotation coppice in the UK"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           New Phytologist
+          </i>
+          .
+          <b>
+           178
+          </b>
+          (2 fvhc): 358–370.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1111%2Fj.1469-8137.2008.02396.x" rel="nofollow">
+           10.1111/j.1469-8137.2008.02396.x
+          </a>
+          .
+          <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+           PMID
+          </a>
+          <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18331429" rel="nofollow">
+           18331429
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 October
+           </span>
+           2008
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulus&amp;rft.atitle=Yield+and+spatial+supply+of+bioenergy+poplar+and+willow+short-rotation+coppice+in+the+UK&amp;rft.au=Aylott%2C+Matthew+J.&amp;rft.au=Casella%2C+E&amp;rft.au=Smith%2C+P&amp;rft.au=Street%2C+NR&amp;rft.au=Taylor%2C+G&amp;rft.au=Tubby%2C+I&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F119394739%2Fabstract&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1469-8137.2008.02396.x&amp;rft_id=info%3Apmid%2F18331429&amp;rft.issue=2+fvhc&amp;rft.jtitle=New+Phytologist&amp;rft.pages=358-370&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=178">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://traditionalharps.com/Old_Rees_Harps_Site/HarpsGeneralTonewoods.html" rel="nofollow">
+          [2]
+         </a>
+         Rees Harps Website, "Harp Myth #8".
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.agerpres.ro/engleza-destinatie-romania/2014/09/04/destination-romania-iasi-the-county-of-centuries-old-trees-13-57-22" rel="nofollow">
+          Iași - the county of centuries-old trees
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.mtg.unimelb.edu.au/Shiitake.htm" rel="nofollow">
+          Shiitake growth studies performed by RMIT
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <div aria-labelledby="Woodworking" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Woodworking" title="Template:Woodworking">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Woodworking" title="Template talk:Woodworking">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Woodworking&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Woodworking" style="font-size:114%">
+          <a href="/wiki/Woodworking" title="Woodworking">
+           Woodworking
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Overviews
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/History_of_wood_carving" title="History of wood carving">
+             History
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Glossary_of_woodworking" title="Glossary of woodworking">
+             Glossary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood" title="Wood">
+             Wood
+            </a>
+            (
+            <a href="/wiki/Lumber" title="Lumber">
+             lumber
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Wood_art" title="Wood art">
+             Wood art
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Forms
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Boat_building" title="Boat building">
+             Boat building
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bow_and_arrow" title="Bow and arrow">
+             Bow and arrow
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bush_carpentry" title="Bush carpentry">
+             Bush carpentry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cabinetry" title="Cabinetry">
+             Cabinetry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Caning_(furniture)" title="Caning (furniture)">
+             Caning
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carpentry" title="Carpentry">
+             Carpentry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chainsaw_carving" title="Chainsaw carving">
+             Chainsaw carving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chip_carving" title="Chip carving">
+             Chip carving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Clog" title="Clog">
+             Clogs
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%C3%89b%C3%A9niste" title="Ébéniste">
+             Ébéniste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fretwork" title="Fretwork">
+             Fretwork
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intarsia" title="Intarsia">
+             Intarsia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Japanese_carpentry" title="Japanese carpentry">
+             Japanese carpentry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Log_building" title="Log building">
+             Log building
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Marquetry" title="Marquetry">
+             Marquetry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Millwork_(building_material)" title="Millwork (building material)">
+             Millwork
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Parquetry" title="Parquetry">
+             Parquetry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pyrography" title="Pyrography">
+             Pyrography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Relief_carving" title="Relief carving">
+             Relief carving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Root_carving" title="Root carving">
+             Root carving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sawdust" title="Sawdust">
+             Sawdust
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Segmented_turning" title="Segmented turning">
+             Segmented turning
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Shingle_weaving" title="Shingle weaving">
+             Shingle weaving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Shipbuilding" title="Shipbuilding">
+             Shipbuilding
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spindle_turning" title="Spindle turning">
+             Spindle turning
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Timber_framing" title="Timber framing">
+             Timber framing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Whittling" title="Whittling">
+             Whittling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_carving" title="Wood carving">
+             Wood carving
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Woodturning" title="Woodturning">
+             Woodturning
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_flour" title="Wood flour">
+             Wood flour
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_woods" title="List of woods">
+          Woods
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="width:3.5em;font-weight:normal;">
+            <a href="/wiki/Softwood" title="Softwood">
+             Soft
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Cedar_wood" title="Cedar wood">
+                Cedar
+               </a>
+               (
+               <i>
+                <a href="/wiki/Calocedrus" title="Calocedrus">
+                 Calocedrus
+                </a>
+               </i>
+               ,
+               <i>
+                <a href="/wiki/Cedrus" title="Cedrus">
+                 Cedrus
+                </a>
+               </i>
+               )
+              </li>
+              <li>
+               <a href="/wiki/Cypress" title="Cypress">
+                Cypress
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Douglas_fir" title="Douglas fir">
+                Douglas fir
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fir" title="Fir">
+                Fir
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Juniper" title="Juniper">
+                Juniper
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Larch" title="Larch">
+                Larch
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Pine" title="Pine">
+                Pine
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spruce" title="Spruce">
+                Spruce
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Taxus" title="Taxus">
+                Yew
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:3.5em;font-weight:normal;">
+            <a href="/wiki/Hardwood" title="Hardwood">
+             Hard
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Fraxinus_excelsior" title="Fraxinus excelsior">
+                Ash
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Alder" title="Alder">
+                Alder
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Aspen" title="Aspen">
+                Aspen
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Ochroma_pyramidale" title="Ochroma pyramidale">
+                Balsa
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Beech" title="Beech">
+                Beech
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Birch" title="Birch">
+                Birch
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Cherry" title="Cherry">
+                Cherry
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chestnut" title="Chestnut">
+                Chestnut
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Cocobolo" title="Cocobolo">
+                Cocobolo
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ebony" title="Ebony">
+                Ebony
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Elm" title="Elm">
+                Elm
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hazel" title="Hazel">
+                Hazel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lignum_vitae" title="Lignum vitae">
+                Lignum vitae
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tilia" title="Tilia">
+                Linden (lime, basswood)
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mahogany" title="Mahogany">
+                Mahogany
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Maple" title="Maple">
+                Maple
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oak" title="Oak">
+                Oak
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Padauk" title="Padauk">
+                Padauk
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Plum" title="Plum">
+                Plum
+               </a>
+              </li>
+              <li>
+               <strong class="selflink">
+                Poplar
+               </strong>
+              </li>
+              <li>
+               <a href="/wiki/Teak" title="Teak">
+                Teak
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Podocarpus_totara" title="Podocarpus totara">
+                Totara
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Juglans" title="Juglans">
+                Walnut
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Willow" title="Willow">
+                Willow
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Woodworking_tools" title="Category:Woodworking tools">
+          Tools
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <td class="navbox-list navbox-odd" colspan="2" style="padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Abrasive" title="Abrasive">
+                Abrasives
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Axe" title="Axe">
+                Axe
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Adze" title="Adze">
+                Adze
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chisel" title="Chisel">
+                Chisel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Clamp_(tool)" title="Clamp (tool)">
+                Clamp
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Drawknife" title="Drawknife">
+                Drawknife
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Drill" title="Drill">
+                Drill
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Float_(woodworking)" title="Float (woodworking)">
+                Float
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mallet" title="Mallet">
+                Mallet
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Milling_(machining)" title="Milling (machining)">
+                Milling machine
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mitre_box" title="Mitre box">
+                Mitre box
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Moulding_plane" title="Moulding plane">
+                Moulding plane
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Plane_(tool)" title="Plane (tool)">
+                Plane
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rasp" title="Rasp">
+                Rasp
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Router_(woodworking)" title="Router (woodworking)">
+                Router
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sandpaper" title="Sandpaper">
+                Sandpaper
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Spokeshave" title="Spokeshave">
+                Spokeshave
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/List_of_timber_framing_tools" title="List of timber framing tools">
+                Timber-framing
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Vise" title="Vise">
+                Vise
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Winding_sticks" title="Winding sticks">
+                Winding sticks
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wood_scribe" title="Wood scribe">
+                Wood scribe
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Workbench_(woodworking)" title="Workbench (woodworking)">
+                Workbench
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:3.5em;font-weight:normal;">
+            <a href="/wiki/Saw" title="Saw">
+             Saws
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Backsaw" title="Backsaw">
+                Backsaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bandsaw" title="Bandsaw">
+                Bandsaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bow_saw" title="Bow saw">
+                Bow
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bucksaw" title="Bucksaw">
+                Bucksaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chainsaw" title="Chainsaw">
+                Chainsaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Circular_saw" title="Circular saw">
+                Circular
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Compass_saw" title="Compass saw">
+                Compass
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Coping_saw" title="Coping saw">
+                Coping
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crosscut_saw" title="Crosscut saw">
+                Crosscut
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Frame_saw" title="Frame saw">
+                Frame
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fretsaw" title="Fretsaw">
+                Fretsaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Jigsaw_(tool)" title="Jigsaw (tool)">
+                Jigsaw
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Keyhole_saw" title="Keyhole saw">
+                Keyhole
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Miter_saw" title="Miter saw">
+                Miter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rip_saw" title="Rip saw">
+                Rip
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Scroll_saw" title="Scroll saw">
+                Scroll
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Veneer_saw" title="Veneer saw">
+                Veneer
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Whipsaw" title="Whipsaw">
+                Whipsaw
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Geometry
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="width:3.5em;font-weight:normal;">
+            <a href="/wiki/Woodworking_joints" title="Woodworking joints">
+             Joints
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Birdsmouth_joint" title="Birdsmouth joint">
+                Birdsmouth
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bridle_joint" title="Bridle joint">
+                Bridle
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Butt_joint" title="Butt joint">
+                Butt
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Butterfly_joint" title="Butterfly joint">
+                Butterfly
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Coping_(joinery)" title="Coping (joinery)">
+                Coping
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Crown_of_Thorns_(woodworking)" title="Crown of Thorns (woodworking)">
+                Crown of thorns
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Dado_(joinery)" title="Dado (joinery)">
+                Dados
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Dovetail_joint" title="Dovetail joint">
+                Dovetail
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Finger_joint" title="Finger joint">
+                Finger
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Groove_(joinery)" title="Groove (joinery)">
+                Groove
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Halved_joint" title="Halved joint">
+                Halved
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hammer-headed_tenon" title="Hammer-headed tenon">
+                Hammer-headed tenon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Knee_(construction)" title="Knee (construction)">
+                Knee
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lap_joint" title="Lap joint">
+                Lap
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mason%27s_mitre" title="Mason's mitre">
+                Mason's mitre
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Miter_joint" title="Miter joint">
+                Miter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mortise_and_tenon" title="Mortise and tenon">
+                Mortise and tenon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rabbet" title="Rabbet">
+                Rabbet/Rebate
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Scarf_joint" title="Scarf joint">
+                Scarf
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Splice_joint" title="Splice joint">
+                Splice
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Tongue_and_groove" title="Tongue and groove">
+                Tongue and groove
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:3.5em;font-weight:normal;">
+            Profiles
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Bead_(woodworking)" title="Bead (woodworking)">
+                Bead
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Bevel" title="Bevel">
+                Bevel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Chamfer" title="Chamfer">
+                Chamfer
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Molding_(decorative)" title="Molding (decorative)">
+                Molding
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ogee" title="Ogee">
+                Ogee
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ogive" title="Ogive">
+                Ogive
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Treatments
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/French_polish" title="French polish">
+             French polish
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Heat_bending_of_wood" title="Heat bending of wood">
+             Heat bending
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Paint" title="Paint">
+             Paint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Paint_stripper" title="Paint stripper">
+             Paint stripper
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Steam_bending" title="Steam bending">
+             Steam bending
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_preservation#Heat_treatments" title="Wood preservation">
+             Thermal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Varnish" title="Varnish">
+             Varnish
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_drying" title="Wood drying">
+             Wood drying
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_preservation" title="Wood preservation">
+             Wood preservation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_stain" title="Wood stain">
+             Wood stain
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Organizations
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/American_Association_of_Woodturners" title="American Association of Woodturners">
+             American Association of Woodturners
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Architectural_Woodwork_Institute" title="Architectural Woodwork Institute">
+             Architectural Woodwork Institute
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/British_Woodworking_Federation" title="British Woodworking Federation">
+             British Woodworking Federation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Building_and_Wood_Workers%27_International" title="Building and Wood Workers' International">
+             Building and Wood Workers' International
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Caricature_Carvers_of_America" title="Caricature Carvers of America">
+             Caricature Carvers of America
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/International_Federation_of_Building_and_Wood_Workers" title="International Federation of Building and Wood Workers">
+             International Federation of Building and Wood Workers
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/National_Wood_Carvers_Association" title="National Wood Carvers Association">
+             National Wood Carvers Association
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Society_of_Wood_Engravers" title="Society of Wood Engravers">
+             Society of Wood Engravers
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Timber_Framers_Guild" title="Timber Framers Guild">
+             Timber Framers Guild
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Conversion
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Chainsaw_mill" title="Chainsaw mill">
+             Chainsaw mill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hewing" title="Hewing">
+             Hewing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sawmill" title="Sawmill">
+             Sawmill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Whipsaw" title="Whipsaw">
+             Whipsaw
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_splitting" title="Wood splitting">
+             Wood splitting
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Techniques
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Frame_and_panel" title="Frame and panel">
+             Frame and panel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Frameless_construction" title="Frameless construction">
+             Frameless construction
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Woodworking" title="Category:Woodworking">
+             Category
+            </a>
+           </li>
+           <li>
+            <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+            <a href="/wiki/Wikipedia:WikiProject_Woodworking" title="Wikipedia:WikiProject Woodworking">
+             WikiProject
+            </a>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Woodworking" title="commons:Category:Woodworking">
+             <span style="color:mediumblue">
+              Commons
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00569128" rel="nofollow">
+               00569128
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:94248-0!*!0!!en!4!* and timestamp 20161103222237 and revision id 744862219
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Populus&amp;oldid=744862219">
+      https://en.wikipedia.org/w/index.php?title=Populus&amp;oldid=744862219
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Populus" title="Category:Populus">
+         Populus
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Dioecious_plants" title="Category:Dioecious plants">
+         Dioecious plants
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Eudicot_genera" title="Category:Eudicot genera">
+         Eudicot genera
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">
+         Articles with 'species' microformats
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">
+         Articles with unsourced statements from July 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">
+         Use dmy dates from May 2011
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Populus" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Populus" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Populus" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Populus" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Populus">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Populus&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Populus&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Populus" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Populus" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Populus&amp;oldid=744862219" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Populus&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q25356" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Populus&amp;id=744862219" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Populus">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Populus&amp;returnto=Populus&amp;oldid=744862219&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Populus&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Populus" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species">
+        <a href="https://species.wikimedia.org/wiki/Populus" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ady">
+        <a class="interlanguage-link-target" href="https://ady.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D0%BC%D0%B1%D1%8B%D0%BB" hreflang="ady" lang="ady" title="Къумбыл – Adyghe">
+         Адыгабзэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%B1_(%D9%86%D8%A8%D8%A7%D8%AA)" hreflang="ar" lang="ar" title="حور (نبات) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Populus" hreflang="an" lang="an" title="Populus – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Qovaq" hreflang="az" lang="az" title="Qovaq – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D3%99%D0%BA" hreflang="ba" lang="ba" title="Тирәк – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BF%D0%BE%D0%BB%D1%8F" hreflang="be" lang="be" title="Таполя – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BF%D0%BE%D0%BB%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Таполя – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Топола – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Elv" hreflang="br" lang="br" title="Elv – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pollancre" hreflang="ca" lang="ca" title="Pollancre – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B5%D0%BA" hreflang="cv" lang="cv" title="Тирек – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Populus" hreflang="ceb" lang="ceb" title="Populus – Cebuano">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Topol" hreflang="cs" lang="cs" title="Topol – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-co">
+        <a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Piobu_(genaru)" hreflang="co" lang="co" title="Piobu (genaru) – Corsican">
+         Corsu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Poppel" hreflang="da" lang="da" title="Poppel – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Pappeln" hreflang="de" lang="de" title="Pappeln – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/Topo%C5%82" hreflang="dsb" lang="dsb" title="Topoł – Lower Sorbian">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Pappel" hreflang="et" lang="et" title="Pappel – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%8D%CE%BA%CE%B1" hreflang="el" lang="el" title="Λεύκα – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Populus" hreflang="es" lang="es" title="Populus – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Poploj" hreflang="eo" lang="eo" title="Poploj – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Makal" hreflang="eu" lang="eu" title="Makal – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B5%D9%86%D9%88%D8%A8%D8%B1_(%D8%B3%D8%B1%D8%AF%D9%87)" hreflang="fa" lang="fa" title="صنوبر (سرده) – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Peuplier" hreflang="fr" lang="fr" title="Peuplier – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Eadhadh" hreflang="ga" lang="ga" title="Eadhadh – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Pobbyl_(billey)" hreflang="gv" lang="gv" title="Pobbyl (billey) – Manx">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Populus" hreflang="gl" lang="gl" title="Populus – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%AC%EC%8B%9C%EB%82%98%EB%AC%B4%EC%86%8D" hreflang="ko" lang="ko" title="사시나무속 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D6%80%D5%A4%D5%AB" hreflang="hy" lang="hy" title="Բարդի – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%AA%E0%A4%B2%E0%A4%B0" hreflang="hi" lang="hi" title="पोपलर – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/Topo%C5%82" hreflang="hsb" lang="hsb" title="Topoł – Upper Sorbian">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Topola" hreflang="hr" lang="hr" title="Topola – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Poplo" hreflang="io" lang="io" title="Poplo – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Populus" hreflang="id" lang="id" title="Populus – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%93%C3%A6%D0%B4%D1%8B%D0%B1%C3%A6%D0%BB%D0%B0%D1%81" hreflang="os" lang="os" title="Гæдыбæлас – Ossetic">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%96sp_(%C3%A6ttkv%C3%ADsl)" hreflang="is" lang="is" title="Ösp (ættkvísl) – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Populus" hreflang="it" lang="it" title="Populus – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%A6%D7%A4%D7%94" hreflang="he" lang="he" title="צפצפה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%94%E1%83%A0%E1%83%AE%E1%83%95%E1%83%98" hreflang="ka" lang="ka" title="ვერხვი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D0%BA" hreflang="kk" lang="kk" title="Терек – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lbe">
+        <a class="interlanguage-link-target" href="https://lbe.wikipedia.org/wiki/%D0%A5%D3%80%D0%B0%D0%B2%D0%B8" hreflang="lbe" lang="lbe" title="ХӀави – лакку">
+         Лакку
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lez">
+        <a class="interlanguage-link-target" href="https://lez.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D0%B2%D0%B0%D1%85" hreflang="lez" lang="lez" title="Къавах – Lezghian">
+         Лезги
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Populus_(genus_plantarum)" hreflang="la" lang="la" title="Populus (genus plantarum) – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Apses" hreflang="lv" lang="lv" title="Apses – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Tuopa" hreflang="lt" lang="lt" title="Tuopa – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Populus" hreflang="lmo" lang="lmo" title="Populus – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Ny%C3%A1rfa" hreflang="hu" lang="hu" title="Nyárfa – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%B0" hreflang="mk" lang="mk" title="Топола – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Populier" hreflang="nl" lang="nl" title="Populier – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%A9" hreflang="ja" lang="ja" title="ポプラ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frr">
+        <a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Papeln" hreflang="frr" lang="frr" title="Papeln – Northern Frisian">
+         Nordfriisk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Poppelslekten" hreflang="no" lang="no" title="Poppelslekten – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Pibol" hreflang="oc" lang="oc" title="Pibol – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Terak" hreflang="uz" lang="uz" title="Terak – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pcd">
+        <a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/Caroline" hreflang="pcd" lang="pcd" title="Caroline – Picard">
+         Picard
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Topola" hreflang="pl" lang="pl" title="Topola – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Populus" hreflang="pt" lang="pt" title="Populus – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kaa">
+        <a class="interlanguage-link-target" href="https://kaa.wikipedia.org/wiki/Terek" hreflang="kaa" lang="kaa" title="Terek – Kara-Kalpak">
+         Qaraqalpaqsha
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Plop" hreflang="ro" lang="ro" title="Plop – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-qu">
+        <a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Alamu" hreflang="qu" lang="qu" title="Alamu – Quechua">
+         Runa Simi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C" hreflang="ru" lang="ru" title="Тополь – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D1%8D%D1%85" hreflang="sah" lang="sah" title="Тирэх – Sakha">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Populus" hreflang="sco" lang="sco" title="Populus – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Populus" hreflang="scn" lang="scn" title="Populus – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Populus" hreflang="simple" lang="simple" title="Populus – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Topoli" hreflang="sl" lang="sl" title="Topoli – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B2%D0%BE)" hreflang="sr" lang="sr" title="Топола (дрво) – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Topola_(drvo)" hreflang="sh" lang="sh" title="Topola (drvo) – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Populus" hreflang="fi" lang="fi" title="Populus – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Poppelsl%C3%A4ktet" hreflang="sv" lang="sv" title="Poppelsläktet – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kavak" hreflang="tr" lang="tr" title="Kavak – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-udm">
+        <a class="interlanguage-link-target" href="https://udm.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C" hreflang="udm" lang="udm" title="Тополь – Udmurt">
+         Удмурт
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F" hreflang="uk" lang="uk" title="Тополя – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Piopa" hreflang="vec" lang="vec" title="Piopa – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vep">
+        <a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Topol%27" hreflang="vep" lang="vep" title="Topol' – Veps">
+         Vepsän kel’
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Chi_D%C6%B0%C6%A1ng" hreflang="vi" lang="vi" title="Chi Dương – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Plope" hreflang="wa" lang="wa" title="Plope – Walloon">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vls">
+        <a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/Populus" hreflang="vls" lang="vls" title="Populus – West Flemish">
+         West-Vlams
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Populus" hreflang="war" lang="war" title="Populus – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%A5%8A%E6%A8%B9" hreflang="zh-yue" lang="zh-yue" title="楊樹 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B1%9E" hreflang="zh" lang="zh" title="杨属 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q25356#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 17 October 2016, at 21:54.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Populus&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.392",
+            "walltime": "0.493",
+            "ppvisitednodes": {
+                "value": 4343,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 66177,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 3737,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 15,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  404.518      1 -total",
+                " 27.25%  110.234      1 Template:Taxobox",
+                " 22.85%   92.440      1 Template:Taxobox/core",
+                " 17.74%   71.766      1 Template:Reflist",
+                " 10.55%   42.668      5 Template:Convert",
+                "  8.81%   35.621      1 Template:Cn",
+                "  8.55%   34.585      1 Template:Cite_web",
+                "  7.37%   29.830      1 Template:Fix",
+                "  7.19%   29.095      8 Template:Taxonomy",
+                "  6.80%   27.521      4 Template:Navbox"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.136",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 6666782,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1265",
+            "timestamp": "20161103222237",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1264"});});
+  </script>
+ </body>
+</html>

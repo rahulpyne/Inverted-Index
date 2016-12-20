@@ -1,0 +1,1553 @@
+https://en.wikipedia.org/wiki/Natural_Resources_Canada
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Natural Resources Canada - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Natural_Resources_Canada","wgTitle":"Natural Resources Canada","wgCurRevisionId":742027990,"wgRevisionId":742027990,"wgArticleId":621348,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing French-language text","Canadian federal departments and agencies","Energy in Canada","Energy ministries","Mining ministries","Natural Resources Canada","Science ministries","Ministries established in 1842","Forestry ministries","Forestry agencies in Canada","1842 establishments in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Natural_Resources_Canada","wgRelevantArticleId":621348,"wgRequestId":"WB0UDwpAICsAAAb91A8AAAAE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q349770","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Natural_Resources_Canada" rel="alternate"/>
+  <link href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Natural_Resources_Canada" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Natural_Resources_Canada rootpage-Natural_Resources_Canada skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Natural Resources Canada
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox" style="width:22em">
+      <caption>
+       Department of Natural Resources
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <span lang="fr">
+         <i>
+          Ministère des Ressources naturelles
+         </i>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:NRCAN_Logo.png">
+         <img alt="NRCAN Logo.png" data-file-height="27" data-file-width="352" height="17" src="//upload.wikimedia.org/wikipedia/en/thumb/8/84/NRCAN_Logo.png/220px-NRCAN_Logo.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/84/NRCAN_Logo.png/330px-NRCAN_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/8/84/NRCAN_Logo.png 2x" width="220"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color: #efefef">
+        Department overview
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        Formed
+       </th>
+       <td>
+        1842
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Type
+       </th>
+       <td class="category">
+        <a href="/wiki/Ministry_(government_department)" title="Ministry (government department)">
+         Department
+        </a>
+        responsible for
+        <a class="mw-redirect" href="/wiki/Natural_resources" title="Natural resources">
+         natural resources
+        </a>
+        ,
+        <a href="/wiki/Energy" title="Energy">
+         energy
+        </a>
+        ,
+        <a href="/wiki/Mineral" title="Mineral">
+         minerals
+        </a>
+        and
+        <a href="/wiki/Metal" title="Metal">
+         metals
+        </a>
+        ,
+        <a href="/wiki/Forest" title="Forest">
+         forests
+        </a>
+        ,
+        <a href="/wiki/Earth_science" title="Earth science">
+         earth sciences
+        </a>
+        ,
+        <a href="/wiki/Map" title="Map">
+         mapping
+        </a>
+        and
+        <a href="/wiki/Remote_sensing" title="Remote sensing">
+         remote sensing
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Jurisdiction
+       </th>
+       <td>
+        <a href="/wiki/Government_of_Canada" title="Government of Canada">
+         Canada
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Minister responsible
+       </th>
+       <td>
+        <div class="plainlist">
+         <ul>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           <a href="/wiki/Jim_Carr" title="Jim Carr">
+            Jim Carr
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Deputy Minister responsible
+       </th>
+       <td>
+        <div class="plainlist">
+         <ul>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           Blair Clark
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Child agencies
+       </th>
+       <td>
+        <div class="plainlist">
+         <ul>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           <a href="/wiki/Canadian_Forest_Service" title="Canadian Forest Service">
+            Canadian Forest Service
+           </a>
+          </li>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           <a href="/wiki/Geological_Survey_of_Canada" title="Geological Survey of Canada">
+            Geological Survey of Canada
+           </a>
+          </li>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           Electricity Resources Branch
+          </li>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           Energy Technology and Programs Sector
+          </li>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           Innovation and Energy Technology Sector
+          </li>
+          <li style="text-indent: -1em; padding-left: 1em;">
+           Mineral and Metals Sector
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Website
+       </th>
+       <td>
+        <span class="url">
+         <a class="external text" href="http://www.nrcan.gc.ca/" rel="nofollow">
+          www
+          <wbr>
+          </wbr>
+          .nrcan
+          <wbr>
+          </wbr>
+          .gc
+          <wbr>
+          </wbr>
+          .ca
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Department of Natural Resources
+      </b>
+      (
+      <a href="/wiki/French_language" title="French language">
+       French:
+      </a>
+      <i>
+       Ministère des Ressources naturelles
+      </i>
+      ),
+      <a class="mw-redirect" href="/wiki/Operating_as" title="Operating as">
+       operating under
+      </a>
+      the
+      <a href="/wiki/Federal_Identity_Program" title="Federal Identity Program">
+       FIP applied title
+      </a>
+      <b>
+       Natural Resources Canada
+      </b>
+      (
+      <b>
+       NRCan
+      </b>
+      ), is the
+      <a href="/wiki/Ministry_(government_department)" title="Ministry (government department)">
+       ministry
+      </a>
+      of the government of
+      <a href="/wiki/Canada" title="Canada">
+       Canada
+      </a>
+      responsible for
+      <a class="mw-redirect" href="/wiki/Natural_resources" title="Natural resources">
+       natural resources
+      </a>
+      ,
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      ,
+      <a href="/wiki/Mineral" title="Mineral">
+       minerals
+      </a>
+      and
+      <a href="/wiki/Metal" title="Metal">
+       metals
+      </a>
+      ,
+      <a href="/wiki/Forest" title="Forest">
+       forests
+      </a>
+      ,
+      <a href="/wiki/Earth_science" title="Earth science">
+       earth sciences
+      </a>
+      ,
+      <a href="/wiki/Map" title="Map">
+       mapping
+      </a>
+      and
+      <a href="/wiki/Remote_sensing" title="Remote sensing">
+       remote sensing
+      </a>
+      . It was created in 1995 by amalgamating the now-defunct Departments of
+      <b>
+       Energy, Mines and Resources
+      </b>
+      and
+      <b>
+       Forestry
+      </b>
+      . Natural Resources Canada (NRCan) works to ensure the responsible development of Canada's natural resources, including
+      <a class="mw-redirect" href="/wiki/Energy_in_Canada" title="Energy in Canada">
+       energy
+      </a>
+      , forests, minerals and metals. NRCan also uses its expertise in earth sciences to build and maintain an up-to-date knowledge base of our landmass and resources. To promote internal collaboration, NRCan has implemented a departmental wide wiki based on
+      <a href="/wiki/MediaWiki" title="MediaWiki">
+       MediaWiki
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Natural Resources Canada also collaborates with
+      <a href="/wiki/United_States" title="United States">
+       American
+      </a>
+      and
+      <a href="/wiki/Mexico" title="Mexico">
+       Mexican
+      </a>
+      government scientists, along with the
+      <a href="/wiki/Commission_for_Environmental_Cooperation" title="Commission for Environmental Cooperation">
+       Commission for Environmental Cooperation
+      </a>
+      , to produce the
+      <a href="/wiki/North_American_Environmental_Atlas" title="North American Environmental Atlas">
+       North American Environmental Atlas
+      </a>
+      , which is used to depict and track environmental issues for a continental perspective.
+     </p>
+     <p>
+      Under the Canadian constitution, responsibility for natural resources belongs to the provinces, not the federal government. However, the federal government has jurisdiction over off-shore resources, trade and commerce in natural resources, statistics, international relations, and boundaries. The current
+      <a href="/wiki/Minister_of_Natural_Resources_(Canada)" title="Minister of Natural Resources (Canada)">
+       Minister of Natural Resources
+      </a>
+      is
+      <a href="/wiki/Jim_Carr" title="Jim Carr">
+       Jim Carr
+      </a>
+      as of November 4, 2015.
+     </p>
+     <p>
+      The department is governed by the Resources and Technical Surveys Act, R.S.C., c.R-7 and the Department of Natural Resources Act, S.C. 1994, c. 41.
+     </p>
+     <p>
+      "structured along business lines according to types of natural resources and areas of interest." The department currently has these sectors:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Canadian_Forest_Service" title="Canadian Forest Service">
+        Canadian Forest Service
+       </a>
+      </li>
+      <li>
+       Corporate Management and Services Sector
+      </li>
+      <li>
+       Earth Sciences Sector
+      </li>
+      <li>
+       Energy Sector
+      </li>
+      <li>
+       Innovation and Energy Technology Sector
+      </li>
+      <li>
+       Minerals and Metals Sector
+      </li>
+      <li>
+       Science and Policy Integration
+      </li>
+      <li>
+       Public Affairs and Portfolio Management Sector
+      </li>
+      <li>
+       Shared Services Office
+      </li>
+      <li>
+       Geographical Names Board of Canada
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Related_legislation">
+       Related legislation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit&amp;section=1" title="Edit section: Related legislation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <b>
+       Acts for which Natural Resources Canada has responsibility
+      </b>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Arctic_Waters_Pollution_Prevention_Act" title="Arctic Waters Pollution Prevention Act">
+        Arctic Waters Pollution Prevention Act
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Canada_Foundation_for_Sustainable_Development_Technology_Act" title="Canada Foundation for Sustainable Development Technology Act">
+        Canada Foundation for Sustainable Development Technology Act
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Canada_Labour_Code" title="Canada Labour Code">
+        Canada Labour Code
+       </a>
+      </li>
+      <li>
+       Canada Lands Surveyors Act
+      </li>
+      <li>
+       Canada Lands Surveys Act
+      </li>
+      <li>
+       Canada-Newfoundland Atlantic Accord Implementation Act
+      </li>
+      <li>
+       Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act
+      </li>
+      <li>
+       Canada Oil and Gas Operations Act
+      </li>
+      <li>
+       Canada Petroleum Resources Act
+      </li>
+      <li>
+       Canadian Ownership and Control Determination Act
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Cape_Breton_Development_Corporation_Act" title="Cape Breton Development Corporation Act">
+        Cape Breton Development Corporation Act
+       </a>
+      </li>
+      <li>
+       Cape Breton Development Corporation Divestiture Authorization and Dissolution Act
+      </li>
+      <li>
+       Cooperative Energy Act
+      </li>
+      <li>
+       Department of Natural Resources Act
+      </li>
+      <li>
+       Energy Administration Act
+      </li>
+      <li>
+       Energy Efficiency Act
+      </li>
+      <li>
+       Energy Supplies Emergency Act
+      </li>
+      <li>
+       Explosives Act
+      </li>
+      <li>
+       Export and Import of Rough Diamonds Act
+      </li>
+      <li>
+       Forestry Act
+      </li>
+      <li>
+       Hibernia Development Project Act
+      </li>
+      <li>
+       International Boundary Commission Act
+      </li>
+      <li>
+       National Energy Board Act
+      </li>
+      <li>
+       Northern Pipeline Act
+      </li>
+      <li>
+       Nuclear Energy Act
+      </li>
+      <li>
+       Nuclear Fuel Waste Act
+      </li>
+      <li>
+       <a href="/wiki/Nuclear_Liability_Act" title="Nuclear Liability Act">
+        Nuclear Liability Act
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Nuclear_Safety_and_Control_Act" title="Nuclear Safety and Control Act">
+        Nuclear Safety and Control Act
+       </a>
+      </li>
+      <li>
+       Oil Substitution and Conservation Act
+      </li>
+      <li>
+       Resources and Technical Surveys Act
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Not_in_force">
+       Not in force
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit&amp;section=2" title="Edit section: Not in force">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <ul>
+      <li>
+       Greenhouse Gas Technology Investment Fund Act
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer" data-file-height="850" data-file-width="1005" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Canada_flag_map.svg/32px-Canada_flag_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Canada_flag_map.svg/48px-Canada_flag_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Canada_flag_map.svg/64px-Canada_flag_map.svg.png 2x" width="32"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Geography_of_Canada" title="Portal:Geography of Canada">
+          Geography of Canada portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/EnerGuide_for_Houses" title="EnerGuide for Houses">
+        EnerGuide for Houses
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Canada_Green_Building_Council" title="Canada Green Building Council">
+        Canada Green Building Council
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/List_of_Canadian_Ministers_of_Natural_Resources" title="List of Canadian Ministers of Natural Resources">
+        List of Canadian Ministers of Natural Resources
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/R-2000_program" title="R-2000 program">
+        R-2000 program
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit&amp;section=4" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.gtec.ca/distinction-awards/2008-medalists.php" rel="nofollow">
+          http://www.gtec.ca/distinction-awards/2008-medalists.php
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit&amp;section=5" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.nrcan-rncan.gc.ca/" rel="nofollow">
+        Natural Resources Canada Main Website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://geogratis.gc.ca/" rel="nofollow">
+        Natural Resources Canada Map Publication Website
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="20x20px.7Clink.3D.7Calt.3D_Departments_of_the_Government_of_Canada" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col" style="background-color:white;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Government_Departments_of_Canada" title="Template:Government Departments of Canada">
+             <abbr style="background-color:white;;;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Government_Departments_of_Canada" title="Template talk:Government Departments of Canada">
+             <abbr style="background-color:white;;;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Government_Departments_of_Canada&amp;action=edit">
+             <abbr style="background-color:white;;;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="20x20px.7Clink.3D.7Calt.3D_Departments_of_the_Government_of_Canada" style="font-size:114%">
+          <span style="vertical-align: 1px; padding-right:0.2em">
+           <img alt="" data-file-height="343" data-file-width="305" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/18px-Maple_Leaf_%28from_roundel%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/27px-Maple_Leaf_%28from_roundel%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/36px-Maple_Leaf_%28from_roundel%29.svg.png 2x" width="18"/>
+          </span>
+          <a href="/wiki/Structure_of_the_Canadian_federal_government" title="Structure of the Canadian federal government">
+           Departments of the Government of Canada
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background-color:white;;border: 1px solid #CC0000;">
+         Principal
+         <br/>
+         departments
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background-color:white;;border-top: 1px solid #CC0000;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Agriculture_and_Agri-Food_Canada" title="Agriculture and Agri-Food Canada">
+             Agriculture and Agri-Food
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_Canadian_Heritage" title="Department of Canadian Heritage">
+             Canadian Heritage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Employment_and_Social_Development_Canada" title="Employment and Social Development Canada">
+             Employment and Social Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environment_and_Climate_Change_Canada" title="Environment and Climate Change Canada">
+             Environment and Climate Change
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_Finance_Canada" title="Department of Finance Canada">
+             Finance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fisheries_and_Oceans_Canada" title="Fisheries and Oceans Canada">
+             Fisheries and Oceans
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Global_Affairs_Canada" title="Global Affairs Canada">
+             Global Affairs
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Health_Canada" title="Health Canada">
+             Health
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_Immigration,_Refugees_and_Citizenship" title="Department of Immigration, Refugees and Citizenship">
+             Immigration, Refugees and Citizenship
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Indigenous_and_Northern_Affairs_Canada" title="Indigenous and Northern Affairs Canada">
+             Indigenous and Northern Affairs
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Innovation,_Science_and_Economic_Development_Canada" title="Innovation, Science and Economic Development Canada">
+             Innovation, Science and Economic Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_Justice_(Canada)" title="Department of Justice (Canada)">
+             Justice
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_National_Defence_(Canada)" title="Department of National Defence (Canada)">
+             National Defence
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Natural Resources
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Privy_Council_Office_(Canada)" title="Privy Council Office (Canada)">
+             Privy Council Office
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Public_Safety_Canada" title="Public Safety Canada">
+             Public Safety
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Public_Services_and_Procurement_Canada" title="Public Services and Procurement Canada">
+             Public Services and Procurement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transport_Canada" title="Transport Canada">
+             Transport
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Veterans_Affairs_Canada" title="Veterans Affairs Canada">
+             Veterans Affairs
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background-color:white;;border: 1px solid #CC0000;">
+         Major agencies
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background-color:white;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Atlantic_Canada_Opportunities_Agency" title="Atlantic Canada Opportunities Agency">
+             Atlantic Canada Opportunities Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canada_Border_Services_Agency" title="Canada Border Services Agency">
+             Canada Border Services Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canada_Revenue_Agency" title="Canada Revenue Agency">
+             Canada Revenue Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canada_Mortgage_and_Housing_Corporation" title="Canada Mortgage and Housing Corporation">
+             Canada Mortgage and Housing Corporation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canadian_Coast_Guard" title="Canadian Coast Guard">
+             Canadian Coast Guard
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canadian_Armed_Forces" title="Canadian Armed Forces">
+             Canadian Armed Forces
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canadian_Food_Inspection_Agency" title="Canadian Food Inspection Agency">
+             Canadian Food Inspection Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canadian_Space_Agency" title="Canadian Space Agency">
+             Canadian Space Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Economic_Development_Agency_of_Canada_for_the_Regions_of_Quebec" title="Economic Development Agency of Canada for the Regions of Quebec">
+             Economic Development Agency of Canada for the Regions of Quebec
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geological_Survey_of_Canada" title="Geological Survey of Canada">
+             Geological Survey of Canada
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Parks_Canada" title="Parks Canada">
+             Parks Canada
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Passport_Canada" title="Passport Canada">
+             Passport Canada
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Public_Health_Agency_of_Canada" title="Public Health Agency of Canada">
+             Public Health Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">
+             Royal Canadian Mounted Police
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Service_Canada" title="Service Canada">
+             Service Canada
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Western_Economic_Diversification_Canada" title="Western Economic Diversification Canada">
+             Western Economic Diversification Canada
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background-color:white;;border: 1px solid #CC0000;">
+         Other departments
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background-color:white;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Infrastructure_Canada" title="Infrastructure Canada">
+             Infrastructure
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Library_and_Archives_Canada" title="Library and Archives Canada">
+             Library and Archives
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Statistics_Canada" title="Statistics Canada">
+             Statistics Canada
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background-color:white;;border: 1px solid #CC0000;">
+         Historic departments
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background-color:white;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Canadian_International_Development_Agency" title="Canadian International Development Agency">
+             Canadian International Development Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Department_of_Soldiers%27_Civil_Re-establishment" title="Department of Soldiers' Civil Re-establishment">
+             Department of Soldiers' Civil Re-establishment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solicitor_General_of_Canada" title="Solicitor General of Canada">
+             Solicitor General of Canada
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:621348-0!*!0!!*!4!* and timestamp 20161029062341 and revision id 742027990
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Natural_Resources_Canada&amp;oldid=742027990">
+      https://en.wikipedia.org/w/index.php?title=Natural_Resources_Canada&amp;oldid=742027990
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Canadian_federal_departments_and_agencies" title="Category:Canadian federal departments and agencies">
+         Canadian federal departments and agencies
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_in_Canada" title="Category:Energy in Canada">
+         Energy in Canada
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_ministries" title="Category:Energy ministries">
+         Energy ministries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Mining_ministries" title="Category:Mining ministries">
+         Mining ministries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Natural_Resources_Canada" title="Category:Natural Resources Canada">
+         Natural Resources Canada
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Science_ministries" title="Category:Science ministries">
+         Science ministries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Ministries_established_in_1842" title="Category:Ministries established in 1842">
+         Ministries established in 1842
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Forestry_ministries" title="Category:Forestry ministries">
+         Forestry ministries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Forestry_agencies_in_Canada" title="Category:Forestry agencies in Canada">
+         Forestry agencies in Canada
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1842_establishments_in_Canada" title="Category:1842 establishments in Canada">
+         1842 establishments in Canada
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">
+         Articles containing French-language text
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Natural+Resources+Canada" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Natural+Resources+Canada" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Natural_Resources_Canada" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Natural_Resources_Canada" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Natural_Resources_Canada">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Natural_Resources_Canada&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Natural_Resources_Canada&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Natural_Resources_Canada" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Natural_Resources_Canada" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Natural_Resources_Canada&amp;oldid=742027990" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Natural_Resources_Canada&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q349770" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Natural_Resources_Canada&amp;id=742027990" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Natural+Resources+Canada">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Natural+Resources+Canada&amp;returnto=Natural+Resources+Canada&amp;oldid=742027990&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Natural_Resources_Canada&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Natural_Resources_Canada" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Natural_Resources_Canada" hreflang="es" lang="es" title="Natural Resources Canada – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ressources_naturelles_Canada" hreflang="fr" lang="fr" title="Ressources naturelles Canada – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Minist%C3%A9rio_dos_Recursos_Naturais_do_Canad%C3%A1" hreflang="pt" lang="pt" title="Ministério dos Recursos Naturais do Canadá – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B" hreflang="ru" lang="ru" title="Министерство природных ресурсов Канады – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%87%AA%E7%84%B6%E8%B3%87%E6%BA%90%E9%83%A8" hreflang="zh" lang="zh" title="加拿大自然資源部 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q349770#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 1 October 2016, at 06:34.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Natural_Resources_Canada&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.096",
+            "walltime": "0.136",
+            "ppvisitednodes": {
+                "value": 1196,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 29386,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 4517,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 15,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  108.725      1 -total",
+                " 71.39%   77.617      1 Template:Infobox_government_agency",
+                " 64.01%   69.591      1 Template:Infobox",
+                " 25.75%   27.993      1 Template:Br_separated_entries",
+                " 20.03%   21.779      1 Template:Government_Departments_of_Canada",
+                " 18.39%   19.991      1 Template:Navbox_Canada",
+                " 17.98%   19.547      1 Template:Lang",
+                " 16.46%   17.896      1 Template:Category_handler",
+                " 11.94%   12.980      1 Template:Navbox",
+                "  8.50%    9.246      7 Template:Unbulleted_list"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.030",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1599128,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1275",
+            "timestamp": "20161029062342",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1173"});});
+  </script>
+ </body>
+</html>

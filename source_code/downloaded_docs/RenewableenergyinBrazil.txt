@@ -1,0 +1,3388 @@
+https://en.wikipedia.org/wiki/Renewable_energy_in_Brazil
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Renewable energy in Brazil - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Renewable_energy_in_Brazil","wgTitle":"Renewable energy in Brazil","wgCurRevisionId":742860078,"wgRevisionId":742860078,"wgArticleId":10826830,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Portuguese-language sources (pt)","Pages with citations lacking titles","Pages with citations having bare URLs","Vague or ambiguous time from January 2015","Commons category with page title same as on Wikidata","Renewable energy in Brazil"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Renewable_energy_in_Brazil","wgRelevantArticleId":10826830,"wgRequestId":"WBw-xApAMFAAAGbsuYoAAAAS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7313097","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Renewable_energy_in_Brazil" rel="alternate"/>
+  <link href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Renewable_energy_in_Brazil" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Renewable_energy_in_Brazil rootpage-Renewable_energy_in_Brazil skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Renewable energy in Brazil
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Cachoeira_de_Paulo_Afonso.jpg">
+        <img alt="" class="thumbimage" data-file-height="533" data-file-width="800" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cachoeira_de_Paulo_Afonso.jpg/220px-Cachoeira_de_Paulo_Afonso.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cachoeira_de_Paulo_Afonso.jpg/330px-Cachoeira_de_Paulo_Afonso.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cachoeira_de_Paulo_Afonso.jpg/440px-Cachoeira_de_Paulo_Afonso.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Cachoeira_de_Paulo_Afonso.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Paulo_Afonso" title="Paulo Afonso">
+         Paulo Afonso
+        </a>
+        <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+         Hydroelectric Powerplant
+        </a>
+        in the State of
+        <a href="/wiki/Bahia" title="Bahia">
+         Bahia
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       <a href="/wiki/Renewable_energy" title="Renewable energy">
+        Renewable energy
+       </a>
+       in
+       <a href="/wiki/Brazil" title="Brazil">
+        Brazil
+       </a>
+      </b>
+      accounted for more than 85.4% of the domestically produced electricity used in Brazil, according to data from the 2009 National Energy Balance, conducted by the Energy Research Corporation (EPE).
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      After the oil shocks of the 1970s, Brazil started focusing on developing alternative sources of energy, mainly
+      <a href="/wiki/Ethanol_fuel_in_Brazil" title="Ethanol fuel in Brazil">
+       sugarcane ethanol
+      </a>
+      . Its large
+      <a href="/wiki/Sugarcane" title="Sugarcane">
+       sugarcane
+      </a>
+      farms helped. In 1985, 91% of cars produced that year ran on sugarcane ethanol. The success of
+      <a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">
+       flexible-fuel vehicles
+      </a>
+      , introduced in 2003, together with the mandatory E25 blend throughout the country, have allowed ethanol fuel consumption in the country to achieve a 50% market share of the gasoline-powered fleet by February 2008.
+      <sup class="reference" id="cite_ref-ANP07_2008_2-0">
+       <a href="#cite_note-ANP07_2008-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Brazil held its first
+      <a href="/wiki/Wind" title="Wind">
+       wind
+      </a>
+      -only energy auction in 2009, in a move to diversify its
+      <a class="mw-redirect" href="/wiki/Energy_in_Brazil" title="Energy in Brazil">
+       energy portfolio
+      </a>
+      . Foreign companies scrambled to take part. Early this decade
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers">
+         <span title="The time period mentioned near this tag is ambiguous. (January 2015)">
+          when?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      , a
+      <a href="/wiki/Drought" title="Drought">
+       drought
+      </a>
+      in Brazil that cut water to the country's
+      <a class="mw-redirect" href="/wiki/Hydroelectric_dam" title="Hydroelectric dam">
+       hydroelectric dams
+      </a>
+      prompted severe energy shortages. The crisis, which ravaged the country's economy and led to electricity rationing, underscored Brazil's pressing need to diversify away from water power. The bidding is expected to lead to the construction of two gigawatts of wind production with an investment of about US$6 billion of over the next two years. Brazil counts on
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       hydroelectricity
+      </a>
+      for more than 3/4 of its
+      <a href="/wiki/Electricity" title="Electricity">
+       electricity
+      </a>
+      , but authorities are pushing
+      <a href="/wiki/Biomass" title="Biomass">
+       biomass
+      </a>
+      and wind as primary alternatives. Wind energy's greatest potential in Brazil is during the dry season, so it is considered a hedge against low
+      <a class="mw-redirect" href="/wiki/Rainfall" title="Rainfall">
+       rainfall
+      </a>
+      and the geographical spread of existing hydro resources. Brazil's technical potential for
+      <a class="mw-redirect" href="/wiki/Wind_energy" title="Wind energy">
+       wind energy
+      </a>
+      is 143 gigawatts due to the country's blustery 7,400-km
+      <a href="/wiki/Coastline_of_Brazil" title="Coastline of Brazil">
+       coastline
+      </a>
+      , where most projects are based. The Brazilian Wind Energy Association and the government have set a goal of achieving 20 gigawatts of wind energy capacity by 2020 from the current 5 gigawatts (2014).
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      The industry hopes the auction will help kick-start the wind-energy sector, which already accounts for 70% of the total in all of
+      <a href="/wiki/Latin_America" title="Latin America">
+       Latin America
+      </a>
+      .
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Wind_power">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Wind power
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Government_support">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Government support
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Growth_of_wind_energy">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            Growth of wind energy
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Cost">
+           <span class="tocnumber">
+            1.3
+           </span>
+           <span class="toctext">
+            Cost
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Solar_power">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Solar power
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Hydroelectric_power">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Hydroelectric power
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Itaipu_power_plant">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Itaipu power plant
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Hydroelectricity">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Hydroelectricity
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Ethanol_fuel">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Ethanol fuel
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Hydrogen">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Hydrogen
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#Biomass">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Biomass
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#See_also">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#References">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Wind_power">
+       Wind power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=1" title="Edit section: Wind power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:P1240012.JPG">
+        <img alt="" class="thumbimage" data-file-height="2112" data-file-width="2816" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P1240012.JPG/220px-P1240012.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P1240012.JPG/330px-P1240012.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P1240012.JPG/440px-P1240012.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:P1240012.JPG" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Os%C3%B3rio_wind_farm" title="Osório wind farm">
+         Windfarm in Osório
+        </a>
+        , Rio Grande do Sul.
+       </div>
+      </div>
+     </div>
+     <p>
+      <a class="new" href="/w/index.php?title=Nathemba&amp;action=edit&amp;redlink=1" title="Nathemba (page does not exist)">
+       Nathemba
+      </a>
+      in Brazil amounts to an installed capacity of 5 GW in mid 2014.
+      <a href="/wiki/Potential" title="Potential">
+       Potential
+      </a>
+      of
+      <a href="/wiki/Wind" title="Wind">
+       wind
+      </a>
+      in Brazil is more intense from June to December, coinciding with the months of lower rainfall intensity. This puts the wind as a potential supplementary source of energy generated by hydroelectric.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      In 2009, 10 projects are under construction, with a capacity of 256 MW, and in 2010, 45 began construction to generate 2,139 MW, in several
+      <a href="/wiki/States_of_Brazil" title="States of Brazil">
+       States
+      </a>
+      . The U.S. company
+      <a href="/wiki/General_Electric" title="General Electric">
+       General Electric
+      </a>
+      has one industry in Brazil, in the city of
+      <a href="/wiki/Campinas" title="Campinas">
+       Campinas
+      </a>
+      , and one partnership with the Tecsis in
+      <a href="/wiki/Sorocaba" title="Sorocaba">
+       Sorocaba
+      </a>
+      , meeting the demand of the new projects.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <table cellpadding="1" style="border-style:solid; border-width:1px; border-color:#c0c0c0; background-color:#fdfdfd; text-align:left; float: right; clear: right; margin: 0.5em 0 0.5em 1em;">
+      <caption style="font-weight:bold">
+       Installed wind power. Source GWEC Global Wind Report 2015
+      </caption>
+      <tr>
+       <th scope="col">
+        Year
+       </th>
+       <th scope="col" style="width: 16em};">
+        Cumulative Capacity (in MW).
+       </th>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2005
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:0.1em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           29
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2006
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:0.4em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           237
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2007
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:0.4em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           247
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2008
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:0.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           341
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2009
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:1.1em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           606
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2010
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:1.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           927
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2011
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:2.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           1,431
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2012
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:4.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           2,508
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2013
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:6.2em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           3,466
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2014
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:10.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           5,962
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="font-weight:normal;">
+        2015
+       </th>
+       <td>
+        <div style="height: 1.25em; width: 16em;">
+         <div style="position: absolute; background-color: rgb(206, 223, 242); width:15.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;">
+         </div>
+         <span style="position: absolute; height:1.25em; width: 16em; padding: 0 0 0 2em; z-index: 10;">
+          <span class="nowrap">
+           8,715
+          </span>
+         </span>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      While the
+      <a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">
+       2009 United Nations Climate Change Conference
+      </a>
+      (COP15) was taking place in
+      <a href="/wiki/Copenhagen" title="Copenhagen">
+       Copenhagen
+      </a>
+      , Brazil's National Electric Energy Agency (
+      <a class="mw-redirect" href="/wiki/ANEEL" title="ANEEL">
+       ANEEL
+      </a>
+      ) held the country's first ever wind-only energy auction. On December 14, around 1,800 megawatts (MW) were contracted with energy from 71 wind power plants scheduled to be delivered beginning July 1, 2012. While focusing domestically on wind-energy generation, Brazil is part of a larger international movement toward wind power as a primary source of energy. In fact, wind power has seen the highest expansion rate of all available renewable energy sources, with an average growth of 27% per year since 1990, according to the
+      <a href="/wiki/Global_Wind_Energy_Council" title="Global Wind Energy Council">
+       Global Wind Energy Council
+      </a>
+      (GWEC).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Government_support">
+       Government support
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=2" title="Edit section: Government support">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Brazil's first wind-energy
+      <a href="/wiki/Turbine" title="Turbine">
+       turbine
+      </a>
+      was installed in
+      <a href="/wiki/Fernando_de_Noronha" title="Fernando de Noronha">
+       Fernando de Noronha
+      </a>
+      <a href="/wiki/Archipelago" title="Archipelago">
+       Archipelago
+      </a>
+      in 1992. Ten years later the government created the Program for Incentive of Alternative Electric Energy Sources (Proinfa) to encourage the use of other
+      <a class="mw-redirect" href="/wiki/Renewable_sources" title="Renewable sources">
+       renewable sources
+      </a>
+      , such as wind power, biomass, and Small Hydroelectric Power Stations (PCHs). Such stations use hydropower, the flagship of Brazil's energy matrix, which comprises around three-quarters of Brazil's installed energy capacity.
+     </p>
+     <p>
+      High energy production costs, coupled with the advantages of wind power as a renewable, widely available energy source, have led several countries to establish regulatory incentives and direct financial investments to stimulate wind power generation.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Growth_of_wind_energy">
+       Growth of wind energy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=3" title="Edit section: Growth of wind energy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Since the inception of Proinfa, Brazil's wind energy production has escalated from 22 MW in 2003 to 602 MW in 2009, as part of 36 private projects. Another 10 projects are under construction, with a capacity of 256.4 MW, and 45 additional projects have been approved by ANEEL with an estimated potential of 2,139.7 MW.
+     </p>
+     <p>
+      Developing these wind power sources in Brazil is helping the country to meet its strategic objectives of enhancing
+      <a href="/wiki/Energy_security" title="Energy security">
+       energy security
+      </a>
+      , reducing greenhouse gas emissions and creating jobs. The potential for this type of power generation in Brazil could reach up to 145,000 MW, according to the 2001 Brazilian Wind Power Potential Report by the Electric Energy Research Centre (Cepel).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Cost">
+       Cost
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=4" title="Edit section: Cost">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The
+      <a href="/wiki/Energy_economics" title="Energy economics">
+       cost of energy production
+      </a>
+      continues to pose a significant challenge to the growth of wind energy. The price per megawatt hour (MWh) established in Brazil's auction of wind power reserve supply is R$189, while the cap defined in bidding for power plants of the
+      <a href="/wiki/Madeira_River" title="Madeira River">
+       Madeira River
+      </a>
+      Hydroelectricity Complex was R$91 (UHE Jirau) in 2008, and R$122 (UHE Santo Antonio) in 2007. These hydroelectricity prices were marked down by up to 35% in the 2008 and 2007 auctions; the energy supply was negotiated at R$71.4/MWh in the case of Jirau, and R$78.9/MWh for the Santo Antonio plant.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Solar_power">
+       Solar power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=5" title="Edit section: Solar power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Solar_power_in_Brazil" title="Solar power in Brazil">
+       Solar power in Brazil
+      </a>
+     </div>
+     <p>
+      The total installed photovoltaic power capacity in Brazil is estimated to be between 12 and 15 MWp, of which 50% is for telecommunications systems and 50% for rural energy systems.
+      <sup class="reference" id="cite_ref-wec_9-0">
+       <a href="#cite_note-wec-9">
+        [9]
+       </a>
+      </sup>
+      It is less than 0.01% of the energy in Brazil.
+     </p>
+     <p>
+      Brazil has one of the highest solar incidence in the world.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Hydroelectric_power">
+       Hydroelectric power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=6" title="Edit section: Hydroelectric power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Itaipu_power_plant">
+       Itaipu power plant
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=7" title="Edit section: Itaipu power plant">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Itaipu_Dam" title="Itaipu Dam">
+       Itaipu Dam
+      </a>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Itaipu_35556.jpg">
+        <img alt="" class="thumbimage" data-file-height="320" data-file-width="487" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Itaipu_35556.jpg/220px-Itaipu_35556.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Itaipu_35556.jpg/330px-Itaipu_35556.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Itaipu_35556.jpg/440px-Itaipu_35556.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Itaipu_35556.jpg" title="Enlarge">
+         </a>
+        </div>
+        View of
+        <a href="/wiki/Itaipu_Dam" title="Itaipu Dam">
+         Itaipu
+        </a>
+        hydroelectric power plant in the State of
+        <a href="/wiki/Paran%C3%A1_(state)" title="Paraná (state)">
+         Paraná
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Wenceslau_Braz.jpg">
+        <img alt="" class="thumbimage" data-file-height="960" data-file-width="1280" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wenceslau_Braz.jpg/220px-Wenceslau_Braz.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wenceslau_Braz.jpg/330px-Wenceslau_Braz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wenceslau_Braz.jpg/440px-Wenceslau_Braz.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Wenceslau_Braz.jpg" title="Enlarge">
+         </a>
+        </div>
+        A small hydroelectric power plant in
+        <a href="/wiki/Wenceslau_Braz,_Minas_Gerais" title="Wenceslau Braz, Minas Gerais">
+         Wenceslau Braz
+        </a>
+        ,
+        <a href="/wiki/Minas_Gerais" title="Minas Gerais">
+         Minas Gerais
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      Built on the
+      <a href="/wiki/Paran%C3%A1_River" title="Paraná River">
+       Paraná River
+      </a>
+      dividing Brazil and
+      <a href="/wiki/Paraguay" title="Paraguay">
+       Paraguay
+      </a>
+      , the
+      <a href="/wiki/Itaipu_Dam" title="Itaipu Dam">
+       Itaipu Dam
+      </a>
+      is the world's second largest hydroelectric dam. The river runs long the border of the two countries, and during the initial diplomatic talks of constructing the dam both countries were suffering from droughts. The original goal was to provide better management and utilization over water resources for the use of irrigation of crops.
+      <a href="/wiki/Argentina" title="Argentina">
+       Argentina
+      </a>
+      was also later incorporated in some of the governmental planning and agreements because it is a directly affected, being down stream, by the regulation of the water on the river. If the dam were to completely open the water flow, areas as far south as
+      <a href="/wiki/Buenos_Aires" title="Buenos Aires">
+       Buenos Aires
+      </a>
+      could potentially flood. Construction of the dam started in 1975, and the first generator was opened in 1983. Today, the dam provides over 75% of Paraguay's electric power needs, and meets nearly 25% of Brazil's electricity demands. It is estimated that 10,000 locals were displaced by the construction of the dam, and around 40,000 people were hired to help with the construction of the project. Many environmental concerns were overlooked when constructing the dam because the dam would produce such a large amount of energy with carbon free emissions, and no unwanted byproducts, such as with
+      <a href="/wiki/Nuclear_power" title="Nuclear power">
+       nuclear energy
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Hydroelectricity">
+       Hydroelectricity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=8" title="Edit section: Hydroelectricity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       Hydroelectricity
+      </a>
+     </div>
+     <p>
+      <a class="mw-redirect" href="/wiki/Hydroelectric_power_plant" title="Hydroelectric power plant">
+       Hydroelectric power plants
+      </a>
+      produce almost 80% of the electrical energy consumed in Brazil.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      They depend on river waters in adequate levels in their ponds to generate energy. Lack of
+      <a class="mw-redirect" href="/wiki/Rainfall" title="Rainfall">
+       rainfall
+      </a>
+      , investments and increased consumption resulted in electrical energy rationalization, known as black out, in the years 2001 and 2002. The construction of new hydroelectric power plants means environmental impacts as large areas need to be flooded, altering the
+      <a href="/wiki/Ecosystem" title="Ecosystem">
+       ecosystem
+      </a>
+      .
+     </p>
+     <p>
+      Trying not to use too much energy during peak hours, between 6 and 9 PM, is necessary to avoid the need to build new energy plants and
+      <a class="mw-redirect" href="/wiki/Transmission_lines" title="Transmission lines">
+       transmission lines
+      </a>
+      only to serve the demand in that timeframe. New dams mean very elevated social and environmental costs due to flooding land tracts and destroying habitats of animals, plants and entire communities that, many times, are not compensated (resettlement or indemnities). Large hydroelectric power plants flooding immense
+      <a href="/wiki/Forest" title="Forest">
+       forest
+      </a>
+      areas emit large amounts of methane to the atmosphere. There is only sustainable development with energy coming from new renewable sources. Small hydroelectric plants can produce energy in a decentralized way with small environmental impact. Such an option can be implemented in several regions of the country making use of natural waterfalls. Many Brazilian farmers chose this.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ethanol_fuel">
+       Ethanol fuel
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=9" title="Edit section: Ethanol fuel">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main articles:
+      <a href="/wiki/Ethanol_fuel_in_Brazil" title="Ethanol fuel in Brazil">
+       Ethanol fuel in Brazil
+      </a>
+      and
+      <a href="/wiki/History_of_ethanol_fuel_in_Brazil" title="History of ethanol fuel in Brazil">
+       History of ethanol fuel in Brazil
+      </a>
+     </div>
+     <div class="hatnote" role="note">
+      Further information:
+      <a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">
+       Flexible-fuel vehicle
+      </a>
+     </div>
+     <p>
+      Brazil's
+      <a href="/wiki/Ethanol" title="Ethanol">
+       ethanol
+      </a>
+      program started in 1975, when soaring oil prices put a chokehold on the economy. sugarcane was an obvious candidate, given Brazil's almost endless amount of
+      <a href="/wiki/Arable_land" title="Arable land">
+       arable land
+      </a>
+      and favourable climate.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Most cars on the road today in Brazil can run on blends of up to 25% ethanol, and motor vehicle manufacturers already produce vehicles designed to run on much higher ethanol blends. Most car makers in Brazil sell
+      <a class="mw-redirect" href="/wiki/Flexible-fuel" title="Flexible-fuel">
+       flexible-fuel
+      </a>
+      cars, trucks, and minivans that can use
+      <a href="/wiki/Gasoline" title="Gasoline">
+       gasoline
+      </a>
+      and ethanol blends ranging from pure gasoline up to 100% ethanol (E100). In 2009, 90% of cars produced that year ran on
+      <a href="/wiki/Ethanol_fuel_in_Brazil" title="Ethanol fuel in Brazil">
+       sugarcane ethanol
+      </a>
+      .
+     </p>
+     <p>
+      Brazil is the second largest producer of ethanol in the world and is the largest
+      <a class="mw-redirect" href="/wiki/Exporter" title="Exporter">
+       exporter
+      </a>
+      of the fuel. In 2008, Brazil produced 454,000 bbl/d of ethanol, up from 365,000 in 2007. All gasoline in Brazil contains ethanol, with blending levels varying from 20-25%. Over half of all cars in the country are of the flex-fuel variety, meaning that they can run on 100 percent ethanol or an ethanol-gasoline mixture. According to ANP, Brazil also produced about 20,000 bbl/d of
+      <a href="/wiki/Biodiesel" title="Biodiesel">
+       biodiesel
+      </a>
+      in 2008, and the agency has enacted a three-percent blending requirement for domestic diesel sales.
+     </p>
+     <p>
+      The importance of ethanol in Brazil's domestic transportation fuels market will only increase in the future. According to
+      <a class="mw-redirect" href="/wiki/Petrobr%C3%A1s" title="Petrobrás">
+       Petrobrás
+      </a>
+      , ethanol accounts for more than 50 percent of current light vehicle fuel demand, and the company expects this to increase to over 80% by 2020. Because ethanol production continues to grow faster than domestic demand, Brazil has sought to increase ethanol exports. According to industry sources, Brazil's ethanol exports reached 86,000 bbl/d in 2008, with 13,000 bbl/d going to the
+      <a href="/wiki/United_States" title="United States">
+       United States
+      </a>
+      . Brazil is the largest ethanol exporter in the world, holding over 90% of the global export market.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Hydrogen">
+       Hydrogen
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=10" title="Edit section: Hydrogen">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Center of Management and Strategic Studies under the supervision of the Brazilian Ministry of Science and Technology has published a document titled: Energetic Hydrogen in Brazil: funding for competitive politics 2010–2025 (‘‘Hidrogenio energetico no Brasil: subsidios para polıticas de competitividade 2010–2025’’ in Portuguese), giving numbers of a hydrogen scenario in the country related to its research, technologies and funding [45]. The document reports Brazil as a leader in Latin America but yet with an investment in hydrogen technologies of only 3 to 5% of Japan, European Union, or the United States. National hydrogen production is about 920,000 t (10.2 billion cubic meters) per year with only 1% used as a direct fuel and the other 99% for refining, petrochemical, fertilizers and methanol.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Biomass">
+       Biomass
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=11" title="Edit section: Biomass">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Faz_S_Sofia_canavial_090607_REFON.JPG">
+        <img alt="" class="thumbimage" data-file-height="2176" data-file-width="3264" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/330px-Faz_S_Sofia_canavial_090607_REFON.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/440px-Faz_S_Sofia_canavial_090607_REFON.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Faz_S_Sofia_canavial_090607_REFON.JPG" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Sugarcane" title="Sugarcane">
+         Sugarcane
+        </a>
+        <a href="/wiki/Sugar_plantations_in_the_Caribbean" title="Sugar plantations in the Caribbean">
+         plantation
+        </a>
+        in
+        <a class="mw-redirect" href="/wiki/Avar%C3%A9" title="Avaré">
+         Avaré
+        </a>
+        (State of São Paulo), cane remains used to production of
+        <a href="/wiki/Biomass" title="Biomass">
+         biomass
+        </a>
+        energy.
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_(F%C3%A1bio_Pozzebom)24mar2007.jpg">
+        <img alt="" class="thumbimage" data-file-height="1311" data-file-width="2055" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg/220px-Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg/330px-Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg/440px-Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_%28F%C3%A1bio_Pozzebom%2924mar2007.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Reflorestamento_eucalipto_Esp%C3%ADrito_Santo_(F%C3%A1bio_Pozzebom)24mar2007.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Eucalyptus" title="Eucalyptus">
+         Eucalyptus
+        </a>
+        in the State of
+        <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">
+         Espírito Santo
+        </a>
+        , remains of the tree are reused for biomass power generation.
+       </div>
+      </div>
+     </div>
+     <p>
+      <a href="/wiki/Biomass" title="Biomass">
+       Biomass
+      </a>
+      is a clean energy source used in Brazil. It reduces environmental pollution as it uses organic garbage,
+      <a class="mw-redirect" href="/wiki/Agricultural" title="Agricultural">
+       agricultural
+      </a>
+      remains,
+      <a href="/wiki/Wood" title="Wood">
+       wood
+      </a>
+      shaving or vegetal oil. Refuse cane, with its high energetic value, has been used to produce electricity.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      More than 1 million people in the country works in the production of Biomass, and this energy represents 27% of Brazil's energetic matrix.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The recent interest in converting biomass to electricity comes not only from its potential as a low-cost, indigenous supply of power, but for its potential environmental and developmental benefits. For example, biomass may be a globally important mitigation option to reduce the rate of CO
+      <sub>
+       2
+      </sub>
+      buildup by sequestering carbon and by displacing fossil fuels. Renewably grown biomass contributes only a very small amount of
+      <a href="/wiki/Carbon" title="Carbon">
+       carbon
+      </a>
+      to the
+      <a href="/wiki/Atmosphere" title="Atmosphere">
+       atmosphere
+      </a>
+      . Locally, plantations can lessen soil erosion, provide a means to restore degraded lands, offset emissions and local impacts from fossil-fired power generation, and, perhaps, reduce demands on existing forests. In addition to the direct power and environmental benefits, biomass energy systems offer numerous other benefits, especially for
+      <a class="mw-redirect" href="/wiki/Developing_countries" title="Developing countries">
+       developing countries
+      </a>
+      , such as Brazil. Some of these benefits include the employment of underutilized labor and the production of co- and by-products, for example, fuelwood.
+     </p>
+     <p>
+      Nearly all of the experience with biomass for power generation is based on the use of
+      <a href="/wiki/Waste" title="Waste">
+       waste
+      </a>
+      and residue fuels (primarily wood/wood wastes and agricultural residues). The production of electric power from
+      <a href="/wiki/Sugar_plantations_in_the_Caribbean" title="Sugar plantations in the Caribbean">
+       plantation
+      </a>
+      grown wood is an emerging technology with considerable promise. However, actual commercial use of plantation-grown fuels for power generation is limited to a few isolated experiences. Wood from plantations is not an inexpensive energy
+      <a class="mw-redirect" href="/wiki/Feedstock" title="Feedstock">
+       feedstock
+      </a>
+      , and as long as worldwide prices of coal, oil and gas are relatively low, the establishment of plantations dedicated to supplying electric power or other higher forms of energy will occur only where financial
+      <a class="mw-redirect" href="/wiki/Subsidies" title="Subsidies">
+       subsidies
+      </a>
+      or incentives exist or where other sources of energy are not available.
+     </p>
+     <p>
+      The biomass plantations are supplying energy on a commercial basis, such as in Brazil, the
+      <a href="/wiki/Philippines" title="Philippines">
+       Philippines
+      </a>
+      and
+      <a href="/wiki/Sweden" title="Sweden">
+       Sweden
+      </a>
+      , it can be shown that a combination of government policies and/or high conventional energy prices have stimulated the use of short-rotation plantations for energy. Brazil used tax incentives beginning in the mid-1960s to initiate a reforestation program to provide for industrial wood energy and wood product needs. As a consequence of the Brazilian Forestry Code with its favourable tax incentives, the planted forest area in Brazil increased from 470,000 ha to 6.5 million ha by 1993. With the discontinuation of the tax incentives in 1988, plantation establishment in Brazil has slowed although the commercial feasibility of using
+      <a href="/wiki/Eucalyptus" title="Eucalyptus">
+       eucalyptus
+      </a>
+      for energy and other products has been clearly demonstrated.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=12" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Wind-turbine-icon.svg">
+          <img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+          Renewable energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer thumbborder" data-file-height="504" data-file-width="720" height="22" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/32px-Flag_of_Brazil.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/48px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/64px-Flag_of_Brazil.svg.png 2x" width="32"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Brazil" title="Portal:Brazil">
+          Brazil portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Solar_power_in_Brazil" title="Solar power in Brazil">
+        Solar power in Brazil
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_policy_of_Brazil" title="Energy policy of Brazil">
+        Energy policy of Brazil
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Nuclear_power_in_Brazil" title="Nuclear power in Brazil">
+        Nuclear power in Brazil
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit&amp;section=13" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Renewable_energy_in_Brazil" title="commons:Category:Renewable energy in Brazil">
+           Renewable energy in Brazil
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.renewableenergyworld.com/articles/2009/12/brazils-wind-power-auction-spurs-more-clean-energy-development.html" rel="nofollow">
+          Renewable energy in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-ANP07_2008-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ANP07_2008_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Agência Brasil (2008-07-15).
+          <a class="external text" href="http://br.invertia.com/noticias/noticia.aspx?idNoticia=200807152306_ABR_77211977" rel="nofollow">
+           "ANP: consumo de álcool combustível é 50% maior em 2007"
+          </a>
+          (in Portuguese). Invertia
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-08-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Brazil&amp;rft.au=Ag%C3%AAncia+Brasil&amp;rft.btitle=ANP%3A+consumo+de+%C3%A1lcool+combust%C3vel+%C3%A9+50%25+maior+em+2007&amp;rft.date=2008-07-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbr.invertia.com%2Fnoticias%2Fnoticia.aspx%3FidNoticia%3D200807152306_ABR_77211977&amp;rft.pub=Invertia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.redebrasilatual.com.br/temas/economia/gabrielli-etanol-reduzira-mercado-de-gasolina-a-17-ate-2020" rel="nofollow">
+          90% of cars produced in Brazil are Flexfuel
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.portalabeeolica.org.br/" rel="nofollow">
+          [1]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://greeninc.blogs.nytimes.com/2009/11/09/brazilian-wind-power-gets-a-boost/" rel="nofollow">
+          Wind power and hydroelectricity in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://g1.globo.com/Noticias/Ciencia/0,,MUL1367045-5603,00-LEILAO+EM+DEZEMBRO+BUSCA+IMPULSIONAR+GERACAO+DE+ENERGIA+POR+VENTOS+NO+BRASI.html" rel="nofollow">
+          Wind power in Brazil - G1 News
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.valoronline.com.br/?online/empresas/11/5900649/ge-vai-fabricar-no-brasil-geradores-para-energia-eolica&amp;scrollX=0&amp;scrollY=721&amp;tamFonte=" rel="nofollow">
+          Production and Wind power in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2009/12/brazils-wind-power-auction-spurs-more-clean-energy-development" rel="nofollow">
+          Wind power in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-wec-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-wec_9-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          <a class="external text" href="http://www.worldenergy.org/documents/ser2004.pdf" rel="nofollow">
+           "Survey of energy resources"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . World Energy Council. 2004
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2007-07-13
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Brazil&amp;rft.atitle=Survey+of+energy+resources&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.worldenergy.org%2Fdocuments%2Fser2004.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.lepten.ufsc.br/publicacoes/solar/eventos/2007/ISES/martins_enio.pdf" rel="nofollow">
+          Brazilian Atlas for Solar Energy Resource: SWERA Results
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <i>
+           International Rivers
+          </i>
+          <a class="external free" href="http://www.internationalrivers.org/campaigns/brazilian-dams" rel="nofollow">
+           http://www.internationalrivers.org/campaigns/brazilian-dams
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            3 July
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Brazil&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.internationalrivers.org%2Fcampaigns%2Fbrazilian-dams&amp;rft.jtitle=International+Rivers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Missing or empty
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |title=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.natureba.com.br/nature/brazil-energy.htm" rel="nofollow">
+          Hydroelectric power plant in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.usatoday.com/money/world/2006-03-28-brazil-ethanol-cover_x.htm" rel="nofollow">
+          Ethanol in Brazil - USA Today
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/emeu/cabs/Brazil/Full.html" rel="nofollow">
+          Ethanol fuel in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S1364032112006776" rel="nofollow">
+           "The Brazilian energy matrix: From a materials science and engineering perspective"
+          </a>
+          .
+          <i>
+           Renewable and Sustainable Energy Reviews
+          </i>
+          .
+          <b>
+           19
+          </b>
+          : 678–691.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2012.11.063" rel="nofollow">
+           10.1016/j.rser.2012.11.063
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARenewable+energy+in+Brazil&amp;rft.atitle=The+Brazilian+energy+matrix%3A+From+a+materials+science+and+engineering+perspective&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1364032112006776&amp;rft_id=info%3Adoi%2F10.1016%2Fj.rser.2012.11.063&amp;rft.jtitle=Renewable+and+Sustainable+Energy+Reviews&amp;rft.pages=678-691&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.natureba.com.br/nature/brazil-energy.htm" rel="nofollow">
+          Biomass in Brazil
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ambientebrasil.com.br/composer.php3?base=./energia/index.html&amp;conteudo=./energia/artigos/biomassa_energia.html" rel="nofollow">
+          Facts of Brazil's Biomass
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://bioenergy.ornl.gov/reports/fuelwood/toc.html" rel="nofollow">
+          Bioenergy - Biomass in Brazil
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <div aria-labelledby="Wind_power_by_country" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Wind_power_by_country" title="Template:Wind power by country">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Wind_power_by_country" title="Template talk:Wind power by country">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wind_power_by_country&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Wind_power_by_country" style="font-size:114%">
+          <a href="/wiki/Wind_power_by_country" title="Wind power by country">
+           Wind power by country
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             Overview
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_industry" title="Wind power industry">
+                Wind power industry
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             Africa
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_in_Kenya" title="Wind power in Kenya">
+                Kenya
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Morocco" title="Wind power in Morocco">
+                Morocco
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Wind_power_in_Asia" title="Wind power in Asia">
+              Asia
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_in_China" title="Wind power in China">
+                China
+               </a>
+               (
+               <a href="/wiki/Lamma_Winds" title="Lamma Winds">
+                Hong Kong
+               </a>
+               )
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Georgia" title="Wind power in Georgia">
+                Georgia
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_India" title="Wind power in India">
+                India
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Iran" title="Wind power in Iran">
+                Iran
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Japan" title="Wind power in Japan">
+                Japan
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Pakistan" title="Wind power in Pakistan">
+                Pakistan
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_the_Philippines" title="Wind power in the Philippines">
+                Philippines
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_South_Korea" title="Wind power in South Korea">
+                South Korea
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Taiwan" title="Wind power in Taiwan">
+                Taiwan
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Thailand" title="Wind power in Thailand">
+                Thailand
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Turkey" title="Wind power in Turkey">
+                Turkey
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Wind_power_in_the_European_Union" title="Wind power in the European Union">
+              Europe
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_in_Austria" title="Wind power in Austria">
+                Austria
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Belgium" title="Wind power in Belgium">
+                Belgium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Croatia" title="Wind power in Croatia">
+                Croatia
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Denmark" title="Wind power in Denmark">
+                Denmark
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Estonia" title="Wind power in Estonia">
+                Estonia
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Finland" title="Wind power in Finland">
+                Finland
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_France" title="Wind power in France">
+                France
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Germany" title="Wind power in Germany">
+                Germany
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Greece" title="Wind power in Greece">
+                Greece
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Hungary" title="Wind power in Hungary">
+                Hungary
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_the_Republic_of_Ireland" title="Wind power in the Republic of Ireland">
+                Ireland
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Italy" title="Wind power in Italy">
+                Italy
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Lithuania" title="Wind power in Lithuania">
+                Lithuania
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Malta" title="Wind power in Malta">
+                Malta
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_the_Netherlands" title="Wind power in the Netherlands">
+                Netherlands
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Poland" title="Wind power in Poland">
+                Poland
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Portugal" title="Wind power in Portugal">
+                Portugal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Romania" title="Wind power in Romania">
+                Romania
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Russia" title="Wind power in Russia">
+                Russia
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Spain" title="Wind power in Spain">
+                Spain
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Sweden" title="Wind power in Sweden">
+                Sweden
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_the_United_Kingdom" title="Wind power in the United Kingdom">
+                United Kingdom
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             North America
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_in_Canada" title="Wind power in Canada">
+                Canada
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Mexico" title="Wind power in Mexico">
+                Mexico
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_the_United_States" title="Wind power in the United States">
+                United States
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             Oceania
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Wind_power_in_Australia" title="Wind power in Australia">
+                Australia
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_New_Zealand" title="Wind power in New Zealand">
+                New Zealand
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             South America
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <strong class="selflink">
+                Brazil
+               </strong>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power_in_Uruguay" title="Wind power in Uruguay">
+                Uruguay
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow hlist" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <b>
+             Portals:
+            </b>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Renewable_energy_by_country" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Renewable_energy_by_country" title="Template:Renewable energy by country">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Renewable_energy_by_country" title="Template talk:Renewable energy by country">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Renewable_energy_by_country" style="font-size:114%">
+          <a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">
+           Renewable energy by country
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Renewable_energy_in_Africa" title="Renewable energy in Africa">
+          Africa
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Ethiopia" title="Renewable energy in Ethiopia">
+             Ethiopia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Kenya" title="Renewable energy in Kenya">
+             Kenya
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Morocco" title="Renewable energy in Morocco">
+             Morocco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Seychelles" title="Renewable energy in Seychelles">
+             Seychelles
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Renewable_energy_in_Asia" title="Renewable energy in Asia">
+          Asia
+         </a>
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Afghanistan" title="Renewable energy in Afghanistan">
+             Afghanistan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Bangladesh" title="Renewable energy in Bangladesh">
+             Bangladesh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Bhutan" title="Renewable energy in Bhutan">
+             Bhutan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_China" title="Renewable energy in China">
+             China
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_India" title="Renewable energy in India">
+             India
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Kazakhstan" title="Renewable energy in Kazakhstan">
+             Kazakhstan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Nepal" title="Renewable energy in Nepal">
+             Nepal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Pakistan" title="Renewable energy in Pakistan">
+             Pakistan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_the_Philippines" title="Renewable energy in the Philippines">
+             Philippines
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Taiwan" title="Renewable energy in Taiwan">
+             Taiwan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Thailand" title="Renewable energy in Thailand">
+             Thailand
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">
+          Europe
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">
+             European Union
+            </a>
+            (
+            <a href="/wiki/Renewable_energy_in_the_Czech_Republic" title="Renewable energy in the Czech Republic">
+             Czech Republic
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Denmark" title="Renewable energy in Denmark">
+             Denmark
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Finland" title="Renewable energy in Finland">
+             Finland
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Germany" title="Renewable energy in Germany">
+             Germany
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Greece" title="Renewable energy in Greece">
+             Greece
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Hungary" title="Renewable energy in Hungary">
+             Hungary
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_the_Republic_of_Ireland" title="Renewable energy in the Republic of Ireland">
+             Ireland
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Italy" title="Renewable energy in Italy">
+             Italy
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Lithuania" title="Renewable energy in Lithuania">
+             Lithuania
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Luxembourg" title="Renewable energy in Luxembourg">
+             Luxembourg
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_the_Netherlands" title="Renewable energy in the Netherlands">
+             Netherlands
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Portugal" title="Renewable energy in Portugal">
+             Portugal
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_Spain" title="Renewable energy in Spain">
+             Spain
+            </a>
+            ,
+            <a class="mw-redirect" href="/wiki/Renewable_energy_in_Sweden" title="Renewable energy in Sweden">
+             Sweden
+            </a>
+            ,
+            <a href="/wiki/Renewable_energy_in_the_United_Kingdom" title="Renewable energy in the United Kingdom">
+             United Kingdom
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Albania" title="Renewable energy in Albania">
+             Albania
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">
+             Iceland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Norway" title="Renewable energy in Norway">
+             Norway
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Russia" title="Renewable energy in Russia">
+             Russia
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         North America
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Canada" title="Renewable energy in Canada">
+             Canada
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Costa_Rica" title="Renewable energy in Costa Rica">
+             Costa Rica
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Honduras" title="Renewable energy in Honduras">
+             Honduras
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Mexico" title="Renewable energy in Mexico">
+             Mexico
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">
+             United States
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Oceania
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Australia" title="Renewable energy in Australia">
+             Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_New_Zealand" title="Renewable energy in New Zealand">
+             New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Tuvalu" title="Renewable energy in Tuvalu">
+             Tuvalu
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         South America
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Argentina" title="Renewable energy in Argentina">
+             Argentina
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Brazil
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Chile" title="Renewable energy in Chile">
+             Chile
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Colombia" title="Renewable energy in Colombia">
+             Colombia
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow hlist" colspan="2">
+         <div>
+          <dl>
+           <dt>
+            Portals
+           </dt>
+           <dd>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </dd>
+           <dd>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </dd>
+           <dd>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </dd>
+          </dl>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Economy_of_Brazil" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Economy_of_Brazil" title="Template:Economy of Brazil">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Economy_of_Brazil" title="Template talk:Economy of Brazil">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economy_of_Brazil&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Economy_of_Brazil" style="font-size:114%">
+          <a href="/wiki/Economy_of_Brazil" title="Economy of Brazil">
+           Economy of Brazil
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Economic_history_of_Brazil" title="Economic history of Brazil">
+          History
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Brazilian_Gold_Rush" title="Brazilian Gold Rush">
+             Gold rush
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Economy_of_the_Empire_of_Brazil" title="Economy of the Empire of Brazil">
+             Empire
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fazenda" title="Fazenda">
+             Fazenda
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Rubber_boom" title="Rubber boom">
+             Rubber boom
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plano_Trienal" title="Plano Trienal">
+             Plano Trienal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brazilian_Miracle" title="Brazilian Miracle">
+             Brazilian Miracle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Samba_effect" title="Samba effect">
+             Samba effect
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plano_Collor" title="Plano Collor">
+             Plano Collor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Timeline_of_Brazilian_economic_stabilization_plans" title="Timeline of Brazilian economic stabilization plans">
+             Stabilization plans
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/2007%E2%80%9310_recession_in_South_America#Brazil" title="2007–10 recession in South America">
+             2007–10 recession
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Programa_de_Acelera%C3%A7%C3%A3o_do_Crescimento" title="Programa de Aceleração do Crescimento">
+             Programa de Aceleração do Crescimento
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Agriculture_in_Brazil" title="Agriculture in Brazil">
+          Agriculture
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Brazilian_wine" title="Brazilian wine">
+             Wine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Banana_production_in_Brazil" title="Banana production in Brazil">
+             Banana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Orange_production_in_Brazil" title="Orange production in Brazil">
+             Orange
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Beer_in_Brazil" title="Beer in Brazil">
+             Beer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Coffee_production_in_Brazil" title="Coffee production in Brazil">
+             Coffee
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Irrigation_in_Brazil" title="Irrigation in Brazil">
+             Irrigation
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Welfare
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bolsa_Fam%C3%ADlia" title="Bolsa Família">
+             Bolsa Família
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cingapura_project" title="Cingapura project">
+             Cingapura project
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fome_Zero" title="Fome Zero">
+             Fome Zero
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Energy_policy_of_Brazil" title="Energy policy of Brazil">
+          Energy
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <strong class="selflink">
+             Renewable energy
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Ethanol_fuel_in_Brazil" title="Ethanol fuel in Brazil">
+             Ethanol fuel
+            </a>
+            <small>
+             (
+             <a href="/wiki/History_of_ethanol_fuel_in_Brazil" title="History of ethanol fuel in Brazil">
+              History
+             </a>
+             )
+            </small>
+           </li>
+           <li>
+            <a href="/wiki/Electricity_sector_in_Brazil" title="Electricity sector in Brazil">
+             Electricity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vale_(mining_company)" title="Vale (mining company)">
+             Vale
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Petrobras" title="Petrobras">
+             Petrobras
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eletrobras" title="Eletrobras">
+             Eletrobras
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Other sectors
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Industry_in_Brazil" title="Industry in Brazil">
+             Industry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Automotive_industry_in_Brazil" title="Automotive industry in Brazil">
+             Automotive industry
+            </a>
+            <small>
+             (
+             <a href="/wiki/List_of_automobiles_manufactured_in_Brazil" title="List of automobiles manufactured in Brazil">
+              Automobiles manufactured
+             </a>
+             )
+            </small>
+           </li>
+           <li>
+            <a href="/wiki/Health_in_Brazil" title="Health in Brazil">
+             Healthcare
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mining_in_Brazil" title="Mining in Brazil">
+             Mining
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Deforestation_in_Brazil" title="Deforestation in Brazil">
+             Deforestation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tourism_in_Brazil" title="Tourism in Brazil">
+             Tourism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Telecommunications_in_Brazil" title="Telecommunications in Brazil">
+             Telecommunications
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Misc.
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Brazilian_real" title="Brazilian real">
+             Real
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/List_of_Brazilian_states_by_gross_domestic_product" title="List of Brazilian states by gross domestic product">
+             Federative units by GDP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_Brazilian_federative_units_by_Human_Development_Index" title="List of Brazilian federative units by Human Development Index">
+             Federative units by HDI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_companies_of_Brazil" title="List of companies of Brazil">
+             Companies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transport_in_Brazil" title="Transport in Brazil">
+             Infrastructure
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Brazil_Cost" title="Brazil Cost">
+             Brazil Cost
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/BM%26F_Bovespa" title="BM&amp;F Bovespa">
+             BM&amp;F Bovespa
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brazilian_disease" title="Brazilian disease">
+             Brazilian disease
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Camel%C3%B4" title="Camelô">
+             Camelô
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Water_privatization_in_Brazil" title="Water privatization in Brazil">
+             Water privatization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Central_Bank_of_Brazil" title="Central Bank of Brazil">
+             Central Bank of Brazil
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Economy_of_Brazil" title="Category:Economy of Brazil">
+             Category
+            </a>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Economy_of_Brazil" title="commons:Category:Economy of Brazil">
+             Commons
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:10826830-0!*!0!!en!4!* and timestamp 20161030013243 and revision id 742860078
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Brazil&amp;oldid=742860078">
+      https://en.wikipedia.org/w/index.php?title=Renewable_energy_in_Brazil&amp;oldid=742860078
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Renewable_energy_in_Brazil" title="Category:Renewable energy in Brazil">
+         Renewable energy in Brazil
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">
+         CS1 Portuguese-language sources (pt)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">
+         Pages with citations having bare URLs
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Vague_or_ambiguous_time_from_January_2015" title="Category:Vague or ambiguous time from January 2015">
+         Vague or ambiguous time from January 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">
+         Commons category with page title same as on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Renewable+energy+in+Brazil" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Renewable+energy+in+Brazil" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Renewable_energy_in_Brazil" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Renewable_energy_in_Brazil" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Renewable_energy_in_Brazil">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Renewable_energy_in_Brazil" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Renewable_energy_in_Brazil" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;oldid=742860078" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Renewable_energy_in_Brazil&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q7313097" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Renewable_energy_in_Brazil&amp;id=742860078" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Renewable+energy+in+Brazil">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Renewable+energy+in+Brazil&amp;returnto=Renewable+energy+in+Brazil&amp;oldid=742860078&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Renewable_energy_in_Brazil&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Renewable_energy_in_Brazil" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_%C3%A9olienne_au_Br%C3%A9sil" hreflang="fr" lang="fr" title="Énergie éolienne au Brésil – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Energia_renov%C3%A1vel_no_Brasil" hreflang="pt" lang="pt" title="Energia renovável no Brasil – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q7313097#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 6 October 2016, at 07:17.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Renewable_energy_in_Brazil&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.360",
+            "walltime": "0.461",
+            "ppvisitednodes": {
+                "value": 2604,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 89599,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 3108,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  358.512      1 -total",
+                " 30.74%  110.193      1 Template:Bar_graph",
+                " 19.70%   70.625      1 Template:Reflist",
+                " 16.44%   58.945      1 Template:When",
+                " 13.28%   47.596      2 Template:Cite_web",
+                " 11.84%   42.444      1 Template:Commons_category",
+                " 11.26%   40.375      1 Template:Fix",
+                " 10.79%   38.681      1 Template:Commons",
+                " 10.47%   37.527      1 Template:Sister_project",
+                " 10.06%   36.067      4 Template:Navbox"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.085",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3620630,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1277",
+            "timestamp": "20161030013243",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1245"});});
+  </script>
+ </body>
+</html>

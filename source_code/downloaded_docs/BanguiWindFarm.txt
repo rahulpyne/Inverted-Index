@@ -1,0 +1,1177 @@
+https://en.wikipedia.org/wiki/Bangui_Wind_Farm
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Bangui Wind Farm - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bangui_Wind_Farm","wgTitle":"Bangui Wind Farm","wgCurRevisionId":732360348,"wgRevisionId":732360348,"wgArticleId":27363558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from October 2013","All articles lacking sources","Coordinates on Wikidata","Commons category with page title same as on Wikidata","Buildings and structures in Ilocos Norte","Visitor attractions in Ilocos Norte","Wind farms in the Philippines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bangui_Wind_Farm","wgRelevantArticleId":27363558,"wgRequestId":"WBw-qgpAMCYAAB5PPPcAAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":18.527777777778,"lon":120.71388888889},"wgWikibaseItemId":"Q4855634","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bangui_Wind_Farm" rel="alternate"/>
+  <link href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Bangui_Wind_Farm" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bangui_Wind_Farm rootpage-Bangui_Wind_Farm skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Bangui Wind Farm
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          does not
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           cite
+          </a>
+          any
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           sources
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Bangui_Wind_Farm&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and
+          <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+           removed
+          </a>
+          .
+         </span>
+         <small>
+          <i>
+           (October 2013)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="infobox vcard" style="width:22em">
+      <tr>
+       <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#FFFFE6;">
+        Bangui Wind farm
+       </th>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Bangui_Wind_Mills.JPG">
+         <img alt="Bangui Wind Mills.JPG" data-file-height="3264" data-file-width="4928" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bangui_Wind_Mills.JPG/240px-Bangui_Wind_Mills.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bangui_Wind_Mills.JPG/360px-Bangui_Wind_Mills.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bangui_Wind_Mills.JPG/480px-Bangui_Wind_Mills.JPG 2x" width="240"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <div class="center">
+         <div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:240px;padding:0">
+           <div style="position:relative;width:240px">
+            <a class="image" href="/wiki/File:Philippines_relief_location_map_(square).svg" title="Bangui Wind Farm is located in Philippines">
+             <img alt="Bangui Wind Farm is located in Philippines" data-file-height="1332" data-file-width="1332" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_relief_location_map_%28square%29.svg/240px-Philippines_relief_location_map_%28square%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_relief_location_map_%28square%29.svg/360px-Philippines_relief_location_map_%28square%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philippines_relief_location_map_%28square%29.svg/480px-Philippines_relief_location_map_%28square%29.svg.png 2x" width="240"/>
+            </a>
+            <div style="position:absolute;top:15.812%;left:39.034%">
+             <div style="position:absolute;left:-4px;top:-4px;line-height:0">
+              <img alt="Bangui Wind Farm" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Bangui Wind Farm" width="8"/>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         Location of Bangui Wind farm in Philippines
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Country
+       </th>
+       <td>
+        <a href="/wiki/Philippines" title="Philippines">
+         Philippines
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        <a href="/wiki/Bangui,_Ilocos_Norte" title="Bangui, Ilocos Norte">
+         Bangui, Ilocos Norte
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Coordinates
+       </th>
+       <td>
+        <small>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bangui_Wind_Farm&amp;params=18_31_40_N_120_42_50_E_type:landmark">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              18°31′40″N
+             </span>
+             <span class="longitude">
+              120°42′50″E
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             18.52778°N 120.71389°E
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              18.52778; 120.71389
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <span style="font-size: small;">
+          <span id="coordinates">
+           <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+            Coordinates
+           </a>
+           :
+           <span class="plainlinks nourlexpansion">
+            <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bangui_Wind_Farm&amp;params=18_31_40_N_120_42_50_E_type:landmark">
+             <span class="geo-default">
+              <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+               <span class="latitude">
+                18°31′40″N
+               </span>
+               <span class="longitude">
+                120°42′50″E
+               </span>
+              </span>
+             </span>
+             <span class="geo-multi-punct">
+              ﻿ / ﻿
+             </span>
+             <span class="geo-nondefault">
+              <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+               18.52778°N 120.71389°E
+              </span>
+              <span style="display:none">
+               ﻿ /
+               <span class="geo">
+                18.52778; 120.71389
+               </span>
+              </span>
+             </span>
+            </a>
+           </span>
+          </span>
+         </span>
+        </small>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Project_commissioning" title="Project commissioning">
+         Commission date
+        </a>
+       </th>
+       <td>
+        June 20, 2005
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Owner(s)
+       </th>
+       <td>
+        NorthWind Power Development Corporation
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color:#FFFFE6;">
+        Wind farm
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Wind_farm#Types" title="Wind farm">
+         Type
+        </a>
+       </th>
+       <td>
+        Onshore
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Hub height
+       </th>
+       <td>
+        70 m (230 ft)
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color:#FFFFE6;">
+        Power generation
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        Units operational
+       </th>
+       <td>
+        20 X 1.65 MW
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Make and model
+       </th>
+       <td>
+        <a href="/wiki/Vestas" title="Vestas">
+         Vestas
+        </a>
+        : V82
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+         Nameplate capacity
+        </a>
+       </th>
+       <td>
+        33
+        <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">
+         MW
+        </a>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Bangui Wind Farm
+      </b>
+      is a
+      <a href="/wiki/Wind_farm" title="Wind farm">
+       wind farm
+      </a>
+      in
+      <a href="/wiki/Bangui,_Ilocos_Norte" title="Bangui, Ilocos Norte">
+       Bangui, Ilocos Norte
+      </a>
+      ,
+      <a href="/wiki/Philippines" title="Philippines">
+       Philippines
+      </a>
+      . The wind farm uses 20 units of 70-metre (230 ft) high
+      <a href="/wiki/Vestas" title="Vestas">
+       Vestas
+      </a>
+      V82 1.65 MW
+      <a href="/wiki/Wind_turbine" title="Wind turbine">
+       wind turbines
+      </a>
+      , arranged on a single row stretching along a nine-kilometer shoreline off Bangui Bay, facing the
+      <a href="/wiki/South_China_Sea" title="South China Sea">
+       West Philippine Sea
+      </a>
+      .
+     </p>
+     <p>
+      Phase I of the NorthWind power project in Bangui Bay consists of 15 wind turbines, each capable of producing electricity up to a maximum capacity of 1.65 MW, for a total of 24.75 MW. The 15 on-shore turbines are spaced 326 metres (1,070 ft) apart, each 70 metres (230 ft) high, with 41 metres (135 ft) long blades, with a rotor diameter of 82 metres (269 ft) and a wind swept area of 5,281 square metres (56,840 sq ft).
+     </p>
+     <p>
+      Phase II, was completed on August 2008, and added 5 more wind turbines with the same capacity, and brought the total capacity to 33 MW. All 20 turbines describes a graceful arc reflecting the shoreline of Bangui Bay, facing the West Philippine Sea.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Location">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Location
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#History">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Location">
+       Location
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit&amp;section=1" title="Edit section: Location">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Northwind Bangui Bay Project is located at the municipality of Bangui, Ilocos Norte, Philippines. Located at the north-west tip of
+      <a href="/wiki/Luzon" title="Luzon">
+       Luzon
+      </a>
+      island, the windmills face the sea from where the wind blows towards the land. Its location along the shore is optimal in removing windbreaks and has a terrain roughness of 0. The site is free of any trees and vegetation, and stretches approximately 9 kilometres (5.6 mi) long and 100 metres (330 ft) wide. The area is undeveloped and uninhabited making it ideal as a site and poses no threat to the environment.
+     </p>
+     <p>
+      The location of the Philippines being near the Asia-Pacific monsoon belt is ideal for installing wind turbines. The Philippine Atmospheric, Geophysical and Astronomical Services Administration attests that the Philippines has a mean average of about 31 watts per square meter (W/m2) of wind power density.
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit&amp;section=2" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In 1996, the National Renewable Energy Laboratory (NREL) conducted a wind resource analysis and mapping study. It concluded that various areas in the Philippines are ideal for wind power installation. These areas include Bangui and Burgos towns in Ilocos Norte, Batanes and Babuyan Islands, which are north of Luzon and the higher interior terrain of Mindoro, Samar, Leyte, Panay, Negros, Cebu, Palawan and Eastern Mindanao. The study led to the inception of the wind farm project. NorthWind Power Development Corp. developed (and maintains and operates) the project, while Vestas Wind Systems, a Danish firm, supplied the wind turbine-generator units (WTGs) for the site, similar to those already found in Denmark. The project was to have been developed in three phases.
+     </p>
+     <p>
+      Phase I of the project erected 15 wind turbines spaced 236 meters apart on-shore. This was inaugurated on June 18, 2005 and attended by Former First Lady Imelda Marcos, then Governor
+      <a href="/wiki/Bongbong_Marcos" title="Bongbong Marcos">
+       Bongbong Marcos
+      </a>
+      , Former DOE Secretary Vincent Perez, Undersecretary Peter Abaya and Dr. Robert Yap, Jesuit priest and Project Director of CD4CDM project of klima, who also conducted the invocation and blessing of the wind turbines.
+     </p>
+     <p>
+      Ratified by the NorthWind Power Development Corp and the International Bank for Reconstruction and Development through the World Bank Prototype Carbon Fund, the Northwind Bangui Bay Project was the first project in the Philippines to have the Emissions Reduction Purchase Agreement (ERPA) under the Clean Development Mechanism. The Bangui Bay Project is also the first Philippine recipient of the Carbon Emission Reduction Certificates (CER’s) from the Executive Board of the United Nations Framework Convention on Climate Change.
+     </p>
+     <p>
+      In 2006, the project produced a 5% discount of the weighted average price in the wholesale electricity spot market (WESM) or a generated savings of approximately USD1.4 million (PhP 70 million) for the INEC electricity consumers. The project cost for Phase I amounted to USD$23 million.
+     </p>
+     <p>
+      Phase II was completed in June 2008 adding 5 more wind turbines carrying the same capacity as those in Phase I and raising the total capacity to 33MW. All of these formed the arc of Bangui Bay, a fusion of technological and natural elegance. Phase II raises the project’s power contribution to Ilocos Norte from 40% to 50%. Phase III is expected to raise the total expenditure for the whole project to USD$54 million.
+     </p>
+     <p>
+      NorthWind Power Devt. Corp. has started the construction of Phase III of the project where 6 new wind turbines will be erected with a total of 18 MW installed capacity. Siemens' SWT 108 3.0 MW will be installed in phase 3, where each wind turbines have an installed capacity of 3 MW and a rotor diameter of 108 meters. The project is targeted to be completed in the middle of 2014.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Sustainable_energy" title="Sustainable energy">
+        Sustainable energy
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Wind_Energy_Power_System_(Philippines_Wind_Farm)" title="Wind Energy Power System (Philippines Wind Farm)">
+        Wind Energy Power System (Philippines Wind Farm)
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit&amp;section=4" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="image" href="/wiki/File:Commons-logo.svg">
+        <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/>
+       </a>
+       Media related to
+       <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Bangui_Wind_Farm" title="commons:Category:Bangui Wind Farm">
+        Bangui Wind Farm
+       </a>
+       at Wikimedia Commons
+      </li>
+      <li>
+       <a class="external free" href="http://www.northwindspower.com" rel="nofollow">
+        http://www.northwindspower.com
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Wind_farms_in_the_Philippines" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="4" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Wind_farms_in_the_Philippines" title="Template:Wind farms in the Philippines">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a class="new" href="/w/index.php?title=Template_talk:Wind_farms_in_the_Philippines&amp;action=edit&amp;redlink=1" title="Template talk:Wind farms in the Philippines (page does not exist)">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wind_farms_in_the_Philippines&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Wind_farms_in_the_Philippines" style="font-size:114%">
+          Wind farms in the Philippines
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-image" rowspan="1" style="width:0%;padding:0px 2px 0px 0px">
+         <div>
+          <a class="image" href="/wiki/File:BANGUI_WINDMILL,ILOCOS_NORTE_2.jpg">
+           <img alt="BANGUI WINDMILL,ILOCOS NORTE 2.jpg" data-file-height="3600" data-file-width="5400" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg/100px-BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg/150px-BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg/200px-BANGUI_WINDMILL%2CILOCOS_NORTE_2.jpg 2x" width="100"/>
+          </a>
+         </div>
+        </td>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <strong class="selflink">
+             Bangui
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Burgos_Wind_Farm" title="Burgos Wind Farm">
+             Burgos
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Caparispisan_Wind_Farm" title="Caparispisan Wind Farm">
+             Caparispisan
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Wind_Energy_Power_System_(Philippines_Wind_Farm)" title="Wind Energy Power System (Philippines Wind Farm)">
+             Mindoro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pililla_Wind_Farm" title="Pililla Wind Farm">
+             Pililla
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Flag_of_the_Philippines.svg">
+           <img alt="Flag of the Philippines.svg" data-file-height="450" data-file-width="900" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/120px-Flag_of_the_Philippines.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/180px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/240px-Flag_of_the_Philippines.svg.png 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:27363558-0!*!0!!en!4!* and timestamp 20161029043559 and revision id 732360348
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bangui_Wind_Farm&amp;oldid=732360348">
+      https://en.wikipedia.org/w/index.php?title=Bangui_Wind_Farm&amp;oldid=732360348
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Buildings_and_structures_in_Ilocos_Norte" title="Category:Buildings and structures in Ilocos Norte">
+         Buildings and structures in Ilocos Norte
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Visitor_attractions_in_Ilocos_Norte" title="Category:Visitor attractions in Ilocos Norte">
+         Visitor attractions in Ilocos Norte
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wind_farms_in_the_Philippines" title="Category:Wind farms in the Philippines">
+         Wind farms in the Philippines
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_sources_from_October_2013" title="Category:Articles lacking sources from October 2013">
+         Articles lacking sources from October 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">
+         All articles lacking sources
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">
+         Commons category with page title same as on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bangui+Wind+Farm" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Bangui+Wind+Farm" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Bangui_Wind_Farm" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Bangui_Wind_Farm" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Bangui_Wind_Farm">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Bangui_Wind_Farm&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Bangui_Wind_Farm&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Bangui_Wind_Farm" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Bangui_Wind_Farm" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Bangui_Wind_Farm&amp;oldid=732360348" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Bangui_Wind_Farm&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q4855634" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bangui_Wind_Farm&amp;id=732360348" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bangui+Wind+Farm">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bangui+Wind+Farm&amp;returnto=Bangui+Wind+Farm&amp;oldid=732360348&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Bangui_Wind_Farm&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Bangui_Wind_Farm" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q4855634#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 31 July 2016, at 12:45.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Bangui_Wind_Farm&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.200",
+            "walltime": "0.250",
+            "ppvisitednodes": {
+                "value": 1332,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 27865,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 718,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  211.436      1 -total",
+                " 59.35%  125.483      1 Template:Infobox_power_station",
+                " 52.82%  111.673      1 Template:Infobox",
+                " 24.83%   52.489      1 Template:Unref",
+                " 20.46%   43.268      9 Template:Convert",
+                " 15.24%   32.220      1 Template:Ambox",
+                " 13.33%   28.176      1 Template:Geobox_coor",
+                "  6.86%   14.504      1 Template:Location_map",
+                "  6.51%   13.757      1 Template:Commons_category-inline",
+                "  5.04%   10.648      1 Template:Sister-inline"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.100",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3170237,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1181",
+            "timestamp": "20161029043559",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1210"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2139 @@
+https://en.wikipedia.org/wiki/Base_load
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Base load - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Base_load","wgTitle":"Base load","wgCurRevisionId":746819673,"wgRevisionId":746819673,"wgArticleId":1867804,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2015","Articles with unsourced statements from November 2009","Articles with unsourced statements from June 2008","Articles lacking in-text citations from June 2009","All articles lacking in-text citations","Power station technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Base_load","wgRelevantArticleId":1867804,"wgRequestId":"WByqVgpAEKcAADLqiScAAABO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q360897","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Base_load" rel="alternate"/>
+  <link href="/w/index.php?title=Base_load&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Base_load&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Base_load" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Base_load rootpage-Base_load skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Base load
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      The
+      <b>
+       base load
+      </b>
+      on a grid is the minimum level of demand on an
+      <a href="/wiki/Electrical_grid" title="Electrical grid">
+       electrical grid
+      </a>
+      over 24 hours. Base load power sources are
+      <a href="/wiki/Power_station" title="Power station">
+       power stations
+      </a>
+      which can consistently generate the
+      <a class="mw-redirect" href="/wiki/Electrical_power" title="Electrical power">
+       electrical power
+      </a>
+      needed to satisfy this minimum demand.
+     </p>
+     <p>
+      Historically, large
+      <a class="mw-redirect" href="/wiki/Power_grid" title="Power grid">
+       power grids
+      </a>
+      have used base load power plants exclusively. However, there is no specific technical requirement for this to be so. The base load requirement can equally well be met by the appropriate mix of
+      <a class="mw-redirect" href="/wiki/Intermittent_power_source" title="Intermittent power source">
+       intermittent power sources
+      </a>
+      ,
+      <a href="/wiki/Peaking_power_plant" title="Peaking power plant">
+       peaking power plants
+      </a>
+      , hydroelectric power and other sources.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Description">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Description
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Economics">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Economics
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Base_load_power_plant_usage">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Base load power plant usage
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Description">
+       Description
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=1" title="Edit section: Description">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Taichung_Thermal_Power_Plant.JPG">
+        <img alt="" class="thumbimage" data-file-height="1173" data-file-width="1564" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taichung_Thermal_Power_Plant.JPG/220px-Taichung_Thermal_Power_Plant.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taichung_Thermal_Power_Plant.JPG/330px-Taichung_Thermal_Power_Plant.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taichung_Thermal_Power_Plant.JPG/440px-Taichung_Thermal_Power_Plant.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Taichung_Thermal_Power_Plant.JPG" title="Enlarge">
+         </a>
+        </div>
+        A base load power station in
+        <a href="/wiki/Taiwan" title="Taiwan">
+         Taiwan
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       Baseload plant
+      </b>
+      , (also
+      <b>
+       baseload power plant
+      </b>
+      or
+      <b>
+       base load power station
+      </b>
+      ) is an energy station devoted to the production of base load supply. Baseload plants are the production facilities used to meet some or all of a given region's continuous energy demand, and produce energy at a constant rate, usually at a low cost relative to other production facilities available to the system.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Examples of baseload plants using nonrenewable fuels include
+      <a href="/wiki/Nuclear_power" title="Nuclear power">
+       nuclear
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Coal-fired_power_station" title="Coal-fired power station">
+       coal-fired
+      </a>
+      plants. Baseload plants typically run at all times through the year except in the case of repairs or maintenance. These plants are often designed for relatively high efficiency, and may be
+      <a href="/wiki/Combined_cycle" title="Combined cycle">
+       combined cycle
+      </a>
+      plants, but may take several days to start up and shut down.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Each baseload power plant on a grid is allotted a specific amount of the baseload power demand to handle. The base load power is determined by the
+      <a href="/wiki/Load_duration_curve" title="Load duration curve">
+       load duration curve
+      </a>
+      of the system. For a typical power system, the rule of thumb is that the base load power is usually 35-40% of the maximum load during the year.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (March 2015)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      Peaks or spikes in customer power demand are frequently handled by smaller and more responsive, but perhaps somewhat less efficient types of power plants called
+      <a href="/wiki/Peaking_power_plant" title="Peaking power plant">
+       peaking power plants
+      </a>
+      , often powered with
+      <a class="mw-redirect" href="/wiki/Gas_turbine_power_plant" title="Gas turbine power plant">
+       gas turbines
+      </a>
+      .
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (November 2009)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      While historically large power grids have had base load power plant to exclusively meet the base load, there is no specific technical requirement for this to be so. The base load can equally well be met by the appropriate quantity of
+      <a class="mw-redirect" href="/wiki/Intermittent_power_source" title="Intermittent power source">
+       intermittent power sources
+      </a>
+      and peaking power plant.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Among the renewable energy sources,
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       hydroelectric
+      </a>
+      ,
+      <a href="/wiki/Geothermal_power" title="Geothermal power">
+       geothermal
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <a href="/wiki/Biogas" title="Biogas">
+       biogas
+      </a>
+      ,
+      <a href="/wiki/Biomass" title="Biomass">
+       biomass
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Solar_thermal#Heat_storage" title="Solar thermal">
+       solar thermal with storage
+      </a>
+      and
+      <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">
+       ocean thermal energy conversion
+      </a>
+      can provide base load power. A significant fraction of the average
+      <a href="/wiki/Wind_power" title="Wind power">
+       wind power
+      </a>
+      production is available with 95% or greater probability, and so may be used for baseload power.
+     </p>
+     <p>
+      Hydroelectric power also has the desirable attribute of
+      <a href="/wiki/Dispatchable_generation" title="Dispatchable generation">
+       dispatchability
+      </a>
+      , but conversely a hydroelectric plant may run low on its "fuel" (water at the reservoir elevation) if a long
+      <a href="/wiki/Drought" title="Drought">
+       drought
+      </a>
+      occurs over its
+      <a href="/wiki/Drainage_basin" title="Drainage basin">
+       drainage basin
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Economics">
+       Economics
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=2" title="Edit section: Economics">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Power plants are designated
+      <i>
+       baseload
+      </i>
+      based on their low cost generation, efficiency and safety at rated output power levels. Baseload power plants do not change production to match power consumption demands since it is more economical to operate them at constant production levels. Use of higher cost combined-cycle plants or combustion turbines is thus minimized, and these plants can be cycled up and down to match more rapid fluctuations in consumption. Baseload generators, such as nuclear and coal, often have very high
+      <a class="mw-redirect" href="/wiki/Fixed_costs" title="Fixed costs">
+       fixed costs
+      </a>
+      , high
+      <a class="mw-redirect" href="/wiki/Plant_load_factor" title="Plant load factor">
+       plant load factor
+      </a>
+      but very low
+      <a class="mw-redirect" href="/wiki/Marginal_costs" title="Marginal costs">
+       marginal costs
+      </a>
+      . On the other hand, peak load generators, such as
+      <a href="/wiki/Natural_gas" title="Natural gas">
+       natural gas
+      </a>
+      , have low fixed costs, low plant load factor and high marginal costs.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      Typically baseload plants are large and provide a majority of the power used by a
+      <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+       grid
+      </a>
+      . Thus, they are more effective when used continuously to cover the power baseload required by the grid.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Base_load_power_plant_usage">
+       Base load power plant usage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=3" title="Edit section: Base load power plant usage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <a href="/wiki/Nuclear_power" title="Nuclear power">
+       Nuclear
+      </a>
+      power plants may take many hours, if not days, to change their power output,
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      although modern stations, and those in
+      <a href="/wiki/Nuclear_power_in_France" title="Nuclear power in France">
+       France
+      </a>
+      , can and do operate as
+      <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+       load following power plants
+      </a>
+      and alter their output to meet varying demands.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      Because they require a long period of time to heat up to
+      <a href="/wiki/Operating_temperature" title="Operating temperature">
+       operating temperature
+      </a>
+      , these plants typically handle large amounts of baseload demand. Different plants and technologies may have differing capacities to increase or decrease output on demand: nuclear plants are generally run at close to maximum output continuously (apart from maintenance,
+      <a href="/wiki/Nuclear_fuel" title="Nuclear fuel">
+       refueling
+      </a>
+      and periodic refurbishment), while coal-fired plants may be cycled over the course of a day to meet demand.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (June 2008)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      Plants with multiple generating units may be used as a group to improve the "fit" with demand, by operating each unit as close to peak
+      <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">
+       efficiency
+      </a>
+      as possible.
+     </p>
+     <p>
+      According to
+      <a href="/wiki/National_Grid_plc" title="National Grid plc">
+       National Grid plc
+      </a>
+      <a href="/wiki/Chief_executive_officer" title="Chief executive officer">
+       chief executive officer
+      </a>
+      <a href="/wiki/Steve_Holliday" title="Steve Holliday">
+       Steve Holliday
+      </a>
+      in 2015, baseload is "outdated", as microgrids would become the primary means of production, and large powerplants relegated to supply the remainder.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In 2016,
+      <a href="/wiki/Ambrose_Evans-Pritchard" title="Ambrose Evans-Pritchard">
+       Ambrose Evans-Pritchard
+      </a>
+      of the
+      <a class="mw-redirect" href="/wiki/Daily_Telegraph" title="Daily Telegraph">
+       Daily Telegraph
+      </a>
+      wrote that, with advances in energy storage, 'there ceases to be much point in building costly "
+      <a class="mw-redirect" href="/wiki/Baseload" title="Baseload">
+       baseload
+      </a>
+      " power plants' and goes on to argue 'Nuclear reactors cannot be switched on and off as need demands - unlike gas plants. They are useless as a back-up for the decentralized grid of the future, when wind, solar, hydro, and other renewables will dominate the power supply'.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Capacity_factor" title="Capacity factor">
+        Capacity factor
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_demand_management" title="Energy demand management">
+        Energy demand management
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Grid_energy_storage" title="Grid energy storage">
+        Grid energy storage
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Load_balancing_(electrical_power)" title="Load balancing (electrical power)">
+        Load balancing (electrical power)
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Smart_grid" title="Smart grid">
+        Smart grid
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+        Load following power plant
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peaking_power_plant" title="Peaking power plant">
+        Peaking power plant
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article includes a
+         <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+          list of references
+         </a>
+         , but
+         <b>
+          its sources remain unclear
+         </b>
+         because it has
+         <b>
+          insufficient
+          <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+           inline citations
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help to
+          <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+           improve
+          </a>
+          this article by
+          <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+           introducing
+          </a>
+          more precise citations.
+         </span>
+         <small>
+          <i>
+           (June 2009)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.energyvortex.com/energydictionary/baseload_plant.html" rel="nofollow">
+           "Energy Dictionary - Baseload plant"
+          </a>
+          . EnergyVortex.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-08-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABase+load&amp;rft.btitle=Energy+Dictionary+-+Baseload+plant&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energyvortex.com%2Fenergydictionary%2Fbaseload_plant.html&amp;rft.pub=EnergyVortex.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.zdnet.com/article/why-baseload-power-is-doomed/" rel="nofollow">
+          ZDNet Why baseload power is doomed
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         pubs.pembina.org/reports/TheBasicsOnBaseload.pdf
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.stanford.edu/group/efmh/winds/aj07_jamc.pdf" rel="nofollow">
+          http://www.stanford.edu/group/efmh/winds/aj07_jamc.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.renewableenergyworld.com/articles/2007/10/scaling-geothermal-for-reliable-baseload-power-50159.html" rel="nofollow">
+           "Scaling Geothermal for Reliable Baseload Power"
+          </a>
+          . renewableenergyworld.com. 2007-10-05
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-08-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABase+load&amp;rft.btitle=Scaling+Geothermal+for+Reliable+Baseload+Power&amp;rft.date=2007-10-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.renewableenergyworld.com%2Farticles%2F2007%2F10%2Fscaling-geothermal-for-reliable-baseload-power-50159.html&amp;rft.pub=renewableenergyworld.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Ronald J. Daniels (1996).
+          <a class="external text" href="https://books.google.com/books?id=aF7lWf14H2EC&amp;pg=PA77&amp;lpg=PA77&amp;dq=hydro+base+load&amp;source=web&amp;ots=qAfGeztoow&amp;sig=9ZbHwDwDOUmzcBhXyZdmp7SU3bw&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result" rel="nofollow">
+           <i>
+            Ontario Hydro at the Millennium: Has Monopoly's Moment Passed?
+           </i>
+          </a>
+          . Montreal and Kingston: McGill-Queen's University Press
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-08-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABase+load&amp;rft.au=Ronald+J.+Daniels&amp;rft.btitle=Ontario+Hydro+at+the+Millennium%3A+Has+Monopoly%27s+Moment+Passed%3F&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DaF7lWf14H2EC%26pg%3DPA77%26lpg%3DPA77%26dq%3Dhydro%2Bbase%2Bload%26source%3Dweb%26ots%3DqAfGeztoow%26sig%3D9ZbHwDwDOUmzcBhXyZdmp7SU3bw%26hl%3Den%26sa%3DX%26oi%3Dbook_result%26resnum%3D3%26ct%3Dresult&amp;rft.pub=Montreal+and+Kingston%3A+McGill-Queen%27s+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.rmi.org/Knowledge-Center/Library/2009-09_FourNuclearMyths" rel="nofollow">
+          http://www.rmi.org/Knowledge-Center/Library/2009-09_FourNuclearMyths
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Nuclear Development, June 2011, page 10 from
+         <a class="external free" href="http://www.oecd-nea.org/" rel="nofollow">
+          http://www.oecd-nea.org/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Karel Beckman (11 September 2015).
+          <a class="external text" href="http://www.energypost.eu/interview-steve-holliday-ceo-national-grid-idea-large-power-stations-baseload-power-outdated/" rel="nofollow">
+           "Steve Holliday CEO National Grid: baseload is outdated"
+          </a>
+          .
+          <i>
+           EnergyPost.eu
+          </i>
+          .
+          <a class="external text" href="https://web.archive.org/web/20160910134728/http://www.energypost.eu/interview-steve-holliday-ceo-national-grid-idea-large-power-stations-baseload-power-outdated/" rel="nofollow">
+           Archived
+          </a>
+          from the original on 10 September 2016
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            6 October
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABase+load&amp;rft.atitle=Steve+Holliday+CEO+National+Grid%3A+baseload+is+outdated&amp;rft.au=Karel+Beckman&amp;rft.date=2015-09-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energypost.eu%2Finterview-steve-holliday-ceo-national-grid-idea-large-power-stations-baseload-power-outdated%2F&amp;rft.jtitle=EnergyPost.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Evans-Pritchard, Ambrose (10 August 2016).
+          <a class="external text" href="http://www.telegraph.co.uk/business/2016/08/10/holy-grail-of-energy-policy-in-sight-as-battery-technology-smash/" rel="nofollow">
+           "Holy Grail of energy policy in sight as battery technology smashes the old order"
+          </a>
+          .
+          <i>
+           The Telegraph
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABase+load&amp;rft.atitle=Holy+Grail+of+energy+policy+in+sight+as+battery+technology+smashes+the+old+order&amp;rft.aufirst=Ambrose&amp;rft.aulast=Evans-Pritchard&amp;rft.date=2016-08-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fbusiness%2F2016%2F08%2F10%2Fholy-grail-of-energy-policy-in-sight-as-battery-technology-smash%2F&amp;rft.jtitle=The+Telegraph&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Base_load&amp;action=edit&amp;section=6" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="https://web.archive.org/web/20050217095327/http://cipco.apogee.net:80/foe/fgdlbl.asp" rel="nofollow">
+        Base Load Power Plants - Fundamentals of Electricity
+       </a>
+       - Broken
+      </li>
+      <li>
+       <a class="external text" href="https://web.archive.org/web/20110519095631/http://energyalmanac.ca.gov:80/electricity/levelized_costs.html" rel="nofollow">
+        Levelized Costs of Electricity Production by Technology
+       </a>
+       - Broken
+      </li>
+      <li>
+       <a class="external text" href="http://www.asktheenergydoctor.com/images/X7-Capacity.doc" rel="nofollow">
+        The Energy Resources and Economics Workbook (.doc)
+       </a>
+       - Broken
+      </li>
+     </ul>
+     <div aria-labelledby="Electricity_delivery" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Electricity_delivery" style="font-size:114%">
+          <a href="/wiki/Electricity_delivery" title="Electricity delivery">
+           Electricity delivery
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Availability_factor" title="Availability factor">
+             Availability factor
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Base load
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Black_start" title="Black start">
+             Black start
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Capacity_factor" title="Capacity factor">
+             Capacity factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_factor" title="Demand factor">
+             Demand factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_demand_management" title="Energy demand management">
+             Demand management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">
+             Fault
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grid_energy_storage" title="Grid energy storage">
+             Grid storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+             Intermittency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">
+             Load factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+             Load following
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+             Nameplate capacity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_demand" title="Peak demand">
+             Peak demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_quality" title="Electric power quality">
+             Power quality
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power-flow_study" title="Power-flow study">
+             Power-flow study
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Repowering" title="Repowering">
+             Repowering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">
+             Variability
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Sources
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a class="mw-redirect" href="/wiki/Non-renewable_energy" title="Non-renewable energy">
+              Nonrenewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Coal" title="Coal">
+                Coal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">
+                Fossil-fuel power station
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Natural_gas" title="Natural gas">
+                Natural gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Petroleum" title="Petroleum">
+                Petroleum
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power" title="Nuclear power">
+                Nuclear
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oil_shale" title="Oil shale">
+                Oil shale
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Renewable_energy" title="Renewable energy">
+              Renewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Biomass" title="Biomass">
+                Biomass
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Biofuel" title="Biofuel">
+                Biofuel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Geothermal_power" title="Geothermal power">
+                Geothermal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+                Hydro
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Marine_energy" title="Marine energy">
+                Marine
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Marine_current_power" title="Marine current power">
+                  Current
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Osmotic_power" title="Osmotic power">
+                  Osmotic
+                 </a>
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/Ocean_thermal_energy" title="Ocean thermal energy">
+                  Thermal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Tidal_power" title="Tidal power">
+                  Tidal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Wave_power" title="Wave power">
+                  Wave
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Solar_power" title="Solar power">
+                Solar
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power" title="Wind power">
+                Wind
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+          Generation
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/AC_power" title="AC power">
+             AC power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cogeneration" title="Cogeneration">
+             Cogeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Combined_cycle" title="Combined cycle">
+             Combined cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooling_tower" title="Cooling tower">
+             Cooling tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induction_generator" title="Induction generator">
+             Induction generator
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">
+             Micro CHP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Microgeneration" title="Microgeneration">
+             Microgeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rankine_cycle" title="Rankine cycle">
+             Rankine cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">
+             Three-phase electric power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Virtual_power_plant" title="Virtual power plant">
+             Virtual power plant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+           Transmission
+          </a>
+          <br/>
+          and
+          <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+           distribution
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Power_outage" title="Power outage">
+             Blackout
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Rolling_blackout" title="Rolling blackout">
+             Rolling blackout
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">
+             Brownout
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_response" title="Demand response">
+             Demand response
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Distributed_generation" title="Distributed generation">
+             Distributed generation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">
+             Dynamic demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+             Electric power distribution
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_system" title="Electric power system">
+             Electric power system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+             Electric power transmission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_grid" title="Electrical grid">
+             Electrical grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">
+             High-voltage direct current
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_management" title="Load management">
+             Load management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+             Pumped hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power_station" title="Power station">
+             Power station
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Power_storage" title="Power storage">
+             Power storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Smart_grid" title="Smart grid">
+             Smart grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_substation" title="Electrical substation">
+             Substation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Super_grid" title="Super grid">
+             Super grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transformer" title="Transformer">
+             Transformer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transmission_system_operator" title="Transmission system operator">
+             Transmission system operator
+            </a>
+            (TSO)
+           </li>
+           <li>
+            <a href="/wiki/Transmission_tower" title="Transmission tower">
+             Transmission tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Utility_pole" title="Utility pole">
+             Utility pole
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Protective
+          <br/>
+          devices
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">
+             Arc-fault_circuit_interrupter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">
+             Earth leakage circuit breaker
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Residual-current_device" title="Residual-current device">
+             Residual-current device
+            </a>
+            (GFI)
+           </li>
+           <li>
+            <a href="/wiki/Power-system_protection" title="Power-system protection">
+             Power-system protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Protective_relay" title="Protective relay">
+             Protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Digital_protective_relay" title="Digital protective relay">
+             Digital protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">
+             Sulfur hexafluoride circuit breaker
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Economics
+          <br/>
+          and policies
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_offset" title="Carbon offset">
+             Carbon offset
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">
+             Cost of electricity by source
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecotax" title="Ecotax">
+             Ecotax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_subsidies" title="Energy subsidies">
+             Energy subsidies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">
+             Feed-in tariff
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Net_metering" title="Net metering">
+             Net metering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pigovian_tax" title="Pigovian tax">
+             Pigovian tax
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_Energy_Certificates" title="Renewable Energy Certificates">
+             Renewable Energy Certificates
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_payments" title="Renewable energy payments">
+             Renewable energy payments
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_policy" title="Renewable energy policy">
+             Renewable energy policy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spark_spread" title="Spark spread">
+             Spark spread
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <dl>
+           <dt>
+            Categories
+           </dt>
+           <dd>
+            <a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">
+             Electric power distribution
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">
+             Electricity economics
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+             Power station technology
+            </a>
+           </dd>
+           <dt>
+            Portals
+           </dt>
+           <dd>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </dd>
+          </dl>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1867804-0!*!0!!en!4!* and timestamp 20161104153018 and revision id 746819673
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Base_load&amp;oldid=746819673">
+      https://en.wikipedia.org/w/index.php?title=Base_load&amp;oldid=746819673
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+         Power station technology
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">
+         Articles with unsourced statements from March 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2009" title="Category:Articles with unsourced statements from November 2009">
+         Articles with unsourced statements from November 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2008" title="Category:Articles with unsourced statements from June 2008">
+         Articles with unsourced statements from June 2008
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_June_2009" title="Category:Articles lacking in-text citations from June 2009">
+         Articles lacking in-text citations from June 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Base+load" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Base+load" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Base_load" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Base_load" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Base_load">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Base_load&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Base_load&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Base_load" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Base_load" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Base_load&amp;oldid=746819673" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Base_load&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q360897" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Base_load&amp;id=746819673" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Base+load">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Base+load&amp;returnto=Base+load&amp;oldid=746819673&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Base_load&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B7%D8%A9_%D8%AD%D9%85%D9%84_%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A" hreflang="ar" lang="ar" title="محطة حمل أساسي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Grundlast" hreflang="de" lang="de" title="Grundlast – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87_%D8%A8%D8%A7%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87" hreflang="fa" lang="fa" title="نیروگاه بار پایه – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Basislastcentrale" hreflang="nl" lang="nl" title="Basislastcentrale – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E7%99%BA%E9%9B%BB%E6%89%80" hreflang="ja" lang="ja" title="ベースロード発電所 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Base_load_power_plant" hreflang="simple" lang="simple" title="Base load power plant – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E8%B2%A0%E8%BC%89%E7%99%BC%E9%9B%BB%E5%BB%A0" hreflang="zh" lang="zh" title="基本負載發電廠 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q360897#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 29 October 2016, at 19:28.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Base_load&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.224",
+            "walltime": "0.284",
+            "ppvisitednodes": {
+                "value": 1267,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 44795,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 2167,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  229.623      1 -total",
+                " 32.43%   74.472      3 Template:Fix",
+                " 30.61%   70.297      1 Template:Reflist",
+                " 26.81%   61.569      1 Template:Cn",
+                " 19.54%   44.862      3 Template:Cite_web",
+                " 16.47%   37.818      6 Template:Category_handler",
+                " 15.08%   34.635      2 Template:Citation_needed",
+                " 14.16%   32.521      3 Template:Delink",
+                " 12.35%   28.369      2 Template:Navbox",
+                " 11.38%   26.140      1 Template:Electricity_generation"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.105",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3180582,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1212",
+            "timestamp": "20161104153018",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1212"});});
+  </script>
+ </body>
+</html>

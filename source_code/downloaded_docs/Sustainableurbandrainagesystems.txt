@@ -1,0 +1,1217 @@
+https://en.wikipedia.org/wiki/Sustainable_urban_drainage_systems
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Sustainable drainage system - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sustainable_drainage_system","wgTitle":"Sustainable drainage system","wgCurRevisionId":725717849,"wgRevisionId":725717849,"wgArticleId":5284787,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Drainage","Environmental engineering","Hydrology and urban planning","Sustainability","Sustainable environmental design","Waste treatment technology","Water pollution"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sustainable_drainage_system","wgRelevantArticleId":5284787,"wgRequestId":"WBwm8QpAMFQAAIH4e5QAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sustainable_urban_drainage_systems","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Sustainable_drainage_system","wgWikibaseItemId":"Q2897115","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sustainable_drainage_system" rel="alternate"/>
+  <link href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Sustainable_drainage_system" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sustainable_drainage_system rootpage-Sustainable_drainage_system skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Sustainable drainage system
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Sustainable_urban_drainage_systems&amp;redirect=no" title="Sustainable urban drainage systems">
+       Sustainable urban drainage systems
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg">
+        <img alt="" class="thumbimage" data-file-height="427" data-file-width="640" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg/220px-Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg/330px-Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg/440px-Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Suds_pond_at_Cromar_Drive_-_geograph.org.uk_-_1756832.jpg" title="Enlarge">
+         </a>
+        </div>
+        Suds pond with reed-bed near housing, Dunfermline,
+        <a href="/wiki/Scotland" title="Scotland">
+         Scotland
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <b>
+       sustainable drainage system
+      </b>
+      (SuDs,
+      <sup class="reference" id="cite_ref-sharma_2008_1-0">
+       <a href="#cite_note-sharma_2008-1">
+        [1]
+       </a>
+      </sup>
+      SuDS, SUDS
+      <sup class="reference" id="cite_ref-ciria_2-0">
+       <a href="#cite_note-ciria-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-scotland.gov.uk_3-0">
+       <a href="#cite_note-scotland.gov.uk-3">
+        [3]
+       </a>
+      </sup>
+      ) is designed to reduce the potential impact of new and existing developments with respect to surface water drainage discharges. The term
+      <b>
+       sustainable urban drainage system
+      </b>
+      <sup class="reference" id="cite_ref-sharma_2008_1-1">
+       <a href="#cite_note-sharma_2008-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-4ni_2002_4-0">
+       <a href="#cite_note-4ni_2002-4">
+        [4]
+       </a>
+      </sup>
+      is not the accepted name, the 'Urban' reference having been removed so as to accommodate rural sustainable water management practices.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Background">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Background
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#History">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#External_links">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Background">
+       Background
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit&amp;section=1" title="Edit section: Background">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Increasing urbanization has caused problems with increased flash flooding after sudden rain. As areas of vegetation are replaced by concrete, asphalt, or roofed structures, the area loses its ability to absorb rainwater. This rain is instead directed into surface water drainage systems, often overloading them and causing floods.
+     </p>
+     <p>
+      The idea behind SuDS is to try to replicate natural systems that use cost effective solutions with low environmental impact to drain away dirty and
+      <a href="/wiki/Surface_water" title="Surface water">
+       surface water
+      </a>
+      run-off through collection, storage, and cleaning before allowing it to be released slowly back into the environment, such as into water courses. This is to counter the effects of conventional drainage systems that often allow for flooding, pollution of the environment – with the resultant harm to wildlife – and contamination of
+      <a href="/wiki/Groundwater" title="Groundwater">
+       groundwater
+      </a>
+      sources used to provide drinking water. The paradigm of SuDS solutions should be that of a system that is easy to manage, requiring little or no energy input (except from environmental sources such as sunlight, etc.), resilient to use, and being environmentally as well as aesthetically attractive. Examples of this type of system are basins (shallow landscape depressions that are dry most of the time when it's not raining), rain-gardens (shallow landscape depressions with shrub or herbaceous planting), swales (shallow normally-dry, wide-based ditches), filter drains (gravel filled trench drain), bioretention basins (shallow depressions with gravel and/or sand filtration layers beneath the growing medium), reed beds and other
+      <a href="/wiki/Wetland" title="Wetland">
+       wetland
+      </a>
+      habitats that collect, store, and filter dirty water along with providing a habitat for wildlife.
+     </p>
+     <p>
+      Originally the term SUDS described the UK approach to sustainable urban drainage systems. These developments may not necessarily be in "urban" areas, and thus the "urban" part of SuDS is now usually dropped to reduce confusion. Other countries have similar approaches in place using a different terminology such as
+      <b>
+       <a href="/wiki/Best_management_practice_for_water_pollution" title="Best management practice for water pollution">
+        best management practice
+       </a>
+      </b>
+      (BMP) and
+      <b>
+       <a class="mw-redirect" href="/wiki/Low-impact_development_(Canada/US)" title="Low-impact development (Canada/US)">
+        low-impact development
+       </a>
+      </b>
+      in the United States,
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      and
+      <a href="/wiki/Water-sensitive_urban_design" title="Water-sensitive urban design">
+       water-sensitive urban design
+      </a>
+      in Australia .
+     </p>
+     <p>
+      SuDS use the following techniques:
+     </p>
+     <ul>
+      <li>
+       source control
+      </li>
+      <li>
+       <a href="/wiki/Permeable_paving" title="Permeable paving">
+        permeable paving
+       </a>
+       such as
+       <a href="/wiki/Pervious_concrete" title="Pervious concrete">
+        pervious concrete
+       </a>
+      </li>
+      <li>
+       storm water
+       <a href="/wiki/Detention_basin" title="Detention basin">
+        detention
+       </a>
+      </li>
+      <li>
+       storm water
+       <a href="/wiki/Infiltration_(hydrology)" title="Infiltration (hydrology)">
+        infiltration
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Transpiration" title="Transpiration">
+        evapo-transpiration
+       </a>
+       (e.g. from a
+       <a href="/wiki/Green_roof" title="Green roof">
+        green roof
+       </a>
+       )
+      </li>
+     </ul>
+     <p>
+      A common misconception of SuDS systems is that they reduce flooding on the development site. In fact the SUDS system is designed to reduce the impact that the surface water drainage system of one site has on other sites. For instance, sewer flooding is a problem in many places. Paving or building over land can result in flash flooding. This happens when flows entering a sewer exceed its capacity and it overflows. The SuDS system aims to minimise or eliminate discharges from the site, thus reducing the impact, the idea being that if all development sites incorporated SuDS then urban sewer flooding would be less of a problem. Unlike traditional urban
+      <a href="/wiki/Stormwater" title="Stormwater">
+       stormwater
+      </a>
+      drainage systems, SuDS can also help to protect and enhance ground water quality.
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit&amp;section=2" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The first sustainable drainage system to utilise a full management train including source control in the UK was
+      <a href="/wiki/Oxford_services" title="Oxford services">
+       Oxford services
+      </a>
+      designed by Robert Bray Associates, specialist SuDS consultants.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Detention_basin" title="Detention basin">
+        Detention basin
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect mw-disambig" href="/wiki/Drainage_system_(disambiguation)" title="Drainage system (disambiguation)">
+        Drainage system (disambiguation)
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/French_drain" title="French drain">
+        French drain
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Rain_garden" title="Rain garden">
+        Rain garden
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Resin-bound_paving" title="Resin-bound paving">
+        Resin-bound paving
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Retention_basin" title="Retention basin">
+        Retention basin
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Stream_restoration" title="Stream restoration">
+        Stream restoration
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Sustainable_city" title="Sustainable city">
+        Sustainable city
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Urban_runoff" title="Urban runoff">
+        Urban runoff
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.hydrol-earth-syst-sci.net/17/4339/2013/hess-17-4339-2013.pdf" rel="nofollow">
+        Urban drainage
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit&amp;section=4" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-sharma_2008-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-sharma_2008_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sharma_2008_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://web.sbe.hw.ac.uk/staffprofiles/bdgsa/11th_International_Conference_on_Urban_Drainage_CD/ICUD08/pdfs/753.pdf" rel="nofollow">
+          Sustainable Drainage System (SuDs) for Stormwater Management: A Technological and Policy Intervention to Combat Diffuse Pollution
+         </a>
+         , Sharma, D., 2008
+        </span>
+       </li>
+       <li id="cite_note-ciria-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ciria_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.ciria.org/suds/" rel="nofollow">
+           "CIRIA guide to SUDS"
+          </a>
+          . Ciria.org
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-01-21
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASustainable+drainage+system&amp;rft.btitle=CIRIA+guide+to+SUDS&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ciria.org%2Fsuds%2F&amp;rft.pub=Ciria.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-scotland.gov.uk-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-scotland.gov.uk_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Scottish Government. Planning Services (2001).
+         <a class="external text" href="http://www.scotland.gov.uk/Publications/2001/07/pan61" rel="nofollow">
+          "Planning and Sustainable Urban Drainage Systems."
+         </a>
+         Planning Advice Note 61. 2001-07-27.
+        </span>
+       </li>
+       <li id="cite_note-4ni_2002-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4ni_2002_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.4ni.co.uk/northern_ireland_news.asp?id=6856" rel="nofollow">
+          Environmental investment may help local economy, 22 October 2002
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ciria.org/service/AM/ContentManagerNet/Search/SearchRedirect.aspx?Section=Search1&amp;content=newsletters1&amp;template=/contentmanagernet/contentdisplay.aspx&amp;contentfileid=3465" rel="nofollow">
+          CIRIA Publication, 'evolution'
+         </a>
+         May 2010
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ciria.org/service/AM/ContentManagerNet/Search/SearchRedirect.aspx?Section=Search1&amp;template=/ContentManagerNet/MembersOnly.aspx&amp;ContentID=12339" rel="nofollow">
+          CIRIA SuDS Manual
+         </a>
+         (Document reference : CIRIA C697), 2007
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.susdrain.org/about.html" rel="nofollow">
+          Susdrain
+         </a>
+         - CIRIA's Sustainable Drainage Website.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         U.S. Environmental Protection Agency. Washington, DC (2006).
+         <a class="external text" href="http://cfpub.epa.gov/npdes/stormwater/menuofbmps/index.cfm?action=factsheet_results&amp;view=specific&amp;bmp=124" rel="nofollow">
+          "Fact Sheet: Low Impact Development and Other Green Design Strategies."
+         </a>
+         2006-06-01.
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         CIRIA
+         <a class="external text" href="http://www.susdrain.org/case-studies/case_studies/welcome_break_wheatley.html" rel="nofollow">
+          Oxford Motorway Services Case Study
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <p>
+      10. Variability of drainage and solute leaching in heterogeneous urban vegetation environs
+      <a class="external free" href="http://www.hydrol-earth-syst-sci.net/17/4339/2013/hess-17-4339-2013.pdf" rel="nofollow">
+       http://www.hydrol-earth-syst-sci.net/17/4339/2013/hess-17-4339-2013.pdf
+      </a>
+     </p>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit&amp;section=5" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <b>
+       UK
+      </b>
+     </p>
+     <ul>
+      <li>
+       <a class="external free" href="http://www.susdrain.org" rel="nofollow">
+        http://www.susdrain.org
+       </a>
+       - Free interactive community supporting the delivery of sustainable drainage (managed by CIRIA)
+      </li>
+      <li>
+       <a class="external text" href="http://www.paving.org.uk/permeable.php" rel="nofollow">
+        Interpave – The UK's precast concrete paving and kerb association
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.bgs.ac.uk/suds/" rel="nofollow">
+        SUDS solutions from the British Geological Survey
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.engineeringnaturesway.co.uk" rel="nofollow">
+        Engineering Natures Way - a dedicated resource for people working with Sustainable Drainage Systems (SUDS) and flood risk management in the UK
+       </a>
+      </li>
+     </ul>
+     <p>
+      <b>
+       International
+      </b>
+     </p>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.urban-drainage.com/" rel="nofollow">
+        Urban Drainage Engineering Royal Haskoning
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.bmpdatabase.org/" rel="nofollow">
+        International Best Management Practices Database
+       </a>
+       – Detailed data sets &amp; summaries on performance of Urban BMPs
+      </li>
+      <li>
+       <a class="external text" href="http://www.stormwater.asn.au/" rel="nofollow">
+        Stormwater Industry Association of Australia
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.portlandonline.com/bes/index.cfm?c=34598" rel="nofollow">
+        Portland Guide to Sustainable Stormwater
+       </a>
+       – City of Portland, Oregon
+      </li>
+      <li>
+       <a class="external text" href="http://cfpub.epa.gov/npdes/stormwater/menuofbmps/" rel="nofollow">
+        National Menu of Stormwater BMPs
+       </a>
+       – U.S. Environmental Protection Agency
+      </li>
+      <li>
+       <a class="external text" href="http://www.perviousblog.com/" rel="nofollow">
+        Pervious Concrete Blog
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:5284787-0!*!0!!en!4!* and timestamp 20161016175441 and revision id 725717849
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainable_drainage_system&amp;oldid=725717849">
+      https://en.wikipedia.org/w/index.php?title=Sustainable_drainage_system&amp;oldid=725717849
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Drainage" title="Category:Drainage">
+         Drainage
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Environmental_engineering" title="Category:Environmental engineering">
+         Environmental engineering
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Hydrology_and_urban_planning" title="Category:Hydrology and urban planning">
+         Hydrology and urban planning
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainability" title="Category:Sustainability">
+         Sustainability
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_environmental_design" title="Category:Sustainable environmental design">
+         Sustainable environmental design
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Waste_treatment_technology" title="Category:Waste treatment technology">
+         Waste treatment technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_pollution" title="Category:Water pollution">
+         Water pollution
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sustainable+drainage+system" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sustainable+drainage+system" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Sustainable_drainage_system" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Sustainable_drainage_system" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Sustainable_drainage_system">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Sustainable_drainage_system&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Sustainable_drainage_system&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Sustainable_drainage_system" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sustainable_drainage_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Sustainable_drainage_system&amp;oldid=725717849" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Sustainable_drainage_system&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2897115" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sustainable_drainage_system&amp;id=725717849" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sustainable+drainage+system">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sustainable+drainage+system&amp;returnto=Sustainable+drainage+system&amp;oldid=725717849&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Sustainable_drainage_system&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Techniques_alternatives_pour_la_gestion_des_eaux_de_ruissellement_urbain" hreflang="fr" lang="fr" title="Techniques alternatives pour la gestion des eaux de ruissellement urbain – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%A8%D7%92%D7%99%D7%A9_%D7%9C%D7%9E%D7%99%D7%9D" hreflang="he" lang="he" title="תכנון רגיש למים – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt badge-Q17437798 badge-goodarticle" title="good article">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sistemas_alternativos_de_drenagem" hreflang="pt" lang="pt" title="Sistemas alternativos de drenagem – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2897115#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 17 June 2016, at 12:09.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sustainable_drainage_system&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.052",
+            "walltime": "0.072",
+            "ppvisitednodes": {
+                "value": 199,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 1708,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 32,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   47.223      1 Template:Reflist",
+                "100.00%   47.223      1 -total",
+                " 80.12%   37.836      1 Template:Cite_web",
+                "  2.47%    1.168      1 Template:Column-width"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.014",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1287190,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1258",
+            "timestamp": "20161016175441",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1249"});});
+  </script>
+ </body>
+</html>

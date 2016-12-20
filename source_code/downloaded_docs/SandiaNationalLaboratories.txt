@@ -1,0 +1,4237 @@
+https://en.wikipedia.org/wiki/Sandia_National_Laboratories
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Sandia National Laboratories - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sandia_National_Laboratories","wgTitle":"Sandia National Laboratories","wgCurRevisionId":744095214,"wgRevisionId":744095214,"wgArticleId":155558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with NLA identifiers","Economy of Albuquerque, New Mexico","Nuclear weapons infrastructure of the United States","United States Department of Energy national laboratories","Laboratories in the United States","Supercomputer sites","Weapons manufacturing companies","Lockheed Martin","Livermore, California","Military research of the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sandia_National_Laboratories","wgRelevantArticleId":155558,"wgRequestId":"WB0VJwpAAEMAAj4Mp0kAAAET","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":35.050657,"lon":-106.543136},"wgWikibaseItemId":"Q1736748","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sandia_National_Laboratories" rel="alternate"/>
+  <link href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Sandia_National_Laboratories" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sandia_National_Laboratories rootpage-Sandia_National_Laboratories skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Sandia National Laboratories
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Sandia National Laboratories
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Sandia_National_Laboratories_logo.svg">
+         <img alt="Sandia National Laboratories logo.svg" data-file-height="88" data-file-width="220" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sandia_National_Laboratories_logo.svg/220px-Sandia_National_Laboratories_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sandia_National_Laboratories_logo.svg/330px-Sandia_National_Laboratories_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sandia_National_Laboratories_logo.svg/440px-Sandia_National_Laboratories_logo.svg.png 2x" width="220"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Established
+       </th>
+       <td>
+        1948
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Research type
+       </th>
+       <td class="category">
+        National security, nuclear science
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Budget
+       </th>
+       <td>
+        <a href="/wiki/United_States_dollar" title="United States dollar">
+         US$
+        </a>
+        2.4 billion
+        <sup class="reference" id="cite_ref-1">
+         <a href="#cite_note-1">
+          [1]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Director
+       </th>
+       <td class="agent">
+        Jill M. Hruby
+        <sup class="reference" id="cite_ref-2">
+         <a href="#cite_note-2">
+          [2]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Staff
+       </th>
+       <td>
+        8,400
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Location
+       </th>
+       <td>
+        <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">
+         Albuquerque, New Mexico
+        </a>
+        ;
+        <a href="/wiki/Livermore,_California" title="Livermore, California">
+         Livermore, California
+        </a>
+        .
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Campus
+       </th>
+       <td>
+        8,699 acres (35.20 km
+        <sup>
+         2
+        </sup>
+        )
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Operating agency
+        </div>
+       </th>
+       <td>
+        Sandia Corporation, a
+        <a href="/wiki/Lockheed_Martin" title="Lockheed Martin">
+         Lockheed Martin
+        </a>
+        company
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.65em;">
+        Website
+       </th>
+       <td>
+        <a class="external text" href="http://www.sandia.gov/" rel="nofollow">
+         www.sandia.gov
+        </a>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Sandia National Laboratories
+      </b>
+      , managed and operated by the Sandia Corporation (a wholly owned subsidiary of
+      <a href="/wiki/Lockheed_Martin" title="Lockheed Martin">
+       Lockheed Martin
+      </a>
+      ), are two major
+      <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+       United States Department of Energy
+      </a>
+      research and development
+      <a class="mw-redirect" href="/wiki/United_States_Department_of_Energy_National_Laboratories" title="United States Department of Energy National Laboratories">
+       national laboratories
+      </a>
+      .
+     </p>
+     <p>
+      Their primary mission is to develop, engineer, and test the non-nuclear components of
+      <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">
+       nuclear weapons
+      </a>
+      . The primary campus is located on
+      <a href="/wiki/Kirtland_Air_Force_Base" title="Kirtland Air Force Base">
+       Kirtland Air Force Base
+      </a>
+      in
+      <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">
+       Albuquerque, New Mexico
+      </a>
+      and the other is in
+      <a href="/wiki/Livermore,_California" title="Livermore, California">
+       Livermore, California
+      </a>
+      , next to
+      <a href="/wiki/Lawrence_Livermore_National_Laboratory" title="Lawrence Livermore National Laboratory">
+       Lawrence Livermore National Laboratory
+      </a>
+      . Sandia is a
+      <a href="/wiki/National_Nuclear_Security_Administration" title="National Nuclear Security Administration">
+       National Nuclear Security Administration
+      </a>
+      laboratory.
+     </p>
+     <p>
+      It is Sandia's mission to maintain the reliability and surety of nuclear weapon systems, conduct research and development in
+      <a href="/wiki/Arms_control" title="Arms control">
+       arms control
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Nonproliferation" title="Nonproliferation">
+       nonproliferation
+      </a>
+      technologies, and investigate methods for the disposal of the United States' nuclear weapons program's
+      <a href="/wiki/Hazardous_waste" title="Hazardous waste">
+       hazardous waste
+      </a>
+      . Other missions include research and development in energy and environmental programs, as well as the surety of critical national infrastructures. In addition, Sandia is home to a wide variety of research including
+      <a href="/wiki/Computational_biology" title="Computational biology">
+       computational biology
+      </a>
+      ,
+      <a href="/wiki/Mathematics" title="Mathematics">
+       mathematics
+      </a>
+      (through its Computer Science Research Institute),
+      <a href="/wiki/Materials_science" title="Materials science">
+       materials science
+      </a>
+      ,
+      <a href="/wiki/Alternative_energy" title="Alternative energy">
+       alternative energy
+      </a>
+      ,
+      <a href="/wiki/Psychology" title="Psychology">
+       psychology
+      </a>
+      ,
+      <a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">
+       MEMS
+      </a>
+      , and
+      <a href="/wiki/Cognitive_science" title="Cognitive science">
+       cognitive science
+      </a>
+      initiatives. Sandia formerly hosted
+      <a href="/wiki/ASCI_Red" title="ASCI Red">
+       ASCI Red
+      </a>
+      , one of the world's fastest
+      <a href="/wiki/Supercomputer" title="Supercomputer">
+       supercomputers
+      </a>
+      until its recent decommission, and now hosts
+      <a href="/wiki/Red_Storm_(computing)" title="Red Storm (computing)">
+       ASCI Red Storm
+      </a>
+      , originally known as Thor's Hammer. Sandia is also home to the
+      <a href="/wiki/Z_Pulsed_Power_Facility" title="Z Pulsed Power Facility">
+       Z Machine
+      </a>
+      . The Z Machine is the largest
+      <a href="/wiki/X-ray" title="X-ray">
+       X-ray
+      </a>
+      generator in the world and is designed to test materials in conditions of extreme
+      <a href="/wiki/Temperature" title="Temperature">
+       temperature
+      </a>
+      and
+      <a href="/wiki/Pressure" title="Pressure">
+       pressure
+      </a>
+      . It is operated by Sandia National Laboratories to gather data to aid in computer modeling of nuclear weapons.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Lab_history">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Lab history
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Legal_issues">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Legal issues
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Technical_areas">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Technical areas
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Open-source_software">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Open-source software
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Self-guided_bullet">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Self-guided bullet
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#External_links">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Lab_history">
+       Lab history
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=1" title="Edit section: Lab history">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Sandia-Building800-1951.gif">
+        <img alt="" class="thumbimage" data-file-height="821" data-file-width="1335" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sandia-Building800-1951.gif/220px-Sandia-Building800-1951.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sandia-Building800-1951.gif/330px-Sandia-Building800-1951.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sandia-Building800-1951.gif/440px-Sandia-Building800-1951.gif 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Sandia-Building800-1951.gif" title="Enlarge">
+         </a>
+        </div>
+        One of Sandia's first permanent buildings (Building 800) was completed in 1949
+       </div>
+      </div>
+     </div>
+     <p>
+      Sandia National Laboratories' roots go back to
+      <a href="/wiki/World_War_II" title="World War II">
+       World War II
+      </a>
+      and the
+      <a href="/wiki/Manhattan_Project" title="Manhattan Project">
+       Manhattan Project
+      </a>
+      . Prior to the United States formally entering the war, the
+      <a class="mw-redirect" href="/wiki/U.S._Army" title="U.S. Army">
+       U.S. Army
+      </a>
+      leased land near an Albuquerque, New Mexico airport known as Oxnard Field, to service transient Army and
+      <a class="mw-redirect" href="/wiki/U.S._Navy" title="U.S. Navy">
+       U.S. Navy
+      </a>
+      aircraft. In January 1941 construction began on the Albuquerque Army Air Base, leading to establishment of the
+      <i>
+       Bombardier School-Army Advanced Flying School
+      </i>
+      near the end of the year. Soon thereafter it was renamed Kirtland Field, after early Army military pilot Colonel
+      <a href="/wiki/Roy_C._Kirtland" title="Roy C. Kirtland">
+       Roy C. Kirtland
+      </a>
+      , and in mid-1942 the Army acquired Oxnard Field. During the war years facilities were expanded further and
+      <a class="mw-redirect" href="/wiki/Kirtland_Field" title="Kirtland Field">
+       Kirtland Field
+      </a>
+      served as a major Army Air Forces training installation.
+     </p>
+     <p>
+      In the many months leading up to successful detonation of the first
+      <a class="mw-redirect" href="/wiki/Atomic_bomb" title="Atomic bomb">
+       atomic bomb
+      </a>
+      , the
+      <a class="mw-redirect" href="/wiki/Trinity_site" title="Trinity site">
+       Trinity
+      </a>
+      test, and delivery of the first airborne atomic weapon,
+      <a href="/wiki/Project_Alberta" title="Project Alberta">
+       Project Alberta
+      </a>
+      ,
+      <a href="/wiki/J._Robert_Oppenheimer" title="J. Robert Oppenheimer">
+       J. Robert Oppenheimer
+      </a>
+      , Director of
+      <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">
+       Los Alamos Laboratory
+      </a>
+      , and his technical advisor, Hartly Rowe, began looking for a new site convenient to Los Alamos for the continuation of weapons development –  especially its non-nuclear aspects. They felt a separate division would be best to perform these functions. Kirtland had fulfilled Los Alamos' transportation needs for both the Trinity and Alberta projects, thus, Oxnard Field was transferred from the jurisdiction of the Army Air Corps to the U.S. Army Service Forces Chief of Engineer District, and thereafter, assigned to the Manhattan Engineer District. In July 1945, the forerunner of Sandia Laboratory, known as "Z" Division, was established at Oxnard Field to handle future weapons development, testing, and bomb assembly for the Manhattan Engineer District. The District-directive calling for establishing a secure area and construction of "Z" Division facilities referred to this as "
+      <a href="/wiki/Sandia_Base" title="Sandia Base">
+       Sandia Base
+      </a>
+      " , after the nearby
+      <a href="/wiki/Sandia_Mountains" title="Sandia Mountains">
+       Sandia Mountains
+      </a>
+      — apparently the first official recognition of the "Sandia" name.
+     </p>
+     <p>
+      Sandia Laboratory was operated by the
+      <a href="/wiki/University_of_California" title="University of California">
+       University of California
+      </a>
+      until 1949, when President
+      <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">
+       Harry S. Truman
+      </a>
+      asked
+      <a href="/wiki/Western_Electric" title="Western Electric">
+       Western Electric
+      </a>
+      , a subsidiary of
+      <a class="mw-redirect" href="/wiki/American_Telephone_and_Telegraph" title="American Telephone and Telegraph">
+       American Telephone and Telegraph
+      </a>
+      (AT&amp;T), to assume the operation as an "opportunity to render an exceptional service in the national interest." Sandia Corporation, a wholly owned subsidiary of AT&amp;T Corporation, managed and operated the laboratory until October 1993. The
+      <a href="/wiki/United_States_Congress" title="United States Congress">
+       United States Congress
+      </a>
+      designated Sandia Laboratories as a National laboratory in 1979. Today, Sandia National Laboratories (SNL) is managed and operated by
+      <b>
+       Sandia Corporation
+      </b>
+      , a wholly owned subsidiary of
+      <a class="mw-redirect" href="/wiki/Lockheed_Martin_Corporation" title="Lockheed Martin Corporation">
+       Lockheed Martin Corporation
+      </a>
+      , and includes government-owned facilities in
+      <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">
+       Albuquerque, New Mexico
+      </a>
+      (SNL/NM);
+      <a href="/wiki/Livermore,_California" title="Livermore, California">
+       Livermore, California
+      </a>
+      (SNL/CA);
+      <a href="/wiki/Tonopah,_Nevada" title="Tonopah, Nevada">
+       Tonopah, Nevada
+      </a>
+      ; and
+      <a class="mw-redirect" href="/wiki/Kauai,_Hawaii" title="Kauai, Hawaii">
+       Kauai, Hawaii
+      </a>
+      . SNL/NM is headquarters and the largest laboratory, employing more than 6,600 employees, while SNL/CA is a smaller laboratory, with about 850 employees. Tonopah and Kauai are occupied on a "campaign" basis, as test schedules dictate.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Legal_issues">
+       Legal issues
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=2" title="Edit section: Legal issues">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On February 13, 2007, a New Mexico State Court found Sandia Corporation liable for $4.7 million in damages for the firing of a former network security analyst,
+      <a href="/wiki/Shawn_Carpenter" title="Shawn Carpenter">
+       Shawn Carpenter
+      </a>
+      , who had reported to his supervisors that hundreds of military installations and defense contractors' networks were compromised and sensitive information was being stolen –  including hundreds of sensitive
+      <a href="/wiki/Lockheed_Martin" title="Lockheed Martin">
+       Lockheed
+      </a>
+      documents on the
+      <a href="/wiki/Mars_Reconnaissance_Orbiter" title="Mars Reconnaissance Orbiter">
+       Mars Reconnaissance Orbiter
+      </a>
+      project. When his supervisors told him to drop the investigation and do nothing with the information, he went to intelligence officials in the
+      <a href="/wiki/United_States_Army" title="United States Army">
+       United States Army
+      </a>
+      and later the
+      <a href="/wiki/Federal_Bureau_of_Investigation" title="Federal Bureau of Investigation">
+       Federal Bureau of Investigation
+      </a>
+      to address the national security breaches. When Sandia managers discovered his actions months later, they revoked his
+      <a href="/wiki/Security_clearance" title="Security clearance">
+       security clearance
+      </a>
+      and fired him.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Technical_areas">
+       Technical areas
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=3" title="Edit section: Technical areas">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      SNL/NM consists of five technical areas (TA) and several additional test areas. Each TA has its own distinctive operations; however, the operations of some groups at Sandia may span more than one TA, with one part of a team working on a problem from one angle, and another subset of the same team located in a different building or area working with other specialized equipment. A description of each area is given below.
+     </p>
+     <p>
+      TA-I operations are dedicated primarily to three activities –  the design, research, and development of
+      <a href="/wiki/Weapon" title="Weapon">
+       weapon
+      </a>
+      systems; limited production of weapon system components; and energy programs. TA-I facilities include the main
+      <a href="/wiki/Library" title="Library">
+       library
+      </a>
+      and offices,
+      <a href="/wiki/Laboratory" title="Laboratory">
+       laboratories
+      </a>
+      , and shops used by administrative and technical staff.
+     </p>
+     <p>
+      TA-II is a 45-acre (180,000 m²) facility that was established in 1948 for the assembly of chemical
+      <a href="/wiki/Explosive_material" title="Explosive material">
+       high explosive
+      </a>
+      main
+      <a href="/wiki/Explosive_material" title="Explosive material">
+       charges
+      </a>
+      for
+      <a class="mw-redirect" href="/wiki/Nuclear_weapons" title="Nuclear weapons">
+       nuclear weapons
+      </a>
+      and later for production scale assembly of nuclear weapons. Activities in TA-II include the
+      <a href="/wiki/Decontamination" title="Decontamination">
+       decontamination
+      </a>
+      ,
+      <a href="/wiki/Nuclear_decommissioning" title="Nuclear decommissioning">
+       decommissioning
+      </a>
+      , and
+      <a href="/wiki/Environmental_remediation" title="Environmental remediation">
+       remediation
+      </a>
+      of facilities and
+      <a class="mw-redirect" href="/wiki/Landfills" title="Landfills">
+       landfills
+      </a>
+      used in past research and development activities. Remediation of the Classified Waste Landfill which started in March 1998, neared completion in FY2000. A testing facility, the Explosive Component Facility, integrates many of the previous TA-II test activities as well as some testing activities previously performed in other remote test areas. The Access Delay Technology Test Facility is also located in TA-II.
+     </p>
+     <p>
+      TA-III is adjacent to and south of TA-V [both are approximately seven miles (11 km) south of TA-I]. TA-III facilities include extensive design-test facilities such as
+      <a href="/wiki/Rocket_sled" title="Rocket sled">
+       rocket sled
+      </a>
+      tracks,
+      <a href="/wiki/Centrifuge" title="Centrifuge">
+       centrifuges
+      </a>
+      and a radiant
+      <a href="/wiki/Heat" title="Heat">
+       heat
+      </a>
+      facility. Other facilities in TA-III include a paper destructor, the Melting and Solidification Laboratory and the Radioactive and Mixed Waste Management Facility (RMWMF). RMWMF serves as central processing facility for packaging and storage of low-level and mixed waste. The remediation of the Chemical Waste Landfill, which started in September 1998, is an ongoing activity in TA-III.
+     </p>
+     <p>
+      TA-IV, located approximately 1/2 mile (1 km) south of TA-I, consists of several inertial-confinement
+      <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+       fusion
+      </a>
+      research and pulsed power research facilities, including the High Energy Radiation Megavolt Electron Source (Hermes-III), the
+      <a href="/wiki/Z_Pulsed_Power_Facility" title="Z Pulsed Power Facility">
+       Z Facility
+      </a>
+      , the Short Pulsed High Intensity Nanosecond X-Radiator (SPHINX) Facility, and the Saturn Accelerator. TA-IV also hosts some computer science and cognition research.
+     </p>
+     <p>
+      TA-V contains two research
+      <a class="mw-redirect" href="/wiki/Nuclear_reactor_technology" title="Nuclear reactor technology">
+       reactor
+      </a>
+      facilities, an intense
+      <a href="/wiki/Gamma_ray" title="Gamma ray">
+       gamma
+      </a>
+      irradiation facility (using
+      <a href="/wiki/Cobalt" title="Cobalt">
+       cobalt-60
+      </a>
+      and
+      <a href="/wiki/Caesium" title="Caesium">
+       caesium-137
+      </a>
+      sources), and the
+      <a class="mw-redirect" href="/wiki/Hot_Cell" title="Hot Cell">
+       Hot Cell
+      </a>
+      Facility.
+     </p>
+     <p>
+      SNL/NM also has test areas outside of the five technical areas listed above. These test areas, collectively known as Coyote Test Field, are located southeast of TA-III and/or in the canyons on the west side of the Manzanita Mountains. Facilities in the Coyote Canyon Test Field include the Solar Tower Facility (34.9623 N, 106.5097 W), the Lurance Canyon Burn Site and the Aerial Cable Facility.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Open-source_software">
+       Open-source software
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=4" title="Edit section: Open-source software">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In the 1970s, the Sandia, Los Alamos, Air Force Weapons Laboratory Technical Exchange Committee initiated the development of the
+      <a href="/wiki/SLATEC" title="SLATEC">
+       SLATEC
+      </a>
+      library of mathematical and statistical routines, written in FORTRAN77.
+     </p>
+     <p>
+      Today, Sandia National Laboratories is home to several
+      <a class="mw-redirect" href="/wiki/Open-source" title="Open-source">
+       open-source
+      </a>
+      software projects:
+     </p>
+     <ul>
+      <li>
+       FCLib (Feature Characterization Library) is a library for the identification and manipulation of coherent regions or structures from spatio-temporal data.
+       <sup class="reference" id="cite_ref-fclib_4-0">
+        <a href="#cite_note-fclib-4">
+         [4]
+        </a>
+       </sup>
+       FCLib focuses on providing data structures that are "feature-aware" and support feature-based analysis.
+       <sup class="reference" id="cite_ref-fclib_4-1">
+        <a href="#cite_note-fclib-4">
+         [4]
+        </a>
+       </sup>
+       It is written in C and developed under a "
+       <a href="/wiki/BSD_licenses" title="BSD licenses">
+        BSD
+       </a>
+       -like" license.
+       <sup class="reference" id="cite_ref-ASCe_5-0">
+        <a href="#cite_note-ASCe-5">
+         [5]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/LAMMPS" title="LAMMPS">
+        LAMMPS
+       </a>
+       (Large-scale Atomic/Molecular Massively Parallel Simulator) is a molecular dynamics library that can be used to model parallel atomic/subatomic processes at large scale.
+       <sup class="reference" id="cite_ref-LAMMPS_6-0">
+        <a href="#cite_note-LAMMPS-6">
+         [6]
+        </a>
+       </sup>
+       It is produced under the
+       <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">
+        GNU General Public License
+       </a>
+       (GPL) and distributed on the Sandia National Laboratories website as well as
+       <a href="/wiki/SourceForge" title="SourceForge">
+        SourceForge
+       </a>
+       .
+       <sup class="reference" id="cite_ref-LAMMPS_6-1">
+        <a href="#cite_note-LAMMPS-6">
+         [6]
+        </a>
+       </sup>
+      </li>
+      <li>
+       LibVMI is a library for simplifying the reading and writing of memory in running virtual machines, a technique known as virtual machine introspection.
+       <sup class="reference" id="cite_ref-LibVMI_7-0">
+        <a href="#cite_note-LibVMI-7">
+         [7]
+        </a>
+       </sup>
+       It is licensed under the
+       <a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">
+        GNU Lesser General Public License
+       </a>
+       .
+       <sup class="reference" id="cite_ref-LibVMI_7-1">
+        <a href="#cite_note-LibVMI-7">
+         [7]
+        </a>
+       </sup>
+      </li>
+      <li>
+       MapReduce-MPI Library is an implementation of
+       <a href="/wiki/MapReduce" title="MapReduce">
+        MapReduce
+       </a>
+       for distributed-memory parallel machines, utilizing the
+       <a href="/wiki/Message_Passing_Interface" title="Message Passing Interface">
+        Message Passing Interface
+       </a>
+       (MPI) for communication. It is developed under a modified
+       <a href="/wiki/BSD_licenses" title="BSD licenses">
+        Berkeley Software Distribution license
+       </a>
+       .
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+      <li>
+       MultiThreaded Graph Library (MTGL) is a collection of graph-based algorithms designed to take advantage of parallel, shared-memory architectures such as the Cray XMT, Symmetric Multiprocessor (SMP) machines, and multi-core workstations.
+       <sup class="reference" id="cite_ref-MTGL_9-0">
+        <a href="#cite_note-MTGL-9">
+         [9]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Berry_10-0">
+        <a href="#cite_note-Berry-10">
+         [10]
+        </a>
+       </sup>
+       It is developed under a BSD License.
+       <sup class="reference" id="cite_ref-MTGL_9-1">
+        <a href="#cite_note-MTGL-9">
+         [9]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/ParaView" title="ParaView">
+        ParaView
+       </a>
+       is a cross-platform application for performing data analysis and visualization.
+       <sup class="reference" id="cite_ref-Paraview_11-0">
+        <a href="#cite_note-Paraview-11">
+         [11]
+        </a>
+       </sup>
+       It is a collaborative effort, developed by Sandia National Laboratories, Los Alamos National Laboratories, and the
+       <a href="/wiki/United_States_Army_Research_Laboratory" title="United States Army Research Laboratory">
+        United States Army Research Laboratory
+       </a>
+       , and funded by the
+       <a href="/wiki/Advanced_Simulation_and_Computing_Program" title="Advanced Simulation and Computing Program">
+        Advanced Simulation and Computing Program
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Paraview_11-1">
+        <a href="#cite_note-Paraview-11">
+         [11]
+        </a>
+       </sup>
+       It is developed under a BSD license.
+       <sup class="reference" id="cite_ref-Paraview_11-2">
+        <a href="#cite_note-Paraview-11">
+         [11]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Pyomo" title="Pyomo">
+        Pyomo
+       </a>
+       is a python-based optimisation
+       <a href="/wiki/AMPL" title="AMPL">
+        Mathematical Programming Language
+       </a>
+       with drivers with most commercial and open-source solver engines
+      </li>
+      <li>
+       Soccoro, a collaborative effort with
+       <a href="/wiki/Wake_Forest_University" title="Wake Forest University">
+        Wake Forest
+       </a>
+       and
+       <a href="/wiki/Vanderbilt_University" title="Vanderbilt University">
+        Vanderbilt
+       </a>
+       Universities, is
+       <a class="mw-redirect" href="/wiki/Object-oriented" title="Object-oriented">
+        object-oriented
+       </a>
+       software for performing electronic-structure calculations based on density-functional theory.
+       <sup class="reference" id="cite_ref-Soccoro_12-0">
+        <a href="#cite_note-Soccoro-12">
+         [12]
+        </a>
+       </sup>
+       It utilizes libraries such as MPI,
+       <a class="mw-redirect" href="/wiki/BLAS" title="BLAS">
+        BLAS
+       </a>
+       , and
+       <a href="/wiki/LAPACK" title="LAPACK">
+        LAPACK
+       </a>
+       and is developed under the GNU General Public License.
+       <sup class="reference" id="cite_ref-Soccoro_12-1">
+        <a href="#cite_note-Soccoro-12">
+         [12]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Titan Informatics Toolkit is a collection of cross-platform libraries for ingesting, analyzing, and displaying scientific and informatics data.
+       <sup class="reference" id="cite_ref-Titan_13-0">
+        <a href="#cite_note-Titan-13">
+         [13]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-Infovis_14-0">
+        <a href="#cite_note-Infovis-14">
+         [14]
+        </a>
+       </sup>
+       It is a collaborative effort with
+       <a href="/wiki/Kitware" title="Kitware">
+        Kitware, Inc.
+       </a>
+       , and uses various open-source components such as the
+       <a class="mw-redirect" href="/wiki/Boost_C%2B%2B_Libraries" title="Boost C++ Libraries">
+        Boost Graph Library
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Titan_13-1">
+        <a href="#cite_note-Titan-13">
+         [13]
+        </a>
+       </sup>
+       It is developed under a
+       <a class="mw-redirect" href="/wiki/New_BSD_License#3-clause" title="New BSD License">
+        New BSD license
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Titan_13-2">
+        <a href="#cite_note-Titan-13">
+         [13]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <a href="/wiki/Trilinos" title="Trilinos">
+        Trilinos
+       </a>
+       is an object-oriented library for building scalable scientific and engineering applications, with a focus on linear algebra techniques.
+       <sup class="reference" id="cite_ref-Trilinos_15-0">
+        <a href="#cite_note-Trilinos-15">
+         [15]
+        </a>
+       </sup>
+       It is licensed under the
+       <a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">
+        GNU Lesser General Public License
+       </a>
+       .
+       <sup class="reference" id="cite_ref-Trilinos_15-1">
+        <a href="#cite_note-Trilinos-15">
+         [15]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Xyce is an open source,
+       <a href="/wiki/SPICE" title="SPICE">
+        SPICE
+       </a>
+       -compatible, high-performance analog circuit simulator, capable of solving extremely large circuit problems.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      In addition, Sandia National Laboratories collaborates with Kitware, Inc. in developing the
+      <a href="/wiki/VTK" title="VTK">
+       Visualization Toolkit
+      </a>
+      (VTK), a cross-platform graphics and visualization software suite.
+      <sup class="reference" id="cite_ref-VTK_17-0">
+       <a href="#cite_note-VTK-17">
+        [17]
+       </a>
+      </sup>
+      This collaboration has focused on enhancing the information visualization capabilities of VTK and has in turn fed back into other projects such as ParaView and Titan.
+      <sup class="reference" id="cite_ref-Paraview_11-3">
+       <a href="#cite_note-Paraview-11">
+        [11]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Titan_13-3">
+       <a href="#cite_note-Titan-13">
+        [13]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-VTK_17-1">
+       <a href="#cite_note-VTK-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Self-guided_bullet">
+       Self-guided bullet
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=5" title="Edit section: Self-guided bullet">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On 30 January 2012, Sandia announced that they successfully test-fired a self-guided dart that can hit targets at 2,000 m (2,187 yd). The dart is 4 in (100 mm) long, has its center of gravity at the nose, and is made to be fired from a small-caliber
+      <a href="/wiki/Smoothbore" title="Smoothbore">
+       smoothbore
+      </a>
+      gun. It is kept straight in flight by four
+      <a href="/wiki/Electromagnetism" title="Electromagnetism">
+       electromagnetically
+      </a>
+      actuated fins encased in a plastic puller
+      <a href="/wiki/Sabot" title="Sabot">
+       sabot
+      </a>
+      that fall off when the dart leaves the bore. The dart cannot be fired from conventional
+      <a href="/wiki/Rifling" title="Rifling">
+       rifled
+      </a>
+      barrels because the gyroscopic stability provided by rifling grooves for regular bullets would prevent the self-guided bullet from reliably turning towards a target when in flight, so fins are responsible for stabilizing rather than spinning. A
+      <a href="/wiki/Laser" title="Laser">
+       laser
+      </a>
+      designator marks a target, which is tracked by the dart's optical sensor and 8-bit
+      <a class="mw-redirect" href="/wiki/CPU" title="CPU">
+       CPU
+      </a>
+      . The guided projectile is kept cheap because it does not need an
+      <a href="/wiki/Inertial_measurement_unit" title="Inertial measurement unit">
+       inertial measurement unit
+      </a>
+      , since its small size allows it to make the fast corrections necessary without the aid of an IMU. The natural body frequency of the bullet is about 30
+      <a href="/wiki/Hertz" title="Hertz">
+       hertz
+      </a>
+      , so corrections can be made 30 times per second in flight. Muzzle velocity with commercial gunpowder is 2,400 ft/s (730 m/s) (Mach 2.1), but military customized gunpowder can increase its speed and range. Computer modeling shows that a standard bullet would miss a target at 1,000 m (1,094 yd) by 9.8 yd (9 m), while an equivalent guided bullet would hit within 8 in (20 cm). Accuracy actually increases as distances get longer, since the bullet's motions settle more the longer it is in flight.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=6" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/ASCI_Red" title="ASCI Red">
+        ASCI Red
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Titan_Rain" title="Titan Rain">
+        Titan Rain
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Shawn_Carpenter" title="Shawn Carpenter">
+        Shawn Carpenter
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Z_Pulsed_Power_Facility" title="Z Pulsed Power Facility">
+        Z Pulsed Power Facility
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Red_Storm_(computing)" title="Red Storm (computing)">
+        Red Storm
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Kirtland_Air_Force_Base" title="Kirtland Air Force Base">
+        Kirtland Air Force Base
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+        National Renewable Energy Laboratory
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Test_Readiness_Program" title="Test Readiness Program">
+        Test Readiness Program
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/ParaView" title="ParaView">
+        ParaView
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/VTK" title="VTK">
+        VTK
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Jess_programming_language" title="Jess programming language">
+        Jess programming language
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=7" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sandia.gov/about/faq/" rel="nofollow">
+           "Sandia FAQ"
+          </a>
+          . Sandia.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-12-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=Sandia+FAQ&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sandia.gov%2Fabout%2Ffaq%2F&amp;rft.pub=Sandia.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://share.sandia.gov/news/resources/news_releases/new_director/" rel="nofollow">
+           "New Sandia director will be first woman to lead national security lab"
+          </a>
+          . Sandia National Laboratories. 2015-07-22.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=New+Sandia+director+will+be+first+woman+to+lead+national+security+lab&amp;rft.date=2015-07-22&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fshare.sandia.gov%2Fnews%2Fresources%2Fnews_releases%2Fnew_director%2F&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Scott Sandlin, "
+         <a class="external text" href="http://www.abqjournal.com/news/metro/602547metro10-14-07.htm" rel="nofollow">
+          Analyst, Sandia Settle Suit
+         </a>
+         ",
+         <i>
+          Albuquerque Journal
+         </i>
+         , 14 October 2007
+        </span>
+       </li>
+       <li id="cite_note-fclib-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-fclib_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-fclib_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sandia.gov/csit/research/visualization/fclib.php" rel="nofollow">
+           "Main Page — FCLib"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-04
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=Main+Page+%94+FCLib&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sandia.gov%2Fcsit%2Fresearch%2Fvisualization%2Ffclib.php&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ASCe-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ASCe_5-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sandia.gov/NNSA/ASC/enews/0107/0107eNewsPrintable.pdf" rel="nofollow">
+           "Award Winning Data Analysis Toolkit Released"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           ASCe News Quarterly Newsletter
+          </i>
+          . Sandia National Laboratories. January 2007
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-04
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.atitle=Award+Winning+Data+Analysis+Toolkit+Released&amp;rft.date=2007-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sandia.gov%2FNNSA%2FASC%2Fenews%2F0107%2F0107eNewsPrintable.pdf&amp;rft.jtitle=ASCe+News+Quarterly+Newsletter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-LAMMPS-6">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-LAMMPS_6-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-LAMMPS_6-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://lammps.sandia.gov/" rel="nofollow">
+           "LAMMPS Molecular Dynamics Simulator"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=LAMMPS+Molecular+Dynamics+Simulator&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flammps.sandia.gov%2F&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-LibVMI-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-LibVMI_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-LibVMI_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://vmitools.sandia.gov/" rel="nofollow">
+           "The LibVMI Project"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-11-18
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=The+LibVMI+Project&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvmitools.sandia.gov%2F&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sandia.gov/~sjplimp/mapreduce.html" rel="nofollow">
+           "MapReduce-MPI Library"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=MapReduce-MPI+Library&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sandia.gov%2F~sjplimp%2Fmapreduce.html&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-MTGL-9">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-MTGL_9-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-MTGL_9-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://software.sandia.gov/trac/mtgl" rel="nofollow">
+           "MTGL"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-04
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=MTGL&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fsoftware.sandia.gov%2Ftrac%2Fmtgl&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Berry-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Berry_10-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Berry, Jonathan W.; Bruce Hendrickson; Simon Kahan; Petr Konecny (March 2007). "Software and Algorithms for Graph Queries on Multithreaded Architectures".
+          <i>
+           Parallel and Distributed Processing Symposium, 2007.
+          </i>
+          : 1–14.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1109%2FIPDPS.2007.370685" rel="nofollow">
+           10.1109/IPDPS.2007.370685
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.atitle=Software+and+Algorithms+for+Graph+Queries+on+Multithreaded+Architectures&amp;rft.au=Bruce+Hendrickson&amp;rft.aufirst=Jonathan+W.&amp;rft.aulast=Berry&amp;rft.au=Petr+Konecny&amp;rft.au=Simon+Kahan&amp;rft.date=2007-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FIPDPS.2007.370685&amp;rft.jtitle=Parallel+and+Distributed+Processing+Symposium%2C+2007.&amp;rft.pages=1-14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Paraview-11">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Paraview_11-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Paraview_11-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Paraview_11-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Paraview_11-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.paraview.org/" rel="nofollow">
+           "ParaView — Open Source Scientific Visualization"
+          </a>
+          . Kitware
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=ParaView+%94+Open+Source+Scientific+Visualization&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paraview.org%2F&amp;rft.pub=Kitware&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Soccoro-12">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Soccoro_12-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Soccoro_12-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://dft.sandia.gov/socorro/mainpage.html" rel="nofollow">
+           "Sandia National Laboratories:Soccoro"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=Sandia+National+Laboratories%3ASoccoro&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdft.sandia.gov%2Fsocorro%2Fmainpage.html&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Titan-13">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Titan_13-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Titan_13-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Titan_13-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Titan_13-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://titan.sandia.gov/" rel="nofollow">
+           "Titan Toolkit"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=Titan+Toolkit&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftitan.sandia.gov%2F&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Infovis-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Infovis_14-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.kitware.com/InfovisWiki/index.php/Main_Page" rel="nofollow">
+           "Main Page — InfovisWiki"
+          </a>
+          .
+          <a href="/wiki/Kitware" title="Kitware">
+           Kitware, Inc.
+          </a>
+          <span class="reference-accessdate">
+           Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=Main+Page+%94+InfovisWiki&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kitware.com%2FInfovisWiki%2Findex.php%2FMain_Page&amp;rft.pub=Kitware%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Trilinos-15">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Trilinos_15-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Trilinos_15-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://trilinos.sandia.gov/" rel="nofollow">
+           "The Trilinos Project"
+          </a>
+          . Sandia National Laboratories
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=The+Trilinos+Project&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftrilinos.sandia.gov%2F&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="https://xyce.sandia.gov/" rel="nofollow">
+          Xyce
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-VTK-17">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-VTK_17-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-VTK_17-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://vtk.org/" rel="nofollow">
+           "VTK — The Visualization Toolkit"
+          </a>
+          .
+          <a href="/wiki/Kitware" title="Kitware">
+           Kitware, Inc.
+          </a>
+          <span class="reference-accessdate">
+           Retrieved
+           <span class="nowrap">
+            2010-10-03
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandia+National+Laboratories&amp;rft.btitle=VTK+%94+The+Visualization+Toolkit&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fvtk.org%2F&amp;rft.pub=Kitware%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="https://share.sandia.gov/news/resources/news_releases/bullet/#.UtrSNsIo4dU" rel="nofollow">
+          Sandia’s self-guided bullet prototype can hit target a mile away
+         </a>
+         - Sandia news release, 30 January 2012
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.guns.com/2012/02/02/laser-guided-bullets-sub-moa-at-over-a-mile/" rel="nofollow">
+          Laser-Guided Bullets: Sub-MOA at Over a Mile
+         </a>
+         - Guns.com, 2 February 2012
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.thefirearmblog.com/blog/2012/01/31/the-first-self-guided-bullet/" rel="nofollow">
+          The First Self Guided Bullet
+         </a>
+         - Thefirearmblog.com, 31 January 2012
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.gizmag.com/sandia-self-guided-bullet/21286/" rel="nofollow">
+          Self-guided bullet could hit laser-marked targets from a mile away
+         </a>
+         - Gizmag.com, 31 January 2012
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=8" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+      <ul>
+       <li>
+        <a class="external text" href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyId=17&amp;articleId=9016884&amp;intsrc=hm_topic" rel="nofollow">
+         <i>
+          Computerworld
+         </i>
+         article "Reverse Hacker Case Gets Costlier for Sandia Labs"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.mercurynews.com/news/ci_6280088?nclick_check=1" rel="nofollow">
+         <i>
+          San Jose Mercury News
+         </i>
+         article "Ill Lab Workers Fight For Federal Compensation"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.wired.com/entertainment/music/news/2007/05/ff_linkinpark?currentPage=all" rel="nofollow">
+         <i>
+          Wired Magazine
+         </i>
+         article "Linkin Park's Mysterious Cyberstalker"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.slate.com/id/2169088/nav/fix/" rel="nofollow">
+         <i>
+          Slate
+         </i>
+         article "Stalking Linkin Park"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.fedsmith.com/articles/articles.showarticle.db.php?intArticleID=1295" rel="nofollow">
+         <i>
+          FedSmith.com
+         </i>
+         article "Linkin Park, Nuclear Research and Obsession"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.santafenewmexican.com/news/59339.html#" rel="nofollow">
+         <i>
+          The Santa Fe New Mexican
+         </i>
+         article "Judge Upholds $4.3 Million Jury Award to Fired Sandia Lab Analyst"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.time.com/time/nation/article/0,8599,1589735,00.html" rel="nofollow">
+         <i>
+          TIME
+         </i>
+         article "A Security Analyst Wins Big in Court"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.freenewmexican.com/news/56982.html" rel="nofollow">
+         <i>
+          The Santa Fe New Mexican
+         </i>
+         article "Jury Awards Fired Sandia Analyst $4.3 Million"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.hpcwire.com/hpc-bin/artread.pl?direction=Current&amp;articlenumber=16490" rel="nofollow">
+         <i>
+          HPCwire
+         </i>
+         article "Sandia May Unwittingly Have Sold Supercomputer to China"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.fcw.com/article97746-02-26-07-Print" rel="nofollow">
+         <i>
+          Federal Computer Weekly
+         </i>
+         article "Intercepts: Chinese Checkers"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://fas.org/sgp/crs/nuke/RL30143.pdf#search=%22sandia%20chinese%20computer%20china%22" rel="nofollow">
+         <i>
+          Congressional Research Service
+         </i>
+         report "China: Suspected Acquisition of U.S. Nuclear Weapon Secrets"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.cmc.sandia.gov/isn/mar03isn.pdf" rel="nofollow">
+         <i>
+          Sandia National Laboratory Cooperative Monitoring Center
+         </i>
+         article "Engagement with China"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.newsmax.com/archives/articles/2003/8/3/163541.shtml" rel="nofollow">
+         <i>
+          NewsMax.com
+         </i>
+         article "Yet Another Lab Scandal"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://news.bbc.co.uk/2/hi/americas/3018728.stm" rel="nofollow">
+         <i>
+          BBC News
+         </i>
+         "Security Overhaul at US Nuclear Labs"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.foxnews.com/story/0,2933,90239,00.html" rel="nofollow">
+         <i>
+          Fox News
+         </i>
+         "Iowa Republican Demands Tighter Nuclear Lab Security"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://pub10.bravenet.com/news/846727896/23174/1" rel="nofollow">
+         <i>
+          UPI
+         </i>
+         article "Workers Get Bonus After Being Disciplined"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.industryweek.com/ReadArticle.aspx?ArticleID=190&amp;SectionID=38" rel="nofollow">
+         <i>
+          IndustryWeek
+         </i>
+         article "3D Silicon Photonic Lattice"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.freenewmexican.com/news/33305.html" rel="nofollow">
+         October 6, 2005
+         <i>
+          The Sante Fe New Mexican
+         </i>
+         article "Sandia Security Managers Recorded Workers' Calls"
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="http://www.bizjournals.com/albuquerque/stories/2002/05/20/story3.html" rel="nofollow">
+         May 17, 2002
+         <i>
+          New Mexico Business Weekly
+         </i>
+         article "Sandia National Laboratories Says it's Worthless"
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit&amp;section=9" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sandia_National_Laboratories" title="commons:Category:Sandia National Laboratories">
+           Sandia National Laboratories
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.sandia.gov" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+      </li>
+      <li>
+       <a class="external text" href="http://www.sandia.gov/ASCI/Red/" rel="nofollow">
+        ASCI Red
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="https://www.facebook.com/SandiaLabs" rel="nofollow">
+        Sandia National Laboratories
+       </a>
+       on
+       <a href="/wiki/Facebook" title="Facebook">
+        Facebook
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="https://twitter.com/SandiaLabs" rel="nofollow">
+        Sandia National Laboratories
+       </a>
+       on
+       <a href="/wiki/Twitter" title="Twitter">
+        Twitter
+       </a>
+       <a href="https://www.wikidata.org/wiki/Q1736748#P2002" title="Edit this at Wikidata">
+        <img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/>
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.er.doe.gov/production/er-07/page2a9.html" rel="nofollow">
+        DOE Laboratory Fact Sheet
+       </a>
+      </li>
+     </ul>
+     <p>
+      <span style="font-size: small;">
+       <span id="coordinates">
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Coordinates
+        </a>
+        :
+        <span class="plainlinks nourlexpansion">
+         <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sandia_National_Laboratories&amp;params=35.050657_N_-106.543136_E_region:US_type:landmark">
+          <span class="geo-nondefault">
+           <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+            <span class="latitude">
+             35°03′02″N
+            </span>
+            <span class="longitude">
+             106°32′35″W
+            </span>
+           </span>
+          </span>
+          <span class="geo-multi-punct">
+           ﻿ / ﻿
+          </span>
+          <span class="geo-default">
+           <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+            35.050657°N 106.543136°W
+           </span>
+           <span style="display:none">
+            ﻿ /
+            <span class="geo">
+             35.050657; -106.543136
+            </span>
+           </span>
+          </span>
+         </a>
+        </span>
+       </span>
+      </span>
+     </p>
+     <div aria-labelledby="23x15px.7Cborder_.7Calt.3D.7Clink.3D_Agencies_under_the_United_States_Department_of_Energy" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:United_States_Department_of_Energy" title="Template:United States Department of Energy">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:United_States_Department_of_Energy" title="Template talk:United States Department of Energy">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_States_Department_of_Energy&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="23x15px.7Cborder_.7Calt.3D.7Clink.3D_Agencies_under_the_United_States_Department_of_Energy" style="font-size:114%">
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="240" data-file-width="400" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_States_Department_of_Energy.svg/23px-Flag_of_the_United_States_Department_of_Energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_States_Department_of_Energy.svg/35px-Flag_of_the_United_States_Department_of_Energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_States_Department_of_Energy.svg/46px-Flag_of_the_United_States_Department_of_Energy.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+           Agencies under the United States Department of Energy
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <ul>
+           <li>
+            Headquarters:
+            <a href="/wiki/James_V._Forrestal_Building" title="James V. Forrestal Building">
+             James V. Forrestal Building
+            </a>
+           </li>
+          </ul>
+          <ul>
+           <li>
+            <a href="/wiki/Ernest_Moniz" title="Ernest Moniz">
+             Ernest Moniz
+            </a>
+            ,
+            <a href="/wiki/United_States_Secretary_of_Energy" title="United States Secretary of Energy">
+             Secretary of Energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Elizabeth_Sherwood-Randall" title="Elizabeth Sherwood-Randall">
+             Elizabeth Sherwood-Randall
+            </a>
+            ,
+            <a href="/wiki/United_States_Deputy_Secretary_of_Energy" title="United States Deputy Secretary of Energy">
+             Deputy Secretary of Energy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+          Deputy Secretary of Energy
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Office_of_Intelligence_and_Counterintelligence" title="Office of Intelligence and Counterintelligence">
+             Office of Intelligence and Counterintelligence
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">
+             Energy Information Administration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/ARPA-E" title="ARPA-E">
+             ARPA-E
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="17" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <img alt="" data-file-height="600" data-file-width="600" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Seal_of_the_United_States_Department_of_Energy.svg/100px-Seal_of_the_United_States_Department_of_Energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Seal_of_the_United_States_Department_of_Energy.svg/150px-Seal_of_the_United_States_Department_of_Energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Seal_of_the_United_States_Department_of_Energy.svg/200px-Seal_of_the_United_States_Department_of_Energy.svg.png 2x" width="100"/>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Under_Secretary_of_Energy_for_Energy_and_Environment" title="Under Secretary of Energy for Energy and Environment">
+          Under Secretary of Energy
+          <br/>
+          for Energy and Environment
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Office_of_Electricity_Delivery_and_Energy_Reliability" title="Office of Electricity Delivery and Energy Reliability">
+             Office of Electricity Delivery and Energy Reliability
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Office_of_Energy_Efficiency_and_Renewable_Energy" title="Office of Energy Efficiency and Renewable Energy">
+             Office of Energy Efficiency and Renewable Energy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Under_Secretary_of_Energy_for_Nuclear_Security" title="Under Secretary of Energy for Nuclear Security">
+          Under Secretary of Energy for Nuclear Security
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/National_Nuclear_Security_Administration" title="National Nuclear Security Administration">
+             National Nuclear Security Administration
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Under_Secretary_of_Energy_for_Science" title="Under Secretary of Energy for Science">
+          Under Secretary of Energy for Science
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Office_of_Science" title="Office of Science">
+             Office of Science
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Office_of_Scientific_and_Technical_Information" title="Office of Scientific and Technical Information">
+               OSTI
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Assistant_Secretary_of_Energy_for_Nuclear_Energy" title="Assistant Secretary of Energy for Nuclear Energy">
+          Assistant Secretary of Energy for Nuclear Energy
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <a href="/wiki/Office_of_Nuclear_Energy" title="Office of Nuclear Energy">
+           Office of Nuclear Energy
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Power_Marketing_Administration" title="Power Marketing Administration">
+          Power Marketing Administration
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bonneville_Power_Administration" title="Bonneville Power Administration">
+             Bonneville Power Administration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Southeastern_Power_Administration" title="Southeastern Power Administration">
+             Southeastern Power Administration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Southwestern_Power_Administration" title="Southwestern Power Administration">
+             Southwestern Power Administration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Western_Area_Power_Administration" title="Western Area Power Administration">
+             Western Area Power Administration
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a class="mw-redirect" href="/wiki/United_States_Department_of_Energy_National_Laboratories" title="United States Department of Energy National Laboratories">
+          National Laboratory System
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ames_Laboratory" title="Ames Laboratory">
+             Ames
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Argonne_National_Laboratory" title="Argonne National Laboratory">
+             Argonne
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/New_Brunswick_Laboratory" title="New Brunswick Laboratory">
+               NBL
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Center_for_Nanoscale_Materials" title="Center for Nanoscale Materials">
+               CNM
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Advanced_Photon_Source" title="Advanced Photon Source">
+               APS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Argonne_Tandem_Linear_Accelerator_System" title="Argonne Tandem Linear Accelerator System">
+               ATLAS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Electron_Microscopy_Center" title="Electron Microscopy Center">
+               EMC
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">
+             Berkeley
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Advanced_Light_Source" title="Advanced Light Source">
+               ALS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Molecular_Foundry" title="Molecular Foundry">
+               MF
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Center_for_Electron_Microscopy" title="National Center for Electron Microscopy">
+               NCEM
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Energy_Research_Scientific_Computing_Center" title="National Energy Research Scientific Computing Center">
+               NERSCC
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Energy_Sciences_Network" title="Energy Sciences Network">
+               ESN
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Joint_Genome_Institute" title="Joint Genome Institute">
+               JGI
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Brookhaven_National_Laboratory" title="Brookhaven National Laboratory">
+             Brookhaven
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Alternating_Gradient_Synchrotron" title="Alternating Gradient Synchrotron">
+               AGS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Center_for_Functional_Nanomaterials" title="Center for Functional Nanomaterials">
+               CFN
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Synchrotron_Light_Source" title="National Synchrotron Light Source">
+               NSLS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Synchrotron_Light_Source_II" title="National Synchrotron Light Source II">
+               NSLS II
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Relativistic_Heavy_Ion_Collider" title="Relativistic Heavy Ion Collider">
+               RHIC
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Fermilab" title="Fermilab">
+             Fermilab
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Tevatron" title="Tevatron">
+               TeV
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Idaho_National_Laboratory" title="Idaho National Laboratory">
+             Idaho
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Radiological_and_Environmental_Sciences_Laboratory" title="Radiological and Environmental Sciences Laboratory">
+               RESL
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Thomas_Jefferson_National_Accelerator_Facility" title="Thomas Jefferson National Accelerator Facility">
+             JLab
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lawrence_Livermore_National_Laboratory" title="Lawrence Livermore National Laboratory">
+             Livermore
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/National_Atmospheric_Release_Advisory_Center" title="National Atmospheric Release Advisory Center">
+               NARAC
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Ignition_Facility" title="National Ignition Facility">
+               NIF
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">
+             Los Alamos
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Dual-Axis_Radiographic_Hydrodynamic_Test_Facility" title="Dual-Axis Radiographic Hydrodynamic Test Facility">
+               DARHTF
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/National_Energy_Technology_Laboratory" title="National Energy Technology Laboratory">
+             NETL
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Albany_Research_Center" title="Albany Research Center">
+               Albany
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+             NREL
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Oak_Ridge_National_Laboratory" title="Oak Ridge National Laboratory">
+             Oak Ridge
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Spallation_Neutron_Source" title="Spallation Neutron Source">
+               SNS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Center_for_Nanophase_Materials_Sciences" title="Center for Nanophase Materials Sciences">
+               CNMS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/High_Flux_Isotope_Reactor" title="High Flux Isotope Reactor">
+               HFIR
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/National_Center_for_Computational_Sciences" title="National Center for Computational Sciences">
+               NCCS
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Pacific_Northwest_National_Laboratory" title="Pacific Northwest National Laboratory">
+             Pacific Northwest
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Environmental_Molecular_Sciences_Laboratory" title="Environmental Molecular Sciences Laboratory">
+               EMSL
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Princeton_Plasma_Physics_Laboratory" title="Princeton Plasma Physics Laboratory">
+             PPPL
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/National_Spherical_Torus_Experiment" title="National Spherical Torus Experiment">
+               NSTX
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Tokamak_Fusion_Test_Reactor" title="Tokamak Fusion Test Reactor">
+             TFTR
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Savannah_River_National_Laboratory" title="Savannah River National Laboratory">
+             SRNL
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Sandia
+            </strong>
+            <ul>
+             <li>
+              <a href="/wiki/Z_Pulsed_Power_Facility" title="Z Pulsed Power Facility">
+               Z
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/SLAC_National_Accelerator_Laboratory" title="SLAC National Accelerator Laboratory">
+             SLAC
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Stanford_Synchrotron_Radiation_Lightsource" title="Stanford Synchrotron Radiation Lightsource">
+               SSRL
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Energy Department Facilities and Reservations
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Fernald_Feed_Materials_Production_Center" title="Fernald Feed Materials Production Center">
+             Fernald NLO
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hanford_Site" title="Hanford Site">
+             Hanford
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/K-25" title="K-25">
+             K-25
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kansas_City_Plant" title="Kansas City Plant">
+             Kansas City Plant
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nevada_Test_Site" title="Nevada Test Site">
+             Nevada Test Site
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Pahute_Mesa#Area_19" title="Pahute Mesa">
+               Area 19
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Pahute_Mesa#Area_20" title="Pahute Mesa">
+               Area 20
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Northeast_Home_Heating_Oil_Reserve" title="Northeast Home Heating Oil Reserve">
+             NHHOR
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pantex_Plant" title="Pantex Plant">
+             Pantex
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rocky_Flats_Plant" title="Rocky Flats Plant">
+             Rocky Flats
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Santa_Susana_Field_Laboratory" title="Santa Susana Field Laboratory">
+             SSFL
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Energy_Technology_Engineering_Center" title="Energy Technology Engineering Center">
+               ETEC
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sodium_Reactor_Experiment" title="Sodium Reactor Experiment">
+               SRE
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Savannah_River_Site" title="Savannah River Site">
+             SRS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Strategic_Petroleum_Reserve_(United_States)" title="Strategic Petroleum Reserve (United States)">
+             SPR
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_Isolation_Pilot_Plant" title="Waste Isolation Pilot Plant">
+             WIPP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Y-12_National_Security_Complex" title="Y-12 National Security Complex">
+             Y-12
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Yucca_Mountain_nuclear_waste_repository" title="Yucca Mountain nuclear waste repository">
+             Yucca Mountain
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Independent Agency
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Federal_Energy_Regulatory_Commission" title="Federal Energy Regulatory Commission">
+             Federal Energy Regulatory Commission
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Lockheed_Martin" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Lockheed_Martin" title="Template:Lockheed Martin">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Lockheed_Martin" title="Template talk:Lockheed Martin">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lockheed_Martin&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Lockheed_Martin" style="font-size:114%">
+          <a href="/wiki/Lockheed_Martin" title="Lockheed Martin">
+           Lockheed Martin
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Divisions and
+         <br/>
+         subsidiaries
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             Current
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Aeronautics" title="Lockheed Martin Aeronautics">
+                LM Aeronautics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Canada" title="Lockheed Martin Canada">
+                LM Canada
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Information_Technology" title="Lockheed Martin Information Technology">
+                LM Information Technology
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Mission_Systems_and_Sensors" title="Lockheed Martin Mission Systems and Sensors">
+                LM Mission Systems and Sensors
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Missiles_and_Fire_Control" title="Lockheed Martin Missiles and Fire Control">
+                LM Missiles and Fire Control
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Orincon" title="Lockheed Martin Orincon">
+                LM Orincon
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Global_Training_and_Logistics" title="Lockheed Martin Global Training and Logistics">
+                LM Global Training and Logistics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Space_Systems" title="Lockheed Martin Space Systems">
+                LM Space Systems
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_Transportation_%26_Security_Solutions" title="Lockheed Martin Transportation &amp; Security Solutions">
+                LM Transportation &amp; Security Solutions
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Lockheed_Martin_UK" title="Lockheed Martin UK">
+                LM UK
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sikorsky_Aircraft" title="Sikorsky Aircraft">
+                Sikorsky Aircraft
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Skunk_Works" title="Skunk Works">
+                Skunk Works
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             Former
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/Lockheed_Martin_Systems_Integration_-_Owego" title="Lockheed Martin Systems Integration - Owego">
+                LM Systems Integration - Owego
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Savi_Technology" title="Savi Technology">
+                Savi Technology
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Lockheed_Martin_headquarters.jpg">
+           <img alt="Lockheed Martin headquarters.jpg" data-file-height="1670" data-file-width="2147" height="117" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_Martin_headquarters.jpg/150px-Lockheed_Martin_headquarters.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_Martin_headquarters.jpg/225px-Lockheed_Martin_headquarters.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lockheed_Martin_headquarters.jpg/300px-Lockheed_Martin_headquarters.jpg 2x" width="150"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Joint ventures
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/United_Space_Alliance" title="United Space Alliance">
+             United Space Alliance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Launch_Alliance" title="United Launch Alliance">
+             United Launch Alliance
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Facilities
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Goodyear_Airdock" title="Goodyear Airdock">
+             Goodyear Airdock
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Knolls_Atomic_Power_Laboratory" title="Knolls Atomic Power Laboratory">
+             Knolls Atomic Power Laboratory
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Lockheed-Martin_Space_Applications_Laboratory" title="Lockheed-Martin Space Applications Laboratory">
+             LM Space Applications Laboratory
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Michoud_Assembly_Facility" title="Michoud Assembly Facility">
+             Michoud Assembly Facility
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Sandia National Laboratories
+            </strong>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Active products
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Lockheed_Martin_A2100" title="Lockheed Martin A2100">
+             A2100
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Aegis_Combat_System" title="Aegis Combat System">
+             Aegis
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=AeroText&amp;action=edit&amp;redlink=1" title="AeroText (page does not exist)">
+             AeroText
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/RUM-139_VL-Asroc" title="RUM-139 VL-Asroc">
+             Asroc
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Army_Tactical_Missile_System" title="Army Tactical Missile System">
+             ATACMS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Atlas_V" title="Atlas V">
+             Atlas V rocket
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/C-5_Galaxy" title="C-5 Galaxy">
+             C-5
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lockheed_Martin_C-130J_Super_Hercules" title="Lockheed Martin C-130J Super Hercules">
+             C-130J
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Space_Shuttle_external_tank" title="Space Shuttle external tank">
+             Space Shuttle External Fuel Tank
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Force_Protection_Airborne_Surveillance_System" title="Force Protection Airborne Surveillance System">
+             Force Hawk
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/F-16_Fighting_Falcon" title="F-16 Fighting Falcon">
+             F-16
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/F-22_Raptor" title="F-22 Raptor">
+             F-22
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/F-35_Lightning_II" title="F-35 Lightning II">
+             F-35
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/GPS_Block_IIIA" title="GPS Block IIIA">
+             GPS Block IIIA
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/AGM-158_JASSM" title="AGM-158 JASSM">
+             JASSM
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/FGM-148_Javelin" title="FGM-148 Javelin">
+             Javelin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/AGM-169_Joint_Common_Missile" title="AGM-169 Joint Common Missile">
+             JCM
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/AGM-114_Hellfire" title="AGM-114 Hellfire">
+             Hellfire
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/High_Mobility_Artillery_rocket_system" title="High Mobility Artillery rocket system">
+             HIMARS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Medium_Extended_Air_Defense_System" title="Medium Extended Air Defense System">
+             MEADS
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Military_Strategic_and_Tactical_Relay_satellite" title="Military Strategic and Tactical Relay satellite">
+             Milstar
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/M270_Multiple_Launch_Rocket_System" title="M270 Multiple Launch Rocket System">
+             MLRS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mobile_User_Objective_System" title="Mobile User Objective System">
+             MUOS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nimiq" title="Nimiq">
+             Nimiq
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Orion_spacecraft" title="Orion spacecraft">
+             Orion spacecraft
+            </a>
+            (under development)
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/P-3_Orion" title="P-3 Orion">
+             P-3
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/FGM-172_SRAW" title="FGM-172 SRAW">
+             Predator missile
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Space-Based_Infrared_System" title="Space-Based Infrared System">
+             SBIRS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Terminal_High_Altitude_Area_Defense" title="Terminal High Altitude Area Defense">
+             THAAD
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Lockheed_Martin_Sniper_XR" title="Lockheed Martin Sniper XR">
+             Sniper XR
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/KAI_T-50_Golden_Eagle" title="KAI T-50 Golden Eagle">
+             T-50
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Trident_(missile)" title="Trident (missile)">
+             Trident missile
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lockheed_U-2" title="Lockheed U-2">
+             U-2
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Lockheed_Martin" title="Category:Lockheed Martin">
+             <b>
+              Category
+             </b>
+            </a>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Lockheed_Martin" title="commons:Category:Lockheed Martin">
+             <b>
+              Commons
+             </b>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Livermore.2C_California" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col" style="background: #FCC200;">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Livermore,_California" title="Template:Livermore, California">
+             <abbr style="background: #FCC200;;;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Livermore,_California" title="Template talk:Livermore, California">
+             <abbr style="background: #FCC200;;;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Livermore,_California&amp;action=edit">
+             <abbr style="background: #FCC200;;;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Livermore.2C_California" style="font-size:114%">
+          <a href="/wiki/Livermore,_California" title="Livermore, California">
+           Livermore, California
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background: #FCC200;">
+         Landmarks
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a class="new" href="/w/index.php?title=Bank_of_Italy_Building_(Livermore,_California)&amp;action=edit&amp;redlink=1" title="Bank of Italy Building (Livermore, California) (page does not exist)">
+             Bank of Italy Building
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Hagemann_Ranch_Historic_District&amp;action=edit&amp;redlink=1" title="Hagemann Ranch Historic District (page does not exist)">
+             Hagemann Ranch Historic District
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=D._J._Murphy_House&amp;action=edit&amp;redlink=1" title="D. J. Murphy House (page does not exist)">
+             D. J. Murphy House
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Ravenswood_(Livermore,_California)&amp;action=edit&amp;redlink=1" title="Ravenswood (Livermore, California) (page does not exist)">
+             Ravenswood
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cresta_Blanca_Winery" title="Cresta Blanca Winery">
+             Cresta Blanca Winery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wente_Vineyards" title="Wente Vineyards">
+             Wente Vineyards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Concannon_Vineyard" title="Concannon Vineyard">
+             Concannon Vineyard
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background: #FCC200;">
+         Economy
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Livermore_Valley_AVA" title="Livermore Valley AVA">
+             Livermore Valley AVA
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lawrence_Livermore_National_Laboratory" title="Lawrence Livermore National Laboratory">
+             Lawrence Livermore National Laboratory
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Sandia National Laboratories
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/National_Ignition_Facility" title="National Ignition Facility">
+             National Ignition Facility
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/The_Wine_Group" title="The Wine Group">
+             The Wine Group
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Activant" title="Activant">
+             Activant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background: #FCC200;">
+         Education
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Las_Positas_College" title="Las Positas College">
+             Las Positas College
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Livermore_Valley_Joint_Unified_School_District" title="Livermore Valley Joint Unified School District">
+             Livermore Valley Joint Unified School District
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hertz_Foundation" title="Hertz Foundation">
+             Hertz Foundation
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background: #FCC200;">
+         Transportation
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Interstate_580_(California)" title="Interstate 580 (California)">
+             Interstate 580 (California)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Livermore_Municipal_Airport" title="Livermore Municipal Airport">
+             Livermore Municipal Airport
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/WHEELS_(California)" title="WHEELS (California)">
+             WHEELS bus system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Altamont_Corridor_Express" title="Altamont Corridor Express">
+             Altamont Corridor Express
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="background: #FCC200;">
+         Other
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Robert_Livermore" title="Robert Livermore">
+             Robert Livermore
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bill_Owens_(photographer)" title="Bill Owens (photographer)">
+             Bill Owens
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mocho_Subbasin" title="Mocho Subbasin">
+             Mocho Subbasin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Livermore_Rodeo" title="Livermore Rodeo">
+             Livermore Rodeo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Centennial_Light" title="Centennial Light">
+             Centennial Light
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brushy_Peak_Regional_Preserve" title="Brushy Peak Regional Preserve">
+             Brushy Peak Regional Preserve
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Valley_Concert_Chorale" title="Valley Concert Chorale">
+             Valley Concert Chorale
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="external text" href="//www.worldcat.org/identities/containsVIAFID/125491151" rel="nofollow">
+              WorldCat Identities
+             </a>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+              VIAF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="https://viaf.org/viaf/125491151" rel="nofollow">
+               125491151
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+              LCCN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.loc.gov/authorities/names/n80115974" rel="nofollow">
+               n80115974
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/330064-X" rel="nofollow">
+               330064-X
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">
+              SUDOC
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://www.idref.fr/131834819" rel="nofollow">
+               131834819
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Library_of_Australia" title="National Library of Australia">
+              NLA
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="//nla.gov.au/anbd.aut-an36559749" rel="nofollow">
+               36559749
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:155558-0!*!0!!en!4!* and timestamp 20161101090948 and revision id 744095214
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sandia_National_Laboratories&amp;oldid=744095214">
+      https://en.wikipedia.org/w/index.php?title=Sandia_National_Laboratories&amp;oldid=744095214
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Economy_of_Albuquerque,_New_Mexico" title="Category:Economy of Albuquerque, New Mexico">
+         Economy of Albuquerque, New Mexico
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Nuclear_weapons_infrastructure_of_the_United_States" title="Category:Nuclear weapons infrastructure of the United States">
+         Nuclear weapons infrastructure of the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:United_States_Department_of_Energy_national_laboratories" title="Category:United States Department of Energy national laboratories">
+         United States Department of Energy national laboratories
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Laboratories_in_the_United_States" title="Category:Laboratories in the United States">
+         Laboratories in the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Supercomputer_sites" title="Category:Supercomputer sites">
+         Supercomputer sites
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Weapons_manufacturing_companies" title="Category:Weapons manufacturing companies">
+         Weapons manufacturing companies
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Lockheed_Martin" title="Category:Lockheed Martin">
+         Lockheed Martin
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Livermore,_California" title="Category:Livermore, California">
+         Livermore, California
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Military_research_of_the_United_States" title="Category:Military research of the United States">
+         Military research of the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">
+         Wikipedia articles with NLA identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sandia+National+Laboratories" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sandia+National+Laboratories" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Sandia_National_Laboratories" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Sandia_National_Laboratories" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Sandia_National_Laboratories">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Sandia_National_Laboratories&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Sandia_National_Laboratories&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Sandia_National_Laboratories" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sandia_National_Laboratories" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Sandia_National_Laboratories&amp;oldid=744095214" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Sandia_National_Laboratories&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1736748" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sandia_National_Laboratories&amp;id=744095214" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sandia+National+Laboratories">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sandia+National+Laboratories&amp;returnto=Sandia+National+Laboratories&amp;oldid=744095214&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Sandia_National_Laboratories&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Sandia_National_Laboratories" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%AA%D8%A8%D8%B1%D8%A7%D8%AA_%D8%B3%D8%A7%D9%86%D8%AF%D9%8A%D8%A7_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9" hreflang="ar" lang="ar" title="مختبرات سانديا الوطنية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sandia_National_Laboratories" hreflang="de" lang="de" title="Sandia National Laboratories – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Laboratorio_Nacional_Sandia" hreflang="es" lang="es" title="Laboratorio Nacional Sandia – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%84%DB%8C_%D8%B3%D9%86%D8%AF%DB%8C%D8%A7" hreflang="fa" lang="fa" title="آزمایشگاه ملی سندیا – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Laboratoires_Sandia" hreflang="fr" lang="fr" title="Laboratoires Sandia – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Sandia_National_Laboratories" hreflang="id" lang="id" title="Sandia National Laboratories – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sandia_National_Laboratories" hreflang="it" lang="it" title="Sandia National Laboratories – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%89%80" hreflang="ja" lang="ja" title="サンディア国立研究所 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sandia_National_Laboratories" hreflang="pl" lang="pl" title="Sandia National Laboratories – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Сандийские национальные лаборатории – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sandia_National_Laboratories" hreflang="fi" lang="fi" title="Sandia National Laboratories – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" hreflang="th" lang="th" title="ศูนย์ทดลองแห่งชาติซานเดีย – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1736748#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 13 October 2016, at 02:48.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sandia_National_Laboratories&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.304",
+            "walltime": "0.380",
+            "ppvisitednodes": {
+                "value": 2079,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 89595,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1834,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  273.925      1 -total",
+                " 30.76%   84.253      1 Template:Reflist",
+                " 24.46%   66.998      1 Template:Infobox_laboratory",
+                " 22.70%   62.194      1 Template:Infobox",
+                " 22.13%   60.632     14 Template:Cite_web",
+                " 12.57%   34.444      4 Template:Navbox",
+                " 11.64%   31.892      7 Template:Convert",
+                "  7.80%   21.359      1 Template:Commons_category",
+                "  7.40%   20.270      1 Template:Lockheed_Martin",
+                "  3.87%   10.601      1 Template:U.S._National_Labs"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.115",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 6802851,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1271",
+            "timestamp": "20161101090948",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1272"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2231 @@
+https://en.wikipedia.org/wiki/Electrical_energy_efficiency_on_United_States_farms
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Electrical energy efficiency on United States farms - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electrical_energy_efficiency_on_United_States_farms","wgTitle":"Electrical energy efficiency on United States farms","wgCurRevisionId":682254903,"wgRevisionId":682254903,"wgArticleId":27059465,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electric power in the United States","Agriculture in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electrical_energy_efficiency_on_United_States_farms","wgRelevantArticleId":27059465,"wgRequestId":"WBu-7gpAAD4AANtqPhgAAAEC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5357717","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electrical_energy_efficiency_on_United_States_farms" rel="alternate"/>
+  <link href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Electrical_energy_efficiency_on_United_States_farms" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electrical_energy_efficiency_on_United_States_farms rootpage-Electrical_energy_efficiency_on_United_States_farms skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Electrical energy efficiency on United States farms
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Electrical energy efficiency on United States farms
+      </b>
+      covers the use of
+      <a href="/wiki/Electricity" title="Electricity">
+       electricity
+      </a>
+      on
+      <a href="/wiki/Farm" title="Farm">
+       farms
+      </a>
+      and the methods and incentives for improving the
+      <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+       efficiency of that use
+      </a>
+      .
+     </p>
+     <p>
+      U.S. farms have almost doubled their average energy efficiency over the past 25 years.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Usage">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Usage
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Use_on_dairy_farms">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Use on dairy farms
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Regulations">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Regulations
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Efficiency_increases">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Efficiency increases
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Crop_rotation">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Crop rotation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Farm_energy_audits">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Farm energy audits
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Energy_calculators">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            Energy calculators
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Dairy_farm_efficiency_improvements">
+           <span class="tocnumber">
+            3.4
+           </span>
+           <span class="toctext">
+            Dairy farm efficiency improvements
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Cow_manure_to_electrical_generation">
+           <span class="tocnumber">
+            3.5
+           </span>
+           <span class="toctext">
+            Cow manure to electrical generation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Government_and_utility_incentives">
+           <span class="tocnumber">
+            3.6
+           </span>
+           <span class="toctext">
+            Government and utility incentives
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Usage">
+       Usage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=1" title="Edit section: Usage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Energy costs represent between 2% (at cattle feed lots) and 9% (for grain farming, due partly to grain drying) of farm production costs.
+      <sup class="reference" id="cite_ref-aceee.org_2-0">
+       <a href="#cite_note-aceee.org-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Use_on_dairy_farms">
+       Use on dairy farms
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=2" title="Edit section: Use on dairy farms">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In 2006 there were about 65,000
+      <a class="mw-redirect" href="/wiki/Dairy_farm" title="Dairy farm">
+       dairy farms
+      </a>
+      in the United States, although most had fewer than 200 cows.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      One "resource auditor" believes it is possible for dairy farms to reach an energy usage of as low as 200 kWhr per cow per year
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      although an analysis of California dairy farms found that 300 kWhr/year was the lowest actually attained.
+      <sup class="reference" id="cite_ref-sce.com_5-0">
+       <a href="#cite_note-sce.com-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      One study
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      found the following electrical usages on New York dairy farms:
+     </p>
+     <ul>
+      <li>
+       Milk cooling – 23%
+      </li>
+      <li>
+       Ventilation – 21%
+      </li>
+      <li>
+       Vacuum pumps – 18%
+      </li>
+      <li>
+       Lighting – 17%
+      </li>
+      <li>
+       Electrical water heating – 10%
+      </li>
+      <li>
+       Feeding equipment – 7%
+      </li>
+     </ul>
+     <p>
+      Another study
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      found highly similar results.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Regulations">
+       Regulations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=3" title="Edit section: Regulations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Energy_law" title="Energy law">
+       Energy law
+      </a>
+     </div>
+     <p>
+      Hitherto almost entirely unregulated (except for
+      <a href="/wiki/Zoning" title="Zoning">
+       zoning ordinances
+      </a>
+      and the effects of
+      <a href="/wiki/Property_tax" title="Property tax">
+       property taxes
+      </a>
+      ), environmental concerns are now beginning to impose restrictions on farms.
+     </p>
+     <p>
+      How renewable energy projects may be implemented and also on what rate of return electricity producers can obtain from utilities are key current topics. Acts such as Wisconsin's
+      <i>
+       Clean Energy Jobs Act
+      </i>
+      (only proposed as of April, 2010) are controversial among farmers for these reasons.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      Canada's
+      <a href="/wiki/Green_Energy_Act_2009" title="Green Energy Act 2009">
+       Green Energy Act 2009
+      </a>
+      implemented similar kinds of regulations.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Contrarily,
+      <a href="/wiki/Carbon_offset" title="Carbon offset">
+       Carbon offsets
+      </a>
+      may soon offer farmers additional incentives to increase energy use efficiency. However, at least one proposed
+      <a class="mw-redirect" href="/wiki/Cap_and_trade" title="Cap and trade">
+       cap and trade
+      </a>
+      process would raise farmers' costs by up to $1.19 (USD) per acre.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Corporate_Average_Fuel_Economy" title="Corporate Average Fuel Economy">
+       Corporate Average Fuel Economy
+      </a>
+      Fuel standards too (such as in the
+      <a href="/wiki/Energy_Independence_and_Security_Act_of_2007" title="Energy Independence and Security Act of 2007">
+       Energy Independence and Security Act of 2007
+      </a>
+      ) are controversial, as
+      <a href="/wiki/Biofuel" title="Biofuel">
+       biofuels
+      </a>
+      are now a significant portion of farm income.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Efficiency_increases">
+       Efficiency increases
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=4" title="Edit section: Efficiency increases">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Increased efficiency in farm usage of electricity is being driven by
+      <a href="/wiki/Greening" title="Greening">
+       Greening
+      </a>
+      as well as by
+      <a href="/wiki/Agricultural_economics" title="Agricultural economics">
+       economics
+      </a>
+      .
+     </p>
+     <p>
+      "The biggest users of electrical power are heat, light and motors. ... A recent study found that a 3-hp energy efficient compressor used over 42 percent fewer kilowatt-hours (kWhr) than a 3-hp conventional compressor."
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Two prime areas for efficiency improvements are implementing the use of
+      <a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">
+       heat recovery systems
+      </a>
+      and
+      <a href="/wiki/Adjustable-speed_drive" title="Adjustable-speed drive">
+       Variable Speed Drives
+      </a>
+      .
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      One organization postulated a three-year plan for farms to use energy better.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Crop_rotation">
+       Crop rotation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=5" title="Edit section: Crop rotation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Simply including years of either clover or alfalfa into the cycle of grain crops can yield savings without reducing total crop yields.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Farm_energy_audits">
+       Farm energy audits
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=6" title="Edit section: Farm energy audits">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Farms sometimes use accredited "resource auditors"
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      to analyze their operations and recommend improved efficiencies, typically at costs exceeding $1,000 per audit. However, typical full repayment of an audit's cost could be around six years.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      Also, a Certified Farm Energy Audit may be required for participation in state or federal energy efficiency programs.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <p>
+      An audit of 20 farms in Cumbria showed savings could be made in all areas examined.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <p>
+      An example of a farm energy audit in Maine is at the following reference.
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+      Maryland has a statewide program entitled
+      <i>
+       EnSave
+      </i>
+      .
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Energy_calculators">
+       Energy calculators
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=7" title="Edit section: Energy calculators">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Recently a number of "energy calculators"
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+      have become available, addressing one or more aspects of farm energy usage. New calculators are being developed under government and utility grants, such as one in Oregon.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Dairy_farm_efficiency_improvements">
+       Dairy farm efficiency improvements
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=8" title="Edit section: Dairy farm efficiency improvements">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Some improvements are specific to dairy farms, such as using supplemental lighting with energy efficient lamps (which can increase milk production 5 to 16 percent) or relieving heat stress with a combination of sprinklers and fans to increase the cooling effect and improve energy use.
+      <sup class="reference" id="cite_ref-26">
+       <a href="#cite_note-26">
+        [26]
+       </a>
+      </sup>
+      California compiled a "Complete Guide" to dairy farm efficiency improvements.
+      <sup class="reference" id="cite_ref-sce.com_5-1">
+       <a href="#cite_note-sce.com-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Cow_manure_to_electrical_generation">
+       Cow manure to electrical generation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=9" title="Edit section: Cow manure to electrical generation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Norswiss Farms of
+      <a href="/wiki/Rice_Lake,_Wisconsin" title="Rice Lake, Wisconsin">
+       Rice Lake, Wisconsin
+      </a>
+      , an 1100 cow dairy farm, expects to save over $70,000 per year (plus income from electricity sales) from its installation of an 848 kW
+      <a href="/wiki/Cogeneration" title="Cogeneration">
+       Combined Heat and Power
+      </a>
+      (CHP) system operating on
+      <a class="mw-redirect" href="/wiki/Anaerobic_digester" title="Anaerobic digester">
+       anaerobic digesters
+      </a>
+      gas from cow manure.
+      <sup class="reference" id="cite_ref-27">
+       <a href="#cite_note-27">
+        [27]
+       </a>
+      </sup>
+      The electricity generated is sold to the grid. A similar installation in 2004 on a 270 cow farm in California (one of five in the state at that time) powered a 75 kW generator.
+      <sup class="reference" id="cite_ref-28">
+       <a href="#cite_note-28">
+        [28]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Central Vermont Public Service has a "Cow Power" program using methane-fueled electricity from Vermont farms.
+      <sup class="reference" id="cite_ref-29">
+       <a href="#cite_note-29">
+        [29]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-30">
+       <a href="#cite_note-30">
+        [30]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Government_and_utility_incentives">
+       Government and utility incentives
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=10" title="Edit section: Government and utility incentives">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      U.S. utilities allocated $5.3 billion to energy efficiency programs in 2009.
+      <sup class="reference" id="cite_ref-31">
+       <a href="#cite_note-31">
+        [31]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Government and utility incentives can be beneficial to those entities as well. "It may be less expensive for governments to encourage efficiency and renewable energy options [in order to] delay or negate the need to upgrade and modernize rural grid infrastructure."
+      <sup class="reference" id="cite_ref-aceee.org_2-1">
+       <a href="#cite_note-aceee.org-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      A partial list of incentives is available at the following reference:
+      <sup class="reference" id="cite_ref-32">
+       <a href="#cite_note-32">
+        [32]
+       </a>
+      </sup>
+      A link to relevant utility pages is at:
+      <sup class="reference" id="cite_ref-33">
+       <a href="#cite_note-33">
+        [33]
+       </a>
+      </sup>
+      A third partial list is at:
+      <sup class="reference" id="cite_ref-34">
+       <a href="#cite_note-34">
+        [34]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Alliant_Energy" title="Alliant Energy">
+       Alliant Energy
+      </a>
+      in Wisconsin funds the installation of energy-saving projects, receiving payments on the monthly electric bills.
+      <sup class="reference" id="cite_ref-35">
+       <a href="#cite_note-35">
+        [35]
+       </a>
+      </sup>
+      National Grid has a similar program.
+      <sup class="reference" id="cite_ref-36">
+       <a href="#cite_note-36">
+        [36]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+      <ul>
+       <li>
+        <a href="/wiki/Agriculture#Energy_and_agriculture" title="Agriculture">
+         Agriculture#Energy and agriculture
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">
+         Feed-in tariff
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Good_Agricultural_Practice" title="Good Agricultural Practice">
+         Good Agricultural Practice
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_environmental_topics" title="List of environmental topics">
+         List of environmental topics
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/List_of_sustainable_agriculture_topics" title="List of sustainable agriculture topics">
+         List of sustainable agriculture topics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/National_Institute_of_Food_and_Agriculture" title="National Institute of Food and Agriculture">
+         National Institute of Food and Agriculture
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Timeline_of_agriculture_and_food_technology" title="Timeline of agriculture and food technology">
+         Timeline of agriculture and food technology
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Post-harvest_losses_(Fruit_and_vegetables)" title="Post-harvest losses (Fruit and vegetables)">
+         Post-harvest losses (Fruit and vegetables)
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Post-harvest_losses_(Grains)" title="Post-harvest losses (Grains)">
+         Post-harvest losses (Grains)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Agricultural_%26_Applied_Economics_Association" title="Agricultural &amp; Applied Economics Association">
+         Agricultural &amp; Applied Economics Association
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/American_Journal_of_Agricultural_Economics" title="American Journal of Agricultural Economics">
+         American Journal of Agricultural Economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Rural_economics" title="Rural economics">
+         Rural economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Energy_conservation" title="Energy conservation">
+         Energy conservation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Outline_of_energy" title="Outline of energy">
+         Outline of energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sustainable_energy" title="Sustainable energy">
+         Sustainable energy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=12" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.extension.org/pages/Introduction_to_Energy_Efficiency_and_Conservation_on_the_Farm" rel="nofollow">
+           "Introduction to Energy Efficiency and Conservation on the Farm"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Introduction+to+Energy+Efficiency+and+Conservation+on+the+Farm&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.extension.org%2Fpages%2FIntroduction_to_Energy_Efficiency_and_Conservation_on_the_Farm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-aceee.org-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-aceee.org_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-aceee.org_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.aceee.org/pubs/ie052full.pdf" rel="nofollow">
+          On-Farm Energy Use Characterizations
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.dairyfarmingtoday.org/NR/rdonlyres/5BE4E911-BE4A-447C-AB30-F553B6BAA199/0/DFTEnvironmentPDF.pdf" rel="nofollow">
+          Dairy Farms &amp; the Environment Fact Sheet
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://livestocknw.co.uk/news/feature_article_tips_to_reduce_dairy_energy_consumption" rel="nofollow">
+           "FEATURE ARTICLE: Tips to reduce dairy energy consumption"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=FEATURE+ARTICLE%3A+Tips+to+reduce+dairy+energy+consumption&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flivestocknw.co.uk%2Fnews%2Ffeature_article_tips_to_reduce_dairy_energy_consumption&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-sce.com-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-sce.com_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sce.com_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.sce.com/NR/rdonlyres/60CC09E0-2EE1-4087-B46F-51527CC0906D/0/CompleteGuide_102005REV.pdf" rel="nofollow">
+          Dairy Farm Energy Management Guide
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nyserda.ny.gov/publications/dairyfarmenergysummary.pdf" rel="nofollow">
+          DAIRY FARM ENERGY AUDIT SUMMARY
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.aceee.org/conf/af05/05agsanfordIc.pdf" rel="nofollow">
+          Capturing Energy Efficiencies on Dairy Farms
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://attra.ncat.org/attra-pub/PDF/dairyenergy.pdf" rel="nofollow">
+           "Master Publication List"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Master+Publication+List&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fattra.ncat.org%2Fattra-pub%2FPDF%2Fdairyenergy.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.fox21online.com/news/wisconsin-ag-groups-split-clean-energy-jobs-act" rel="nofollow">
+          Wisconsin ag groups split on Clean Energy Jobs Act
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://landownerlaw.blogspot.com/2010/04/ontarios-new-proposal-to-protect-bats.html" rel="nofollow">
+           "Law of the Lands - Farm, Energy and Enviro Law"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Law+of+the+Lands+-+Farm%2C+Energy+and+Enviro+Law&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flandownerlaw.blogspot.com%2F2010%2F04%2Fontarios-new-proposal-to-protect-bats.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://southeastfarmpress.com/news/cap-trade-ewg-1202/" rel="nofollow">
+           "Farmers' costs under cap and trade: EWG"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Farmers%27+costs+under+cap+and+trade%3A+EWG&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsoutheastfarmpress.com%2Fnews%2Fcap-trade-ewg-1202%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.agriculture.com/ag/story.jhtml?storyid=/templatedata/ag/story/data/1262117785895.xml" rel="nofollow">
+          Ethanol and farm groups sue California over fuel standard
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.omafra.gov.on.ca/english/engineer/facts/reduce.htm" rel="nofollow">
+          Options to Reduce Energy use on the Farm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cowtime.com.au/technical/QuickNotes/Quicknote%203.5.pdf" rel="nofollow">
+          Options to reduce your electricity usage
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.agenergysolutions.org/site/index.php?page_id=18" rel="nofollow">
+           "Netfirms"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Netfirms&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.agenergysolutions.org%2Fsite%2Findex.php%3Fpage_id%3D18&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.theoildrum.com/node/6389" rel="nofollow">
+           "The Oil Drum - Reducing Fossil Energy Use on the Farm"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=The+Oil+Drum+-+Reducing+Fossil+Energy+Use+on+the+Farm&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theoildrum.com%2Fnode%2F6389&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://energyandourfuture.org/pdf/theoildrum_6389.pdf" rel="nofollow">
+          Reducing Fossil Energy Use on the Farm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cetonline.org/FarmBusiness/Farm_Energy.php" rel="nofollow">
+          Energy and small farm sustainability
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.usdairy.com/sustainability/TheCommitment/Documents/FarmEnergyAuditProjectSummary063009.pdf" rel="nofollow">
+          Farm Energy Audit Program (FEAP)
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.michfb.com/files/maeap/events/ace_presentations/Farm%20Energy%20Savings.pdf" rel="nofollow">
+          Energy savings on the Farm (Michigan)
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.adas.co.uk/LinkClick.aspx?fileticket=kx9GY1joPVY%3D&amp;tabid=233" rel="nofollow">
+          Case Study: Resource Efficiency
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.mainerural.org/energy/fieldguide/broadacresaudit.pdf" rel="nofollow">
+          Broad Acres Farm Energy Audit
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.mda.state.md.us/pdf/energyaudit.pdf" rel="nofollow">
+          Maryland Statewide Farm Energy Audit Program
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://attra.ncat.org/energy_calculators.html" rel="nofollow">
+           "Farm Energy Calculators"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Farm+Energy+Calculators&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fattra.ncat.org%2Fenergy_calculators.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://attra.ncat.org/attra-pub/PDF/farmenergycalc.pdf" rel="nofollow">
+           "Master Publication List"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Master+Publication+List&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fattra.ncat.org%2Fattra-pub%2FPDF%2Ffarmenergycalc.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.livestocktrail.uiuc.edu/dairynet/paperDisplay.cfm?ContentID=331" rel="nofollow">
+          Strategies for Energy Use on the Dairy Farm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.chpcentermw.org/pdfs/Project_Profile_Norswiss_Farms_Final.pdf" rel="nofollow">
+          Norswiss Farms 848 kw CHP Application
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://articles.sfgate.com/2004-05-14/bay-area/17426549_1_methane-metering-straus-farms" rel="nofollow">
+           "AGRICULTURE / 270 cows generating electricity for farm / Methane digester also breaks down waste"
+          </a>
+          .
+          <i>
+           SFGate
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.atitle=AGRICULTURE+%2F+270+cows+generating+electricity+for+farm+%2F+Methane+digester+also+breaks+down+waste&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farticles.sfgate.com%2F2004-05-14%2Fbay-area%2F17426549_1_methane-metering-straus-farms&amp;rft.jtitle=SFGate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cvps.com/cowpower/Cow%20Power%20home.html" rel="nofollow">
+          CVPS Cow Power
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2007/10/vermonters-get-your-cow-power-50314" rel="nofollow">
+           "Vermonters, Get Your Cow Power"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Vermonters%2C+Get+Your+Cow+Power&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.renewableenergyworld.com%2Frea%2Fnews%2Farticle%2F2007%2F10%2Fvermonters-get-your-cow-power-50314&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.environmentalleader.com/2010/03/25/u-s-utilities-increase-energy-efficiency-programs-43-to-5-3b/" rel="nofollow">
+           "U.S. Utilities Increase Energy Efficiency Programs 43% to $5.3B · Environmental Leader · Environmental Management News"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=U.S.+Utilities+Increase+Energy+Efficiency+Programs+43%25+to+%245.3B+%B7+Environmental+Leader+%B7+Environmental+Management+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.environmentalleader.com%2F2010%2F03%2F25%2Fu-s-utilities-increase-energy-efficiency-programs-43-to-5-3b%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.agenergysolutions.org/site/index.php?page_id=19" rel="nofollow">
+           "Netfirms"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Netfirms&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.agenergysolutions.org%2Fsite%2Findex.php%3Fpage_id%3D19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://eetd.lbl.gov/EnergyCrossroads/2ueeprogram.html" rel="nofollow">
+          Utility Energy Efficiency Programs For Small &amp; Large Businesses
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.spiraxsarco.com/us/about/news-article.asp?news_id=30" rel="nofollow">
+           "Spirax Sarco USA - First for Steam Solutions"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Spirax+Sarco+USA+-+First+for+Steam+Solutions&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.spiraxsarco.com%2Fus%2Fabout%2Fnews-article.asp%3Fnews_id%3D30&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.alliantenergy.com/UtilityServices/ForYourFarm/RewardsFinancing/014705" rel="nofollow">
+           "Alliant Energy - Error"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 September
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrical+energy+efficiency+on+United+States+farms&amp;rft.btitle=Alliant+Energy+-+Error&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.alliantenergy.com%2FUtilityServices%2FForYourFarm%2FRewardsFinancing%2F014705&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-36">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-36">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cetonline.org/FarmBusiness/meco_incentives_for_farms.php" rel="nofollow">
+          National Grid incentives for installing efficient equipment
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit&amp;section=13" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://attra.ncat.org/" rel="nofollow">
+        National Sustainable Agriculture Information Service (ATTRA)
+       </a>
+       , home page
+       <ul>
+        <li>
+         <a class="external text" href="http://attra.ncat.org/attra-pub/farm_energy/index.php" rel="nofollow">
+          Farm Energy Alternatives (ATTRA)
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a class="external text" href="http://afsic.nal.usda.gov/nal_display/index.php?info_center=2&amp;tax_level=1" rel="nofollow">
+        Alternative Farming Systems Information Center (AFSIC)
+       </a>
+       , a
+       <a class="mw-redirect" href="/wiki/USDA" title="USDA">
+        USDA
+       </a>
+       National Agricultural Library webpage
+      </li>
+      <li>
+       <a class="external text" href="http://www.aceee.org/" rel="nofollow">
+        American Council for an Energy-Efficient Economy
+       </a>
+       , home page
+      </li>
+      <li>
+       <a class="external text" href="http://www.farm-energy.ca/IReF/index.php?page=energy-efficiency-measures" rel="nofollow">
+        Integration of Renewable Energy on Farms
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ag.ndsu.edu/energy/farmandranch" rel="nofollow">
+        Energy Savings
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ers.usda.gov/Publications/AP/AP037/AP037fm.pdf" rel="nofollow">
+        Manure Use for Fertilizer and for Energy: Report to Congress
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://ageconsearch.umn.edu/bitstream/34379/1/0604br01.pdf" rel="nofollow">
+        RISE, a Tool for Holistic Sustainability Assessment at the Farm Level
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.efficiencyvermont.com" rel="nofollow">
+        Efficiency Vermont
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.efficiencymaine.com" rel="nofollow">
+        Efficiency Maine
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.texasefficiency.com" rel="nofollow">
+        Texas Efficiency
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.nffc.net/Pressroom/Press%20Releases/2009/Bunting%20-%20Dairy%20Farm%20Crisis%202009.pdf" rel="nofollow">
+        Dairy Farm Crisis 2009
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://minnesota.publicradio.org/display/web/2009/11/26/farmcrisis/" rel="nofollow">
+        As need returns, so do farm crisis hotlines (AgriWellness)
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.farmenergy.org" rel="nofollow">
+        FarmEnergy.org
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:27059465-0!*!0!!en!*!* and timestamp 20161028141229 and revision id 682254903
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;oldid=682254903">
+      https://en.wikipedia.org/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;oldid=682254903
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Electric_power_in_the_United_States" title="Category:Electric power in the United States">
+         Electric power in the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Agriculture_in_the_United_States" title="Category:Agriculture in the United States">
+         Agriculture in the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electrical+energy+efficiency+on+United+States+farms" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Electrical+energy+efficiency+on+United+States+farms" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Electrical_energy_efficiency_on_United_States_farms" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Electrical_energy_efficiency_on_United_States_farms" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Electrical_energy_efficiency_on_United_States_farms">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Electrical_energy_efficiency_on_United_States_farms" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Electrical_energy_efficiency_on_United_States_farms" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;oldid=682254903" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5357717" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electrical_energy_efficiency_on_United_States_farms&amp;id=682254903" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electrical+energy+efficiency+on+United+States+farms">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electrical+energy+efficiency+on+United+States+farms&amp;returnto=Electrical+energy+efficiency+on+United+States+farms&amp;oldid=682254903&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5357717#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 22 September 2015, at 15:02.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Electrical_energy_efficiency_on_United_States_farms&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.132",
+            "walltime": "0.145",
+            "ppvisitednodes": {
+                "value": 843,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 20815,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 14,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  122.904      1 -total",
+                " 70.35%   86.469      1 Template:Reflist",
+                " 53.64%   65.920     15 Template:Cite_web",
+                " 14.20%   17.453      1 Template:Main",
+                "  3.01%    3.701      1 Template:Colbegin",
+                "  1.36%    1.674      1 Template:Colend",
+                "  0.87%    1.071      2 Template:Column-count"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.056",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2918591,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1275",
+            "timestamp": "20161028141229",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1267"});});
+  </script>
+ </body>
+</html>

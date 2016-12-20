@@ -1,0 +1,1497 @@
+https://en.wikipedia.org/wiki/Council_of_Australian_Governments
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Council of Australian Governments - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Council_of_Australian_Governments","wgTitle":"Council of Australian Governments","wgCurRevisionId":740648046,"wgRevisionId":740648046,"wgArticleId":1650877,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Government of Australia","1992 establishments in Australia","Organizations established in 1992"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Council_of_Australian_Governments","wgRelevantArticleId":1650877,"wgRequestId":"WBxG9ApAEK4AAFxOFPIAAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5176355","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Council_of_Australian_Governments" rel="alternate"/>
+  <link href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Council_of_Australian_Governments" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Council_of_Australian_Governments rootpage-Council_of_Australian_Governments skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Council of Australian Governments
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "COAG" redirects here. For other uses, see
+      <a class="mw-disambig" href="/wiki/COAG_(disambiguation)" title="COAG (disambiguation)">
+       COAG (disambiguation)
+      </a>
+      .
+     </div>
+     <p>
+      The
+      <b>
+       Council of Australian Governments
+      </b>
+      (
+      <b>
+       COAG
+      </b>
+      ) is an organisation consisting of the
+      <a href="/wiki/Government_of_Australia" title="Government of Australia">
+       federal government
+      </a>
+      , the governments of the
+      <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">
+       six states and two mainland territories
+      </a>
+      and the
+      <a href="/wiki/Australian_Local_Government_Association" title="Australian Local Government Association">
+       Australian Local Government Association
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Current_membership">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Current membership
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#COAG_and_state_finances">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          COAG and state finances
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#List_of_COAG_councils">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            List of COAG councils
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Reports">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Reports
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Criticism">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Criticism
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#External_links">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      COAG was established in May 1992 after agreement by the then
+      <a href="/wiki/Prime_Minister_of_Australia" title="Prime Minister of Australia">
+       Prime Minister
+      </a>
+      (
+      <a href="/wiki/Paul_Keating" title="Paul Keating">
+       Paul Keating
+      </a>
+      ), premiers and chief ministers, and it first met in December 1992. It is chaired by the Prime Minister. It meets to debate and co-ordinate government activities between the federal and state or territorial governments and between the state and territorial governments themselves as well as issues affecting local government.
+     </p>
+     <p>
+      COAG grew out of the Premiers' Conferences, which had been held for many decades. These were limited to the premiers of the six states and the Prime Minister.
+     </p>
+     <p>
+      A related organisation is the
+      <a href="/wiki/Loan_Council" title="Loan Council">
+       Loan Council
+      </a>
+      , which coordinates borrowing by the federal and state and territorial governments of Australia.
+     </p>
+     <p>
+      COAG differs from the
+      <a href="/wiki/United_States" title="United States">
+       U.S.
+      </a>
+      's
+      <a href="/wiki/National_Governors_Association" title="National Governors Association">
+       National Governors Association
+      </a>
+      or
+      <a href="/wiki/Canada" title="Canada">
+       Canada
+      </a>
+      's
+      <a class="mw-redirect" href="/wiki/Council_of_the_Federation_(Canada)" title="Council of the Federation (Canada)">
+       Council of the Federation
+      </a>
+      , because these bodies only include state/provincial representatives, whereas COAG also includes federal and local representatives.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Current_membership">
+       Current membership
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=2" title="Edit section: Current membership">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="sortable wikitable">
+      <tr>
+       <th>
+        Name
+       </th>
+       <th>
+        Office held
+       </th>
+       <th>
+        In office since
+       </th>
+       <th colspan="2">
+        Party
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Malcolm_Turnbull" title="Malcolm Turnbull">
+         Malcolm Turnbull
+        </a>
+        <a href="/wiki/Australian_House_of_Representatives" title="Australian House of Representatives">
+         MP
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Prime_Minister_of_Australia" title="Prime Minister of Australia">
+         Prime Minister
+        </a>
+        of
+        <a href="/wiki/Australia" title="Australia">
+         Australia
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002015-09-15-0000
+        </span>
+        <span style="white-space:nowrap">
+         15 September 2015
+        </span>
+       </td>
+       <td bgcolor="#080CAB">
+       </td>
+       <td>
+        <a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">
+         Liberal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Mike_Baird_(politician)" title="Mike Baird (politician)">
+         Mike Baird
+        </a>
+        <a href="/wiki/New_South_Wales_Legislative_Assembly" title="New South Wales Legislative Assembly">
+         MP
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_New_South_Wales" title="Premier of New South Wales">
+         Premier
+        </a>
+        of
+        <a href="/wiki/New_South_Wales" title="New South Wales">
+         New South Wales
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002014-04-17-0000
+        </span>
+        <span style="white-space:nowrap">
+         17 April 2014
+        </span>
+       </td>
+       <td bgcolor="#080CAB">
+       </td>
+       <td>
+        <a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">
+         Liberal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Daniel_Andrews" title="Daniel Andrews">
+         Daniel Andrews
+        </a>
+        <a href="/wiki/Victorian_Legislative_Assembly" title="Victorian Legislative Assembly">
+         MP
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_Victoria" title="Premier of Victoria">
+         Premier
+        </a>
+        of
+        <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">
+         Victoria
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002014-12-04-0000
+        </span>
+        <span style="white-space:nowrap">
+         4 December 2014
+        </span>
+       </td>
+       <td bgcolor="#F00011">
+       </td>
+       <td>
+        <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">
+         Labor
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Annastacia_Palaszczuk" title="Annastacia Palaszczuk">
+         Annastacia Palaszczuk
+        </a>
+        <a href="/wiki/Legislative_Assembly_of_Queensland" title="Legislative Assembly of Queensland">
+         MP
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_Queensland" title="Premier of Queensland">
+         Premier
+        </a>
+        of
+        <a href="/wiki/Queensland" title="Queensland">
+         Queensland
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002015-02-14-0000
+        </span>
+        <span style="white-space:nowrap">
+         14 February 2015
+        </span>
+       </td>
+       <td bgcolor="#F00011">
+       </td>
+       <td>
+        <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">
+         Labor
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Colin_Barnett" title="Colin Barnett">
+         Colin Barnett
+        </a>
+        <a href="/wiki/Western_Australian_Legislative_Assembly" title="Western Australian Legislative Assembly">
+         MLA
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_Western_Australia" title="Premier of Western Australia">
+         Premier
+        </a>
+        of
+        <a href="/wiki/Western_Australia" title="Western Australia">
+         Western Australia
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002008-09-23-0000
+        </span>
+        <span style="white-space:nowrap">
+         23 September 2008
+        </span>
+       </td>
+       <td bgcolor="#080CAB">
+       </td>
+       <td>
+        <a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">
+         Liberal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Jay_Weatherill" title="Jay Weatherill">
+         Jay Weatherill
+        </a>
+        <a href="/wiki/South_Australian_House_of_Assembly" title="South Australian House of Assembly">
+         MHA
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_South_Australia" title="Premier of South Australia">
+         Premier
+        </a>
+        of
+        <a href="/wiki/South_Australia" title="South Australia">
+         South Australia
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002011-10-21-0000
+        </span>
+        <span style="white-space:nowrap">
+         21 October 2011
+        </span>
+       </td>
+       <td bgcolor="#F00011">
+       </td>
+       <td>
+        <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">
+         Labor
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Will_Hodgman" title="Will Hodgman">
+         Will Hodgman
+        </a>
+        <a href="/wiki/Tasmanian_House_of_Assembly" title="Tasmanian House of Assembly">
+         MHA
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Premier_of_Tasmania" title="Premier of Tasmania">
+         Premier
+        </a>
+        of
+        <a href="/wiki/Tasmania" title="Tasmania">
+         Tasmania
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002014-03-31-0000
+        </span>
+        <span style="white-space:nowrap">
+         31 March 2014
+        </span>
+       </td>
+       <td bgcolor="#080CAB">
+       </td>
+       <td>
+        <a href="/wiki/Liberal_Party_of_Australia" title="Liberal Party of Australia">
+         Liberal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Andrew_Barr" title="Andrew Barr">
+         Andrew Barr
+        </a>
+        <a href="/wiki/Australian_Capital_Territory_Legislative_Assembly" title="Australian Capital Territory Legislative Assembly">
+         MLA
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Chief_Minister_of_the_Australian_Capital_Territory" title="Chief Minister of the Australian Capital Territory">
+         Chief Minister
+        </a>
+        of the
+        <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">
+         Australian Capital Territory
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002014-12-11-0000
+        </span>
+        <span style="white-space:nowrap">
+         11 December 2014
+        </span>
+       </td>
+       <td bgcolor="#F00011">
+       </td>
+       <td>
+        <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">
+         Labor
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Michael_Gunner" title="Michael Gunner">
+         Michael Gunner
+        </a>
+        <a href="/wiki/Northern_Territory_Legislative_Assembly" title="Northern Territory Legislative Assembly">
+         MLA
+        </a>
+       </td>
+       <td>
+        <a href="/wiki/Chief_Minister_of_the_Northern_Territory" title="Chief Minister of the Northern Territory">
+         Chief Minister
+        </a>
+        of the
+        <a href="/wiki/Northern_Territory" title="Northern Territory">
+         Northern Territory
+        </a>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002016-08-31-0000
+        </span>
+        <span style="white-space:nowrap">
+         31 August 2016
+        </span>
+       </td>
+       <td bgcolor="#F00011">
+       </td>
+       <td>
+        <a class="mw-redirect mw-disambig" href="/wiki/Labor" title="Labor">
+         Labor
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Cr Troy Pickard
+       </td>
+       <td>
+        President of the
+        <a href="/wiki/Australian_Local_Government_Association" title="Australian Local Government Association">
+         Australian Local Government Association
+        </a>
+        <sup class="reference" id="cite_ref-1">
+         <a href="#cite_note-1">
+          [1]
+         </a>
+        </sup>
+       </td>
+       <td>
+        <span class="sortkey" style="display:none;speak:none">
+         000000002014-09-01-0000
+        </span>
+        <span style="white-space:nowrap">
+         September 2014
+        </span>
+       </td>
+       <td bgcolor="#888888">
+       </td>
+       <td>
+        n/a
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="COAG_and_state_finances">
+       COAG and state finances
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=3" title="Edit section: COAG and state finances">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Further information:
+      <a href="/wiki/Commonwealth_Grants_Commission" title="Commonwealth Grants Commission">
+       Commonwealth Grants Commission
+      </a>
+      and
+      <a href="/wiki/Fiscal_imbalance_in_Australia" title="Fiscal imbalance in Australia">
+       Fiscal imbalance in Australia
+      </a>
+     </div>
+     <p>
+      <a href="/wiki/Australia" title="Australia">
+       Australia
+      </a>
+      is believed to be the first federation to have introduced a formal system of
+      <a href="/wiki/Equalization_payments" title="Equalization payments">
+       horizontal fiscal equalisation
+      </a>
+      (HFE) which was introduced in 1933 to compensate
+      <a class="mw-redirect" href="/wiki/States_of_Australia" title="States of Australia">
+       States
+      </a>
+      which have a lower capacity to raise revenue. Many federations use fiscal equalisation to reduce the inequalities in the fiscal capacities of sub-national governments arising from the differences in their geography, demography, natural endowments and economies. However the level of equalisation sought varies. In Australia, the objective is full equalisation.
+     </p>
+     <p>
+      Full equalisation means that, after HFE, each of the six states, the Australian Capital Territory and the Northern Territory would have the capacity to provide services and the associated infrastructure at the same standard, if each state or territory made the same effort to raise revenue from its own sources and operated at the same level of efficiency.
+     </p>
+     <p>
+      Currently the funds distributed to achieve HFE are the revenues raised from the
+      <a class="mw-redirect" href="/wiki/Goods_and_Services_Tax_(Australia)" title="Goods and Services Tax (Australia)">
+       Goods and Services Tax
+      </a>
+      (GST), currently about AUD50bn a year. The distribution of GST required to achieve HFE is decided by the Federal Treasurer each year, on the basis of advice provided by the
+      <a href="/wiki/Commonwealth_Grants_Commission" title="Commonwealth Grants Commission">
+       Commonwealth Grants Commission
+      </a>
+      (CGC).
+     </p>
+     <p>
+      Achieving HFE does not mean that the states and territories are directed how to raise revenue or how to spend their funds. GST revenue grants from the Commonwealth are unencumbered and available for any purpose. Accordingly, HFE equalises fiscal capacity, not fiscal policies which remain for the states and territories to decide for themselves. It does not result in the same level of services or taxes in all states and territories, direct that the states and territories must achieve any specified level of service in any area, nor impose actual budget outcomes in accordance with the Commission's calculations.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      At its meeting on 13 December 2013, COAG agreed to streamline the COAG council system and refocus on COAG's priorities over the next 12 to 18 months.
+     </p>
+     <h3>
+      <span class="mw-headline" id="List_of_COAG_councils">
+       List of COAG councils
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=4" title="Edit section: List of COAG councils">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      There are now eight COAG councils:
+     </p>
+     <ul>
+      <li>
+       Federal Financial Relations Council;
+      </li>
+      <li>
+       Disability Reform Council;
+      </li>
+      <li>
+       Transport and Infrastructure Council;
+      </li>
+      <li>
+       Energy Council;
+      </li>
+      <li>
+       Industry and Skills Council;
+      </li>
+      <li>
+       Law, Crime and Community Safety Council;
+      </li>
+      <li>
+       Education Council; and
+      </li>
+      <li>
+       Health Council
+      </li>
+     </ul>
+     <p>
+      There is no longer a distinction between standing and select councils, as all councils are time-limited.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The Select Council on Disability Reform expired on 31 December 2012 due to the passage of
+      <a href="/wiki/National_Disability_Insurance_Scheme" title="National Disability Insurance Scheme">
+       National Disability Insurance Scheme
+      </a>
+      legislation.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Reports">
+       Reports
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=5" title="Edit section: Reports">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On 30 August 2012, COAG released its
+      <a class="external text" href="http://www.coag.gov.au/node/451" rel="nofollow">
+       Housing Supply and Affordability Reform
+      </a>
+      report, proposing reforms to increase housing affordability in Australia. The report omitted the fact that of the 20% of Australia (more than 1,500,000km2) owned by Aboriginals and Torres Strait Islanders, they are not allowed to own their own home.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Criticism">
+       Criticism
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=6" title="Edit section: Criticism">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In 2012 a group of 20 environmental organisations release a joint communiqué denouncing the establishment of the COAG Business Advisory Forum and wanted wider representation on the Forum. The groups also opposed the weakening of environmental regulations.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Fiscal_imbalance_in_Australia" title="Fiscal imbalance in Australia">
+        Fiscal imbalance in Australia
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Inter-State_Commission" title="Inter-State Commission">
+        Inter-State Commission
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Australian Local Government Association (2010).
+          <a class="external text" href="http://www.alga.asn.au/?ID=58&amp;Menu=41,305" rel="nofollow">
+           "President: Australian Local Government Association"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-03-31
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACouncil+of+Australian+Governments&amp;rft.au=Australian+Local+Government+Association&amp;rft.btitle=President%3A+Australian+Local+Government+Association&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.alga.asn.au%2F%3FID%3D58%26Menu%3D41%2C305&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cgc.gov.au/" rel="nofollow">
+          Commonwealth Grants Commission
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.coag.gov.au/coag_councils" rel="nofollow">
+          https://www.coag.gov.au/coag_councils
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cis.org.au/publications/policy-monographs/article/2257-private-housing-on-indigenous-lands" rel="nofollow">
+          Centre for Independent Studies, 'Private Housing on Indigenous Lands'
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.ens-newswire.com/ens/jun2012/2012-06-05-01.html" rel="nofollow">
+           "Australian Groups Protest Business 'Attack' on Environmental Laws"
+          </a>
+          . Canberra, Australia: Environment News Service. 5 June 2012
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            11 June
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACouncil+of+Australian+Governments&amp;rft.atitle=Australian+Groups+Protest+Business+%27Attack%27+on+Environmental+Laws&amp;rft.date=2012-06-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ens-newswire.com%2Fens%2Fjun2012%2F2012-06-05-01.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit&amp;section=9" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wikinews-logo.svg">
+         <img alt="" class="noviewer" data-file-height="415" data-file-width="759" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" width="40"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikinews has related news:
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wikinews.org/wiki/Australian_governments_to_meet_for_first_COAG_meeting_of_2006_today" title="wikinews:Australian governments to meet for first COAG meeting of 2006 today">
+           Australian governments to meet for first COAG meeting of 2006 today
+          </a>
+         </b>
+        </i>
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.coag.gov.au" rel="nofollow">
+        Council of Australian Governments
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1650877-0!*!0!!en!4!* and timestamp 20161104071131 and revision id 740648046
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Council_of_Australian_Governments&amp;oldid=740648046">
+      https://en.wikipedia.org/w/index.php?title=Council_of_Australian_Governments&amp;oldid=740648046
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Government_of_Australia" title="Category:Government of Australia">
+         Government of Australia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1992_establishments_in_Australia" title="Category:1992 establishments in Australia">
+         1992 establishments in Australia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organizations_established_in_1992" title="Category:Organizations established in 1992">
+         Organizations established in 1992
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Council+of+Australian+Governments" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Council+of+Australian+Governments" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Council_of_Australian_Governments" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Council_of_Australian_Governments" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Council_of_Australian_Governments">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Council_of_Australian_Governments&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Council_of_Australian_Governments&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Council_of_Australian_Governments" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Council_of_Australian_Governments" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Council_of_Australian_Governments&amp;oldid=740648046" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Council_of_Australian_Governments&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5176355" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Council_of_Australian_Governments&amp;id=740648046" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Council+of+Australian+Governments">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Council+of+Australian+Governments&amp;returnto=Council+of+Australian+Governments&amp;oldid=740648046&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Council_of_Australian_Governments&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5176355#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 22 September 2016, at 11:16.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Council_of_Australian_Governments&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.080",
+            "walltime": "0.121",
+            "ppvisitednodes": {
+                "value": 477,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 8818,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 396,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   98.034      1 -total",
+                " 33.06%   32.407      1 Template:Reflist",
+                " 32.84%   32.194      1 Template:Redirect",
+                " 23.96%   23.489      1 Template:Cite_web",
+                " 14.24%   13.960     10 Template:Dts",
+                "  6.63%    6.503      1 Template:Wikinews",
+                "  5.67%    5.560      1 Template:Further",
+                "  5.46%    5.357      1 Template:Sister_project",
+                "  3.54%    3.470      1 Template:Cite_news",
+                "  3.14%    3.083      1 Template:Side_box"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.031",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1706992,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1248",
+            "timestamp": "20161104071132",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54,"wgHostname":"mw1219"});});
+  </script>
+ </body>
+</html>

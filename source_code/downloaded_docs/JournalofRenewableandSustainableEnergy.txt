@@ -1,0 +1,1024 @@
+https://en.wikipedia.org/wiki/Journal_of_Renewable_and_Sustainable_Energy
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Journal of Renewable and Sustainable Energy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Journal_of_Renewable_and_Sustainable_Energy","wgTitle":"Journal of Renewable and Sustainable Energy","wgCurRevisionId":672922635,"wgRevisionId":672922635,"wgArticleId":26954124,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Energy and fuel journals","English-language journals","Monthly journals","Open access journals","Physics journals","Publications established in 2009","Sustainability-related journals","All stub articles","Physics journal stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Journal_of_Renewable_and_Sustainable_Energy","wgRelevantArticleId":26954124,"wgRequestId":"WBw-vApAIDQAADizOysAAABG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6295857","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Journal_of_Renewable_and_Sustainable_Energy" rel="alternate"/>
+  <link href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Journal_of_Renewable_and_Sustainable_Energy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Journal_of_Renewable_and_Sustainable_Energy rootpage-Journal_of_Renewable_and_Sustainable_Energy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     Journal of Renewable and Sustainable Energy
+    </i>
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox hproduct" style="width:22em">
+      <caption style="font-size:130%;">
+       <i>
+        <span class="fn">
+         Journal of Renewable and Sustainable Energy
+        </span>
+       </i>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.stitle=IRESR&amp;rft.issn=1941-7012&amp;rft_id=http%3A%2F%2Fjrse.aip.org">
+       </span>
+      </caption>
+      <tr>
+       <th scope="row">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Abbreviated title (
+         <a href="/wiki/ISO_4" title="ISO 4">
+          ISO 4
+         </a>
+         )
+        </div>
+       </th>
+       <td class="identifier" style="text-align:left;">
+        <i>
+         IRESR
+        </i>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">
+         Discipline
+        </a>
+       </th>
+       <td class="category" style="text-align:left;">
+        <a href="/wiki/Physics" title="Physics">
+         Physics
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Language
+       </th>
+       <td style="text-align:left;">
+        English
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background:#dfc;">
+        Publication details
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        Publisher
+       </th>
+       <td style="text-align:left;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         <a href="/wiki/American_Institute_of_Physics" title="American Institute of Physics">
+          American Institute of Physics
+         </a>
+         <span style="font-size:90%;">
+          (
+          <a href="/wiki/United_States" title="United States">
+           United States
+          </a>
+          )
+         </span>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Publication history
+        </div>
+       </th>
+       <td style="text-align:left;">
+        2009-present
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Frequency
+       </th>
+       <td style="text-align:left;">
+        bimonthly
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background:#dfc;">
+        Indexing
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        <span class="type">
+         <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+          ISSN
+         </a>
+        </span>
+       </th>
+       <td style="text-align:left;">
+        <span class="value">
+         <a class="external text" href="//www.worldcat.org/issn/1941-7012" rel="nofollow">
+          1941-7012
+         </a>
+        </span>
+        <br/>
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background:#dfc;">
+        Links
+       </th>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center;text-align:left;">
+        <ul>
+         <li>
+          <a class="external text" href="http://jrse.aip.org" rel="nofollow">
+           Journal homepage
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <i>
+       <b>
+        Journal of Renewable and Sustainable Energy
+       </b>
+      </i>
+      is a free and rapid publishing
+      <a href="/wiki/Peer_review" title="Peer review">
+       peer-reviewed
+      </a>
+      , online-only,
+      <a class="mw-redirect" href="/wiki/Open_access_(publishing)" title="Open access (publishing)">
+       open access
+      </a>
+      ,
+      <a href="/wiki/Scientific_journal" title="Scientific journal">
+       scientific journal
+      </a>
+      published by the
+      <a href="/wiki/American_Institute_of_Physics" title="American Institute of Physics">
+       American Institute of Physics
+      </a>
+      covering all areas of
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable
+      </a>
+      and
+      <a href="/wiki/Sustainable_energy" title="Sustainable energy">
+       sustainable energy
+      </a>
+      -related fields that apply to the physical science and engineering communities. Online submissions are posted daily and organized into bimonthly issues. The journal was established in 2009.The Co-Editors-in-Chief are P. Craig Taylor (
+      <a href="/wiki/Colorado_School_of_Mines" title="Colorado School of Mines">
+       Colorado School of Mines
+      </a>
+      ) and John A. Turner (
+      <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+       National Renewable Energy Laboratory
+      </a>
+      ).
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Impact">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Impact
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#See_also">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#References">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Impact">
+       Impact
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit&amp;section=1" title="Edit section: Impact">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The journal's 2014 impact factor was 0.904.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit&amp;section=2" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Energy_%26_Environment" title="Energy &amp; Environment">
+        Energy &amp; Environment
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">
+        Renewable and Sustainable Energy Reviews
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Solar_Energy_(journal)" title="Solar Energy (journal)">
+        Solar Energy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_books_about_renewable_energy" title="List of books about renewable energy">
+        List of books about renewable energy
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit&amp;section=3" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://jrse.aip.org/about/about_the_journal" rel="nofollow">
+          "About JRSE".
+         </a>
+         Accessed: July 24, 2015.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit&amp;section=4" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://jrse.aip.org/" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+      </li>
+     </ul>
+     <p>
+      <br/>
+     </p>
+     <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+      <tr>
+       <td>
+        <a class="image" href="/wiki/File:Science.jpg">
+         <img alt="Stub icon 1" data-file-height="75" data-file-width="70" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Science.jpg/30px-Science.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Science.jpg/45px-Science.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Science.jpg/60px-Science.jpg 2x" width="30"/>
+        </a>
+        <a class="image" href="/wiki/File:Book_Hexagonal_Icon.svg">
+         <img alt="Stub icon 2" data-file-height="31" data-file-width="36" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/30px-Book_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/45px-Book_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/60px-Book_Hexagonal_Icon.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td>
+        <i>
+         This article about a physics journal is a
+         <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">
+          stub
+         </a>
+         . You can help Wikipedia by
+         <a class="external text" href="//en.wikipedia.org/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit">
+          expanding it
+         </a>
+         .
+        </i>
+        <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Physics-journal-stub" title="Template:Physics-journal-stub">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Physics-journal-stub" title="Template talk:Physics-journal-stub">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physics-journal-stub&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+        <br/>
+        <span style="font-style:normal;font-size:smaller">
+         <a href="/wiki/Wikipedia:WikiProject_Academic_Journals/Writing_guide" title="Wikipedia:WikiProject Academic Journals/Writing guide">
+          See tips for writing articles about academic journals
+         </a>
+         . Further suggestions might be found on the article's
+         <a href="/wiki/Talk:Journal_of_Renewable_and_Sustainable_Energy" title="Talk:Journal of Renewable and Sustainable Energy">
+          talk page
+         </a>
+         .
+        </span>
+       </td>
+      </tr>
+     </table>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:26954124-0!*!0!!en!4!* and timestamp 20161027032304 and revision id 672922635
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;oldid=672922635">
+      https://en.wikipedia.org/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;oldid=672922635
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_and_fuel_journals" title="Category:Energy and fuel journals">
+         Energy and fuel journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:English-language_journals" title="Category:English-language journals">
+         English-language journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Monthly_journals" title="Category:Monthly journals">
+         Monthly journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Open_access_journals" title="Category:Open access journals">
+         Open access journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Physics_journals" title="Category:Physics journals">
+         Physics journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Publications_established_in_2009" title="Category:Publications established in 2009">
+         Publications established in 2009
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainability-related_journals" title="Category:Sustainability-related journals">
+         Sustainability-related journals
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Physics_journal_stubs" title="Category:Physics journal stubs">
+         Physics journal stubs
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">
+         All stub articles
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Journal+of+Renewable+and+Sustainable+Energy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Journal+of+Renewable+and+Sustainable+Energy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Journal_of_Renewable_and_Sustainable_Energy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Journal_of_Renewable_and_Sustainable_Energy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Journal_of_Renewable_and_Sustainable_Energy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Journal_of_Renewable_and_Sustainable_Energy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Journal_of_Renewable_and_Sustainable_Energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;oldid=672922635" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q6295857" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Journal_of_Renewable_and_Sustainable_Energy&amp;id=672922635" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Journal+of+Renewable+and+Sustainable+Energy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Journal+of+Renewable+and+Sustainable+Energy&amp;returnto=Journal+of+Renewable+and+Sustainable+Energy&amp;oldid=672922635&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%86%8D%E7%94%9F%E8%88%87%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%83%BD%E6%BA%90%E6%9C%9F%E5%88%8A" hreflang="zh" lang="zh" title="可再生與可持續能源期刊 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q6295857#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 24 July 2015, at 19:57.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Journal_of_Renewable_and_Sustainable_Energy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.088",
+            "walltime": "0.134",
+            "ppvisitednodes": {
+                "value": 787,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 11365,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 747,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 13,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  117.205      1 -total",
+                " 46.05%   53.967      1 Template:Infobox_Journal",
+                " 30.72%   36.008      1 Template:Infobox",
+                " 26.57%   31.142      1 Template:Official_website",
+                " 15.80%   18.520      1 Template:Italic_title",
+                "  8.08%    9.472      1 Template:Physics-journal-stub",
+                "  6.83%    8.002      1 Template:Asbox",
+                "  5.70%    6.685      1 Template:Infobox_journal/ISSN-eISSN",
+                "  4.43%    5.198      1 Template:ISSN_link",
+                "  3.41%    3.992      3 Template:Longitem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.034",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1544829,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1212",
+            "timestamp": "20161027032304",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1182"});});
+  </script>
+ </body>
+</html>

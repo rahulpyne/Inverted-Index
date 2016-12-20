@@ -1,0 +1,1858 @@
+https://en.wikipedia.org/wiki/Sustainable_materials_management
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Sustainable materials management - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sustainable_materials_management","wgTitle":"Sustainable materials management","wgCurRevisionId":739650168,"wgRevisionId":739650168,"wgArticleId":51497431,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2016","All articles needing additional references","Articles lacking reliable references from September 2016","All articles lacking reliable references","Articles with too few wikilinks from September 2016","All articles with too few wikilinks","Articles covered by WikiProject Wikify from September 2016","All articles covered by WikiProject Wikify","Articles to be expanded from September 2016","All articles to be expanded","Articles with empty sections from September 2016","All articles with empty sections","Articles using small message boxes","Sustainability","Product lifecycle management"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sustainable_materials_management","wgRelevantArticleId":51497431,"wgRequestId":"WBw-1ApAICkAAAYzw1YAAAAE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sustainable_materials_management" rel="alternate"/>
+  <link href="/w/index.php?title=Sustainable_materials_management&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Sustainable_materials_management&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Sustainable_materials_management" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sustainable_materials_management rootpage-Sustainable_materials_management skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Sustainable materials management
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+         <span class="mbox-text-span">
+          <b>
+           This article has multiple issues.
+          </b>
+          Please help
+          <b>
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;action=edit">
+            improve it
+           </a>
+          </b>
+          or discuss these issues on the
+          <b>
+           <a href="/wiki/Talk:Sustainable_materials_management" title="Talk:Sustainable materials management">
+            talk page
+           </a>
+          </b>
+          .
+          <small>
+           <i>
+            (
+            <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+             Learn how and when to remove these template messages
+            </a>
+            )
+           </i>
+          </small>
+         </span>
+         <div class="mw-collapsible-content" style="margin-top: 0.3em;">
+          <table class="plainlinks metadata ambox ambox-content ambox-one_source" role="presentation">
+           <tr>
+            <td class="mbox-image">
+             <div style="width:52px">
+              <a class="image" href="/wiki/File:Question_book-new.svg">
+               <img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+              </a>
+             </div>
+            </td>
+            <td class="mbox-text">
+             <span class="mbox-text-span">
+              This article
+              <b>
+               relies largely or entirely upon a single
+               <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">
+                source
+               </a>
+              </b>
+              .
+              <span class="hide-when-compact">
+               Relevant discussion may be found on the
+               <a href="/wiki/Talk:Sustainable_materials_management#.23" title="Talk:Sustainable materials management">
+                talk page
+               </a>
+               . Please help
+               <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;action=edit">
+                improve this article
+               </a>
+               by introducing
+               <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+                citations
+               </a>
+               to additional sources.
+              </span>
+              <small>
+               <i>
+                (September 2016)
+               </i>
+              </small>
+             </span>
+            </td>
+           </tr>
+          </table>
+          <table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+           <tr>
+            <td class="mbox-image">
+             <div style="width:52px">
+              <a class="image" href="/wiki/File:Question_book-new.svg">
+               <img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+              </a>
+             </div>
+            </td>
+            <td class="mbox-text">
+             <span class="mbox-text-span">
+              This article
+              <b>
+               relies too much on
+               <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+                references
+               </a>
+               to
+               <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">
+                primary sources
+               </a>
+              </b>
+              .
+              <span class="hide-when-compact">
+               Please improve this by adding
+               <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">
+                secondary or tertiary sources
+               </a>
+               .
+              </span>
+              <small>
+               <i>
+                (September 2016)
+               </i>
+              </small>
+              <small class="hide-when-compact">
+               <i>
+                (
+                <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                 Learn how and when to remove this template message
+                </a>
+                )
+               </i>
+              </small>
+             </span>
+            </td>
+           </tr>
+          </table>
+          <table class="plainlinks metadata ambox ambox-style" role="presentation">
+           <tr>
+            <td class="mbox-image">
+             <div style="width:52px">
+              <img alt="" data-file-height="620" data-file-width="620" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/40px-Ambox_wikify.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/60px-Ambox_wikify.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/80px-Ambox_wikify.svg.png 2x" width="40"/>
+             </div>
+            </td>
+            <td class="mbox-text">
+             <span class="mbox-text-span">
+              This article
+              <b>
+               needs more
+               <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">
+                links to other articles
+               </a>
+               to help
+               <a class="mw-redirect" href="/wiki/Wikipedia:BUILD" title="Wikipedia:BUILD">
+                integrate it into the encyclopedia
+               </a>
+              </b>
+              .
+              <span class="hide-when-compact">
+               Please help
+               <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;action=edit">
+                improve this article
+               </a>
+               by adding links
+               <a class="mw-redirect" href="/wiki/Wikipedia:Only_make_links_that_are_relevant_to_the_context" title="Wikipedia:Only make links that are relevant to the context">
+                that are relevant to the context
+               </a>
+               within the existing text.
+              </span>
+              <small>
+               <i>
+                (September 2016)
+               </i>
+              </small>
+              <small class="hide-when-compact">
+               <i>
+                (
+                <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+                 Learn how and when to remove this template message
+                </a>
+                )
+               </i>
+              </small>
+             </span>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+        <small class="hide-when-compact">
+         <i>
+          (
+          <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+           Learn how and when to remove this template message
+          </a>
+          )
+         </i>
+        </small>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Sustainable materials management
+      </b>
+      is a systemic approach to using and reusing materials more productively over their entire lifecycles. It represents a change in how our society thinks about the use of natural resources and environmental protection. By looking at a product's entire lifecycle we can find new opportunities to reduce environmental impacts, conserve resources, and reduce costs.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      U.S. and global consumption of materials increased rapidly during the last century. According to the Annex to the G7 Leaders’ June 8, 2015 Declaration, global raw material use rose during the 20th century at about twice the rate of population growth. For every 1 percent increase in gross domestic product, raw material use has risen by 0.4 percent. This increasing consumption has come at a cost to the environment, including habitat destruction, biodiversity loss, overly stressed fisheries and desertification. Materials management is also associated with an estimated 42 percent of total U.S. greenhouse gas emissions. Failure to find more productive and sustainable ways to extract, use and manage materials, and change the relationship between material consumption and growth, has grave implications for our economy and society.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Benefits">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Benefits
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Goal">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Goal
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#References">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Benefits">
+       Benefits
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=1" title="Edit section: Benefits">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg">
+         <img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/>
+        </a>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         <b>
+          This section is empty.
+         </b>
+         <small>
+          You can help by
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=">
+           adding to it
+          </a>
+          .
+         </small>
+         <small>
+          <i>
+           (September 2016)
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="Goal">
+       Goal
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=2" title="Edit section: Goal">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg">
+         <img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/>
+        </a>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         <b>
+          This section is empty.
+         </b>
+         <small>
+          You can help by
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=">
+           adding to it
+          </a>
+          .
+         </small>
+         <small>
+          <i>
+           (September 2016)
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=3" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.epa.gov/smm" rel="nofollow">
+          https://www.epa.gov/smm
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Sustainable_materials_management&amp;action=edit&amp;section=4" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Sustainability" title="Template:Sustainability">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Sustainability" style="font-size:114%">
+          <a href="/wiki/Sustainability" title="Sustainability">
+           Sustainability
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">
+          Principles
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ecological_modernization" title="Ecological modernization">
+             Ecological modernization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmentalism" title="Environmentalism">
+             Environmentalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">
+             Human impact on the environment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_boundaries" title="Planetary boundaries">
+             Planetary boundaries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Social_sustainability" title="Social sustainability">
+             Social sustainability
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stewardship" title="Stewardship">
+             Stewardship
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_development" title="Sustainable development">
+             Sustainable development
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Consumption_(economics)" title="Consumption (economics)">
+          Consumption
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropization" title="Anthropization">
+             Anthropization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Anti-consumerism" title="Anti-consumerism">
+             Anti-consumerism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+             Ecological footprint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethical_consumerism" title="Ethical consumerism">
+             Ethical
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">
+             Over-consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Simple_living" title="Simple living">
+             Simple living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_advertising" title="Sustainability advertising">
+             Sustainability advertising
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_brand" title="Sustainability brand">
+             Sustainability brand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">
+             Sustainability marketing myopia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_consumption" title="Sustainable consumption">
+             Sustainable
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">
+             Systemic change resistance
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">
+             Tragedy of the commons
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Population" title="Population">
+          Population
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Birth_control" title="Birth control">
+             Birth control
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Family_planning" title="Family planning">
+             Family planning
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">
+             Control
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Human_overpopulation" title="Human overpopulation">
+             Overpopulation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zero_population_growth" title="Zero population growth">
+             Zero growth
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Technology
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Appropriate_technology" title="Appropriate technology">
+             Appropriate
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmental_technology" title="Environmental technology">
+             Environmental
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_design" title="Sustainable design">
+             Sustainable
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Biodiversity" title="Biodiversity">
+          Biodiversity
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Biosecurity" title="Biosecurity">
+             Biosecurity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biosphere" title="Biosphere">
+             Biosphere
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Conservation_biology" title="Conservation biology">
+             Conservation biology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Deep_ecology" title="Deep ecology">
+             Deep ecology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Endangered_species" title="Endangered species">
+             Endangered species
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Holocene_extinction" title="Holocene extinction">
+             Holocene extinction
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Invasive_species" title="Invasive species">
+             Invasive species
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Energy
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+             Carbon footprint
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">
+             Climate change mitigation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_conservation" title="Energy conservation">
+             Conservation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_descent" title="Energy descent">
+             Descent
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+             Efficiency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Emissions_trading" title="Emissions trading">
+             Emissions trading
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_oil" title="Peak oil">
+             Peak oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy" title="Renewable energy">
+             Renewable
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_poverty" title="Energy poverty">
+             Energy poverty
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Food
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Forest_gardening" title="Forest gardening">
+             Forest gardening
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Local_food" title="Local food">
+             Local
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Permaculture" title="Permaculture">
+             Permaculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Food_security" title="Food security">
+             Security
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">
+             Sustainable agriculture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_fishery" title="Sustainable fishery">
+             Sustainable fishery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Urban_horticulture" title="Urban horticulture">
+             Urban horticulture
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Water
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Water_conservation" title="Water conservation">
+             Conservation
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">
+             Crisis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Water_efficiency" title="Water efficiency">
+             Efficiency
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Water_footprint" title="Water footprint">
+             Footprint
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Accountability
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainability_accounting" title="Sustainability accounting">
+             Sustainability accounting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">
+             Sustainability measurement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">
+             Sustainability metrics and indices
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_reporting" title="Sustainability reporting">
+             Sustainability reporting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">
+             Standards and certification
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_yield" title="Sustainable yield">
+             Sustainable yield
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Applications
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainable_advertising" title="Sustainable advertising">
+             Advertising
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_architecture" title="Sustainable architecture">
+             Architecture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_art" title="Sustainable art">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_business" title="Sustainable business">
+             Business
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_city" title="Sustainable city">
+             City
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">
+             College programs
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_community" title="Sustainable community">
+             Community
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_design" title="Sustainable design">
+             Design
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecovillage" title="Ecovillage">
+             Ecovillage
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">
+             Education for Sustainable Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_fashion" title="Sustainable fashion">
+             Fashion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_gardening" title="Sustainable gardening">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geopark" title="Geopark">
+             Geopark
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Green_marketing" title="Green marketing">
+             Green marketing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_industries" title="Sustainable industries">
+             Industries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">
+             Landscape architecture
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_living" title="Sustainable living">
+             Living
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">
+             Low-impact development
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">
+             Sustainable market
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_organizations" title="Sustainability organizations">
+             Organizations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_packaging" title="Sustainable packaging">
+             Packaging
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">
+             Practices
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_procurement" title="Sustainable procurement">
+             Procurement
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_tourism" title="Sustainable tourism">
+             Tourism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_transport" title="Sustainable transport">
+             Transport
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">
+             Urban drainage systems
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">
+             Urban infrastructure
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Urbanism" title="New Urbanism">
+             Urbanism
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Management
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">
+             Environmental
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fisheries_management" title="Fisheries management">
+             Fisheries
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">
+             Forest
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Materials
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Natural_resource_management" title="Natural resource management">
+             Natural resource
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Planetary_management" title="Planetary management">
+             Planetary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management" title="Waste management">
+             Waste
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Agreements
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment">
+             <span class="wrap">
+              UN Conference on the Human Environment (Stockholm 1972)
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brundtland_Commission" title="Brundtland Commission">
+             Brundtlandt Commission Report (1983)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Our_Common_Future" title="Our Common Future">
+             <i>
+              Our Common Future
+             </i>
+             (1987)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Summit" title="Earth Summit">
+             Earth Summit (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">
+             Rio Declaration on Environment and Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Agenda_21" title="Agenda 21">
+             Agenda 21 (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">
+             Convention on Biological Diversity (1992)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">
+             ICPD Programme of Action (1994)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Charter" title="Earth Charter">
+             Earth Charter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lisbon_Principles" title="Lisbon Principles">
+             Lisbon Principles
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">
+             UN Millennium Declaration (2000)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">
+             Earth Summit 2002
+            </a>
+            (Rio+10, Johannesburg)
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">
+             United Nations Conference on Sustainable Development
+            </a>
+            (Rio+20, 2012)
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">
+             Sustainable Development Goals
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <a href="/wiki/Category:Sustainability" title="Category:Sustainability">
+             Category
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">
+             Lists
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">
+             Outline
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Portal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_science" title="Sustainability science">
+             Science
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainability_studies" title="Sustainability studies">
+             Studies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">
+             Degrees
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:51497431-0!*!0!!en!4!* and timestamp 20161022151447 and revision id 739650168
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;oldid=739650168">
+      https://en.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;oldid=739650168
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Sustainability" title="Category:Sustainability">
+         Sustainability
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Product_lifecycle_management" title="Category:Product lifecycle management">
+         Product lifecycle management
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_September_2016" title="Category:Articles needing additional references from September 2016">
+         Articles needing additional references from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2016" title="Category:Articles lacking reliable references from September 2016">
+         Articles lacking reliable references from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">
+         All articles lacking reliable references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_too_few_wikilinks_from_September_2016" title="Category:Articles with too few wikilinks from September 2016">
+         Articles with too few wikilinks from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_too_few_wikilinks" title="Category:All articles with too few wikilinks">
+         All articles with too few wikilinks
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_September_2016" title="Category:Articles covered by WikiProject Wikify from September 2016">
+         Articles covered by WikiProject Wikify from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">
+         All articles covered by WikiProject Wikify
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_to_be_expanded_from_September_2016" title="Category:Articles to be expanded from September 2016">
+         Articles to be expanded from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">
+         All articles to be expanded
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_empty_sections_from_September_2016" title="Category:Articles with empty sections from September 2016">
+         Articles with empty sections from September 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_empty_sections" title="Category:All articles with empty sections">
+         All articles with empty sections
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">
+         Articles using small message boxes
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sustainable+materials+management" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sustainable+materials+management" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Sustainable_materials_management" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Sustainable_materials_management" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Sustainable_materials_management">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Sustainable_materials_management&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Sustainable_materials_management&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Sustainable_materials_management" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sustainable_materials_management" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Sustainable_materials_management&amp;oldid=739650168" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Sustainable_materials_management&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sustainable_materials_management&amp;id=739650168" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sustainable+materials+management">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sustainable+materials+management&amp;returnto=Sustainable+materials+management&amp;oldid=739650168&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Sustainable_materials_management&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:NewItem?site=enwiki&amp;page=Sustainable+materials+management" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 16 September 2016, at 01:57.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sustainable_materials_management&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.096",
+            "walltime": "0.140",
+            "ppvisitednodes": {
+                "value": 576,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 62395,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 8867,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 10,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 7,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   99.447      1 -total",
+                " 95.74%   95.209      6 Template:Ambox",
+                " 69.70%   69.319      1 Template:Multiple_issues",
+                " 21.08%   20.968      1 Template:One_source",
+                " 13.52%   13.443      1 Template:Sustainability",
+                " 12.42%   12.355      2 Template:Empty_section",
+                " 10.61%   10.556      1 Template:Navbox",
+                "  6.93%    6.890      1 Template:Primary_sources",
+                "  6.36%    6.325      1 Template:Underlinked",
+                "  2.81%    2.792      1 Template:Reflist"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.037",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1688514,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1174",
+            "timestamp": "20161022151447",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1171"});});
+  </script>
+ </body>
+</html>

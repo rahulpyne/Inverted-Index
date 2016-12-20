@@ -1,0 +1,1420 @@
+https://en.wikipedia.org/wiki/Waldpolenz_Solar_Park
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Waldpolenz Solar Park - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Waldpolenz_Solar_Park","wgTitle":"Waldpolenz Solar Park","wgCurRevisionId":729843173,"wgRevisionId":729843173,"wgArticleId":10471452,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Coordinates on Wikidata","Photovoltaic power stations in Germany","All stub articles","German power station stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Waldpolenz_Solar_Park","wgRelevantArticleId":10471452,"wgRequestId":"WBvQYQpAMEcAABAj57sAAABD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.328333333333,"lon":12.656111111111},"wgWikibaseItemId":"Q2916493","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Waldpolenz_Solar_Park" rel="alternate"/>
+  <link href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Waldpolenz_Solar_Park" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Waldpolenz_Solar_Park rootpage-Waldpolenz_Solar_Park skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Waldpolenz Solar Park
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <tr>
+       <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#FFFFE6;">
+        Waldpolenz Solar Park
+       </th>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Juwi_PV_Field.jpg">
+         <img alt="Juwi PV Field.jpg" data-file-height="449" data-file-width="673" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Juwi_PV_Field.jpg/260px-Juwi_PV_Field.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Juwi_PV_Field.jpg/390px-Juwi_PV_Field.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Juwi_PV_Field.jpg/520px-Juwi_PV_Field.jpg 2x" width="260"/>
+        </a>
+        <div>
+         First Solar 40-MW CdTe PV Array installed by JUWI Group in Waldpolenz, Germany
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <div class="center">
+         <div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:235px;padding:0">
+           <div style="position:relative;width:235px">
+            <a class="image" href="/wiki/File:Relief_Map_of_Germany.svg" title="Waldpolenz Solar Park is located in Germany">
+             <img alt="Waldpolenz Solar Park is located in Germany" data-file-height="1272" data-file-width="1073" height="279" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_Map_of_Germany.svg/235px-Relief_Map_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_Map_of_Germany.svg/353px-Relief_Map_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Relief_Map_of_Germany.svg/470px-Relief_Map_of_Germany.svg.png 2x" width="235"/>
+            </a>
+            <div style="position:absolute;top:47.743%;left:71.561%">
+             <div style="position:absolute;left:-4px;top:-4px;line-height:0">
+              <img alt="Waldpolenz Solar Park" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="Waldpolenz Solar Park" width="8"/>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         Location of Waldpolenz Solar Park in Germany
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Country
+       </th>
+       <td>
+        Germany
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Coordinates
+       </th>
+       <td>
+        <small>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Waldpolenz_Solar_Park&amp;params=51_19_42_N_12_39_22_E_type:landmark">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              51°19′42″N
+             </span>
+             <span class="longitude">
+              12°39′22″E
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             51.32833°N 12.65611°E
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              51.32833; 12.65611
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <span style="font-size: small;">
+          <span id="coordinates">
+           <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+            Coordinates
+           </a>
+           :
+           <span class="plainlinks nourlexpansion">
+            <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Waldpolenz_Solar_Park&amp;params=51_19_42_N_12_39_22_E_type:landmark">
+             <span class="geo-default">
+              <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+               <span class="latitude">
+                51°19′42″N
+               </span>
+               <span class="longitude">
+                12°39′22″E
+               </span>
+              </span>
+             </span>
+             <span class="geo-multi-punct">
+              ﻿ / ﻿
+             </span>
+             <span class="geo-nondefault">
+              <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+               51.32833°N 12.65611°E
+              </span>
+              <span style="display:none">
+               ﻿ /
+               <span class="geo">
+                51.32833; 12.65611
+               </span>
+              </span>
+             </span>
+            </a>
+           </span>
+          </span>
+         </span>
+        </small>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Construction cost
+       </th>
+       <td>
+        €130 million
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Operator(s)
+       </th>
+       <td>
+        <a href="/wiki/Juwi" title="Juwi">
+         Juwi
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color:#FFFFE6;">
+        Solar field
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        Type
+       </th>
+       <td>
+        <a href="/wiki/Photovoltaics" title="Photovoltaics">
+         Flat-panel PV
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Site area
+       </th>
+       <td>
+        220 ha (544 acres)
+        <a class="external text" href="http://www.wiki-solar.org/map/sites/index.html?Waldpolenz?Pk60014?15?51.329,12.656" rel="nofollow">
+         footprint
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color:#FFFFE6;">
+        Power generation
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        Units operational
+       </th>
+       <td>
+        550,000
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Make and model
+       </th>
+       <td>
+        <a href="/wiki/First_Solar" title="First Solar">
+         First Solar
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+         Nameplate capacity
+        </a>
+       </th>
+       <td>
+        52
+        <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">
+         MW
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Gross_generation" title="Gross generation">
+         Average generation
+        </a>
+       </th>
+       <td>
+        52
+        <a class="mw-redirect" href="/wiki/GWh" title="GWh">
+         GWh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <b>
+         Website
+        </b>
+        <br/>
+        <span class="plainlinks">
+         <a class="external text" href="http://www.juwi.co.uk/solar_energy/references/details.html?cHash=859c63224723ba5801fd96c27891e619&amp;tx_juwireferences_pi1%5B__widget_0%5D%5BcurrentPage%5D=2&amp;tx_juwireferences_pi1%5Breference%5D=71&amp;tx_juwireferences_pi1%5Baction%5D=detail&amp;tx_juwireferences_pi1%5Bcontroller%5D=Reference" rel="nofollow">
+          Juwi
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Waldpolenz Solar Park
+      </b>
+      is a 52-
+      <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">
+       megawatt
+      </a>
+      (MW)
+      <a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">
+       photovoltaic power station
+      </a>
+      built by German developer and operator
+      <a href="/wiki/Juwi" title="Juwi">
+       Juwi
+      </a>
+      at a former military air base near
+      <a href="/wiki/Leipzig" title="Leipzig">
+       Leipzig
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Eastern_Germany" title="Eastern Germany">
+       Eastern Germany
+      </a>
+      . When completed by the end of 2008, it was the
+      <a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">
+       world's largest
+      </a>
+      <a class="mw-redirect" href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">
+       thin-film
+      </a>
+      solar park using
+      <a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">
+       CdTe-modules
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Initially, the
+      <a href="/wiki/Solar_power" title="Solar power">
+       solar power
+      </a>
+      plant's
+      <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+       nameplate capacity
+      </a>
+      was 40 MW, consisting of 500,000 state-of-the-art
+      <a class="mw-redirect" href="/wiki/Solar_panels" title="Solar panels">
+       solar panels
+      </a>
+      provided by U.S. manufacturer
+      <a href="/wiki/First_Solar" title="First Solar">
+       First Solar
+      </a>
+      , and generated 40,000
+      <a class="mw-redirect" href="/wiki/Megawatt-hour" title="Megawatt-hour">
+       MWh
+      </a>
+      of electricity per year.
+      <sup class="reference" id="cite_ref-solarbuzz.com_2-0">
+       <a href="#cite_note-solarbuzz.com-2">
+        [2]
+       </a>
+      </sup>
+      The solar park was then extended with another 153,650 panels, also provided by First Solar, to a final capacity of 52 MW
+      <sub>
+       P
+      </sub>
+      in 2011
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The installation is located in the
+      <a href="/wiki/Muldentalkreis" title="Muldentalkreis">
+       Muldentalkreis
+      </a>
+      district in the state of
+      <a href="/wiki/Saxony" title="Saxony">
+       Saxony
+      </a>
+      in eastern Germany, built on half of the location’s 220
+      <a href="/wiki/Hectare" title="Hectare">
+       hectares
+      </a>
+      (543.6 acres)
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      in the townships of
+      <a href="/wiki/Brandis,_Germany" title="Brandis, Germany">
+       Brandis
+      </a>
+      and
+      <a href="/wiki/Bennewitz" title="Bennewitz">
+       Bennewitz
+      </a>
+      .
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      The investment costs for the Waldpolenz solar park have amounted to some 130 million euro.
+      <sup class="reference" id="cite_ref-solarbuzz.com_2-1">
+       <a href="#cite_note-solarbuzz.com-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit&amp;section=1" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Energy_policy_of_the_European_Union" title="Energy policy of the European Union">
+        Energy policy of the European Union
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">
+        List of photovoltaic power stations
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Photovoltaics" title="Photovoltaics">
+        Photovoltaics
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Pocking_Solar_Park_in_Germany" title="Pocking Solar Park in Germany">
+        Pocking Solar Park in Germany
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">
+        Renewable energy commercialization
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">
+        Renewable energy in the European Union
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Solar_power" title="Solar power">
+        Solar power
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit&amp;section=2" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ol class="references">
+      <li id="cite_note-1">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-1">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www.juwi.com/solar_energy/references/details/waldpolenz_solar_park/-/-/2/1.html?tx_juwireferences_pi1" rel="nofollow">
+         World’s largest solar power plant being built in eastern Germany
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-solarbuzz.com-2">
+       <span class="mw-cite-backlink">
+        ^
+        <a href="#cite_ref-solarbuzz.com_2-0">
+         <sup>
+          <i>
+           <b>
+            a
+           </b>
+          </i>
+         </sup>
+        </a>
+        <a href="#cite_ref-solarbuzz.com_2-1">
+         <sup>
+          <i>
+           <b>
+            b
+           </b>
+          </i>
+         </sup>
+        </a>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www.solarbuzz.com/News/NewsEUPR331.htm" rel="nofollow">
+         Building Approval Granted for 40 MW Photovoltaic Project
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-3">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-3">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation news">
+         <a class="external text" href="http://www.juwi.com/press_events/press/detail/eu_pvsec_juwi_solar_presents_new_large_scale_projects_and_innova.html" rel="nofollow">
+          "juwi Solar Presents New Large-Scale Projects and Innovations"
+         </a>
+         .
+         <i>
+          Juwi press release
+         </i>
+         . 31 Aug 2011
+         <span class="reference-accessdate">
+          . Retrieved Aug 2012
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaldpolenz+Solar+Park&amp;rft.atitle=juwi+Solar+Presents+New+Large-Scale+Projects+and+Innovations&amp;rft.date=2011-08-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.juwi.com%2Fpress_events%2Fpress%2Fdetail%2Feu_pvsec_juwi_solar_presents_new_large_scale_projects_and_innova.html&amp;rft.jtitle=Juwi+press+release&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+        <span class="error citation-comment" style="font-size:100%">
+         Check date values in:
+         <code style="color:inherit; border:inherit; padding:inherit;">
+          |access-date=
+         </code>
+         (
+         <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">
+          help
+         </a>
+         )
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-4">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-4">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.wiki-solar.org/map/sites/index.html?Waldpolenz?u?15?51.329?12.656" rel="nofollow">
+          "Map of site footprint of Waldpolenz Energy Park"
+         </a>
+         . Wiki-solar
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           5 March
+          </span>
+          2015
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWaldpolenz+Solar+Park&amp;rft.btitle=Map+of+site+footprint+of+Waldpolenz+Energy+Park&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wiki-solar.org%2Fmap%2Fsites%2Findex.html%3FWaldpolenz%3Fu%3F15%3F51.329%3F12.656&amp;rft.pub=Wiki-solar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-5">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-5">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www.exenewable.com/projectProfile.asp?id=12605" rel="nofollow">
+         eXenewable Project Profile Page - Waldpolenz, PV, Germany
+        </a>
+       </span>
+      </li>
+     </ol>
+     <div aria-labelledby="Solar_parks_in_Germany" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Solar_parks_in_Germany" title="Template:Solar parks in Germany">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Solar_parks_in_Germany" title="Template talk:Solar parks in Germany">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Solar_parks_in_Germany&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Solar_parks_in_Germany" style="font-size:114%">
+          <a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">
+           Solar parks in Germany
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Solarpark_Alt_Daber" title="Solarpark Alt Daber">
+             Alt Daber
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bavaria_Solarpark" title="Bavaria Solarpark">
+             Bavaria
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brandenburg-Briest_Solarpark" title="Brandenburg-Briest Solarpark">
+             Briest
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cottbus-Drewitz_Solarpark" title="Cottbus-Drewitz Solarpark">
+             Cottbus-Drewitz
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solarpark_Eiche" title="Solarpark Eiche">
+             Eiche
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eggebek_Solar_Park" title="Eggebek Solar Park">
+             Eggebek
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">
+             Erlasee
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ernsthof_Solar_Park" title="Ernsthof Solar Park">
+             Ernsthof
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solarpark_Finow_Tower" title="Solarpark Finow Tower">
+             Finow Tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Finsterwalde_Solar_Park" title="Finsterwalde Solar Park">
+             Finsterwalde
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/F%C3%BCrstenwalde_Solar_Park" title="Fürstenwalde Solar Park">
+             Fürstenwalde
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Geiseltalsee_Solarpark" title="Geiseltalsee Solarpark">
+             Geiseltalsee
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Gottelborn_Solar_Park" title="Gottelborn Solar Park">
+             Gottelborn
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/G%C3%BCstrow_Solarpark" title="Güstrow Solarpark">
+             Güstrow
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solarpark_Heideblick" title="Solarpark Heideblick">
+             Heideblick
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">
+             Köthen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Krugh%C3%BCtte_Solar_Park" title="Krughütte Solar Park">
+             Krughütte
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lauingen_Energy_Park" title="Lauingen Energy Park">
+             Lauingen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lieberose_Photovoltaic_Park" title="Lieberose Photovoltaic Park">
+             Lieberose
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solarpark_Meuro" title="Solarpark Meuro">
+             Meuro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Perleberg_Solar_Park" title="Perleberg Solar Park">
+             Perleberg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">
+             Pocking
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reckahn_Solar_Park" title="Reckahn Solar Park">
+             Reckahn
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rote_Jahne_Solar_Park" title="Rote Jahne Solar Park">
+             Rote Jahne
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rothenburg_Solar_Park" title="Rothenburg Solar Park">
+             Rothenburg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Senftenberg_Solarpark" title="Senftenberg Solarpark">
+             Senftenberg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">
+             Strasskirchen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Walddrehna_Solar_Park" title="Walddrehna Solar Park">
+             Walddrehna
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Waldpolenz
+            </strong>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Solarfeld_Erlasee,_1.jpg">
+           <img alt="Solarfeld Erlasee, 1.jpg" data-file-height="900" data-file-width="1200" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/120px-Solarfeld_Erlasee%2C_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/180px-Solarfeld_Erlasee%2C_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/240px-Solarfeld_Erlasee%2C_1.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <p>
+      <br/>
+     </p>
+     <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+      <tr>
+       <td>
+        <a class="image" href="/wiki/File:Solarfeld_Erlasee,_1.jpg">
+         <img alt="Stub icon" data-file-height="900" data-file-width="1200" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/40px-Solarfeld_Erlasee%2C_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/60px-Solarfeld_Erlasee%2C_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solarfeld_Erlasee%2C_1.jpg/80px-Solarfeld_Erlasee%2C_1.jpg 2x" width="40"/>
+        </a>
+       </td>
+       <td>
+        <i>
+         This article about a Germany power station is a
+         <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">
+          stub
+         </a>
+         . You can help Wikipedia by
+         <a class="external text" href="//en.wikipedia.org/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit">
+          expanding it
+         </a>
+         .
+        </i>
+        <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Germany-powerstation-stub" title="Template:Germany-powerstation-stub">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Germany-powerstation-stub" title="Template talk:Germany-powerstation-stub">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany-powerstation-stub&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:10471452-0!*!0!!*!4!* and timestamp 20161026021206 and revision id 729843173
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Waldpolenz_Solar_Park&amp;oldid=729843173">
+      https://en.wikipedia.org/w/index.php?title=Waldpolenz_Solar_Park&amp;oldid=729843173
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Photovoltaic_power_stations_in_Germany" title="Category:Photovoltaic power stations in Germany">
+         Photovoltaic power stations in Germany
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:German_power_station_stubs" title="Category:German power station stubs">
+         German power station stubs
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">
+         CS1 errors: dates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">
+         All stub articles
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Waldpolenz+Solar+Park" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Waldpolenz+Solar+Park" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Waldpolenz_Solar_Park" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Waldpolenz_Solar_Park" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Waldpolenz_Solar_Park">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Waldpolenz_Solar_Park" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Waldpolenz_Solar_Park" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Waldpolenz_Solar_Park&amp;oldid=729843173" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Waldpolenz_Solar_Park&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2916493" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Waldpolenz_Solar_Park&amp;id=729843173" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Waldpolenz+Solar+Park">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Waldpolenz+Solar+Park&amp;returnto=Waldpolenz+Solar+Park&amp;oldid=729843173&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Waldpolenz_Solar_Park&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B7%D8%A9_%D9%81%D8%A7%D9%84%D8%AF%D8%A8%D9%88%D9%84%D9%8A%D9%86%D8%AA%D8%B2_%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9" hreflang="ar" lang="ar" title="محطة فالدبولينتز للطاقة الشمسية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Solarpark_Waldpolenz" hreflang="de" lang="de" title="Solarpark Waldpolenz – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%A1%D7%95%D7%9C%D7%90%D7%A8%D7%99_%D7%95%D7%90%D7%9C%D7%93%D7%A4%D7%95%D7%9C%D7%A0%D7%A5" hreflang="he" lang="he" title="הפארק הסולארי ואלדפולנץ – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Waldpolenz_Solar_Park" hreflang="simple" lang="simple" title="Waldpolenz Solar Park – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2916493#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 14 July 2016, at 23:03.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Waldpolenz_Solar_Park&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.196",
+            "walltime": "0.253",
+            "ppvisitednodes": {
+                "value": 1127,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 33746,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1275,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  208.216      1 -total",
+                " 60.94%  126.888      1 Template:Infobox_power_station",
+                " 54.29%  113.044      1 Template:Infobox",
+                " 15.94%   33.180      2 Template:Convert",
+                " 15.79%   32.876      1 Template:Cite_news",
+                " 10.49%   21.850      1 Template:Geobox_coor",
+                "  7.88%   16.406      1 Template:Germany-powerstation-stub",
+                "  7.11%   14.807      1 Template:Location_map",
+                "  6.02%   12.536      1 Template:Asbox",
+                "  4.94%   10.278      1 Template:Solar_parks_in_Germany"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.092",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3864273,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1274",
+            "timestamp": "20161026021207",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1236"});});
+  </script>
+ </body>
+</html>

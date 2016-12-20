@@ -1,0 +1,1579 @@
+https://en.wikipedia.org/wiki/Eugene_Green_Energy_Standard
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Eugene Green Energy Standard - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eugene_Green_Energy_Standard","wgTitle":"Eugene Green Energy Standard","wgCurRevisionId":730662250,"wgRevisionId":730662250,"wgArticleId":11648886,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["2003 introductions","Environmental standards","Renewable energy certification"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eugene_Green_Energy_Standard","wgRelevantArticleId":11648886,"wgRequestId":"WBv6ggpAAEIAAXb6ocsAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5407328","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eugene_Green_Energy_Standard" rel="alternate"/>
+  <link href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Eugene_Green_Energy_Standard" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Eugene_Green_Energy_Standard rootpage-Eugene_Green_Energy_Standard skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Eugene Green Energy Standard
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="floatright">
+      <a class="image" href="/wiki/File:EugeneStandardLogo.png">
+       <img alt="EugeneStandardLogo.png" data-file-height="120" data-file-width="120" height="120" src="//upload.wikimedia.org/wikipedia/en/7/73/EugeneStandardLogo.png" width="120"/>
+      </a>
+     </div>
+     <p>
+      The
+      <b>
+       Eugene Green Energy Standard
+      </b>
+      was an
+      <a href="/wiki/International_standard" title="International standard">
+       international standard
+      </a>
+      to which national or international
+      <a class="mw-redirect" href="/wiki/Green_electricity" title="Green electricity">
+       green electricity
+      </a>
+      <a href="/wiki/Label" title="Label">
+       labelling
+      </a>
+      schemes could be
+      <a href="/wiki/Product_certification" title="Product certification">
+       accredited
+      </a>
+      to confirm that they provide genuine environmental benefits. It was designed to encourage the generation and use of additional
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable energy
+      </a>
+      sources for
+      <a href="/wiki/Electricity_generation" title="Electricity generation">
+       electricity generation
+      </a>
+      , although the limited use of additional
+      <a href="/wiki/Natural_gas" title="Natural gas">
+       natural gas
+      </a>
+      -fired
+      <a href="/wiki/Cogeneration" title="Cogeneration">
+       cogeneration
+      </a>
+      plant was also supported.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Initially funded in part through the EU's clean-e programme, but also including some participants from outside Europe, the Eugene standard was formally discontinued after February 2009.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Dismantling">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Dismantling
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#The_standard">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          The standard
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Accredited_energy_labels">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Accredited energy labels
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#The_Eugene_Network">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          The Eugene Network
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#See_also">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#References">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#External_links">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Dismantling">
+       Dismantling
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=1" title="Edit section: Dismantling">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On 2 February 2009, EUGENE’s General Assembly voted in favour of its dismantling. It was agreed that the members and board would continue to work together to promote green energy in Europe, but that the EUGENE standard and the association (ASBL) under Belgian law would cease to exist.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="The_standard">
+       The standard
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=2" title="Edit section: The standard">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The standard confirmed that energy supplied under the accredited schemes:
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       Is produced from genuinely sustainable energy sources.
+      </li>
+      <li>
+       Will result in a real increase in renewable generation beyond the requirements imposed by government ('additionality').
+      </li>
+      <li>
+       That the demand from consumers is matched by renewable generation.
+      </li>
+     </ul>
+     <p>
+      Two variations of the standard, 'gold' and 'silver', differentiated between schemes depending on the additionality of new renewable energy supplied. The development of the standard was aided by the
+      <a href="/wiki/European_Union" title="European Union">
+       European Union
+      </a>
+      's CLEAN-E initiative during 2005 and 2006
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Accredited_energy_labels">
+       Accredited energy labels
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=3" title="Edit section: Accredited energy labels">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      National energy labels formerly accredited by EUGENE included:
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <dl>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Germany" title="Germany">
+        Germany
+       </a>
+       :
+       <a class="external text" href="http://www.energie-vision.de/" rel="nofollow">
+        OK Power
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" width="16"/>
+       </span>
+       <a href="/wiki/Switzerland" title="Switzerland">
+        Switzerland
+       </a>
+       :
+       <a class="external text" href="http://www.naturemade.ch/e/naturemade/index.htm" rel="nofollow">
+        Naturemade Star
+       </a>
+      </dd>
+     </dl>
+     <p>
+      The organisation also recommends certain other national schemes that are progressing towards accreditation, including:
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <dl>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1100" data-file-width="1800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Finland" title="Finland">
+        Finland
+       </a>
+       :
+       <a href="/wiki/EKOenergy" title="EKOenergy">
+        EKOenergy
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Netherlands" title="Netherlands">
+        Netherlands
+       </a>
+       :
+       <a class="external text" href="http://www.milieukeur.nl/nl-NL/default.aspx" rel="nofollow">
+        Milieukeur
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Sweden" title="Sweden">
+        Sweden
+       </a>
+       :
+       <a class="external text" href="http://www.snf.se/bmv/english.cfm" rel="nofollow">
+        Bra Miljöval
+       </a>
+      </dd>
+     </dl>
+     <p>
+      There was no Eugene accredited scheme in the
+      <a href="/wiki/United_Kingdom" title="United Kingdom">
+       United Kingdom
+      </a>
+      . The UK's energy regulator (
+      <a class="mw-redirect" href="/wiki/Ofgem" title="Ofgem">
+       Ofgem
+      </a>
+      ) published guidelines in February 2009 that broadly followed the EUGENE standard, requiring matching and additionality through carbon savings, although allowing the latter to be met through energy efficiency or offsetting, as well as through new renewables schemes.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      These were implemented in February 2010 in the UK's
+      <a class="external text" href="http://www.greenenergyscheme.org/" rel="nofollow">
+       Green Energy Supply Certification Scheme
+      </a>
+      .
+     </p>
+     <p>
+      The Eugene Standard had also been adopted in
+      <a href="/wiki/Chile" title="Chile">
+       Chile
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      while a pilot scheme is in progress in
+      <a href="/wiki/France" title="France">
+       France
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="The_Eugene_Network">
+       The Eugene Network
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=4" title="Edit section: The Eugene Network">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The standard was managed by the Eugene Network (formerly the
+      <b>
+       Eu
+      </b>
+      ropean
+      <b>
+       G
+      </b>
+      reen
+      <b>
+       E
+      </b>
+      lectricity
+      <b>
+       Ne
+      </b>
+      twork), an international membership-based
+      <a class="mw-redirect" href="/wiki/Non-profit_organization" title="Non-profit organization">
+       non-profit organization
+      </a>
+      . The Network aimed to coordinate and harmonise
+      <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">
+       green energy
+      </a>
+      labelling nationally and internationally, promote the adoption of the Eugene Standard as the basis for national and international green
+      <a href="/wiki/Energy_market" title="Energy market">
+       energy markets
+      </a>
+      , and encourage consumers and suppliers to choose credible
+      <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">
+       green energy
+      </a>
+      products. Formal discussions on the Eugene standard first took place in 2000, led by the
+      <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">
+       World Wide Fund for Nature
+      </a>
+      , and it was officially launched on June 24, 2002.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      The Eugene Network was legally established in 2003 and the first national energy labels were accredited in 2004.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Full voting membership of the Network was open to 'citizen organisations pursuing not for profit activities with the objectives of promoting green electricity but with no direct interests in the generation and supply of energy services'. Organisations outside this scope but which do 'have a commitment and interest in creating a viable
+      <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">
+       green energy
+      </a>
+      market' were able to become non-voting associate members or supporters.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As of June 2007, the members of the Eugene Network were:
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <dl>
+      <dd>
+       <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">
+        World Wide Fund for Nature
+       </a>
+       <a class="external autonumber" href="http://www.panda.org/about_wwf/what_we_do/climate_change/solutions/business_industry/green_energy_eugene/eugene/index.cfm" rel="nofollow">
+        [1]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1500" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Chile" title="Chile">
+        Chile
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=Instituto_de_Ecolog%C3%ADa_Pol%C3%ADtica&amp;action=edit&amp;redlink=1" title="Instituto de Ecología Política (page does not exist)">
+        Instituto de Ecología Política
+       </a>
+       <a class="external autonumber" href="http://www.iepe.org" rel="nofollow">
+        [2]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1100" data-file-width="1800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Finland" title="Finland">
+        Finland
+       </a>
+       :
+       <a href="/wiki/Finnish_Association_for_Nature_Conservation" title="Finnish Association for Nature Conservation">
+        Finnish Association for Nature Conservation
+       </a>
+       <a class="external autonumber" href="http://www.ekoenergia.info/" rel="nofollow">
+        [3]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/France" title="France">
+        France
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=Comit%C3%A9_de_Liaison_Energies_Renouvelables&amp;action=edit&amp;redlink=1" title="Comité de Liaison Energies Renouvelables (page does not exist)">
+        Comité de Liaison Energies Renouvelables
+       </a>
+       <a class="external autonumber" href="http://www.cler.org/info/rubrique.php3?id_rubrique=92" rel="nofollow">
+        [4]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Germany" title="Germany">
+        Germany
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=EnergieVision&amp;action=edit&amp;redlink=1" title="EnergieVision (page does not exist)">
+        EnergieVision
+       </a>
+       <a class="external autonumber" href="http://www.energie-vision.de/" rel="nofollow">
+        [5]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="500" data-file-width="750" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Spain" title="Spain">
+        Spain
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=Asociacion_para_la_Defensa_de_la_Naturaleza&amp;action=edit&amp;redlink=1" title="Asociacion para la Defensa de la Naturaleza (page does not exist)">
+        Asociacion para la Defensa de la Naturaleza
+       </a>
+       <a class="external autonumber" href="http://www.wwf.es/" rel="nofollow">
+        [6]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/>
+       </span>
+       <a href="/wiki/Sweden" title="Sweden">
+        Sweden
+       </a>
+       :
+       <a href="/wiki/Swedish_Society_for_Nature_Conservation" title="Swedish Society for Nature Conservation">
+        Swedish Society for Nature Conservation
+       </a>
+       <a class="external autonumber" href="http://www.snf.se" rel="nofollow">
+        [7]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" width="16"/>
+       </span>
+       <a href="/wiki/Switzerland" title="Switzerland">
+        Switzerland
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=Association_for_Environmental_Friendly_Electricity&amp;action=edit&amp;redlink=1" title="Association for Environmental Friendly Electricity (page does not exist)">
+        Association for Environmental Friendly Electricity
+       </a>
+       (VUE)
+       <a class="external autonumber" href="http://www.naturemade.ch/" rel="nofollow">
+        [8]
+       </a>
+      </dd>
+      <dd>
+       <span class="flagicon">
+        <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" width="16"/>
+       </span>
+       <a href="/wiki/Switzerland" title="Switzerland">
+        Switzerland
+       </a>
+       :
+       <a class="new" href="/w/index.php?title=Swiss_Federal_Institute_for_Environmental_Science_and_Technology&amp;action=edit&amp;redlink=1" title="Swiss Federal Institute for Environmental Science and Technology (page does not exist)">
+        Swiss Federal Institute for Environmental Science and Technology
+       </a>
+       (EAWAG)
+       <a class="external autonumber" href="http://www.eawag.ch" rel="nofollow">
+        [9]
+       </a>
+      </dd>
+     </dl>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=5" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/EKOenergy" title="EKOenergy">
+        EKOenergy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Electricity_retailing" title="Electricity retailing">
+        Electricity retailing
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_conservation" title="Energy conservation">
+        Energy conservation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_policy" title="Energy policy">
+        Energy policy
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Energy_quality" title="Energy quality">
+        Energy quality
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Environmental_concerns_with_electricity_generation" title="Environmental concerns with electricity generation">
+        Environmental concerns with electricity generation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Global_warming" title="Global warming">
+        Global warming
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/ISO_14001" title="ISO 14001">
+        ISO 14001
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Low-carbon_economy" title="Low-carbon economy">
+        Low-carbon economy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/REN21" title="REN21">
+        REN21
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=6" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/mdb/docs/10_Eugenestandard.pdf" rel="nofollow">
+          Eugene Standard - Technical Document
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ok-power.de/downloads/EUGENE_dismantling_2009-02-02.pdf" rel="nofollow">
+          Eugene Standard - Letter from Board about dismantling
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2010-02-26
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ok-power.de/downloads/EUGENE_dismantling_2009-02-02.pdf" rel="nofollow">
+          Eugene Standard - Letter from Board about dismantling
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2010-02-26
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=page&amp;id=19" rel="nofollow">
+          Vision
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=page&amp;id=62" rel="nofollow">
+          CLEAN-E project has supported Eugene
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://ec.europa.eu/energy/intelligent/projects/altener_en.htm" rel="nofollow">
+          Intelligent Energy Europe
+         </a>
+         ,
+         <i>
+          <a href="/wiki/European_Commission" title="European Commission">
+           European Commission
+          </a>
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=page&amp;id=32" rel="nofollow">
+          Certify your product
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.thegreenpowergroup.org/pdf/euge_6.pdf" rel="nofollow">
+          The Eugene Standard
+         </a>
+         ,
+         <i>
+          WWF European Climate Change &amp; Energy Unit
+         </i>
+         , published 2006-05-31, accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ofgem.gov.uk/Sustainability/Environment/Policy/Documents1/Green%20supply%20guidelines%20final%20proposals%20open%20letter.pdf" rel="nofollow">
+          Final Green Supply Guidelines
+         </a>
+         <i>
+          Ofgem
+         </i>
+         , accessed 2010-02-26
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/?inc=news&amp;id=45" rel="nofollow">
+          Eugene Standard adopted in Chile
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , published 2004, accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.edie.net/news/news_story.asp?id=5671" rel="nofollow">
+          WWF launches European green energy standard
+         </a>
+         ,
+         <i>
+          Edie
+         </i>
+         , published 2002-06-26, accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=page&amp;id=25" rel="nofollow">
+          History
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=page&amp;id=22" rel="nofollow">
+          Membership
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eugenestandard.org/index.cfm?inc=art&amp;id=17" rel="nofollow">
+          List of members
+         </a>
+         ,
+         <i>
+          Eugene
+         </i>
+         , accessed 2007-06-07
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit&amp;section=7" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.greenlabelspurchase.net/EUGENE.html" rel="nofollow">
+        GreenLabelsPurchase.net: Eugene
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ekoenergia.info/pdf/Presentation.pdf" rel="nofollow">
+        Present and Future Development of Bra Miljöval-labelled electricity (2005-02-14)
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.recs.org/doctree/RECS%20International/In%20the%20Press/Advertorials/05_03%20Advertorial%20RECS%20in%20Greenprices.PDF" rel="nofollow">
+        Additionality in renewable energy
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.aecb.net/PDFs/green%20electricity%20illusion.pdf" rel="nofollow">
+        Association for Environment Conscious Building: The Green Electricity Illusion
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://ecolabelling.org/ecolabel/eugene-standard/" rel="nofollow">
+        Eugene Standard entry at ecolabelling.org
+       </a>
+      </li>
+     </ul>
+     <dl>
+      <dt>
+       In the media
+      </dt>
+     </dl>
+     <ul>
+      <li>
+       January 1, 2007,
+       <i>
+        Leonardo Energy
+       </i>
+       :
+       <a class="external text" href="http://www.leonardo-energy.org/drupal/node/1408" rel="nofollow">
+        Green Power labels not yet at full power
+       </a>
+      </li>
+      <li>
+       October 2, 2002,
+       <i>
+        World Wildlife Fund
+       </i>
+       :
+       <a class="external text" href="http://www.livingplanet.com/about_wwf/where_we_work/europe/what_we_do/epo/news/index.cfm?uNewsID=2695" rel="nofollow">
+        Green electricity that really is green
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:11648886-0!*!0!!en!4!* and timestamp 20161005095910 and revision id 730662250
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eugene_Green_Energy_Standard&amp;oldid=730662250">
+      https://en.wikipedia.org/w/index.php?title=Eugene_Green_Energy_Standard&amp;oldid=730662250
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:2003_introductions" title="Category:2003 introductions">
+         2003 introductions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Environmental_standards" title="Category:Environmental standards">
+         Environmental standards
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Renewable_energy_certification" title="Category:Renewable energy certification">
+         Renewable energy certification
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eugene+Green+Energy+Standard" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Eugene+Green+Energy+Standard" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Eugene_Green_Energy_Standard" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Eugene_Green_Energy_Standard" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Eugene_Green_Energy_Standard">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Eugene_Green_Energy_Standard" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Eugene_Green_Energy_Standard" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;oldid=730662250" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5407328" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eugene_Green_Energy_Standard&amp;id=730662250" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eugene+Green+Energy+Standard">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Eugene+Green+Energy+Standard&amp;returnto=Eugene+Green+Energy+Standard&amp;oldid=730662250&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Eugene_Green_Energy_Standard&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5407328#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 20 July 2016, at 14:08.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Eugene_Green_Energy_Standard&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.064",
+            "walltime": "0.084",
+            "ppvisitednodes": {
+                "value": 1129,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 6487,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 940,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   47.333      1 -total",
+                " 38.07%   18.022     13 Template:Flagcountry",
+                " 34.57%   16.364      1 Template:Portal",
+                " 18.41%    8.716      1 Template:Reflist",
+                " 11.10%    5.252     13 Template:Flagcountry/core",
+                "  7.83%    3.705      2 Template:Country_data_Germany",
+                "  4.42%    2.091      3 Template:Country_data_Switzerland",
+                "  4.26%    2.017      1 Template:Country_data_Spain",
+                "  3.95%    1.870      2 Template:Country_data_Finland",
+                "  3.88%    1.835      2 Template:Country_data_Sweden"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.004",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 570403,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1258",
+            "timestamp": "20161005095910",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>

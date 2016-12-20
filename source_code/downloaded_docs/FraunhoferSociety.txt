@@ -1,0 +1,2516 @@
+https://en.wikipedia.org/wiki/Fraunhofer_Society
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Fraunhofer Society - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fraunhofer_Society","wgTitle":"Fraunhofer Society","wgCurRevisionId":747433131,"wgRevisionId":747433131,"wgArticleId":197440,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from March 2012","All articles needing additional references","Articles containing German-language text","Articles with German-language external links","Official website different in Wikidata and Wikipedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Laboratories in Germany","Scientific organisations based in Germany","Fraunhofer Society","Members of the European Research Consortium for Informatics and Mathematics","Robotics organizations","Engineering organizations","Organizations established in 1949","1949 establishments in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fraunhofer_Society","wgRelevantArticleId":197440,"wgRequestId":"WB0hAApAAEIAAKm6uTMAAACM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q161057","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fraunhofer_Society" rel="alternate"/>
+  <link href="/w/index.php?title=Fraunhofer_Society&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Fraunhofer_Society&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Fraunhofer_Society" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fraunhofer_Society rootpage-Fraunhofer_Society skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Fraunhofer Society
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fraunhofer_Society&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (March 2012)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.
+      </caption>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Industry
+       </th>
+       <td class="category" style="line-height:1.35em;">
+        Applied contract research
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Founded
+       </th>
+       <td style="line-height:1.35em;">
+        1949
+        <span class="noprint">
+         ; 67 years ago
+        </span>
+        <span style="display:none">
+         (
+         <span class="bday dtstart published updated">
+          1949
+         </span>
+         )
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Headquarters
+       </th>
+       <td class="label" style="line-height:1.35em;">
+        <a href="/wiki/Munich" title="Munich">
+         Munich
+        </a>
+        ,
+        <a href="/wiki/Germany" title="Germany">
+         Germany
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Key people
+        </div>
+       </th>
+       <td class="agent" style="line-height:1.35em;">
+        <a href="/wiki/Reimund_Neugebauer" title="Reimund Neugebauer">
+         Reimund Neugebauer
+        </a>
+        (
+        <a href="/wiki/President" title="President">
+         President
+        </a>
+        )
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Number of employees
+        </div>
+       </th>
+       <td style="line-height:1.35em;">
+        24,000
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Website
+       </th>
+       <td style="line-height:1.35em;">
+        <span class="url">
+         <a class="external text" href="http://www.fraunhofer.de/" rel="nofollow">
+          www
+          <wbr>
+          </wbr>
+          .fraunhofer
+          <wbr>
+          </wbr>
+          .de
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg">
+        <img alt="" class="thumbimage" data-file-height="2832" data-file-width="4256" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/220px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/330px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/440px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg" title="Enlarge">
+         </a>
+        </div>
+        Fraunhofer-Institut (IME) in
+        <a href="/wiki/Schmallenberg" title="Schmallenberg">
+         Schmallenberg
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      The
+      <b>
+       Fraunhofer Society
+      </b>
+      (
+      <a href="/wiki/German_language" title="German language">
+       German
+      </a>
+      :
+      <span lang="de">
+       <i>
+        Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.
+       </i>
+      </span>
+      — “Fraunhofer Society for the advancement of applied research”,
+      <small>
+       pronounced
+      </small>
+      <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">
+       <a href="/wiki/Help:IPA_for_German" title="Help:IPA for German">
+        [ˈfraʊnhoːfɐ]
+       </a>
+      </span>
+      ) is a
+      <a href="/wiki/Germany" title="Germany">
+       German
+      </a>
+      research organization with 67 institutes spread throughout Germany, each focusing on different fields of applied science (as opposed to the
+      <a href="/wiki/Max_Planck_Society" title="Max Planck Society">
+       Max Planck Society
+      </a>
+      , which works primarily on basic science). It employs around 24,000 people, mainly
+      <a href="/wiki/Scientist" title="Scientist">
+       scientists
+      </a>
+      and
+      <a href="/wiki/Engineer" title="Engineer">
+       engineers
+      </a>
+      , with an annual research budget of about €2.1 billion.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Some basic funding for the Fraunhofer Society is provided by the state (the German public, through the federal government together with the states or
+      <i>
+       <a href="/wiki/States_of_Germany" title="States of Germany">
+        Länder
+       </a>
+      </i>
+      , “owns” the Fraunhofer Society), but more than 70% of the funding is earned through contract work, either for government-sponsored projects or from industry.
+     </p>
+     <p>
+      It is named after
+      <a href="/wiki/Joseph_von_Fraunhofer" title="Joseph von Fraunhofer">
+       Joseph von Fraunhofer
+      </a>
+      who, as a scientist, an engineer, and an entrepreneur, is said to have superbly exemplified the goals of the society.
+     </p>
+     <p>
+      The organization has seven centers in the United States, under the name “Fraunhofer USA”, and three in Asia.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      In October 2010, Fraunhofer announced that it would open its first research center in South America.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      Fraunhofer UK Research Ltd was established along with the Fraunhofer Centre for Applied Photonics, in Glasgow, Scotland, in March 2012.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#The_Fraunhofer_Model">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          The Fraunhofer Model
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Institutes">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Institutes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Fraunhofer_USA">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Fraunhofer USA
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Notable_projects">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Notable projects
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#History">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Presidents">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Presidents
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#External_links">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="The_Fraunhofer_Model">
+       The Fraunhofer Model
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=1" title="Edit section: The Fraunhofer Model">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The so-called "Fraunhofer Model" has been in existence since 1973 and has led to the society's continuing growth. Under the model, the Fraunhofer Society earns about 70% of its income through contracts with industry or specific government projects. The other 30% of the budget is sourced in the proportion 9:1 from federal and state (Land) government grants and is used to support preparatory research.
+     </p>
+     <p>
+      Thus the size of the society's budget depends largely on its success in maximizing revenue from commissions. This funding model applies not just to the central society itself but also to the individual institutes. This serves both to drive the realisation of the Fraunhofer Society's strategic direction of becoming a leader in applied research as well as encouraging a flexible, autonomous and entrepreneurial approach to the society's research priorities.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Institutes">
+       Institutes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=2" title="Edit section: Institutes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Fraunhofer Society currently operates 67 institutes and research units. These are
+      <b>
+       Fraunhofer Institute
+      </b>
+      s for:
+     </p>
+     <ul>
+      <li>
+       Algorithms and
+       <a class="mw-redirect" href="/wiki/Scientific_computing" title="Scientific computing">
+        Scientific Computing
+       </a>
+       –
+       <a class="external text" href="http://www.scai.fraunhofer.de/index.php?id=1&amp;L=1" rel="nofollow">
+        SCAI
+       </a>
+      </li>
+      <li>
+       Applied
+       <a class="mw-redirect" href="/wiki/Information_Technology" title="Information Technology">
+        Information Technology
+       </a>
+       –
+       <a class="external text" href="http://www.fit.fraunhofer.de/index_en.html" rel="nofollow">
+        FIT
+       </a>
+      </li>
+      <li>
+       Applied and Integrated Security –
+       <a class="external text" href="http://www.aisec.fraunhofer.de/en.html" rel="nofollow">
+        AISEC
+       </a>
+      </li>
+      <li>
+       Applied Optics and Precision Engineering –
+       <a class="external text" href="http://www.iof.fraunhofer.de/en.html" rel="nofollow">
+        IOF
+       </a>
+      </li>
+      <li>
+       Applied Polymer Research –
+       <a class="external text" href="http://www.iap.fraunhofer.de/en.html" rel="nofollow">
+        IAP
+       </a>
+      </li>
+      <li>
+       Applied
+       <a class="mw-redirect" href="/wiki/Solid_State_Physics" title="Solid State Physics">
+        Solid State Physics
+       </a>
+       –
+       <a class="external text" href="http://www.iaf.fraunhofer.de" rel="nofollow">
+        IAF
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Biomedical_Engineering" title="Biomedical Engineering">
+        Biomedical Engineering
+       </a>
+       –
+       <a class="external text" href="http://www.ibmt.fraunhofer.de/en.html" rel="nofollow">
+        IBMT
+       </a>
+      </li>
+      <li>
+       Building Physics –
+       <a class="external text" href="http://www.ibp.fhg.de/index_e.html" rel="nofollow">
+        IBP
+       </a>
+      </li>
+      <li>
+       Cell Therapy and Immunology -
+       <a class="external text" href="http://www.izi.fraunhofer.de/fraunhofer-izi.html?&amp;L=1" rel="nofollow">
+        IZI
+       </a>
+      </li>
+      <li>
+       Ceramic Technologies and Systems –
+       <a class="external text" href="http://www.ikts.fraunhofer.de/en.html" rel="nofollow">
+        IKTS
+       </a>
+      </li>
+      <li>
+       Chemical Technology –
+       <a class="external text" href="http://www.ict.fraunhofer.de/EN/index.jsp" rel="nofollow">
+        ICT
+       </a>
+      </li>
+      <li>
+       Communication, Information Processing and Ergonomics –
+       <a class="external text" href="http://www.fkie.fraunhofer.de/" rel="nofollow">
+        FKIE
+       </a>
+      </li>
+      <li>
+       Communication Systems –
+       <a class="external text" href="http://www.esk.fraunhofer.de/en.html" rel="nofollow">
+        ESK
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Computer_Graphics" title="Computer Graphics">
+        Computer Graphics
+       </a>
+       Research –
+       <a class="external text" href="http://www.igd.fraunhofer.de/en" rel="nofollow">
+        IGD
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Digital_Media" title="Digital Media">
+        Digital Media
+       </a>
+       Technology –
+       <a class="external text" href="http://www.idmt.fraunhofer.de/en.html" rel="nofollow">
+        IDMT
+       </a>
+      </li>
+      <li>
+       Electron Beam and Plasma Technology –
+       <a class="external text" href="http://www.fep.fraunhofer.de/en.html" rel="nofollow">
+        FEP
+       </a>
+      </li>
+      <li>
+       Electronic Nano Systems –
+       <a class="external text" href="http://www.enas.fraunhofer.de/en.html" rel="nofollow">
+        ENAS
+       </a>
+      </li>
+      <li>
+       Environmental, Safety and Energy Technology –
+       <a class="external text" href="http://www.umsicht.fraunhofer.de/en.html" rel="nofollow">
+        UMSICHT
+       </a>
+      </li>
+      <li>
+       Embedded Systems and Communication -
+       <a class="external text" href="http://www.esk.fraunhofer.de/en.html" rel="nofollow">
+        ESK
+       </a>
+      </li>
+      <li>
+       Experimental Software Engineering –
+       <a class="external text" href="http://www.iese.fraunhofer.de/fhg/iese/index.jsp" rel="nofollow">
+        IESE
+       </a>
+      </li>
+      <li>
+       Factory Operation and Automation –
+       <a class="external text" href="http://www.iff.fraunhofer.de/en/index.html" rel="nofollow">
+        IFF
+       </a>
+      </li>
+      <li>
+       High Frequency Physics and Radar Techniques –
+       <a class="external text" href="http://www.fhr.fraunhofer.de/en.html" rel="nofollow">
+        FHR
+       </a>
+      </li>
+      <li>
+       High-Speed Dynamics,
+       <a class="mw-redirect" href="/wiki/Ernst-Mach-Institut" title="Ernst-Mach-Institut">
+        Ernst-Mach-Institut
+       </a>
+       –
+       <a class="external text" href="http://www.emi.fraunhofer.de/EN/index.asp" rel="nofollow">
+        EMI
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Industrial_Engineering" title="Industrial Engineering">
+        Industrial Engineering
+       </a>
+       –
+       <a class="external text" href="http://www.iao.fraunhofer.de/index_e.hbs" rel="nofollow">
+        IAO
+       </a>
+      </li>
+      <li>
+       Industrial Mathematics –
+       <a class="external text" href="http://www.itwm.fraunhofer.de/en/fraunhofer-itwm.html" rel="nofollow">
+        ITWM
+       </a>
+      </li>
+      <li>
+       Information Center for Regional Planning and Building Construction –
+       <a class="external text" href="http://www.irb.fraunhofer.de/?lang=en" rel="nofollow">
+        IRB
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Integrated_Circuits" title="Integrated Circuits">
+        Integrated Circuits
+       </a>
+       –
+       <a class="external text" href="http://www.iis.fraunhofer.de/en/" rel="nofollow">
+        IIS
+       </a>
+      </li>
+      <li>
+       Integrated Systems and Device Technology –
+       <a class="external text" href="http://www.iisb.fraunhofer.de/en/homepage.htm" rel="nofollow">
+        IISB
+       </a>
+      </li>
+      <li>
+       Intelligent Analysis and Information Systems –
+       <a class="external text" href="http://www.iais.fraunhofer.de/index.php?id=&amp;L=1" rel="nofollow">
+        IAIS
+       </a>
+      </li>
+      <li>
+       Interfacial Engineering and
+       <a href="/wiki/Biotechnology" title="Biotechnology">
+        Biotechnology
+       </a>
+       –
+       <a class="external text" href="http://www.igb.fraunhofer.de/en.html" rel="nofollow">
+        IGB
+       </a>
+      </li>
+      <li>
+       International Management and Knowledge Economy -
+       <a class="external text" href="http://www.moez.fraunhofer.de/en.html" rel="nofollow">
+        MOEZ
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Laser" title="Laser">
+        Laser
+       </a>
+       Technology –
+       <a class="external text" href="http://www.ilt.fraunhofer.de/eng/100000.html" rel="nofollow">
+        ILT
+       </a>
+      </li>
+      <li>
+       Machine Tools and Forming Technology –
+       <a class="external text" href="http://www.iwu.fraunhofer.de/english/index.htm" rel="nofollow">
+        IWU
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Manufacturing_engineering" title="Manufacturing engineering">
+        Manufacturing Engineering
+       </a>
+       and Applied Materials Research –
+       <a class="external text" href="http://www.ifam.fraunhofer.de/en.html" rel="nofollow">
+        IFAM
+       </a>
+      </li>
+      <li>
+       Manufacturing Engineering and Automation –
+       <a class="external text" href="http://www.ipa.fraunhofer.de/index.php?L=2" rel="nofollow">
+        IPA
+       </a>
+      </li>
+      <li>
+       Material and Beam Technology –
+       <a class="external text" href="http://www.iws.fraunhofer.de/en.html" rel="nofollow">
+        IWS
+       </a>
+      </li>
+      <li>
+       Material Flow and
+       <a href="/wiki/Logistics" title="Logistics">
+        Logistics
+       </a>
+       –
+       <a class="external text" href="http://www.iml.fraunhofer.de/1327.html" rel="nofollow">
+        IML
+       </a>
+      </li>
+      <li>
+       Materials Recycling and Resource Strategies –
+       <a class="external text" href="http://www.iwks.fraunhofer.de/en.html" rel="nofollow">
+        IWKS
+       </a>
+      </li>
+      <li>
+       Mechanics of Materials –
+       <a class="external text" href="http://www.en.iwm.fraunhofer.de/" rel="nofollow">
+        IWM
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Medical_Image_Computing" title="Medical Image Computing">
+        Medical Image Computing
+       </a>
+       –
+       <a class="external text" href="http://www.mevis.fraunhofer.de" rel="nofollow">
+        MEVIS
+       </a>
+      </li>
+      <li>
+       Microelectronic Circuits and Systems –
+       <a class="external text" href="http://www.ims.fraunhofer.de/en" rel="nofollow">
+        IMS
+       </a>
+      </li>
+      <li>
+       Modular Solid-State Technologies -
+       <a class="external text" href="http://www.emft.fraunhofer.de/en.html" rel="nofollow">
+        EMFT
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Molecular_Biology" title="Molecular Biology">
+        Molecular Biology
+       </a>
+       and Applied
+       <a href="/wiki/Ecology" title="Ecology">
+        Ecology
+       </a>
+       –
+       <a class="external text" href="http://www.ime.fraunhofer.de/en.html" rel="nofollow">
+        IME
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Fraunhofer_Institute_for_Telecommunications" title="Fraunhofer Institute for Telecommunications">
+        Telecommunications
+       </a>
+       ,
+       <a href="/wiki/Heinrich_Hertz" title="Heinrich Hertz">
+        Heinrich-Hertz
+       </a>
+       -Institut –
+       <a class="external text" href="http://www.hhi.fraunhofer.de/english/" rel="nofollow">
+        HHI
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Nondestructive_testing" title="Nondestructive testing">
+        Non-Destructive Testing
+       </a>
+       –
+       <a class="external text" href="http://www.izfp.fraunhofer.de/en.html" rel="nofollow">
+        IZFP
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Optronics" title="Optronics">
+        Optronics
+       </a>
+       , System Technologies and Image Exploitation –
+       <a class="external text" href="http://www.iosb.fraunhofer.de/" rel="nofollow">
+        IOSB
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Fraunhofer_Institute_for_Open_Communication_Systems" title="Fraunhofer Institute for Open Communication Systems">
+        Open Communication Systems
+       </a>
+       –
+       <a class="external text" href="https://www.fokus.fraunhofer.de/en" rel="nofollow">
+        FOKUS
+       </a>
+      </li>
+      <li>
+       Photonic Microsystems –
+       <a class="external text" href="http://www.ipms.fraunhofer.de/en.html" rel="nofollow">
+        IPMS
+       </a>
+      </li>
+      <li>
+       Physical Measurement Techniques –
+       <a class="external text" href="http://www.ipm.fraunhofer.de/en.html" rel="nofollow">
+        IPM
+       </a>
+      </li>
+      <li>
+       Process Engineering and Packaging –
+       <a class="external text" href="http://www.ivv.fraunhofer.de/index_e.html" rel="nofollow">
+        IVV
+       </a>
+      </li>
+      <li>
+       Production Systems and Design Technology –
+       <a class="external text" href="http://www.ipk.fraunhofer.de/en" rel="nofollow">
+        IPK
+       </a>
+      </li>
+      <li>
+       Production Technology –
+       <a class="external text" href="http://www.ipt.fraunhofer.de/EN/index.jsp" rel="nofollow">
+        IPT
+       </a>
+      </li>
+      <li>
+       Reliability and Microintegration –
+       <a class="external text" href="http://www.pb.izm.fhg.de/izm/index.html" rel="nofollow">
+        IZM
+       </a>
+      </li>
+      <li>
+       Secure Information Technology –
+       <a class="external text" href="http://www.sit.fraunhofer.de/en.html" rel="nofollow">
+        SIT
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Silicate" title="Silicate">
+        Silicate
+       </a>
+       Research –
+       <a class="external text" href="http://www.isc.fraunhofer.de/home.html?&amp;L=1" rel="nofollow">
+        ISC
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Silicon" title="Silicon">
+        Silicon
+       </a>
+       Technology –
+       <a class="external text" href="http://www.isit.fraunhofer.de" rel="nofollow">
+        ISIT
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Solar_power" title="Solar power">
+        Solar Energy
+       </a>
+       Systems –
+       <a class="external text" href="http://www.ise.fraunhofer.de/en" rel="nofollow">
+        ISE
+       </a>
+      </li>
+      <li>
+       Structural Durability and System Reliability –
+       <a class="external text" href="http://www.lbf.fraunhofer.de/english/index_e.html" rel="nofollow">
+        LBF
+       </a>
+      </li>
+      <li>
+       Systems and Innovation Research –
+       <a class="external text" href="http://www.isi.fraunhofer.de/isi-en/index.php" rel="nofollow">
+        ISI
+       </a>
+      </li>
+      <li>
+       Technological Trend Analysis –
+       <a class="external text" href="http://www.int.fraunhofer.de" rel="nofollow">
+        INT
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Surface_engineering" title="Surface engineering">
+        Surface Engineering
+       </a>
+       and
+       <a class="mw-redirect" href="/wiki/Thin_films" title="Thin films">
+        Thin Films
+       </a>
+       –
+       <a class="external text" href="http://www.ist.fraunhofer.de/en.html" rel="nofollow">
+        IST
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Toxicology" title="Toxicology">
+        Toxicology
+       </a>
+       and Experimental Medicine –
+       <a class="external text" href="http://www.item.fraunhofer.de/english/index.html" rel="nofollow">
+        ITEM
+       </a>
+      </li>
+      <li>
+       Transportation and Infrastructure Systems –
+       <a class="external text" href="http://www.ivi.fraunhofer.de/en.html" rel="nofollow">
+        IVI
+       </a>
+      </li>
+      <li>
+       Wind Energy and Energy System Technology –
+       <a class="external text" href="http://www.iwes.fraunhofer.de/en.html" rel="nofollow">
+        IWES
+       </a>
+      </li>
+      <li>
+       Wood Research, Wilhelm-Klauditz-Institut –
+       <a class="external text" href="http://www.wki.fraunhofer.de/en.html" rel="nofollow">
+        WKI
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Fraunhofer_USA">
+       Fraunhofer USA
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=3" title="Edit section: Fraunhofer USA">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In addition to its German institutes, the Fraunhofer Society operates seven US-based Centers through its American subsidiary, Fraunhofer USA:
+     </p>
+     <ul>
+      <li>
+       Coatings and Laser Applications –
+       <a class="external text" href="http://www.ccl.fraunhofer.org" rel="nofollow">
+        CCL
+       </a>
+      </li>
+      <li>
+       Experimental Software Engineering –
+       <a class="external text" href="http://fc-md.umd.edu" rel="nofollow">
+        CESE
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Laser" title="Laser">
+        Laser
+       </a>
+       Technology –
+       <a class="external text" href="http://www.clt.fraunhofer.com" rel="nofollow">
+        CLT
+       </a>
+      </li>
+      <li>
+       Molecular
+       <a href="/wiki/Biotechnology" title="Biotechnology">
+        Biotechnology
+       </a>
+       –
+       <a class="external text" href="http://www.fraunhofer-cmb.org" rel="nofollow">
+        CMB
+       </a>
+      </li>
+      <li>
+       Manufacturing Innovation –
+       <a class="external text" href="http://www.fhcmi.org" rel="nofollow">
+        CMI
+       </a>
+      </li>
+      <li>
+       Sustainable Energy Systems –
+       <a class="external text" href="http://cse.fraunhofer.org" rel="nofollow">
+        CSE
+       </a>
+      </li>
+      <li>
+       Digital Media Technologies –
+       <a class="external text" href="http://www.dmt.fraunhofer.org" rel="nofollow">
+        DMT
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Notable_projects">
+       Notable projects
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=4" title="Edit section: Notable projects">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       The
+       <a href="/wiki/MP3" title="MP3">
+        MP3
+       </a>
+       compression algorithm was invented and patented by Fraunhofer IIS.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Its license revenues generated about € 100 million in revenue for the society in 2005.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       The side-effects of that were a serious decline of the reputation of Fraunhofer in open source communities and the adoption of a competing sound format, Ogg
+       <a href="/wiki/Vorbis" title="Vorbis">
+        Vorbis
+       </a>
+       . Later on even
+       <a href="/wiki/Google" title="Google">
+        Google
+       </a>
+       avoided the Fraunhofer developed sound and video formats by acquiring a company that developed the
+       <a href="/wiki/WebM" title="WebM">
+        WebM
+       </a>
+       video format. As a result,
+       <a href="/wiki/YouTube" title="YouTube">
+        YouTube
+       </a>
+       runs with WebM, not the Fraunhofer video formats that are often not supported by many open source operating system distributions.
+      </li>
+      <li>
+       The
+       <a href="/wiki/Fraunhofer_Institute_for_Telecommunications" title="Fraunhofer Institute for Telecommunications">
+        Fraunhofer Heinrich Hertz Institute
+       </a>
+       (HHI) was a significant contributor to the
+       <a href="/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">
+        H.264/MPEG-4 AVC
+       </a>
+       video compression standard, a technology recognized with two Emmy awards in 2008 and 2009.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       This includes the
+       <a href="/wiki/Fraunhofer_FDK_AAC" title="Fraunhofer FDK AAC">
+        Fraunhofer FDK AAC library
+       </a>
+       .
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </li>
+      <li>
+       As of May 2010, a metamorphic triple-junction
+       <a href="/wiki/Solar_cell" title="Solar cell">
+        solar cell
+       </a>
+       developed by
+       <a href="/wiki/Fraunhofer_Institute_for_Solar_Energy_Systems_ISE" title="Fraunhofer Institute for Solar Energy Systems ISE">
+        Fraunhofer's Institute for Solar Energy Systems
+       </a>
+       holds the world record for solar energy conversion efficiency with 41.1%, nearly twice that of a standard silicon-based cell.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Fraunhofer is developing a program for use at
+       <a href="/wiki/IKEA" title="IKEA">
+        IKEA
+       </a>
+       stores, which would allow people to take a picture of their home into a store to view a fully assembled, digital adaptation of their room.
+      </li>
+      <li>
+       E-puzzler, a pattern-recognition machine, which can digitally put back together even the most finely shredded papers. The E-puzzler uses a computerized conveyor belt that runs shards of shredded and torn paper through a digital scanner, automatically reconstructing original documents.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </li>
+      <li>
+       OpenIMS
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=5" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg">
+        <img alt="" class="thumbimage" data-file-height="873" data-file-width="887" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg/220px-Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg/330px-Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg/440px-Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Stamp_Germany_1999_MiNr2038_Fraunhofer_Gesellschaft.jpg" title="Enlarge">
+         </a>
+        </div>
+        A German stamp: 50 years of the Fraunhofer Society
+       </div>
+      </div>
+     </div>
+     <p>
+      The Fraunhofer Society was founded in
+      <a href="/wiki/Munich" title="Munich">
+       Munich
+      </a>
+      on March 26, 1949, by representatives of industry and academia, the government of
+      <a href="/wiki/Bavaria" title="Bavaria">
+       Bavaria
+      </a>
+      , and the nascent
+      <a class="mw-redirect" href="/wiki/Federal_Republic_of_Germany" title="Federal Republic of Germany">
+       Federal Republic
+      </a>
+      .
+     </p>
+     <p>
+      In 1952, the Federal Ministry for Economic Affairs declared the Fraunhofer Society to be the third part of the non-university German research landscape (alongside the German research councils (DFG) and the
+      <a class="mw-redirect" href="/wiki/Max_Planck_Institute" title="Max Planck Institute">
+       Max Planck Institutes
+      </a>
+      ). Whether the Fraunhofer Society should support applied research through its own facilities was, however, the subject of a long-running dispute.
+     </p>
+     <p>
+      From 1954, the Society's first institutes developed. By 1956, it was developing research facilities in cooperation with the Ministry of Defense. In 1959, the Fraunhofer Society comprised nine institutes with 135 coworkers and a budget of 3.6 million
+      <a class="mw-redirect" href="/wiki/German_mark" title="German mark">
+       Deutsche Mark
+      </a>
+      .
+     </p>
+     <p>
+      In 1965, the Fraunhofer Society was identified as a sponsor organization for applied research.
+     </p>
+     <p>
+      In 1968, the Fraunhofer Society became the target of public criticism for its role in military research.
+     </p>
+     <p>
+      By 1969, Fraunhofer had more than 1,200 employees in 19 institutes. The budget stood at 33 million
+      <a class="mw-redirect" href="/wiki/German_mark" title="German mark">
+       Deutsche Mark
+      </a>
+      . At this time, a "commission for the promotion of the development of the Fraunhofer Society" planned the further development of the Fraunhofer Society (FhG). The commission developed a financing model that would make the Society dependent on its commercial success. This would later come to be known as the "Fraunhofer Model".
+     </p>
+     <p>
+      The Model was agreed to by the Federal Cabinet and the Bund-Länder-Kommission in 1973. In the same year, the executive committee and central administration moved into joint accommodation at Leonrodstraße 54 in
+      <a href="/wiki/Munich" title="Munich">
+       Munich
+      </a>
+      .
+     </p>
+     <p>
+      The Fraunhofer program for the promotion of the consulting research for
+      <a class="mw-redirect" href="/wiki/Small_and_medium_enterprises" title="Small and medium enterprises">
+       SMEs
+      </a>
+      was established, and has gained ever more significance in subsequent years.
+     </p>
+     <p>
+      In 1977, the political ownership of the society was shared by the Ministries of Defense and Research.
+     </p>
+     <p>
+      By 1984, the Fraunhofer Society had 3,500 employees in 33 institutes and a research budget of 360 million
+      <a class="mw-redirect" href="/wiki/German_mark" title="German mark">
+       Deutsche Mark
+      </a>
+      .
+     </p>
+     <p>
+      By 1988, defense research represented only about 10% of the entire expenditure of the Fraunhofer Society.
+     </p>
+     <p>
+      By 1989, the Fraunhofer Society had nearly 6,400 employees in 37 institutes, with a total budget of 700 million
+      <a class="mw-redirect" href="/wiki/German_mark" title="German mark">
+       Deutsche Mark
+      </a>
+      .
+     </p>
+     <p>
+      In 1991, the Fraunhofer Society faced the challenge of integrating numerous research establishments in former East Germany as branch offices of already-existing institutes in the Fraunhofer Society.
+     </p>
+     <p>
+      In 1993, the Fraunhofer Society's total budget exceeded 1 billion
+      <a class="mw-redirect" href="/wiki/German_mark" title="German mark">
+       Deutsche Mark
+      </a>
+      .
+     </p>
+     <p>
+      In 1994, the Society founded a US-based subsidiary, Fraunhofer USA, Inc., to extend the outreach of Fraunhofer's R&amp;D network to American clients.
+     </p>
+     <p>
+      Its mission statement of 2000 committed the Fraunhofer Society to being a market and customer-oriented, nationally and internationally active sponsor organization for institutes of the applied research.
+     </p>
+     <p>
+      Between 2000 and 2001, the institutes and IT research centers of the GMD (Gesellschaft für Mathematik und Datenverarbeitung – Society for Mathematics and Information technology) were integrated into the Fraunhofer Society at the initiative of the Federal Ministry for Education and Research.
+     </p>
+     <p>
+      The year 2000 marked a noteworthy success at Fraunhofer-Institut for Integrated Circuits (IIS):
+      <a href="/wiki/MP3" title="MP3">
+       MP3
+      </a>
+      , a
+      <a href="/wiki/Lossy_compression" title="Lossy compression">
+       lossy
+      </a>
+      audio format which they developed, is the most widely adopted method for compressing and decompressing digital audio.
+     </p>
+     <p>
+      In 2002, ownership of the Heinrich-Hertz-Institut for Communications Technology Berlin GmbH (HHI), which belonged to the Gottfried William Leibniz Society e. V. (GWL), was transferred to the Fraunhofer Society. With this integration the Fraunhofer Society budget exceeded €1 billion for the first time.
+     </p>
+     <p>
+      In 2003, the Fraunhofer Society headquarters moved to its own building in
+      <a href="/wiki/Munich" title="Munich">
+       Munich
+      </a>
+      .
+     </p>
+     <p>
+      The Fraunhofer Society developed and formulated a firm specific mission statement summarizing fundamental targets and codifying the desired "values and guidelines" of the society's "culture". Amongst these, the society committed itself to improving the opportunities for female employees and coworkers to identify themselves with the enterprise and to develop their own creative potential.
+     </p>
+     <p>
+      In 2004, the former "Fraunhofer Working Group for Electronic Media Technology" at the Fraunhofer-Institut for Integrated Circuits (IIS) gained the status of an independent institute. It becomes Fraunhofer-Institut for Digital Media Technology IDMT.
+     </p>
+     <p>
+      New alliances and topic groups helped to strengthen the market operational readiness level of the institutes for Fraunhofer in certain jurisdictions.
+     </p>
+     <p>
+      In 2005, two new institutes, the Leipzig Fraunhofer-Institut for Cell Therapy and Immunology (IZI), and the Fraunhofer Center for Nano-electronic technologies CNT in
+      <a href="/wiki/Dresden" title="Dresden">
+       Dresden
+      </a>
+      , were founded.
+     </p>
+     <p>
+      In 2006, the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) was founded as a merger between the Institute for Autonomous Intelligent Systems (AIS), and the Institute for Media Communication (IMK).
+     </p>
+     <h2>
+      <span class="mw-headline" id="Presidents">
+       Presidents
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=6" title="Edit section: Presidents">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Walther_Gerlach" title="Walther Gerlach">
+        Walther Gerlach
+       </a>
+       (1949–1951)
+      </li>
+      <li>
+       <a class="extiw" href="https://de.wikipedia.org/wiki/Wilhelm_Roelen" title="de:Wilhelm Roelen">
+        Wilhelm Roelen
+       </a>
+       (1951–1955)
+      </li>
+      <li>
+       <a href="/wiki/Hermann_von_Siemens" title="Hermann von Siemens">
+        Hermann von Siemens
+       </a>
+       (1955–1964)
+      </li>
+      <li>
+       Franz Kollmann (1964–1968)
+      </li>
+      <li>
+       Christian Otto Mohr (1968–1974)
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Heinz Keller (1974–1982)
+      </li>
+      <li>
+       <a class="extiw" href="https://de.wikipedia.org/wiki/Max_Syrbe" title="de:Max Syrbe">
+        Max Syrbe
+       </a>
+       (1982–1993)
+      </li>
+      <li>
+       <a class="extiw" href="https://de.wikipedia.org/wiki/Hans-J%C3%BCrgen_Warnecke" title="de:Hans-Jürgen Warnecke">
+        Hans-Jürgen Warnecke
+       </a>
+       (1993–2002)
+      </li>
+      <li>
+       <a href="/wiki/Hans-J%C3%B6rg_Bullinger" title="Hans-Jörg Bullinger">
+        Hans-Jörg Bullinger
+       </a>
+       (2002–2012)
+      </li>
+      <li>
+       <a href="/wiki/Reimund_Neugebauer" title="Reimund Neugebauer">
+        Reimund Neugebauer
+       </a>
+       (2012–)
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/National_Network_for_Manufacturing_Innovation" title="National Network for Manufacturing Innovation">
+        National Network for Manufacturing Innovation
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ol class="references">
+      <li id="cite_note-1">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-1">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.fraunhofer.de/en/about-fraunhofer/profile/facts-and-figures.html" rel="nofollow">
+          "Fraunhofer-Gesellschaft: About Fraunhofer (Facts and Figures)"
+         </a>
+         .
+         <i>
+          Fraunhofer-Gesellschaft organizational web site
+         </i>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2016-02-23
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.atitle=Fraunhofer-Gesellschaft%3A+About+Fraunhofer+%28Facts+and+Figures%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fraunhofer.de%2Fen%2Fabout-fraunhofer%2Fprofile%2Ffacts-and-figures.html&amp;rft.jtitle=Fraunhofer-Gesellschaft+organizational+web+site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-2">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-2">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         Staff (March 2006).
+         <a class="external text" href="http://www.fraunhofer.de/en/institutes-research-establishments/international.html" rel="nofollow">
+          "Fraunhofer-Gesellschaft: International Locations"
+         </a>
+         .
+         <i>
+          Fraunhofer-Gesellschaft organizational web site
+         </i>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2006-06-06
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.atitle=Fraunhofer-Gesellschaft%3A+International+Locations&amp;rft.au=Staff&amp;rft.date=2006-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fraunhofer.de%2Fen%2Finstitutes-research-establishments%2Finternational.html&amp;rft.jtitle=Fraunhofer-Gesellschaft+organizational+web+site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-3">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-3">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         Staff (October 2010).
+         <a class="external text" href="http://www.fraunhofer.de/en/press/research-news/2010/10/chile-systems-biotechnology.jsp" rel="nofollow">
+          "Fraunhofer in Chile"
+         </a>
+         .
+         <i>
+          Fraunhofer-Gesellschaft organizational web site
+         </i>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2010-10-22
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.atitle=Fraunhofer+in+Chile&amp;rft.au=Staff&amp;rft.date=2010-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fraunhofer.de%2Fen%2Fpress%2Fresearch-news%2F2010%2F10%2Fchile-systems-biotechnology.jsp&amp;rft.jtitle=Fraunhofer-Gesellschaft+organizational+web+site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-4">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-4">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="https://web.archive.org/web/20140101070826/http://www.mp3-history.com/en/the_mp3_history.html" rel="nofollow">
+          "The mp3 History"
+         </a>
+         . Fraunhofer-Gesellschaft. Archived from
+         <a class="external text" href="http://www.mp3-history.com/en/the_mp3_history.html" rel="nofollow">
+          the original
+         </a>
+         on January 1, 2014
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2013-12-31
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.btitle=The+mp3+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mp3-history.com%2Fen%2Fthe_mp3_history.html&amp;rft.pub=Fraunhofer-Gesellschaft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-5">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-5">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://ukingermany.fco.gov.uk/en/about-us/working-with-germany/science-innovation-team/factheets-notes/frauenhofer-society" rel="nofollow">
+          "UK in Germany"
+         </a>
+         . Britischebotschaft.de. 2008-08-01
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2012-07-13
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.btitle=UK+in+Germany&amp;rft.date=2008-08-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fukingermany.fco.gov.uk%2Fen%2Fabout-us%2Fworking-with-germany%2Fscience-innovation-team%2Ffactheets-notes%2Ffrauenhofer-society&amp;rft.pub=Britischebotschaft.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-6">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-6">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.hhi.fraunhofer.de/index.php?id=501" rel="nofollow">
+          "Heinrich Hertz Institute - Another EMMY for H.264"
+         </a>
+         . Hhi.fraunhofer.de
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2012-07-13
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.btitle=Heinrich+Hertz+Institute+-+Another+EMMY+for+H.264&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hhi.fraunhofer.de%2Findex.php%3Fid%3D501&amp;rft.pub=Hhi.fraunhofer.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-7">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-7">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.iis.fraunhofer.de/en/bf/amm/implementierungen/fdkaaccodec.html" rel="nofollow">
+          "Ten facts about the Fraunhofer FDK AAC Codec Library for Android™"
+         </a>
+         . Fraunhofer-Gesellschaft. 2012
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2013-12-31
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.btitle=Ten+facts+about+the+Fraunhofer+FDK+AAC+Codec+Library+for+Android%84%A2&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iis.fraunhofer.de%2Fen%2Fbf%2Famm%2Fimplementierungen%2Ffdkaaccodec.html&amp;rft.pub=Fraunhofer-Gesellschaft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-8">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-8">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.fraunhofer.de/en/press/research-news/2010/05/concentrator-solar-cells.jsp" rel="nofollow">
+          "High efficiency concentrator solar cells and moduls - Research-News-Special-Edition-05-2010-Topic 2"
+         </a>
+         . Fraunhofer.de. 2010-05-19
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           2012-07-13
+          </span>
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFraunhofer+Society&amp;rft.btitle=High+efficiency+concentrator+solar+cells+and+moduls+-+Research-News-Special-Edition-05-2010-Topic+2&amp;rft.date=2010-05-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fraunhofer.de%2Fen%2Fpress%2Fresearch-news%2F2010%2F05%2Fconcentrator-solar-cells.jsp&amp;rft.pub=Fraunhofer.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-9">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-9">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        (Jan 20, 2008)
+        <a class="external text" href="http://www.thestar.com/News/article/295655" rel="nofollow">
+         Reassembling a puzzle with 600 million pieces
+        </a>
+        .
+        <i>
+         Toronto Star
+        </i>
+        . Retrieved on December 2nd, 2010
+       </span>
+      </li>
+      <li id="cite_note-10">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-10">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://chronik.fraunhofer.de/" rel="nofollow">
+         Chronicle of Fraunhofer Society
+        </a>
+       </span>
+      </li>
+     </ol>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fraunhofer_Society&amp;action=edit&amp;section=9" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.fraunhofer.de/" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+       <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">
+        (German)
+       </span>
+      </li>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.fraunhofer.org/" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+       (US)
+      </li>
+     </ul>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="external text" href="//www.worldcat.org/identities/containsVIAFID/132435250" rel="nofollow">
+              WorldCat Identities
+             </a>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+              VIAF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="https://viaf.org/viaf/132435250" rel="nofollow">
+               132435250
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+              LCCN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.loc.gov/authorities/names/n81082566" rel="nofollow">
+               n81082566
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/39089-6" rel="nofollow">
+               39089-6
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">
+              SUDOC
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://www.idref.fr/034048375" rel="nofollow">
+               034048375
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">
+              BNF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb124844105" rel="nofollow">
+               cb124844105
+              </a>
+              <a class="external text" href="http://data.bnf.fr/ark:/12148/cb124844105" rel="nofollow">
+               (data)
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:197440-0!*!0!!en!4!* and timestamp 20161104121949 and revision id 747433131
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fraunhofer_Society&amp;oldid=747433131">
+      https://en.wikipedia.org/w/index.php?title=Fraunhofer_Society&amp;oldid=747433131
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Laboratories_in_Germany" title="Category:Laboratories in Germany">
+         Laboratories in Germany
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Scientific_organisations_based_in_Germany" title="Category:Scientific organisations based in Germany">
+         Scientific organisations based in Germany
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Fraunhofer_Society" title="Category:Fraunhofer Society">
+         Fraunhofer Society
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Members_of_the_European_Research_Consortium_for_Informatics_and_Mathematics" title="Category:Members of the European Research Consortium for Informatics and Mathematics">
+         Members of the European Research Consortium for Informatics and Mathematics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Robotics_organizations" title="Category:Robotics organizations">
+         Robotics organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Engineering_organizations" title="Category:Engineering organizations">
+         Engineering organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organizations_established_in_1949" title="Category:Organizations established in 1949">
+         Organizations established in 1949
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1949_establishments_in_Germany" title="Category:1949 establishments in Germany">
+         1949 establishments in Germany
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_March_2012" title="Category:Articles needing additional references from March 2012">
+         Articles needing additional references from March 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">
+         Articles containing German-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">
+         Articles with German-language external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">
+         Official website different in Wikidata and Wikipedia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">
+         Wikipedia articles with BNF identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fraunhofer+Society" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fraunhofer+Society" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Fraunhofer_Society" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Fraunhofer_Society" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Fraunhofer_Society">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Fraunhofer_Society&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Fraunhofer_Society&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Fraunhofer_Society" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fraunhofer_Society" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Fraunhofer_Society&amp;oldid=747433131" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Fraunhofer_Society&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q161057" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fraunhofer_Society&amp;id=747433131" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fraunhofer+Society">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Fraunhofer+Society&amp;returnto=Fraunhofer+Society&amp;oldid=747433131&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Fraunhofer_Society&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Fraunhofer_Society" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D9%81%D8%B1%D8%A7%D9%88%D9%86%D9%87%D9%88%D9%81%D8%B1" hreflang="ar" lang="ar" title="جمعية فراونهوفر – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%94%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D1%80%D0%B0%D1%83%D0%BD%D1%85%D0%BE%D1%84%D0%B5%D1%80" hreflang="bg" lang="bg" title="Дружество Фраунхофер – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="ca" lang="ca" title="Fraunhofer-Gesellschaft – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="da" lang="da" title="Fraunhofer-Gesellschaft – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="de" lang="de" title="Fraunhofer-Gesellschaft – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%95%CF%84%CE%B1%CE%B9%CF%81%CE%B5%CE%AF%CE%B1_%CE%A6%CF%81%CE%AC%CE%BF%CF%85%CE%BD%CF%87%CE%BF%CF%86%CE%B5%CF%81" hreflang="el" lang="el" title="Εταιρεία Φράουνχοφερ – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="es" lang="es" title="Fraunhofer-Gesellschaft – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D9%87_%D9%81%D8%B1%D8%A7%D9%88%D9%86%D9%87%D9%88%D9%81%D8%B1" hreflang="fa" lang="fa" title="جامعه فراونهوفر – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="fr" lang="fr" title="Fraunhofer-Gesellschaft – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%EC%9A%B4%ED%98%B8%ED%8D%BC_%ED%98%91%ED%9A%8C" hreflang="ko" lang="ko" title="프라운호퍼 협회 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="it" lang="it" title="Fraunhofer-Gesellschaft – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B9%E0%A5%8B%E0%A4%AB%E0%A4%B0_%E0%A4%97%E0%A5%87%E0%A4%9C%E0%A5%87%E0%A4%B2%E0%A4%B6%E0%A4%BE%E0%A4%AB%E0%A5%8D%E0%A4%9F" hreflang="mr" lang="mr" title="फ्राउनहोफर गेजेलशाफ्ट – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="nl" lang="nl" title="Fraunhofer-Gesellschaft – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E5%8D%94%E4%BC%9A" hreflang="ja" lang="ja" title="フラウンホーファー協会 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="no" lang="no" title="Fraunhofer-Gesellschaft – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="pl" lang="pl" title="Fraunhofer-Gesellschaft – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="pt" lang="pt" title="Fraunhofer-Gesellschaft – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D1%80%D0%B0%D1%83%D0%BD%D0%B3%D0%BE%D1%84%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Общество Фраунгофера – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Shoq%C3%ABria_Fraunhofer" hreflang="sq" lang="sq" title="Shoqëria Fraunhofer – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fraunhofer-instituutti" hreflang="fi" lang="fi" title="Fraunhofer-instituutti – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fraunhoferinstitutet" hreflang="sv" lang="sv" title="Fraunhoferinstitutet – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%9F%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%AE%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C" hreflang="th" lang="th" title="สมาคมฟรอนโฮเฟอร์ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Fraunhofer-Gesellschaft" hreflang="tr" lang="tr" title="Fraunhofer-Gesellschaft – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B2%D0%BE_%D1%96%D0%BC%D0%B5%D0%BD%D1%96_%D0%A4%D1%80%D0%B0%D1%83%D0%BD%D0%B3%D0%BE%D1%84%D0%B5%D1%80%D0%B0" hreflang="uk" lang="uk" title="Товариство імені Фраунгофера – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%97%E5%8A%B3%E6%81%A9%E9%9C%8D%E5%A4%AB%E5%8D%8F%E4%BC%9A" hreflang="zh" lang="zh" title="弗劳恩霍夫协会 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q161057#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 2 November 2016, at 10:41.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fraunhofer_Society&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.208",
+            "walltime": "0.269",
+            "ppvisitednodes": {
+                "value": 1237,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 26581,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1149,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  227.371      1 -total",
+                " 27.07%   61.541      1 Template:Infobox_company",
+                " 24.74%   56.259      8 Template:Cite_web",
+                " 21.03%   47.825      1 Template:Infobox",
+                " 17.06%   38.800      1 Template:Refimprove",
+                " 11.35%   25.817      1 Template:Ambox",
+                " 10.42%   23.691      2 Template:Official_website",
+                "  4.97%   11.297      1 Template:Lang-de",
+                "  4.43%   10.071      1 Template:Language_with_name",
+                "  3.97%    9.030      1 Template:Start_date_and_age"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.093",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4015235,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1170",
+            "timestamp": "20161104121950",
+            "ttl": 86400,
+            "transientcontent": true
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>

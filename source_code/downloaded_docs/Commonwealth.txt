@@ -1,0 +1,2130 @@
+https://en.wikipedia.org/wiki/Commonwealth
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Commonwealth - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Commonwealth","wgTitle":"Commonwealth","wgCurRevisionId":744194022,"wgRevisionId":744194022,"wgArticleId":6766,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2015","Articles with unsourced statements from November 2014","Forms of government","Democracy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Commonwealth","wgRelevantArticleId":6766,"wgRequestId":"WB0UIgpAMFMAAEAb@PkAAACX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2578692","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Commonwealth" rel="alternate"/>
+  <link href="/w/index.php?title=Commonwealth&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Commonwealth&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Commonwealth" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Commonwealth rootpage-Commonwealth skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Commonwealth
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      This article is about the generic term. For the intergovernmental organization, see
+      <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">
+       Commonwealth of Nations
+      </a>
+      . For other uses, see
+      <a class="mw-disambig" href="/wiki/Commonwealth_(disambiguation)" title="Commonwealth (disambiguation)">
+       Commonwealth (disambiguation)
+      </a>
+      .
+     </div>
+     <p>
+      <b>
+       Commonwealth
+      </b>
+      is a traditional English term for a political community founded for the
+      <a href="/wiki/Common_good" title="Common good">
+       common good
+      </a>
+      . Historically it has sometimes been synonymous with "
+      <a href="/wiki/Republic" title="Republic">
+       republic
+      </a>
+      ".
+     </p>
+     <p>
+      The
+      <a href="/wiki/England" title="England">
+       English
+      </a>
+      noun "commonwealth" in the sense meaning "public welfare; general good or advantage" dates from the 15th century. The original phrase "the common-wealth" or "the common weal" (echoed in the modern synonym "public weal") comes from the old meaning of "wealth", which is "well-being", and is itself a loose translation of the Latin
+      <a href="/wiki/Res_publica" title="Res publica">
+       res publica
+      </a>
+      (republic). The term literally meant "common well-being". In the 17th century the definition of "commonwealth" expanded from its original sense of "public welfare" or "commonweal" to mean "a state in which the supreme power is vested in the people; a republic or democratic state". "Better things were done, and better managed ... under a Commonwealth than under a King." Pepys,
+      <i>
+       Diary
+      </i>
+      (1667)
+     </p>
+     <p>
+      Three countries –
+      <a href="/wiki/Australia" title="Australia">
+       Australia
+      </a>
+      , the
+      <a class="mw-redirect" href="/wiki/Bahamas" title="Bahamas">
+       Bahamas
+      </a>
+      , and
+      <a href="/wiki/Dominica" title="Dominica">
+       Dominica
+      </a>
+      – have the official title "Commonwealth", as do four
+      <a href="/wiki/U.S._state" title="U.S. state">
+       U.S. states
+      </a>
+      and two
+      <a href="/wiki/Territories_of_the_United_States" title="Territories of the United States">
+       U.S. territories
+      </a>
+      . More recently, the term has been used for fraternal associations of some sovereign nations, most notably the
+      <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">
+       Commonwealth of Nations
+      </a>
+      , an association primarily of former members of the
+      <a href="/wiki/British_Empire" title="British Empire">
+       British Empire
+      </a>
+      , which is often referred to as simply "the Commonwealth".
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Historical_use">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Historical use
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Rome">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Rome
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#England">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            England
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Iceland">
+           <span class="tocnumber">
+            1.3
+           </span>
+           <span class="toctext">
+            Iceland
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Poland.E2.80.93Lithuania">
+           <span class="tocnumber">
+            1.4
+           </span>
+           <span class="toctext">
+            Poland–Lithuania
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Current_use">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Current use
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#International_level">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            International level
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-8">
+            <a href="#Australia">
+             <span class="tocnumber">
+              2.1.1
+             </span>
+             <span class="toctext">
+              Australia
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-9">
+            <a href="#The_Bahamas">
+             <span class="tocnumber">
+              2.1.2
+             </span>
+             <span class="toctext">
+              The Bahamas
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-10">
+            <a href="#Dominica">
+             <span class="tocnumber">
+              2.1.3
+             </span>
+             <span class="toctext">
+              Dominica
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Federated_states_and_territories">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Federated states and territories
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-12">
+            <a href="#U.S._states">
+             <span class="tocnumber">
+              2.2.1
+             </span>
+             <span class="toctext">
+              U.S. states
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-13">
+            <a href="#U.S._insular_areas">
+             <span class="tocnumber">
+              2.2.2
+             </span>
+             <span class="toctext">
+              U.S. insular areas
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="toclevel-2 tocsection-14">
+          <a href="#International_bodies">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            International bodies
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-15">
+            <a href="#Commonwealth_of_Nations">
+             <span class="tocnumber">
+              2.3.1
+             </span>
+             <span class="toctext">
+              Commonwealth of Nations
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-16">
+            <a href="#Commonwealth_of_Independent_States">
+             <span class="tocnumber">
+              2.3.2
+             </span>
+             <span class="toctext">
+              Commonwealth of Independent States
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-17">
+        <a href="#Proposed_use">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Proposed use
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-18">
+          <a href="#United_Kingdom">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            United Kingdom
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-19">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-20">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-21">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Historical_use">
+       Historical use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=1" title="Edit section: Historical use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Rome">
+       Rome
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=2" title="Edit section: Rome">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Translations of Roman writers' works to English have on occasion translated "
+      <i>
+       <a href="/wiki/Res_publica" title="Res publica">
+        Res publica
+       </a>
+      </i>
+      ", and variants thereof, to "the commonwealth", a term referring to the Roman state as a whole.
+     </p>
+     <h3>
+      <span class="mw-headline" id="England">
+       England
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=3" title="Edit section: England">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The
+      <a href="/wiki/Commonwealth_of_England" title="Commonwealth of England">
+       Commonwealth of England
+      </a>
+      was the official name of the political unit (
+      <i>
+       de facto
+      </i>
+      military rule in the name of parliamentary supremacy) that replaced the
+      <a href="/wiki/Kingdom_of_England" title="Kingdom of England">
+       Kingdom of England
+      </a>
+      (after the
+      <a href="/wiki/English_Civil_War" title="English Civil War">
+       English Civil War
+      </a>
+      ) from 1649–53 and 1659–60, under the rule of
+      <a href="/wiki/Oliver_Cromwell" title="Oliver Cromwell">
+       Oliver Cromwell
+      </a>
+      and his son and successor
+      <a href="/wiki/Richard_Cromwell" title="Richard Cromwell">
+       Richard
+      </a>
+      . From 1653 to 1659, although still legally known as a Commonwealth, the republic, united with the former
+      <a href="/wiki/Kingdom_of_Scotland" title="Kingdom of Scotland">
+       Kingdom of Scotland
+      </a>
+      , operated under different institutions (at times as a
+      <i>
+       de facto
+      </i>
+      monarchy) and is known by historians as the Protectorate. In a British context, it is sometimes referred to as the "Old Commonwealth".
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (July 2015)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Iceland">
+       Iceland
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=4" title="Edit section: Iceland">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The
+      <a href="/wiki/Icelandic_Commonwealth" title="Icelandic Commonwealth">
+       Icelandic Commonwealth
+      </a>
+      or the
+      <a class="mw-redirect" href="/wiki/Icelandic_Free_State" title="Icelandic Free State">
+       Icelandic Free State
+      </a>
+      (
+      <a href="/wiki/Icelandic_language" title="Icelandic language">
+       Icelandic
+      </a>
+      : Þjóðveldið) was the state existing in Iceland between the establishment of the
+      <a href="/wiki/Althing" title="Althing">
+       Althing
+      </a>
+      in 930 and the pledge of fealty to the
+      <a class="mw-redirect" href="/wiki/King_of_Norway" title="King of Norway">
+       Norwegian king
+      </a>
+      in 1262. It was initially established by a public consisting largely of recent immigrants from
+      <a href="/wiki/Norway" title="Norway">
+       Norway
+      </a>
+      who had fled the unification of that country under
+      <a class="mw-redirect" href="/wiki/King" title="King">
+       King
+      </a>
+      <a href="/wiki/Harald_Fairhair" title="Harald Fairhair">
+       Harald Fairhair
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Poland.E2.80.93Lithuania">
+       Poland–Lithuania
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=5" title="Edit section: Poland–Lithuania">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">
+       Polish–Lithuanian Commonwealth
+      </a>
+     </div>
+     <p>
+      <i>
+       Republic
+      </i>
+      is still an alternative translation of the traditional name of the
+      <a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">
+       Polish–Lithuanian Commonwealth
+      </a>
+      .
+      <a href="/wiki/Wincenty_Kad%C5%82ubek" title="Wincenty Kadłubek">
+       Wincenty Kadłubek
+      </a>
+      (Vincent Kadlubo, 1160–1223) used for the first time the original Latin term
+      <i>
+       <a href="/wiki/Res_publica" title="Res publica">
+        res publica
+       </a>
+      </i>
+      in the context of Poland in his "Chronicles of the Kings and Princes of Poland". The name was used officially for the confederal country formed by
+      <a href="/wiki/Poland" title="Poland">
+       Poland
+      </a>
+      and
+      <a href="/wiki/Lithuania" title="Lithuania">
+       Lithuania
+      </a>
+      1569–1795.
+     </p>
+     <p>
+      It is also often referred as "
+      <a href="/wiki/Golden_Liberty" title="Golden Liberty">
+       Nobles' Commonwealth
+      </a>
+      " (1505–1795, i.e., before the union). In contemporary political doctrine of Polish–Lithuanian Commonwealth, "our state is a Republic (or Commonwealth) under presidency of the King". The Commonwealth introduced a doctrine of religious tolerance called
+      <a href="/wiki/Warsaw_Confederation" title="Warsaw Confederation">
+       Warsaw Confederation
+      </a>
+      , had its own parliament
+      <i>
+       <a href="/wiki/Sejm" title="Sejm">
+        Sejm
+       </a>
+      </i>
+      (although elections were restricted to
+      <a href="/wiki/Nobility" title="Nobility">
+       nobility
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Elected_king" title="Elected king">
+       elected kings
+      </a>
+      , who were bound to certain contracts
+      <i>
+       <a class="mw-redirect" href="/wiki/Pacta_conventa_(Poland)" title="Pacta conventa (Poland)">
+        Pacta conventa
+       </a>
+      </i>
+      from the beginning of the reign).
+     </p>
+     <p>
+      "A commonwealth of good counsaile" was the title of the 1607 English translation of the work of
+      <a href="/wiki/Wawrzyniec_Grzyma%C5%82a_Go%C5%9Blicki" title="Wawrzyniec Grzymała Goślicki">
+       Wawrzyniec Grzymała Goślicki
+      </a>
+      "De optimo senatore" that presented to English readers many of the ideas present in the political system of the Polish–Lithuanian Commonwealth.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Current_use">
+       Current use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=6" title="Edit section: Current use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="International_level">
+       International level
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=7" title="Edit section: International level">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <h4>
+      <span class="mw-headline" id="Australia">
+       Australia
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=8" title="Edit section: Australia">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      "Commonwealth" was first proposed as a term for a federation of the six Australian
+      <a href="/wiki/Crown_colony" title="Crown colony">
+       crown colonies
+      </a>
+      at the
+      <a href="/wiki/Constitutional_Convention_(Australia)#1891_convention" title="Constitutional Convention (Australia)">
+       1891 constitutional convention
+      </a>
+      in
+      <a href="/wiki/Sydney" title="Sydney">
+       Sydney
+      </a>
+      . Its adoption was initially controversial, as it was associated by some with the republicanism of
+      <a href="/wiki/Oliver_Cromwell" title="Oliver Cromwell">
+       Oliver Cromwell
+      </a>
+      (
+      <a href="#England">
+       see above
+      </a>
+      ), but it was retained in all subsequent drafts of the constitution.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      The term was finally incorporated into law in the
+      <i>
+       <a class="mw-redirect" href="/wiki/Commonwealth_of_Australia_Constitution_Act" title="Commonwealth of Australia Constitution Act">
+        Commonwealth of Australia Constitution Act
+       </a>
+       1901
+      </i>
+      , which established the federation. Australia operates under a federal system, in which power is divided between the federal (national) government and the
+      <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">
+       state governments
+      </a>
+      (the successors of the six colonies). So, in an Australian context, the term "Commonwealth" (capitalised) refers to the
+      <a href="/wiki/Government_of_Australia" title="Government of Australia">
+       federal government
+      </a>
+      , and "Commonwealth of Australia" is the official name of the country.
+     </p>
+     <h4>
+      <span class="mw-headline" id="The_Bahamas">
+       The Bahamas
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=9" title="Edit section: The Bahamas">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      <a href="/wiki/The_Bahamas" title="The Bahamas">
+       The Bahamas
+      </a>
+      uses the official style
+      <i>
+       Commonwealth of The Bahamas
+      </i>
+      .
+     </p>
+     <h4>
+      <span class="mw-headline" id="Dominica">
+       Dominica
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=10" title="Edit section: Dominica">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The small
+      <a href="/wiki/Caribbean" title="Caribbean">
+       Caribbean
+      </a>
+      republic of
+      <a href="/wiki/Dominica" title="Dominica">
+       Dominica
+      </a>
+      has used the official style
+      <i>
+       Commonwealth of Dominica
+      </i>
+      since 1970.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Federated_states_and_territories">
+       Federated states and territories
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=11" title="Edit section: Federated states and territories">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The term "commonwealth" has one of two political meanings within the United States:
+     </p>
+     <h4>
+      <span class="mw-headline" id="U.S._states">
+       U.S. states
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=12" title="Edit section: U.S. states">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Commonwealth_(U.S._state)" title="Commonwealth (U.S. state)">
+       Commonwealth (U.S. state)
+      </a>
+     </div>
+     <p>
+      Four
+      <a href="/wiki/U.S._state" title="U.S. state">
+       states
+      </a>
+      in the United States officially designate themselves as "commonwealths". All four were original colonies or parts thereof (Kentucky was originally a part of the land grant of the
+      <a href="/wiki/Colony_of_Virginia" title="Colony of Virginia">
+       Colony of Virginia
+      </a>
+      ) and share a strong influence of colonial common law in some of their laws and institutions. The four are:
+     </p>
+     <ul>
+      <li>
+       <b>
+        <a href="/wiki/Kentucky" title="Kentucky">
+         Kentucky
+        </a>
+       </b>
+       is designated a Commonwealth by the
+       <a href="/wiki/Kentucky_Constitution" title="Kentucky Constitution">
+        Kentucky Constitution
+       </a>
+       and is known constitutionally as the "Commonwealth of Kentucky".
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <b>
+        <a href="/wiki/Massachusetts" title="Massachusetts">
+         Massachusetts
+        </a>
+       </b>
+       is a Commonwealth,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       declaring itself as such in its constitution, which states: "[T]he body politic is formed by a voluntary association of individuals: it is a social compact, by which the whole people covenants with each citizen, and each citizen with the whole people, that all shall be governed by certain laws for the common good."
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <b>
+        <a href="/wiki/Pennsylvania" title="Pennsylvania">
+         Pennsylvania
+        </a>
+       </b>
+       uses the "Commonwealth of Pennsylvania" constitutionally and in its official title.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <b>
+        <a href="/wiki/Virginia" title="Virginia">
+         Virginia
+        </a>
+       </b>
+       has been known as the "Commonwealth of Virginia" since before joining the United States, and is referred to as a Commonwealth in its constitution.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h4>
+      <span class="mw-headline" id="U.S._insular_areas">
+       U.S. insular areas
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=13" title="Edit section: U.S. insular areas">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Commonwealth_(U.S._insular_area)" title="Commonwealth (U.S. insular area)">
+       Commonwealth (U.S. insular area)
+      </a>
+     </div>
+     <p>
+      "Commonwealth" is also used in the United States to describe the political relationship between the United States and the overseas
+      <a class="mw-redirect" href="/wiki/Incorporated_territory" title="Incorporated territory">
+       unincorporated territories
+      </a>
+      :
+     </p>
+     <ul>
+      <li>
+       <b>
+        <a href="/wiki/Commonwealth_of_the_Philippines" title="Commonwealth of the Philippines">
+         Commonwealth of the Philippines
+        </a>
+       </b>
+       – formed in 1934, and became independent in 1946, upon which "Commonwealth" was replaced by "Republic".
+      </li>
+      <li>
+       <b>
+        <a class="mw-redirect" href="/wiki/Commonwealth_of_Puerto_Rico" title="Commonwealth of Puerto Rico">
+         Commonwealth of Puerto Rico
+        </a>
+       </b>
+       – became a commonwealth in 1952.
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <b>
+        <a class="mw-redirect" href="/wiki/Commonwealth_of_the_Northern_Mariana_Islands" title="Commonwealth of the Northern Mariana Islands">
+         Commonwealth of the Northern Mariana Islands
+        </a>
+       </b>
+       – became a commonwealth in 1978.
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="International_bodies">
+       International bodies
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=14" title="Edit section: International bodies">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <h4>
+      <span class="mw-headline" id="Commonwealth_of_Nations">
+       Commonwealth of Nations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=15" title="Edit section: Commonwealth of Nations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The
+      <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">
+       Commonwealth of Nations
+      </a>
+      —formerly the British Commonwealth—is a voluntary association of 53 independent sovereign states, most of which were once part of the
+      <a href="/wiki/British_Empire" title="British Empire">
+       British Empire
+      </a>
+      . The Commonwealth's membership includes both republics and monarchies. The head of the Commonwealth of Nations is Queen
+      <a href="/wiki/Elizabeth_II" title="Elizabeth II">
+       Elizabeth II
+      </a>
+      , who reigns as monarch directly in 16 member states known as
+      <a href="/wiki/Commonwealth_realm" title="Commonwealth realm">
+       Commonwealth realms
+      </a>
+      .
+     </p>
+     <h4>
+      <span class="mw-headline" id="Commonwealth_of_Independent_States">
+       Commonwealth of Independent States
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=16" title="Edit section: Commonwealth of Independent States">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The
+      <a href="/wiki/Commonwealth_of_Independent_States" title="Commonwealth of Independent States">
+       Commonwealth of Independent States
+      </a>
+      (CIS) is a loose
+      <a href="/wiki/Military_alliance" title="Military alliance">
+       alliance
+      </a>
+      or confederation consisting of 10 of the 15
+      <a href="/wiki/Post-Soviet_states" title="Post-Soviet states">
+       former Soviet Republics
+      </a>
+      , the exceptions being
+      <a href="/wiki/Turkmenistan" title="Turkmenistan">
+       Turkmenistan
+      </a>
+      (a CIS associate member),
+      <a href="/wiki/Lithuania" title="Lithuania">
+       Lithuania
+      </a>
+      ,
+      <a href="/wiki/Latvia" title="Latvia">
+       Latvia
+      </a>
+      ,
+      <a href="/wiki/Estonia" title="Estonia">
+       Estonia
+      </a>
+      , and
+      <a href="/wiki/Georgia_(country)" title="Georgia (country)">
+       Georgia
+      </a>
+      .
+      <a href="/wiki/Georgia_(country)" title="Georgia (country)">
+       Georgia
+      </a>
+      left the CIS in August 2008 after
+      <a class="mw-redirect" href="/wiki/2008_South_Ossetia_war" title="2008 South Ossetia war">
+       a clash
+      </a>
+      with
+      <a href="/wiki/Russia" title="Russia">
+       Russia
+      </a>
+      over
+      <a href="/wiki/South_Ossetia" title="South Ossetia">
+       South Ossetia
+      </a>
+      . Its creation signalled the dissolution of the
+      <a href="/wiki/Soviet_Union" title="Soviet Union">
+       Soviet Union
+      </a>
+      , its purpose being to "allow a civilised divorce" between the
+      <a href="/wiki/Republics_of_the_Soviet_Union" title="Republics of the Soviet Union">
+       Soviet Republics
+      </a>
+      . The CIS has developed as a forum by which the member-states can co-operate in
+      <a href="/wiki/Economics" title="Economics">
+       economics
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Defence_(military)" title="Defence (military)">
+       defence
+      </a>
+      , and
+      <a href="/wiki/Foreign_policy" title="Foreign policy">
+       foreign policy
+      </a>
+      .
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (November 2014)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Proposed_use">
+       Proposed use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=17" title="Edit section: Proposed use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="United_Kingdom">
+       United Kingdom
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=18" title="Edit section: United Kingdom">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Labour MP
+      <a href="/wiki/Tony_Benn" title="Tony Benn">
+       Tony Benn
+      </a>
+      sponsored a
+      <i>
+       <a href="/wiki/Commonwealth_of_Britain_Bill" title="Commonwealth of Britain Bill">
+        Commonwealth of Britain Bill
+       </a>
+      </i>
+      several times between 1991 and 2001, intended to abolish the monarchy and establish a British republic. It never reached
+      <a class="mw-redirect" href="/wiki/Second_reading" title="Second reading">
+       second reading
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=19" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Commonwealth_Realms_map2.png">
+          <img alt="icon" class="noviewer" data-file-height="628" data-file-width="1357" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Commonwealth_Realms_map2.png/32px-Commonwealth_Realms_map2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Commonwealth_Realms_map2.png/48px-Commonwealth_Realms_map2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Commonwealth_Realms_map2.png/64px-Commonwealth_Realms_map2.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Commonwealth_realms" title="Portal:Commonwealth realms">
+          Commonwealth realms portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Common_good" title="Common good">
+        Common good
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Common_law" title="Common law">
+        Common law
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Confederation" title="Confederation">
+        Confederation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Democracy" title="Democracy">
+        Democracy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Federation" title="Federation">
+        Federation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Political_alliance" title="Political alliance">
+        League
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=20" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Helen Irving.
+         <a class="external text" href="http://www.civicsandcitizenship.edu.au/cce/helen_irving,9939.html" rel="nofollow">
+          Australian Federation
+         </a>
+         – Civics and Citizenship Education. Retrieved 15 July 2015.
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://kentucky.gov" rel="nofollow">
+           "Kentucky.gov"
+          </a>
+          . Kentucky.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-10-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommonwealth&amp;rft.btitle=Kentucky.gov&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fkentucky.gov&amp;rft.pub=Kentucky.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.mass.gov" rel="nofollow">
+           "Mass.Gov"
+          </a>
+          . Mass.Gov. 2013-09-26
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-10-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommonwealth&amp;rft.btitle=Mass.Gov&amp;rft.date=2013-09-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mass.gov&amp;rft.pub=Mass.Gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.malegislature.gov/Laws/Constitution#cp00s00.htm" rel="nofollow">
+           "Constitution of the Commonwealth of Massachusetts"
+          </a>
+          . Malegislature.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-10-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommonwealth&amp;rft.btitle=Constitution+of+the+Commonwealth+of+Massachusetts&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.malegislature.gov%2FLaws%2FConstitution%23cp00s00.htm&amp;rft.pub=Malegislature.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.pa.gov" rel="nofollow">
+           "Commonwealth of Pennsylvania | The Keystone State"
+          </a>
+          . Pa.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-10-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommonwealth&amp;rft.btitle=Commonwealth+of+Pennsylvania+%26%23124%3B+The+Keystone+State&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.pa.gov&amp;rft.pub=Pa.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.virginia.gov" rel="nofollow">
+           "Home"
+          </a>
+          . Virginia.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-10-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommonwealth&amp;rft.btitle=Home&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.virginia.gov&amp;rft.pub=Virginia.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://welcome.topuertorico.org/government.shtml:" rel="nofollow">
+          copyright 2009
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Commonwealth&amp;action=edit&amp;section=21" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wiktionary-logo-v2.svg">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" width="40"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Look up
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wiktionary.org/wiki/Commonwealth" title="wiktionary:Commonwealth">
+           Commonwealth
+          </a>
+         </b>
+        </i>
+        or
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wiktionary.org/wiki/commonwealth" title="wiktionary:commonwealth">
+           commonwealth
+          </a>
+         </b>
+        </i>
+        in Wiktionary, the free dictionary.
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       Commonwealth of Nations
+       <ul>
+        <li>
+         <a class="external text" href="http://www.direct.gov.uk/Gtgl1/GuideToGovernment/InternationalBodies/InternationalBodiesArticles/fs/en?CONTENT_ID=4003092&amp;chk=JXlogH" rel="nofollow">
+          The Commonwealth
+         </a>
+         — UK government site
+        </li>
+        <li>
+         <a class="external text" href="http://www.thecommonwealth.org/" rel="nofollow">
+          Commonwealth of Nations Secretariat
+         </a>
+         *
+        </li>
+        <li>
+         <a class="external text" href="http://www.commonwealthfoundation.com/" rel="nofollow">
+          Commonwealth Foundation
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.rcsint.org/" rel="nofollow">
+          Royal Commonwealth Society
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Commonwealth of Independent States
+       <ul>
+        <li>
+         <a class="external text" href="http://www.cis.minsk.by/" rel="nofollow">
+          CIS Executive Committee
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.cisstat.com/eng/" rel="nofollow">
+          CIS Statistical Committee
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Countries
+       <ul>
+        <li>
+         <a class="external text" href="http://www.gov.au/" rel="nofollow">
+          Commonwealth of Australia
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       United States
+       <ul>
+        <li>
+         <a class="external text" href="http://www.ky.gov" rel="nofollow">
+          Commonwealth of Kentucky
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.mass.gov" rel="nofollow">
+          Commonwealth of Massachusetts
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.state.pa.us/" rel="nofollow">
+          Commonwealth of Pennsylvania
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.virginia.gov/cmsportal/" rel="nofollow">
+          Commonwealth of Virginia
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.gobierno.pr/" rel="nofollow">
+          Commonwealth of Puerto Rico
+         </a>
+        </li>
+        <li>
+         <a class="external text" href="http://www.gov.mp/" rel="nofollow">
+          Commonwealth of the Northern Mariana Islands
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Polish-Lithuanian Commonwealth
+       <ul>
+        <li>
+         <a class="external text" href="http://www.commonwealth.pl" rel="nofollow">
+          Commonwealth of Diverse Cultures: Poland's Heritage
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6766-0!*!0!!en!4!* and timestamp 20161030225002 and revision id 744194022
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Commonwealth&amp;oldid=744194022">
+      https://en.wikipedia.org/w/index.php?title=Commonwealth&amp;oldid=744194022
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Forms_of_government" title="Category:Forms of government">
+         Forms of government
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Democracy" title="Category:Democracy">
+         Democracy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2015" title="Category:Articles with unsourced statements from July 2015">
+         Articles with unsourced statements from July 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">
+         Articles with unsourced statements from November 2014
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Commonwealth" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Commonwealth" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Commonwealth" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Commonwealth" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Commonwealth">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Commonwealth&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Commonwealth&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Commonwealth" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Commonwealth" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Commonwealth&amp;oldid=744194022" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Commonwealth&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2578692" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Commonwealth&amp;id=744194022" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Commonwealth">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Commonwealth&amp;returnto=Commonwealth&amp;oldid=744194022&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Commonwealth&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%85%D9%86%D9%88%D9%84%D8%AB_(%D9%85%D8%B5%D8%B7%D9%84%D8%AD)" hreflang="ar" lang="ar" title="كومنولث (مصطلح) – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Commonwealth" hreflang="bs" lang="bs" title="Commonwealth – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Commonwealth" hreflang="es" lang="es" title="Commonwealth – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A8%BC%EC%9B%B0%EC%8A%A4" hreflang="ko" lang="ko" title="코먼웰스 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Persemakmuran" hreflang="id" lang="id" title="Persemakmuran – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Commonwealth" hreflang="it" lang="it" title="Commonwealth – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Jumuiya" hreflang="sw" lang="sw" title="Jumuiya – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9" hreflang="ja" lang="ja" title="コモンウェルス – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Samvelde" hreflang="no" lang="no" title="Samvelde – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BE%D0%BD%D0%B2%D0%B5%D0%BB%D1%82" hreflang="sr" lang="sr" title="Комонвелт – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Komonwelt" hreflang="tl" lang="tl" title="Komonwelt – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%A4%E0%AF%81%E0%AE%A8%E0%AE%B2%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பொதுநலவாயம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A0%E0%B8%9E" hreflang="th" lang="th" title="เครือจักรภพ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Th%E1%BB%8Bnh_v%C6%B0%E1%BB%A3ng_chung" hreflang="vi" lang="vi" title="Thịnh vượng chung – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%AB%94" hreflang="zh" lang="zh" title="共同體 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2578692#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 13 October 2016, at 18:14.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Commonwealth&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.116",
+            "walltime": "0.160",
+            "ppvisitednodes": {
+                "value": 748,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 13622,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1179,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  130.399      1 -total",
+                " 31.82%   41.493      1 Template:Reflist",
+                " 31.73%   41.373      2 Template:Fix",
+                " 27.37%   35.687      1 Template:Cn",
+                " 26.25%   34.227      5 Template:Cite_web",
+                " 16.18%   21.094      4 Template:Category_handler",
+                " 14.44%   18.831      1 Template:About",
+                " 13.28%   17.316      2 Template:Delink",
+                "  9.04%   11.792      1 Template:Fact",
+                "  5.35%    6.970      1 Template:Wiktionary"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.054",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2712183,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1254",
+            "timestamp": "20161030225002",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":51,"wgHostname":"mw1248"});});
+  </script>
+ </body>
+</html>

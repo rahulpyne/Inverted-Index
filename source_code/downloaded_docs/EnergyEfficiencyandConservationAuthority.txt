@@ -1,0 +1,978 @@
+https://en.wikipedia.org/wiki/Energy_Efficiency_and_Conservation_Authority
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Energy Efficiency and Conservation Authority - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_Efficiency_and_Conservation_Authority","wgTitle":"Energy Efficiency and Conservation Authority","wgCurRevisionId":664532962,"wgRevisionId":664532962,"wgArticleId":12357357,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Energy in New Zealand","New Zealand Crown agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_Efficiency_and_Conservation_Authority","wgRelevantArticleId":12357357,"wgRequestId":"WBv@NwpAADkAAjyVm1wAAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5376923","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_Efficiency_and_Conservation_Authority" rel="alternate"/>
+  <link href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Energy_Efficiency_and_Conservation_Authority" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_Efficiency_and_Conservation_Authority rootpage-Energy_Efficiency_and_Conservation_Authority skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Energy Efficiency and Conservation Authority
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Energy Efficiency and Conservation Authority
+      </b>
+      (EECA) is a
+      <a href="/wiki/New_Zealand" title="New Zealand">
+       New Zealand
+      </a>
+      government/crown agency responsible for promoting energy efficiency and conservation.
+     </p>
+     <p>
+      The EECA was set up by the
+      <a href="/wiki/Fourth_National_Government_of_New_Zealand" title="Fourth National Government of New Zealand">
+       Fourth National Government of New Zealand
+      </a>
+      in 1992 to encourage, support and promote energy efficiency, energy conservation, and the use of renewable sources of energy. The EECA, by promoting energy efficiency helps to reduce climate change and GHG emissions through energy efficiency measures.
+     </p>
+     <p>
+      In 2000 EECA became a Crown Entity, established under the
+      <a href="/wiki/Energy_Efficiency_and_Conservation_Act_2000" title="Energy Efficiency and Conservation Act 2000">
+       Energy Efficiency and Conservation Act 2000
+      </a>
+      . It is subject to the Crown Entities Act 2004.
+     </p>
+     <p>
+      The passing of the Energy Efficiency and Conservation Act meant that for the first time, New Zealand had a legislative basis for promoting energy efficiency, energy conservation, and renewable energy.
+     </p>
+     <p>
+      The Energy Efficiency and Conservation Authority is responsible for preparing a national energy efficiency and conservation strategy for approval by the administering Minister.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In 2004, EECA launched the Energywise Home Grants Programme to provide insulation retrofits to low-income owners of homes built before 1978. 1978 is when minimum insulation standards were introduced to the New Zealand building code, and the majority of homes built prior to this had no insulation at all. The Energywise Programme had a target of insulating 6000 homes.
+     </p>
+     <p>
+      In 2009 the New Zealand Government allocated an extra $247.7 million to EECA for home insulation grants. The programme was called Warm Up New Zealand:Heat Smart and insulated more than 235,000 homes.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In 2013, the Government allocated $100 million of operating funding over three years to the Warm Up New Zealand: Healthy Homes programme, targeting low-income households for home insulation, particularly households occupied by children and/or the elderly.
+     </p>
+     <p>
+      As at 2013 Tom Campbell is the chair of the EECA Board.
+     </p>
+     <p>
+      The current Chief Executive is Mike Underhill. The Employees remuneration statement in the 2014 annual report reveals that he receives remuneration and benefits of over $280,000.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit&amp;section=1" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Sustainability_in_New_Zealand" title="Sustainability in New Zealand">
+        Sustainability in New Zealand
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_in_New_Zealand" title="Energy in New Zealand">
+        Energy in New Zealand
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit&amp;section=2" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.legislation.govt.nz/act/public/2000/0014/latest/DLM54984.html" rel="nofollow">
+           "Section 13. Preparation of draft strategy"
+          </a>
+          .
+          <i>
+           Energy Efficiency and Conservation Act 2000 No 14
+          </i>
+          . New Zealand Legislation (www.legislation.govt.nz)
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-08-15
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+Efficiency+and+Conservation+Authority&amp;rft.atitle=Section+13.+Preparation+of+draft+strategy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.legislation.govt.nz%2Fact%2Fpublic%2F2000%2F0014%2Flatest%2FDLM54984.html&amp;rft.jtitle=Energy+Efficiency+and+Conservation+Act+2000+No+14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.legislation.govt.nz/regulation/public/2002/0009/latest/whole.html?search=ts_regulation_Energy+Efficiency_resel" rel="nofollow">
+          http://www.legislation.govt.nz/regulation/public/2002/0009/latest/whole.html?search=ts_regulation_Energy+Efficiency_resel
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.eeca.govt.nz/sites/all/files/eeca-annual-report-web-2013-2014.pdf" rel="nofollow">
+          http://www.eeca.govt.nz/sites/all/files/eeca-annual-report-web-2013-2014.pdf
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit&amp;section=3" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <b>
+        <a class="external text" href="http://www.eeca.govt.nz" rel="nofollow">
+         Energy Efficiency and Conservation Authority
+        </a>
+       </b>
+      </li>
+     </ul>
+     <div aria-labelledby="New_Zealand_crown_agents" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:NZ_crown_entities/Crown_agents" title="Template:NZ crown entities/Crown agents">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:NZ_crown_entities/Crown_agents" title="Template talk:NZ crown entities/Crown agents">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:NZ_crown_entities/Crown_agents&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="New_Zealand_crown_agents" style="font-size:114%">
+          New Zealand
+          <a href="/wiki/Crown_entity" title="Crown entity">
+           crown agents
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          Part of the
+          <a class="mw-redirect" href="/wiki/State_sector_organisations_in_New_Zealand" title="State sector organisations in New Zealand">
+           State sector organisations in New Zealand
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Accident_Compensation_Corporation" title="Accident Compensation Corporation">
+             Accident Compensation Corporation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Careers_New_Zealand" title="Careers New Zealand">
+             Careers New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Civil_Aviation_Authority_of_New_Zealand" title="Civil Aviation Authority of New Zealand">
+             Civil Aviation Authority
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Crown_Health_Financing_Agency&amp;action=edit&amp;redlink=1" title="Crown Health Financing Agency (page does not exist)">
+             Crown Health Financing Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/District_health_board" title="District health board">
+             District health boards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earthquake_Commission" title="Earthquake Commission">
+             Earthquake Commission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electricity_Authority_(New_Zealand)" title="Electricity Authority (New Zealand)">
+             Electricity Authority
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Energy Efficiency and Conservation Authority
+            </strong>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Health_Promotion_Authority&amp;action=edit&amp;redlink=1" title="Health Promotion Authority (page does not exist)">
+             Health Promotion Authority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Health_Research_Council_of_New_Zealand" title="Health Research Council of New Zealand">
+             Health Research Council of New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Health_Sponsorship_Council" title="Health Sponsorship Council">
+             Health Sponsorship Council
+            </a>
+            <b>
+             †
+            </b>
+           </li>
+           <li>
+            <a href="/wiki/Housing_New_Zealand_Corporation" title="Housing New Zealand Corporation">
+             Housing New Zealand Corporation
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Legal_Services_Agency&amp;action=edit&amp;redlink=1" title="Legal Services Agency (page does not exist)">
+             Legal Services Agency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Maritime_New_Zealand" title="Maritime New Zealand">
+             Maritime New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Antarctica_New_Zealand" title="Antarctica New Zealand">
+             New Zealand Antarctic Institute
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Zealand_Blood_Service" title="New Zealand Blood Service">
+             New Zealand Blood Service
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Zealand_Fire_Service_Commission" title="New Zealand Fire Service Commission">
+             New Zealand Fire Service Commission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Zealand_Qualifications_Authority" title="New Zealand Qualifications Authority">
+             New Zealand Qualifications Authority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tourism_New_Zealand" title="Tourism New Zealand">
+             New Zealand Tourism Board
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/New_Zealand_Trade_and_Enterprise" title="New Zealand Trade and Enterprise">
+             New Zealand Trade and Enterprise
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/NZ_Transport_Agency" title="NZ Transport Agency">
+             NZ Transport Agency
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=New_Zealand_Walking_Access_Commission&amp;action=edit&amp;redlink=1" title="New Zealand Walking Access Commission (page does not exist)">
+             New Zealand Walking Access Commission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pharmac" title="Pharmac">
+             Pharmaceutical Management Agency
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Real_Estate_Agents_Authority&amp;action=edit&amp;redlink=1" title="Real Estate Agents Authority (page does not exist)">
+             Real Estate Agents Authority
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Social_Workers_Registration_Board&amp;action=edit&amp;redlink=1" title="Social Workers Registration Board (page does not exist)">
+             Social Workers Registration Board
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sport_New_Zealand" title="Sport New Zealand">
+             Sport New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Education_in_New_Zealand#Tertiary_education" title="Education in New Zealand">
+             Tertiary Education Commission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/WorkSafe_New_Zealand" title="WorkSafe New Zealand">
+             WorkSafe New Zealand
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <b>
+           †
+          </b>
+          indicates an entity which has been dissolved
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:12357357-0!*!0!!*!*!* and timestamp 20161028184406 and revision id 664532962
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;oldid=664532962">
+      https://en.wikipedia.org/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;oldid=664532962
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_in_New_Zealand" title="Category:Energy in New Zealand">
+         Energy in New Zealand
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:New_Zealand_Crown_agents" title="Category:New Zealand Crown agents">
+         New Zealand Crown agents
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+Efficiency+and+Conservation+Authority" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+Efficiency+and+Conservation+Authority" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Energy_Efficiency_and_Conservation_Authority" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Energy_Efficiency_and_Conservation_Authority" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Energy_Efficiency_and_Conservation_Authority">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_Efficiency_and_Conservation_Authority" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_Efficiency_and_Conservation_Authority" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;oldid=664532962" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5376923" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_Efficiency_and_Conservation_Authority&amp;id=664532962" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+Efficiency+and+Conservation+Authority">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+Efficiency+and+Conservation+Authority&amp;returnto=Energy+Efficiency+and+Conservation+Authority&amp;oldid=664532962&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5376923#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 29 May 2015, at 08:12.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_Efficiency_and_Conservation_Authority&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.052",
+            "walltime": "0.063",
+            "ppvisitednodes": {
+                "value": 142,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 9829,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 4,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   49.450      1 -total",
+                " 75.15%   37.160      1 Template:Reflist",
+                " 66.76%   33.015      1 Template:Cite_web",
+                " 24.68%   12.204      1 Template:NZ_crown_entities/Crown_agents",
+                " 17.10%    8.458      1 Template:Navbox"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.019",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1550458,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1209",
+            "timestamp": "20161028184406",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1262"});});
+  </script>
+ </body>
+</html>

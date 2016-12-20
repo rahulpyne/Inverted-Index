@@ -1,0 +1,1614 @@
+https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Deutsche Gesellschaft für Internationale Zusammenarbeit - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit","wgTitle":"Deutsche Gesellschaft für Internationale Zusammenarbeit","wgCurRevisionId":746032120,"wgRevisionId":746032120,"wgArticleId":4045640,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2015","Commons category with page title same as on Wikidata","Articles with German-language external links","Official website different in Wikidata and Wikipedia","Use dmy dates from December 2012","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","International management consulting firms","Management consulting firms of Germany","Appropriate technology organizations","Organisations based in Bonn","Organisations based in Cambodia","Organizations established in 2011"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit","wgRelevantArticleId":4045640,"wgRequestId":"WBvXpQpAMEgAAIe@Jh4AAAAQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q462763","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" rel="alternate"/>
+  <link href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit rootpage-Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Deutsche Gesellschaft für Internationale Zusammenarbeit
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg">
+         <img alt="Deutsche Gesellschaft für Internationale Zusammenarbeit Logo.svg" data-file-height="29" data-file-width="105" height="61" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg/220px-Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg/330px-Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg/440px-Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit_Logo.svg.png 2x" width="220"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Abbreviation
+       </th>
+       <td class="nickname">
+        GIZ
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Formation
+       </th>
+       <td class="note">
+        1 January 2011
+        <span class="noprint">
+         ; 5 years ago
+        </span>
+        <span style="display:none">
+         (
+         <span class="bday dtstart published updated">
+          2011-01-01
+         </span>
+         )
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Type
+       </th>
+       <td>
+        <a class="mw-redirect" href="/wiki/Governmental_organization" title="Governmental organization">
+         governmental
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Legal status
+       </th>
+       <td>
+        <a href="/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung" title="Gesellschaft mit beschränkter Haftung">
+         GmbH
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Purpose
+       </th>
+       <td>
+        <a href="/wiki/Development_aid" title="Development aid">
+         Development aid
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Location
+       </th>
+       <td class="label">
+        <div class="plainlist">
+         <ul>
+          <li>
+           <a href="/wiki/Bonn" title="Bonn">
+            Bonn
+           </a>
+           and
+           <a href="/wiki/Eschborn" title="Eschborn">
+            Eschborn
+           </a>
+           , Germany
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Executive director
+        </div>
+       </th>
+       <td>
+        Tanja Gönner
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Staff
+        </div>
+       </th>
+       <td>
+        <span class="nowrap">
+         <span class="sortkey" style="display:none">
+          7004164100000000000♠
+         </span>
+         16,410
+        </span>
+        <sup class="reference" id="cite_ref-Profile_1-0">
+         <a href="#cite_note-Profile-1">
+          [1]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Website
+       </th>
+       <td>
+        <span class="url">
+         <a class="external text" href="http://www.giz.de" rel="nofollow">
+          www
+          <wbr>
+          </wbr>
+          .giz
+          <wbr>
+          </wbr>
+          .de
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+      </b>
+      or just
+      <b>
+       GIZ
+      </b>
+      in short, is a
+      <a href="/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung" title="Gesellschaft mit beschränkter Haftung">
+       company
+      </a>
+      that specializes in international development. The German name of the company translates to English as "German Corporation for International Cooperation", however the German title of the organization purposefully has no official translation in the company's publications. GIZ is owned by the
+      <a class="mw-redirect" href="/wiki/German_Federal_Government" title="German Federal Government">
+       German Federal Government
+      </a>
+      and operates in more than 130 countries. Its headquarters are located in
+      <a href="/wiki/Bonn" title="Bonn">
+       Bonn
+      </a>
+      and
+      <a href="/wiki/Eschborn" title="Eschborn">
+       Eschborn
+      </a>
+      ,
+      <a href="/wiki/Germany" title="Germany">
+       Germany
+      </a>
+      .
+      <sup class="reference" id="cite_ref-Profile_1-1">
+       <a href="#cite_note-Profile-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      GIZ was established on 1 January 2011 through a merger of the three German organisations:
+      <a href="/wiki/Deutscher_Entwicklungsdienst" title="Deutscher Entwicklungsdienst">
+       Deutscher Entwicklungsdienst
+      </a>
+      (DED), Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ), and
+      <a href="/wiki/InWEnt" title="InWEnt">
+       Internationale Weiterbildung und Entwicklung
+      </a>
+      (InWEnt).
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      GIZ works in a variety of fields, namely: economic development and employment; government, democracy and poverty reduction; education, health and social security; environment and infrastructure; and agriculture, fisheries and food. GIZ works primarily with states, state agencies, and the private sector (and not normally with, for example, non-governmental organizations, universities or research organizations).
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Clients">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Clients
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Facts_and_figures">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Facts and figures
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Fields_of_activity">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Fields of activity
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Clients">
+       Clients
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=1" title="Edit section: Clients">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:2014-07-24_Friedrich-Ebert-Allee_40,_Bonn-Gronau_IMG_2185.jpg">
+        <img alt="" class="thumbimage" data-file-height="2595" data-file-width="3886" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg/220px-2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg/330px-2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg/440px-2014-07-24_Friedrich-Ebert-Allee_40%2C_Bonn-Gronau_IMG_2185.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:2014-07-24_Friedrich-Ebert-Allee_40,_Bonn-Gronau_IMG_2185.jpg" title="Enlarge">
+         </a>
+        </div>
+        Building of GIZ headquarters in Bonn, Germany
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_(7642662618).jpg">
+        <img alt="" class="thumbimage" data-file-height="2848" data-file-width="4288" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg/220px-Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg/330px-Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg/440px-Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_%287642662618%29.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Joint_GIZ_and_KFW_Visit_at_the_Lyc%C3%A9e_Regina_Pacis_(7642662618).jpg" title="Enlarge">
+         </a>
+        </div>
+        Staff members of GIZ and
+        <a href="/wiki/KfW" title="KfW">
+         KfW
+        </a>
+        together with local partners visit a project at a school in Gitega, Burundi
+       </div>
+      </div>
+     </div>
+     <p>
+      GIZ mainly operates on behalf of the
+      <a href="/wiki/Federal_Ministry_for_Economic_Cooperation_and_Development" title="Federal Ministry for Economic Cooperation and Development">
+       Federal Ministry for Economic Cooperation and Development
+      </a>
+      (BMZ). Further clients are other departments of the government, international donors like the
+      <a href="/wiki/European_Union" title="European Union">
+       European Union
+      </a>
+      ,
+      <a href="/wiki/World_Bank" title="World Bank">
+       World Bank
+      </a>
+      or the
+      <a href="/wiki/United_Nations" title="United Nations">
+       United Nations
+      </a>
+      , partner countries and the private sector. The cooperation with private enterprises is an emerging field, promoted under the name of sustainable development. The GIZ is set up with International Services (IS) and the
+      <a class="mw-redirect" href="/wiki/Public_Private_Partnership" title="Public Private Partnership">
+       Public Private Partnership
+      </a>
+      (PPP)
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      in this area.
+     </p>
+     <p>
+      GIZ works on a public-benefit basis.
+      <sup class="reference" id="cite_ref-Profile_1-2">
+       <a href="#cite_note-Profile-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Facts_and_figures">
+       Facts and figures
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=2" title="Edit section: Facts and figures">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      With a turnover of
+      <a href="/wiki/Euro" title="Euro">
+       €
+      </a>
+      2.1 billion in 2012, some €1.87 billion came from projects and programmes for public clients, such as the BMZ, other German federal ministries or the EU. Roughly 90 percent of GIZ's turnover was under contracts from the
+      <a href="/wiki/Politics_of_Germany" title="Politics of Germany">
+       German Federal Government
+      </a>
+      . The GIZ made 18.7 percent (€230 million) in 2012 from contracts from other clients such as financing institutions or private sector companies. €956 million of its turnover have been channeled through to third-party-consultancies.
+     </p>
+     <p>
+      As of 2012, GIZ has about 16,000 employees working in more than 130 countries, including about 1,900 at its head offices in
+      <a href="/wiki/Eschborn" title="Eschborn">
+       Eschborn
+      </a>
+      (near
+      <a class="mw-redirect" href="/wiki/Frankfurt_am_Main" title="Frankfurt am Main">
+       Frankfurt am Main
+      </a>
+      ) and
+      <a href="/wiki/Bonn" title="Bonn">
+       Bonn
+      </a>
+      . About 70 percent of its staff are local employees in the partner countries.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Fields_of_activity">
+       Fields of activity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=3" title="Edit section: Fields of activity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      GIZ's main activities in its partner countries are focusing on sustainable development and resource management:
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       Economic development and employment (including services such as vocational training, economic policy advice, financial systems development or private sector promotion)
+      </li>
+      <li>
+       Government, democracy and poverty reduction (including services and working fields such as development-oriented emergency aid, peace building and crisis prevention, governance, sustainable urban development or structural poverty reduction)
+      </li>
+      <li>
+       Education, health and social security (including working fields such as education, development-oriented drug control, promotion of children and young people or
+       <a href="/wiki/HIV/AIDS" title="HIV/AIDS">
+        HIV/AIDS
+       </a>
+       prevention)
+      </li>
+      <li>
+       Environment and infrastructure (including activities such as waste, energy and water management,
+       <a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">
+        sustainable sanitation
+       </a>
+       , natural resource management, transport and mobility, implementing international environmental regimes or environmental policy, climate change-related
+       <a href="/wiki/Capacity_building" title="Capacity building">
+        capacity building
+       </a>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       )
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Agriculture, fisheries and food (including services such as coastal zone management, land management, market-oriented farming and food systems, policy advice on agriculture and rural development or securing livelihoods in marginal rural areas)
+      </li>
+     </ul>
+     <p>
+      GIZ has been involved in the creation of various networks, associations and portals, and may carry out or support secretariat functions for some of these for a limited period of time. Examples of such networks and associations that have had some GIZ involvement include:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/REN21" title="REN21">
+        Renewable Energy Policy Network for the 21st Century (REN21)
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/BIOPAT_%E2%80%93_Patrons_for_Biodiversity" title="BIOPAT – Patrons for Biodiversity">
+        BIOPAT
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Alumniportal_Deutschland" title="Alumniportal Deutschland">
+        Alumniportal Germany
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Sustainable_Sanitation_Alliance" title="Sustainable Sanitation Alliance">
+        Sustainable Sanitation Alliance
+       </a>
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      GIZ works closely with the German government-owned development bank
+      <a href="/wiki/KfW" title="KfW">
+       KfW
+      </a>
+      which is based in Frankfurt. In this collaboration, GIZ has the role of what is being called "technical cooperation" by the German agencies, and KfW has the role of "financial cooperation".
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (May 2015)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      GIZ is currently represented in the SuRe® Stakeholder Council.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      SuRe® – The Standard for Sustainable and Resilient Infrastructure is a global voluntary standard which integrates key criteria of sustainability and resilience into infrastructure development and upgrade. SuRe® is developed by GIB Foundation and Natixis as part of a multi-stakeholder process and will be compliant with ISEAL guidelines.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/List_of_development_aid_agencies" title="List of development aid agencies">
+        List of development aid agencies
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-Profile-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Profile_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Profile_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Profile_1-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.giz.de/en/aboutgiz/profile.html" rel="nofollow">
+           "Profile"
+          </a>
+          . Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ). 31 December 2014
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2 October
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADeutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft.btitle=Profile&amp;rft.date=2014-12-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.giz.de%2Fen%2Faboutgiz%2Fprofile.html&amp;rft.pub=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit+%28GIZ%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         "
+         <a class="external text" href="http://www.bmz.de/en/press/aktuelleMeldungen/2010/december/20101216_pm_184_fusion/index.html" rel="nofollow">
+          Merger of public development agencies
+         </a>
+         " German Federal Ministry for Economical Cooperation, 16 December 2010. Retrieved 15 September 2013.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.gtz.de/en/unternehmen/2362.htm" rel="nofollow">
+           "Development Partnerships with the Private Sector (PPP)"
+          </a>
+          . Deutsche Gesellschaft für Internationale Zusammenarbeit. 25 October 2010
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            25 August
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADeutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft.btitle=Development+Partnerships+with+the+Private+Sector+%28PPP%29&amp;rft.date=2010-10-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gtz.de%2Fen%2Funternehmen%2F2362.htm&amp;rft.pub=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.giz.de/en/downloads/giz2013-de-unternehmensbericht-2012.pdf" rel="nofollow">
+          GIZ Corporat Report 2012
+         </a>
+         . Retrieved 15 September 2013.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.gtz.de/en/leistungsangebote/1868.htm" rel="nofollow">
+           "Range of services"
+          </a>
+          . Deutsche Gesellschaft für Internationale Zusammenarbeit. 6 January 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            25 August
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADeutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft.btitle=Range+of+services&amp;rft.date=2011-01-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gtz.de%2Fen%2Fleistungsangebote%2F1868.htm&amp;rft.pub=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.chinacarbon.info/?p=190" rel="nofollow">
+           "Low Carbon Leadership Network: Emission Trading Schemes – European and Asian Perspectives of Cooperation"
+          </a>
+          . China Carbon Forum / 中国碳论坛. 2 June 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            25 August
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADeutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft.btitle=Low+Carbon+Leadership+Network%3A+Emission+Trading+Schemes+%93+European+and+Asian+Perspectives+of+Cooperation&amp;rft.date=2011-06-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.chinacarbon.info%2F%3Fp%3D190&amp;rft.pub=China+Carbon+Forum+%2F+%E4%B8%E5%9B%BD%E7%A2%B3%E8%AE%BA%E5%9D%9B&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         GIZ (2015).
+         <a class="external text" href="http://www.susana.org/en/resources/library/details/2312" rel="nofollow">
+          Water for all
+         </a>
+         . Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Eschborn, Germany
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.giz.de/en/downloads/giz2014-en-sustainable-sanitation.pdf" rel="nofollow">
+           "Products and services: Sustainable infrastructure - Advisory service (sustainable sanitation)"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Website of Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+          </i>
+          . Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            25 March
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADeutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;rft.atitle=Products+and+services%3A+Sustainable+infrastructure+-+Advisory+service+%28sustainable+sanitation%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.giz.de%2Fen%2Fdownloads%2Fgiz2014-en-sustainable-sanitation.pdf&amp;rft.jtitle=Website+of+Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit+%28GIZ%29+GmbH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.gib-foundation.org/sure-stakeholder-council/" rel="nofollow">
+          http://www.gib-foundation.org/sure-stakeholder-council/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://issuu.com/utkmedia/docs/nachhaltigesinvestment_2016/65?e=1307954/30767650" rel="nofollow">
+          https://issuu.com/utkmedia/docs/nachhaltigesinvestment_2016/65?e=1307954/30767650
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit&amp;section=6" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" title="commons:Category:Deutsche Gesellschaft für Internationale Zusammenarbeit">
+           Deutsche Gesellschaft für Internationale Zusammenarbeit
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.giz.de/" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+       <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">
+        (German)
+       </span>
+      </li>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.giz.de/en/" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+       <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">
+        (English)
+       </span>
+      </li>
+     </ul>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="external text" href="//www.worldcat.org/identities/containsVIAFID/167594026" rel="nofollow">
+              WorldCat Identities
+             </a>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+              VIAF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="https://viaf.org/viaf/167594026" rel="nofollow">
+               167594026
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/16101540-2" rel="nofollow">
+               16101540-2
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4045640-0!*!0!!en!4!* and timestamp 20161102124941 and revision id 746032120
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit&amp;oldid=746032120">
+      https://en.wikipedia.org/w/index.php?title=Deutsche_Gesellschaft_für_Internationale_Zusammenarbeit&amp;oldid=746032120
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:International_management_consulting_firms" title="Category:International management consulting firms">
+         International management consulting firms
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Management_consulting_firms_of_Germany" title="Category:Management consulting firms of Germany">
+         Management consulting firms of Germany
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Appropriate_technology_organizations" title="Category:Appropriate technology organizations">
+         Appropriate technology organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organisations_based_in_Bonn" title="Category:Organisations based in Bonn">
+         Organisations based in Bonn
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organisations_based_in_Cambodia" title="Category:Organisations based in Cambodia">
+         Organisations based in Cambodia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organizations_established_in_2011" title="Category:Organizations established in 2011">
+         Organizations established in 2011
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2015" title="Category:Articles with unsourced statements from May 2015">
+         Articles with unsourced statements from May 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">
+         Commons category with page title same as on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">
+         Articles with German-language external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">
+         Official website different in Wikidata and Wikipedia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_December_2012" title="Category:Use dmy dates from December 2012">
+         Use dmy dates from December 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;oldid=746032120" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q462763" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;id=746032120" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;returnto=Deutsche+Gesellschaft+f%C3%BCr+Internationale+Zusammenarbeit&amp;oldid=746032120&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="ca" lang="ca" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="de" lang="de" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="es" lang="es" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="fr" lang="fr" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="id" lang="id" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="no" lang="no" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" hreflang="pt" lang="pt" title="Deutsche Gesellschaft für Internationale Zusammenarbeit – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E6%8A%80%E6%9C%AF%E5%90%88%E4%BD%9C%E5%85%AC%E5%8F%B8" hreflang="zh" lang="zh" title="德国技术合作公司 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q462763#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 24 October 2016, at 21:49.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.304",
+            "walltime": "0.419",
+            "ppvisitednodes": {
+                "value": 1693,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 25505,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 2062,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 19,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  381.709      1 -total",
+                " 55.15%  210.518      1 Template:Infobox_organization",
+                " 50.29%  191.973      1 Template:Infobox",
+                " 26.36%  100.613      4 Template:If_empty",
+                " 17.39%   66.370      1 Template:Val",
+                " 15.32%   58.469      1 Template:Reflist",
+                " 11.97%   45.705      5 Template:Cite_web",
+                " 10.74%   40.979      1 Template:Citation_needed",
+                "  9.60%   36.660      1 Template:Fix",
+                "  6.59%   25.165      1 Template:Url"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.150",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5299790,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1181",
+            "timestamp": "20161102124941",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1237"});});
+  </script>
+ </body>
+</html>

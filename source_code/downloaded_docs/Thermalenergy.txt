@@ -1,0 +1,1310 @@
+https://en.wikipedia.org/wiki/Thermal_energy
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Thermal energy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermal_energy","wgTitle":"Thermal energy","wgCurRevisionId":746785078,"wgRevisionId":746785078,"wgArticleId":467047,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2014","All articles needing additional references","Thermodynamic properties","Forms of energy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermal_energy","wgRelevantArticleId":467047,"wgRequestId":"WBzTgQpAIDAAAGk8cwYAAACB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q209233","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermal_energy" rel="alternate"/>
+  <link href="/w/index.php?title=Thermal_energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Thermal_energy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Thermal_energy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermal_energy rootpage-Thermal_energy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Thermal energy
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Relevant discussion may be found on the
+          <a href="/wiki/Talk:Thermal_energy#reliable_sources" title="Talk:Thermal energy">
+           talk page
+          </a>
+          . Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Thermal_energy&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (September 2014)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Hot_metalwork.jpg">
+        <img alt="" class="thumbimage" data-file-height="1163" data-file-width="1600" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/220px-Hot_metalwork.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/330px-Hot_metalwork.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/440px-Hot_metalwork.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Hot_metalwork.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Thermal_radiation" title="Thermal radiation">
+         Thermal radiation
+        </a>
+        in visible light can be seen on this hot metalwork. Thermal energy would ideally be the amount of heat required to warm the metal to its temperature, but this quantity is not well-defined, as there are many ways to obtain a given body at a given temperature, and each of them may require a different amount of total
+        <a href="/wiki/Heat" title="Heat">
+         heat
+        </a>
+        input. Thermal energy, unlike
+        <a href="/wiki/Internal_energy" title="Internal energy">
+         internal energy
+        </a>
+        , is therefore not a state function.
+       </div>
+      </div>
+     </div>
+     <p>
+      In
+      <a href="/wiki/Thermodynamics" title="Thermodynamics">
+       thermodynamics
+      </a>
+      ,
+      <b>
+       thermal energy
+      </b>
+      refers to the
+      <a href="/wiki/Internal_energy" title="Internal energy">
+       internal energy
+      </a>
+      present in a system due to its
+      <a href="/wiki/Temperature" title="Temperature">
+       temperature
+      </a>
+      .
+      <sup class="reference" id="cite_ref-eb_1-0">
+       <a href="#cite_note-eb-1">
+        [1]
+       </a>
+      </sup>
+      The concept is not well-defined or broadly accepted in
+      <a href="/wiki/Physics" title="Physics">
+       physics
+      </a>
+      or
+      <a href="/wiki/Thermodynamics" title="Thermodynamics">
+       thermodynamics
+      </a>
+      , because the internal energy can be changed without changing the temperature, and there is no way to distinguish which part of the internal energy is "thermal". Instead, the appropriate thermodynamic concept is
+      <a href="/wiki/Heat" title="Heat">
+       heat
+      </a>
+      , defined as a
+      <i>
+       transfer
+      </i>
+      of energy (just as
+      <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">
+       work
+      </a>
+      is another type of transfer of energy). Heat and work therefore depend on the path of transfer and are not state functions, whereas internal energy is a state function.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Relation_to_heat_and_internal_energy">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Relation to heat and internal energy
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Historical_context">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Historical context
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#External_links">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Relation_to_heat_and_internal_energy">
+       Relation to heat and internal energy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy&amp;action=edit&amp;section=1" title="Edit section: Relation to heat and internal energy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <a href="/wiki/Heat" title="Heat">
+       Heat
+      </a>
+      is energy transferred spontaneously from a hotter to a colder system or body.
+      <sup class="reference" id="cite_ref-speyer_2-0">
+       <a href="#cite_note-speyer-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-leland_3-0">
+       <a href="#cite_note-leland-3">
+        [3]
+       </a>
+      </sup>
+      Heat is energy in transfer, not a property of the system; it is not
+      <i>
+       contained
+      </i>
+      within the boundary of the system.
+      <sup class="reference" id="cite_ref-speyer_2-1">
+       <a href="#cite_note-speyer-2">
+        [2]
+       </a>
+      </sup>
+      On the other hand, internal energy is a property of a system, and exists on both sides of a boundary. In an
+      <a href="/wiki/Ideal_gas" title="Ideal gas">
+       ideal gas
+      </a>
+      , the internal energy is the statistical mean of the kinetic energy of the gas particles, and it is this kinetic motion that is the source and the effect of the transfer of heat across a system boundary. The internal energy of an ideal gas can in this sense be regarded as "thermal energy". In this case, however, thermal energy and internal energy are identical.
+     </p>
+     <p>
+      Systems that are more complex than ideal gases (such as real gases) can undergo
+      <a class="mw-redirect" href="/wiki/Phase_transitions" title="Phase transitions">
+       phase transitions
+      </a>
+      . Phase transitions can change the internal energy of the system without changing its temperature. Therefore, the thermal energy cannot be defined solely by the temperature. Thermal energy also cannot be defined by the difference between the internal energy and the net heat transfer in or out of the system, because it is easy to construct thermodynamic cycles where the system begins and ends in exactly the same state, but there is a net flow of heat in or out during the cycle.
+     </p>
+     <p>
+      For these reasons, the concept of the thermal energy of a system is ill-defined and is not used in thermodynamics.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Historical_context">
+       Historical context
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy&amp;action=edit&amp;section=2" title="Edit section: Historical context">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In an 1847 lecture entitled
+      <i>
+       On Matter, Living Force, and Heat
+      </i>
+      ,
+      <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">
+       James Prescott Joule
+      </a>
+      characterized various terms that are closely related to thermal energy and heat. He identified the terms
+      <a href="/wiki/Latent_heat" title="Latent heat">
+       latent heat
+      </a>
+      and
+      <a href="/wiki/Sensible_heat" title="Sensible heat">
+       sensible heat
+      </a>
+      as forms of heat each effecting distinct physical phenomena, namely the potential and kinetic energy of particles, respectively.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      He describes latent energy as the energy of interaction in a given configuration of particles, i.e. a form of
+      <a href="/wiki/Potential_energy" title="Potential energy">
+       potential energy
+      </a>
+      , and the sensible heat as an energy affecting temperature measured by the thermometer due to the thermal energy, which he called the
+      <i>
+       living force
+      </i>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Heat_transfer" title="Heat transfer">
+        Heat transfer
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">
+        Ocean thermal energy conversion
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Thermal_science" title="Thermal science">
+        Thermal science
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy&amp;action=edit&amp;section=4" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-eb-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-eb_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.britannica.com/eb/article-9072068/thermal-energy" rel="nofollow">
+          Thermal energy entry in Britannica Online
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-speyer-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-speyer_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-speyer_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Robert F. Speyer (2012).
+          <i>
+           Thermal Analysis of Materials
+          </i>
+          . Materials Engineering. Marcel Dekker, Inc. p. 2.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-8247-8963-6" title="Special:BookSources/0-8247-8963-6">
+           0-8247-8963-6
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy&amp;rft.au=Robert+F.+Speyer&amp;rft.btitle=Thermal+Analysis+of+Materials&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=0-8247-8963-6&amp;rft.pages=2&amp;rft.pub=Marcel+Dekker%2C+Inc.&amp;rft.series=Materials+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-leland-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-leland_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFThomas_W._Leland.2C_Jr.">
+          Thomas W. Leland, Jr., G. A. Mansoori, ed.,
+          <a class="external text" href="http://www.uic.edu/labs/trl/1.OnlineMaterials/BasicPrinciplesByTWLeland.pdf" rel="nofollow">
+           <i>
+            Basic Principles of Classical and Statistical Thermodynamics
+           </i>
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy&amp;rft.au=Thomas+W.+Leland%2C+Jr.&amp;rft.btitle=Basic+Principles+of+Classical+and+Statistical+Thermodynamics&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.uic.edu%2Flabs%2Ftrl%2F1.OnlineMaterials%2FBasicPrinciplesByTWLeland.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFJ._P._Joule1884">
+          J. P. Joule (1884),
+          <a class="external text" href="https://archive.org/details/scientificpapers01joul" rel="nofollow">
+           "Matter, Living Force, and Heat"
+          </a>
+          ,
+          <i>
+           The Scientific Papers of James Prescott Joule
+          </i>
+          , The Physical Society of London, p. 274
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            2 January
+           </span>
+           2013
+          </span>
+          ,
+          <q>
+           I am inclined to believe that both of these hypotheses will be found to hold good,—that in some instances, particularly in the case of
+           <i>
+            sensible
+           </i>
+           heat, or such as is indicated by the thermometer, heat will be found to consist in the living force of the particles of the bodies in which it is induced; whilst in others, particularly in the case of
+           <i>
+            latent
+           </i>
+           heat, the phenomena are produced by the separation of particle from particle, so as to cause them to attract one another through a greater space.
+          </q>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy&amp;rft.atitle=Matter%2C+Living+Force%2C+and+Heat&amp;rft.au=J.+P.+Joule&amp;rft.date=1884&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fscientificpapers01joul&amp;rft.jtitle=The+Scientific+Papers+of+James+Prescott+Joule&amp;rft.pages=274&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy&amp;action=edit&amp;section=5" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://solar.calfinder.com/library/thermal" rel="nofollow">
+        Example of incorrect use of
+        <i>
+         heat
+        </i>
+        and
+        <i>
+         thermal energy
+        </i>
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:467047-0!*!0!!en!4!* and timestamp 20161104182921 and revision id 746785078
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermal_energy&amp;oldid=746785078">
+      https://en.wikipedia.org/w/index.php?title=Thermal_energy&amp;oldid=746785078
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Thermodynamic_properties" title="Category:Thermodynamic properties">
+         Thermodynamic properties
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Forms_of_energy" title="Category:Forms of energy">
+         Forms of energy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_September_2014" title="Category:Articles needing additional references from September 2014">
+         Articles needing additional references from September 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermal+energy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermal+energy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Thermal_energy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Thermal_energy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Thermal_energy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Thermal_energy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Thermal_energy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Thermal_energy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Thermal_energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Thermal_energy&amp;oldid=746785078" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Thermal_energy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q209233" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermal_energy&amp;id=746785078" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermal+energy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Thermal+energy&amp;returnto=Thermal+energy&amp;oldid=746785078&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Thermal_energy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Heat" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="طاقة حرارية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0stilik_enerjisi" hreflang="az" lang="az" title="İstilik enerjisi – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BB%D1%8B%D0%BD%D1%8F" hreflang="be" lang="be" title="Цеплыня – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D1%8D%D1%80%D0%B3%D1%96%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Цеплавая энэргія – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Топлинна енергия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Toplotna_energija" hreflang="bs" lang="bs" title="Toplotna energija – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Energia_t%C3%A8rmica" hreflang="ca" lang="ca" title="Energia tèrmica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Termisk_energi" hreflang="da" lang="da" title="Termisk energi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Thermische_Energie" hreflang="de" lang="de" title="Thermische Energie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Termiline_energia" hreflang="et" lang="et" title="Termiline energia – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%B9%CE%BA%CE%AE_%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1" hreflang="el" lang="el" title="Θερμική ενέργεια – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Energ%C3%ADa_t%C3%A9rmica" hreflang="es" lang="es" title="Energía térmica – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Varmoenergio" hreflang="eo" lang="eo" title="Varmoenergio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Energia_termiko" hreflang="eu" lang="eu" title="Energia termiko – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="انرژی گرمایی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_thermique" hreflang="fr" lang="fr" title="Énergie thermique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Enerx%C3%ADa_t%C3%A9rmica" hreflang="gl" lang="gl" title="Enerxía térmica – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%B4%EC%97%90%EB%84%88%EC%A7%80" hreflang="ko" lang="ko" title="열에너지 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%8A%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%AF_%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE" hreflang="hi" lang="hi" title="ऊष्मीय ऊर्जा – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Termala_energio" hreflang="io" lang="io" title="Termala energio – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Energia_termica" hreflang="it" lang="it" title="Energia termica – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%AA%D7%A8%D7%9E%D7%99%D7%AA" hreflang="he" lang="he" title="אנרגיה תרמית – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Siltuma_daudzums" hreflang="lv" lang="lv" title="Siltuma daudzums – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Thermesch_Energie" hreflang="lb" lang="lb" title="Thermesch Energie – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Termisk_energi" hreflang="no" lang="no" title="Termisk energi – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Termisk_energi" hreflang="nn" lang="nn" title="Termisk energi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Energia_termiczna" hreflang="pl" lang="pl" title="Energia termiczna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Energia_t%C3%A9rmica" hreflang="pt" lang="pt" title="Energia térmica – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Energie_termic%C4%83" hreflang="ro" lang="ro" title="Energie termică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Тепловая энергия – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Thermal_energy" hreflang="sco" lang="sco" title="Thermal energy – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Energjia_termike" hreflang="sq" lang="sq" title="Energjia termike – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Thermal_energy" hreflang="simple" lang="simple" title="Thermal energy – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Toplotna_energija" hreflang="sl" lang="sl" title="Toplotna energija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/L%C3%A4mp%C3%B6energia" hreflang="fi" lang="fi" title="Lämpöenergia – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Termisk_energi" hreflang="sv" lang="sv" title="Termisk energi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA_%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="வெப்ப ஆற்றல் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%89%E0%B0%B7%E0%B1%8D%E0%B0%A3_%E0%B0%B6%E0%B0%95%E0%B1%8D%E0%B0%A4%E0%B0%BF" hreflang="te" lang="te" title="ఉష్ణ శక్తి – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="พลังงานความร้อน – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-chr">
+        <a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8E%AC%E1%8F%82%E1%8E%A6%E1%8E%B5%E1%8F%8D%E1%8F%97_%E1%8E%A4%E1%8F%97%E1%8E%B4%E1%8E%A9" hreflang="chr" lang="chr" title="ᎬᏂᎦᎵᏍᏗ ᎤᏗᎴᎩ – Cherokee">
+         ᏣᎳᎩ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Termal_enerji" hreflang="tr" lang="tr" title="Termal enerji – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Теплова енергія – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%83%AD%E8%83%BD" hreflang="zh" lang="zh" title="热能 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q209233#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 29 October 2016, at 15:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Thermal_energy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.084",
+            "walltime": "0.111",
+            "ppvisitednodes": {
+                "value": 271,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 11731,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 30,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 6,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   95.742      1 -total",
+                " 52.24%   50.017      1 Template:Reflist",
+                " 43.91%   42.041      1 Template:Refimprove",
+                " 31.04%   29.714      1 Template:Cite_book",
+                " 29.32%   28.067      1 Template:Ambox",
+                " 12.00%   11.491      2 Template:Citation"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.038",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1980941,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1178",
+            "timestamp": "20161104182921",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1178"});});
+  </script>
+ </body>
+</html>

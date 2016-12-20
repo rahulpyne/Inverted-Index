@@ -1,0 +1,1583 @@
+https://en.wikipedia.org/wiki/Biorefinery
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Biorefinery - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Biorefinery","wgTitle":"Biorefinery","wgCurRevisionId":668377091,"wgRevisionId":668377091,"wgArticleId":1637397,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Biofuels technology","Oil refineries","Sustainable technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biorefinery","wgRelevantArticleId":1637397,"wgRequestId":"WBwPSwpAMEsAAA7qbpQAAAAN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q864683","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biorefinery" rel="alternate"/>
+  <link href="/w/index.php?title=Biorefinery&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Biorefinery&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Biorefinery" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biorefinery rootpage-Biorefinery skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Biorefinery
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      A
+      <b>
+       biorefinery
+      </b>
+      is a facility that integrates biomass conversion processes and equipment to produce fuels, power, heat, and value-added chemicals from
+      <a href="/wiki/Biomass" title="Biomass">
+       biomass
+      </a>
+      . The biorefinery concept is analogous to today's
+      <a class="mw-redirect" href="/wiki/Petroleum_refinery" title="Petroleum refinery">
+       petroleum refinery
+      </a>
+      , which produce multiple fuels and products from
+      <a href="/wiki/Petroleum" title="Petroleum">
+       petroleum
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The
+      <a href="/wiki/International_Energy_Agency" title="International Energy Agency">
+       International Energy Agency
+      </a>
+      Bioenergy Task 42 on Biorefineries has defined biorefining as the sustainable processing of biomass into a spectrum of bio-based products (food, feed, chemicals, materials) and bioenergy (biofuels, power and/or heat).
+     </p>
+     <p>
+      By producing multiple products, a biorefinery takes advantage of the various components in biomass and their intermediates therefore maximizing the value derived from the biomass feedstock. A biorefinery could, for example, produce one or several low-volume, but high-value, chemical or
+      <a href="/wiki/Nutraceutical" title="Nutraceutical">
+       nutraceutical
+      </a>
+      products and a low-value, but high-volume liquid transportation fuel such as
+      <a href="/wiki/Biodiesel" title="Biodiesel">
+       biodiesel
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">
+       bioethanol
+      </a>
+      (see also
+      <a href="/wiki/Alcohol_fuel" title="Alcohol fuel">
+       alcohol fuel
+      </a>
+      ).
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      At the same time generating electricity and process heat, through
+      <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">
+       combined heat and power
+      </a>
+      (CHP) technology, for its own use and perhaps enough for sale of electricity to the local utility. The high-value products increase profitability, the high-volume fuel helps meet energy needs, and the power production helps to lower energy costs and reduce
+      <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+       greenhouse gas
+      </a>
+      emissions from traditional power plant facilities. Although some facilities exist that can be called bio-refineries, the bio-refinery has yet to be fully realized. Future biorefineries may play a major role in producing chemicals and materials that are traditionally produced from
+      <a href="/wiki/Petroleum" title="Petroleum">
+       petroleum
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Examples">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Examples
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#See_also">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#References">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Examples">
+       Examples
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=1" title="Edit section: Examples">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The fully operational
+      <a href="/wiki/Blue_Marble_Energy" title="Blue Marble Energy">
+       Blue Marble Energy
+      </a>
+      company has multiple biorefineries located in Odessa, WA and Missoula, MT.
+     </p>
+     <p>
+      Canada's first Integrated Biorefinery, developed on anaerobic digestion technology by
+      <a href="/wiki/Himark_BioGas" title="Himark BioGas">
+       Himark BioGas
+      </a>
+      is located in
+      <a class="mw-redirect" href="/wiki/Hairy_Hill,_Alberta" title="Hairy Hill, Alberta">
+       Hairy Hill, Alberta
+      </a>
+      . The Biorefinery utilizes Source Separated Organics from the metro
+      <a href="/wiki/Edmonton" title="Edmonton">
+       Edmonton
+      </a>
+      region, Open Pen Feedlot Manure, and Food Processing Waste.
+     </p>
+     <p>
+      Several potential biorefinery examples have been proposed, starting from feedstocks such as
+      <a href="/wiki/Tobacco" title="Tobacco">
+       tobacco
+      </a>
+      ,
+      <a href="/wiki/Flax" title="Flax">
+       flax
+      </a>
+      <a href="/wiki/Straw" title="Straw">
+       straw
+      </a>
+      and the residues from the production of
+      <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">
+       bioethanol
+      </a>
+      .
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Chemrec" title="Chemrec">
+       Chemrec's
+      </a>
+      technology for
+      <a href="/wiki/Black_liquor" title="Black liquor">
+       black liquor
+      </a>
+      <a href="/wiki/Gasification" title="Gasification">
+       gasification
+      </a>
+      and production of
+      <a href="/wiki/Second-generation_biofuels" title="Second-generation biofuels">
+       second-generation biofuels
+      </a>
+      such as
+      <a class="mw-redirect" href="/wiki/Biomethanol" title="Biomethanol">
+       biomethanol
+      </a>
+      or Bio
+      <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">
+       DME
+      </a>
+      is integrated with a host
+      <a href="/wiki/Pulp_mill" title="Pulp mill">
+       pulp mill
+      </a>
+      and utilizes a major
+      <a class="mw-redirect" href="/wiki/Sulfate_process" title="Sulfate process">
+       sulfate
+      </a>
+      or
+      <a href="/wiki/Sulfite_process" title="Sulfite process">
+       sulfite process
+      </a>
+      waste product as feedstock.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=2" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Wind-turbine-icon.svg">
+          <img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+          Renewable energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+      <ul>
+       <li>
+        <a href="/wiki/Biofuel" title="Biofuel">
+         Biofuels
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Biomass" title="Biomass">
+         Biomass
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Bioplastic" title="Bioplastic">
+         Bioplastic
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Carbon_neutrality" title="Carbon neutrality">
+         Carbon neutrality
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">
+         Combined heat and power
+        </a>
+        (CHP)
+       </li>
+       <li>
+        <a href="/wiki/Gasification" title="Gasification">
+         Gasification
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">
+         Renewable energy commercialization
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=3" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Dr W J Smith, Tamutech Consultancy.
+         <a class="external text" href="http://www.nnfcc.co.uk/tools/mapping-the-development-of-uk-biorefinery-complexes-nnfcc-07-008" rel="nofollow">
+          Mapping the Development of UK Biorefinery Complexes
+         </a>
+         , NNFCC, 2007-06-20. Retrieved on 2011-02-16.
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="mw-redirect" href="/wiki/National_Non-Food_Crops_Centre" title="National Non-Food Crops Centre">
+          National Non-Food Crops Centre
+         </a>
+         .
+         <a class="external text" href="http://www.nnfcc.co.uk/tools/the-biorefinery-opportunity-a-north-east-england-view-nnfcc-08-001" rel="nofollow">
+          The Biorefinery Opportunity - A North East England view, NNFCC 08-001
+         </a>
+         , NNFCC, 2008-06-28. Retrieved on 2011-02-16.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Cedric Briens, Jan Piskorz and Franco Berruti, "Biomass Valorization for Fuel and Chemicals Production -- A Review," 2008. International Journal of Chemical Reactor Engineering, 6, R2
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.forestencyclopedia.net/p/p1204" rel="nofollow">
+          Forest Encyclopedia Network
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Biorefinery&amp;action=edit&amp;section=4" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://news.uns.purdue.edu/x/2007a/070201LadischBio.html" rel="nofollow">
+        Tactical Biorefinery
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.green-sugar.eu" rel="nofollow">
+        Saccharification
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.biosynergy.eu" rel="nofollow">
+        Biosynergy
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.algae.wur.nl/UK/technologies/biorefinery/" rel="nofollow">
+        Biorefinery from biomass
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.wisbiorefine.org/proc/apr.pdf" rel="nofollow">
+        Aqueous-Phase Reforming
+       </a>
+       .
+      </li>
+      <li>
+       <a class="external text" href="http://www.wisbiorefine.org/" rel="nofollow">
+        Wisconsin Biorefining Development Initiative
+       </a>
+       .
+      </li>
+      <li>
+       <a class="external text" href="http://www.youtube.com/watch?v=xL_fVnKYjrg&amp;feature=related" rel="nofollow">
+        Biorefinery Film
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.bluemarbleenergy.net" rel="nofollow">
+        Active Biorefinery Facilities
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Bioenergy" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Bioenergy" title="Template:Bioenergy">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Bioenergy" title="Template talk:Bioenergy">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bioenergy&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Bioenergy" style="font-size:114%">
+          <a href="/wiki/Bioenergy" title="Bioenergy">
+           Bioenergy
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Biofuels" title="Category:Biofuels">
+          Biofuels
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Alcohol" title="Alcohol">
+             Alcohol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Algae_fuel" title="Algae fuel">
+             Algae fuel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bagasse" title="Bagasse">
+             Bagasse
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Babassu_oil" title="Babassu oil">
+             Babassu oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Butanol_fuel" title="Butanol fuel">
+             Biobutanol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biodiesel" title="Biodiesel">
+             Biodiesel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biogas" title="Biogas">
+             Biogas
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biogasoline" title="Biogasoline">
+             Biogasoline
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corn_stover" title="Corn stover">
+             Corn stover
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethanol_fuel" title="Ethanol fuel">
+             Ethanol
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">
+               cellulosic
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">
+               mixtures
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Methanol_fuel" title="Methanol fuel">
+             Methanol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stover" title="Stover">
+             Stover
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Corn_stover" title="Corn stover">
+               Corn stover
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Straw" title="Straw">
+             Straw
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooking_oil" title="Cooking oil">
+             Cooking oil
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Vegetable_oil_fuel" title="Vegetable oil fuel">
+               Vegetable oil
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Eichhornia_crassipes#Bioenergy" title="Eichhornia crassipes">
+             Water hyacinth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_gas" title="Wood gas">
+             Wood gas
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Sugarcane_field.jpg">
+           <img alt="Sugarcane field.jpg" data-file-height="2790" data-file-width="1848" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/120px-Sugarcane_field.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/180px-Sugarcane_field.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/240px-Sugarcane_field.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Energy_crops" title="Category:Energy crops">
+          Energy from
+          <br/>
+          foodstock
+         </a>
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Barley" title="Barley">
+             Barley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cassava" title="Cassava">
+             Cassava
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grape" title="Grape">
+             Grape
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hemp" title="Hemp">
+             Hemp
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Maize" title="Maize">
+             Maize
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Oat" title="Oat">
+             Oat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Palm_oil" title="Palm oil">
+             Palm oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Potato" title="Potato">
+             Potato
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rapeseed" title="Rapeseed">
+             Rapeseed
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rice" title="Rice">
+             Rice
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">
+              Sorghum bicolor
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Soybean" title="Soybean">
+             Soybean
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sugarcane" title="Sugarcane">
+             Sugarcane
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sugar_beet" title="Sugar beet">
+             Sugar beet
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sunflower" title="Sunflower">
+             Sunflower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wheat" title="Wheat">
+             Wheat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Yam_(vegetable)" title="Yam (vegetable)">
+             Yam
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Camelina_sativa#Biodiesel_and_jet_fuel" title="Camelina sativa">
+              Camelina sativa
+             </a>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Non-food_crops" title="Category:Non-food crops">
+          Non-food
+          <br/>
+          energy crops
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <i>
+             <a href="/wiki/Arundo" title="Arundo">
+              Arundo
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Andropogon_gerardi" title="Andropogon gerardi">
+             Big bluestem
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Camelina" title="Camelina">
+              Camelina
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Triadica_sebifera" title="Triadica sebifera">
+             Chinese tallow
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lemnoideae" title="Lemnoideae">
+             Duckweed
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Jatropha_curcas" title="Jatropha curcas">
+              Jatropha curcas
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Millettia_pinnata" title="Millettia pinnata">
+              Millettia pinnata
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Miscanthus_giganteus" title="Miscanthus giganteus">
+              Miscanthus giganteus
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Panicum_virgatum" title="Panicum virgatum">
+             Switchgrass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_fuel" title="Wood fuel">
+             Wood fuel
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Technology
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">
+             BECCS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bioconversion_of_biomass_to_mixed_alcohol_fuels" title="Bioconversion of biomass to mixed alcohol fuels">
+             Bioconversion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biomass_heating_system" title="Biomass heating system">
+             Biomass heating systems
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Biorefinery
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">
+             Fischer–Tropsch process
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Industrial_biotechnology" title="Industrial biotechnology">
+             Industrial biotechnology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pellet_fuel" title="Pellet fuel">
+             Pellets
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Pellet_mill" title="Pellet mill">
+               mill
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Pellet_stove" title="Pellet stove">
+               stove
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Thermal_depolymerization" title="Thermal depolymerization">
+             Thermal depolymerization
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Cellulosic_ethanol_commercialization" title="Cellulosic ethanol commercialization">
+             Cellulosic ethanol commercialization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_content_of_biofuel" title="Energy content of biofuel">
+             Energy content of biofuel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_crop" title="Energy crop">
+             Energy crop
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_forestry" title="Energy forestry">
+             Energy forestry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Food_vs._fuel" title="Food vs. fuel">
+             Food vs. fuel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Issues_relating_to_biofuels" title="Issues relating to biofuels">
+             Issues
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_biofuel" title="Sustainable biofuel">
+             Sustainable biofuel
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/7742513-3" rel="nofollow">
+               7742513-3
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1637397-0!*!0!!en!4!* and timestamp 20161026221427 and revision id 668377091
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biorefinery&amp;oldid=668377091">
+      https://en.wikipedia.org/w/index.php?title=Biorefinery&amp;oldid=668377091
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Biofuels_technology" title="Category:Biofuels technology">
+         Biofuels technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Oil_refineries" title="Category:Oil refineries">
+         Oil refineries
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">
+         Sustainable technologies
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biorefinery" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Biorefinery" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Biorefinery" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Biorefinery" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Biorefinery">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Biorefinery&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Biorefinery&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Biorefinery" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Biorefinery" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Biorefinery&amp;oldid=668377091" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Biorefinery&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q864683" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biorefinery&amp;id=668377091" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biorefinery">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Biorefinery&amp;returnto=Biorefinery&amp;oldid=668377091&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Biorefinery&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Biorafinerie" hreflang="cs" lang="cs" title="Biorafinerie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Bioraffinaderi" hreflang="da" lang="da" title="Bioraffinaderi – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bioraffinerie" hreflang="de" lang="de" title="Bioraffinerie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Biorrefiner%C3%ADa" hreflang="es" lang="es" title="Biorrefinería – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Bioraffinerie" hreflang="fr" lang="fr" title="Bioraffinerie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%BC" hreflang="ja" lang="ja" title="バイオリファイナリー – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Biorrefinaria" hreflang="pt" lang="pt" title="Biorrefinaria – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Bioraffinaderi" hreflang="sv" lang="sv" title="Bioraffinaderi – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q864683#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 23 June 2015, at 23:19.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Biorefinery&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.060",
+            "walltime": "0.090",
+            "ppvisitednodes": {
+                "value": 300,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 16534,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 14,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   57.690      1 -total",
+                " 32.89%   18.972      1 Template:Authority_control",
+                " 31.65%   18.261      1 Template:Portal",
+                " 18.34%   10.583      1 Template:Bioenergy",
+                " 15.54%    8.967      1 Template:Navbox",
+                "  7.23%    4.171      1 Template:Reflist",
+                "  6.03%    3.477      1 Template:Colbegin",
+                "  3.13%    1.808      1 Template:Colend",
+                "  1.59%    0.919      2 Template:Column-count"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.017",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1095558,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1258",
+            "timestamp": "20161026221427",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1240"});});
+  </script>
+ </body>
+</html>

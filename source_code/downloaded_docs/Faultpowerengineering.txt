@@ -1,0 +1,1679 @@
+https://en.wikipedia.org/wiki/Fault_(power_engineering)
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Fault (power engineering) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fault_(power_engineering)","wgTitle":"Fault (power engineering)","wgCurRevisionId":739711642,"wgRevisionId":739711642,"wgArticleId":6499752,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from August 2010","All articles lacking in-text citations","Power engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fault_(power_engineering)","wgRelevantArticleId":6499752,"wgRequestId":"WBufrApAMFwAAEP902sAAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5438148","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fault_(power_engineering)" rel="alternate"/>
+  <link href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Fault_(power_engineering)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fault_power_engineering rootpage-Fault_power_engineering skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Fault (power engineering)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article includes a
+         <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+          list of references
+         </a>
+         , but
+         <b>
+          its sources remain unclear
+         </b>
+         because it has
+         <b>
+          insufficient
+          <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+           inline citations
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help to
+          <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+           improve
+          </a>
+          this article by
+          <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+           introducing
+          </a>
+          more precise citations.
+         </span>
+         <small>
+          <i>
+           (August 2010)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      In an
+      <a href="/wiki/Electric_power_system" title="Electric power system">
+       electric power system
+      </a>
+      , a
+      <b>
+       fault
+      </b>
+      or
+      <b>
+       fault current
+      </b>
+      is any abnormal
+      <a href="/wiki/Electric_current" title="Electric current">
+       electric current
+      </a>
+      . For example, a
+      <a href="/wiki/Short_circuit" title="Short circuit">
+       short circuit
+      </a>
+      is a fault in which current bypasses the normal load. An open-circuit fault occurs if a circuit is interrupted by some failure. In
+      <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">
+       three-phase
+      </a>
+      systems, a fault may involve one or more phases and ground, or may occur only between phases. In a "ground fault" or "earth fault", current flows into the earth. The
+      <a href="/wiki/Prospective_short_circuit_current" title="Prospective short circuit current">
+       prospective short circuit current
+      </a>
+      of a predictable fault can be calculated for most situations. In power systems, protective devices can detect fault conditions and operate
+      <a href="/wiki/Circuit_breaker" title="Circuit breaker">
+       circuit breakers
+      </a>
+      and other devices to limit the loss of service due to a failure.
+     </p>
+     <p>
+      In a
+      <a href="/wiki/Polyphase_system" title="Polyphase system">
+       polyphase system
+      </a>
+      , a fault may affect all phases equally which is a "symmetrical fault". If only some phases are affected, the resulting "asymmetrical fault" becomes more complicated to analyse. The analysis of these types of faults is often simplified by using methods such as
+      <a href="/wiki/Symmetrical_components" title="Symmetrical components">
+       symmetrical components
+      </a>
+      .
+     </p>
+     <p>
+      The design of systems to detect and interrupt power system faults is the main objective of
+      <a href="/wiki/Power-system_protection" title="Power-system protection">
+       power-system protection
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Transient_fault">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Transient fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Persistent_fault">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Persistent fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Symmetric_fault">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Symmetric fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Asymmetric_fault">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Asymmetric fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Bolted_fault">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Bolted fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Realistic_faults">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Realistic faults
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Arcing_fault">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Arcing fault
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Analysis">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Analysis
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Detecting_and_locating_faults">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Detecting and locating faults
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Batteries">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          Batteries
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#References">
+         <span class="tocnumber">
+          12
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Transient_fault">
+       Transient fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=1" title="Edit section: Transient fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A
+      <b>
+       transient fault
+      </b>
+      is a fault that is no longer present if power is disconnected for a short time and then restored; or an insulation fault which only temporarily affects a device's dielectric properties which are restored after a short time. Many faults in
+      <a href="/wiki/Overhead_power_line" title="Overhead power line">
+       overhead power lines
+      </a>
+      are transient in nature. When a fault occurs, equipment used for
+      <a class="mw-redirect" href="/wiki/Power_system_protection" title="Power system protection">
+       power system protection
+      </a>
+      operate to isolate the area of the fault. A transient fault will then clear and the power-line can be returned to service. Typical examples of transient faults include:
+     </p>
+     <ul>
+      <li>
+       momentary tree contact
+      </li>
+      <li>
+       bird or other animal contact
+      </li>
+      <li>
+       <a href="/wiki/Lightning_strike" title="Lightning strike">
+        lightning strike
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Conductor_clashing" title="Conductor clashing">
+        conductor clashing
+       </a>
+      </li>
+     </ul>
+     <p>
+      <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+       Transmission
+      </a>
+      and
+      <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+       distribution
+      </a>
+      systems use an automatic re-close function which is commonly used on overhead lines to attempt to restore power in the event of a transient fault. This functionality is not as common on underground systems as faults there are typically of a
+      <a href="#Persistent_fault">
+       persistent
+      </a>
+      nature. Transient faults may still cause damage both at the site of the original fault or elsewhere in the network as fault current is generated.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Persistent_fault">
+       Persistent fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=2" title="Edit section: Persistent fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A
+      <b>
+       persistent fault
+      </b>
+      does not disappear when power is disconnected. Faults in underground
+      <a href="/wiki/Power_cable" title="Power cable">
+       power cables
+      </a>
+      are most often persistent due to mechanical damage to the cable, but are sometimes transient in nature due to lightning.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Symmetric_fault">
+       Symmetric fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=3" title="Edit section: Symmetric fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A
+      <b>
+       symmetric
+      </b>
+      or
+      <b>
+       balanced fault
+      </b>
+      affects each of the three phases equally. In transmission line faults, roughly 5% are symmetric.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      This is in contrast to an asymmetrical fault, where the three phases are not affected equally.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Asymmetric_fault">
+       Asymmetric fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=4" title="Edit section: Asymmetric fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      An
+      <b>
+       asymmetric
+      </b>
+      or
+      <b>
+       unbalanced fault
+      </b>
+      does not affect each of the three phases equally. Common types of asymmetric faults, and their causes:
+     </p>
+     <ul>
+      <li>
+       <i>
+        line-to-line
+       </i>
+       - a
+       <a href="/wiki/Short_circuit" title="Short circuit">
+        short circuit
+       </a>
+       between lines, caused by
+       <a href="/wiki/Ionization" title="Ionization">
+        ionization
+       </a>
+       of air, or when lines come into physical contact, for example due to a broken
+       <a class="mw-redirect" href="/wiki/Electrical_insulation" title="Electrical insulation">
+        insulator
+       </a>
+       . In transmission line faults, roughly 5% - 10% are asymmetric line-to-line faults.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <i>
+        line-to-ground
+       </i>
+       - a short circuit between one line and ground, very often caused by physical contact, for example due to
+       <a href="/wiki/Lightning" title="Lightning">
+        lightning
+       </a>
+       or other
+       <a href="/wiki/Storm" title="Storm">
+        storm
+       </a>
+       damage. In transmission line faults, roughly 65% - 70% are asymmetric line-to-ground faults.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+      </li>
+      <li>
+       <i>
+        double line-to-ground
+       </i>
+       - two lines come into contact with the ground (and each other), also commonly due to storm damage. In transmission line faults, roughly 15% - 20% are asymmetric double line-to-ground.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Bolted_fault">
+       Bolted fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=5" title="Edit section: Bolted fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      One extreme is where the fault has zero impedance, giving the maximum
+      <a class="mw-redirect" href="/wiki/Prospective_short-circuit_current" title="Prospective short-circuit current">
+       prospective short-circuit current
+      </a>
+      . Notionally, all the conductors are considered connected to ground as if by a metallic conductor; this is called a "bolted fault". It would be unusual in a well-designed power system to have a metallic short circuit to ground but such faults can occur by mischance. In one type of transmission line protection, a "bolted fault" is deliberately introduced to speed up operation of protective devices.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Realistic_faults">
+       Realistic faults
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=6" title="Edit section: Realistic faults">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Realistically, the resistance in a fault can be from close to zero to fairly high. A large amount of power may be consumed in the fault, compared with the zero-impedance case where the power is zero. Also, arcs are highly non-linear, so a simple resistance is not a good model. All possible cases need to be considered for a good analysis.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Arcing_fault">
+       Arcing fault
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=7" title="Edit section: Arcing fault">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Where the system voltage is high enough, an
+      <a href="/wiki/Electric_arc" title="Electric arc">
+       electric arc
+      </a>
+      may form between power system conductors and ground. Such an arc can have a relatively high impedance (compared to the normal operating levels of the system) and can be difficult to detect by simple overcurrent protection. For example, an arc of several hundred amperes on a circuit normally carrying a thousand amperes may not trip overcurrent circuit breakers but can do enormous damage to bus bars or cables before it becomes a complete short circuit. Utility, industrial, and commercial power systems have additional protection devices to detect relatively small but undesired currents escaping to ground. In residential wiring, electrical regulations may now require
+      <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">
+       Arc-fault circuit interrupters
+      </a>
+      on building wiring circuits, to detect small arcs before they cause damage or a fire.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Analysis">
+       Analysis
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=8" title="Edit section: Analysis">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Symmetric faults can be analyzed via the same methods as any other phenomena in power systems, and in fact many
+      <a href="/wiki/Software" title="Software">
+       software
+      </a>
+      tools exist to accomplish this type of analysis automatically (see
+      <a class="mw-redirect" href="/wiki/Power_flow_study" title="Power flow study">
+       power flow study
+      </a>
+      ). However, there is another method which is as accurate and is usually more instructive.
+     </p>
+     <p>
+      First, some simplifying assumptions are made. It is assumed that all
+      <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">
+       electrical generators
+      </a>
+      in the system are in phase, and operating at the nominal
+      <a href="/wiki/Voltage" title="Voltage">
+       voltage
+      </a>
+      of the system.
+      <a href="/wiki/Electric_motor" title="Electric motor">
+       Electric motors
+      </a>
+      can also be considered to be generators, because when a fault occurs, they usually supply rather than draw power. The voltages and
+      <a class="mw-redirect" href="/wiki/Current_(electricity)" title="Current (electricity)">
+       currents
+      </a>
+      are then calculated for this
+      <i>
+       base case
+      </i>
+      .
+     </p>
+     <p>
+      Next, the location of the fault is considered to be supplied with a negative voltage source, equal to the voltage at that location in the base case, while all other sources are set to zero. This method makes use of the principle of
+      <a href="/wiki/Superposition_principle" title="Superposition principle">
+       superposition
+      </a>
+      .
+     </p>
+     <p>
+      To obtain a more accurate result, these calculations should be performed separately for three separate time ranges:
+     </p>
+     <ul>
+      <li>
+       <i>
+        subtransient
+       </i>
+       is first, and is associated with the largest currents
+      </li>
+      <li>
+       <i>
+        <a href="/wiki/Transient_state" title="Transient state">
+         transient
+        </a>
+       </i>
+       comes between subtransient and steady-state
+      </li>
+      <li>
+       <i>
+        steady-state
+       </i>
+       occurs after all the transients have had time to settle
+      </li>
+     </ul>
+     <p>
+      An asymmetric fault breaks the underlying assumptions used in three-phase power, namely that the
+      <a href="/wiki/Electrical_load" title="Electrical load">
+       load
+      </a>
+      is balanced on all three phases. Consequently, it is impossible to
+      <i>
+       directly
+      </i>
+      use tools such as the
+      <a href="/wiki/One-line_diagram" title="One-line diagram">
+       one-line diagram
+      </a>
+      , where only one phase is considered. However, due to the
+      <a class="mw-redirect" href="/wiki/Linear" title="Linear">
+       linearity
+      </a>
+      of power systems, it is usual to consider the resulting
+      <a href="/wiki/Voltage" title="Voltage">
+       voltages
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Current_(electricity)" title="Current (electricity)">
+       currents
+      </a>
+      as a superposition of
+      <a href="/wiki/Symmetrical_components" title="Symmetrical components">
+       symmetrical components
+      </a>
+      , to which three-phase analysis can be applied.
+     </p>
+     <p>
+      In the method of symmetric components, the power system is seen as a
+      <a href="/wiki/Superposition_theorem" title="Superposition theorem">
+       superposition
+      </a>
+      of three components:
+     </p>
+     <ul>
+      <li>
+       a
+       <i>
+        positive-sequence
+       </i>
+       component, in which the phases are in the same order as the original system, i.e.,
+       <i>
+        a-b-c
+       </i>
+      </li>
+      <li>
+       a
+       <i>
+        negative-sequence
+       </i>
+       component, in which the phases are in the opposite order as the original system, i.e.,
+       <i>
+        a-c-b
+       </i>
+      </li>
+      <li>
+       a
+       <i>
+        zero-sequence
+       </i>
+       component, which is not truly a three-phase system, but instead all three phases are in phase with each other.
+      </li>
+     </ul>
+     <p>
+      To determine the currents resulting from an asymmetrical fault, one must first know the
+      <a href="/wiki/Per-unit_system" title="Per-unit system">
+       per-unit
+      </a>
+      zero-, positive-, and negative-sequence impedances of the transmission lines, generators, and transformers involved. Three separate circuits are then constructed using these impedances. The individual circuits are then connected together in a particular arrangement that depends upon the type of fault being studied (this can be found in most power systems textbooks). Once the sequence circuits are properly connected, the network can then be analyzed using classical circuit analysis techniques. The solution results in voltages and currents that exist as symmetrical components; these must be transformed back into phase values by using the
+      <a href="/wiki/Symmetrical_components" title="Symmetrical components">
+       <b>
+        A
+       </b>
+       matrix
+      </a>
+      .
+     </p>
+     <p>
+      Analysis of the
+      <a class="mw-redirect" href="/wiki/Prospective_short-circuit_current" title="Prospective short-circuit current">
+       prospective short-circuit current
+      </a>
+      is required for selection of protective devices such as
+      <a href="/wiki/Fuse_(electrical)" title="Fuse (electrical)">
+       fuses
+      </a>
+      and
+      <a href="/wiki/Circuit_breaker" title="Circuit breaker">
+       circuit breakers
+      </a>
+      . If a circuit is to be properly protected, the fault current must be high enough to operate the protective device within as short a time as possible; also the protective device must be able to withstand the fault current and extinguish any resulting arcs without itself being destroyed or sustaining the arc for any significant length of time.
+     </p>
+     <p>
+      The magnitude of fault currents differ widely depending on the type of earthing system used, the installation's supply type and earthing system, and its proximity to the supply. For example, for a domestic UK 230 V, 60 A TN-S or USA 120 V/240 V supply, fault currents may be a few thousand amperes. Large low-voltage networks with multiple sources may have fault levels of 300,000 amperes. A high-resistance-grounded system may restrict line to ground fault current to only 5 amperes. Prior to selecting protective devices, prospective fault current must be measured reliably at the origin of the installation and at the furthest point of each circuit, and this information applied properly to the application of the circuits.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Detecting_and_locating_faults">
+       Detecting and locating faults
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=9" title="Edit section: Detecting and locating faults">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Overhead power lines are easiest to diagnose since the problem is usually obvious, e.g., a tree has fallen across the line, or a utility pole is broken and the conductors are lying on the ground.
+     </p>
+     <p>
+      Locating faults in a cable system can be done either with the circuit de-energized, or in some cases, with the circuit under power. Fault location techniques can be broadly divided into terminal methods, which use voltages and currents measured at the ends of the cable, and tracer methods, which require inspection along the length of the cable. Terminal methods can be used to locate the general area of the fault, to expedite tracing on a long or buried cable.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In very simple wiring systems, the fault location is often found through inspection of the wires. In complex wiring systems (for example, aircraft wiring) where the wires may be hidden, wiring faults are located with a
+      <a href="/wiki/Time-domain_reflectometer" title="Time-domain reflectometer">
+       Time-domain reflectometer
+      </a>
+      .
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      The time domain reflectometer sends a pulse down the wire and then analyzes the returning reflected pulse to identify faults within the electrical wire.
+     </p>
+     <p>
+      In historic
+      <a class="mw-redirect" href="/wiki/Submarine_telegraph_cable" title="Submarine telegraph cable">
+       submarine telegraph cables
+      </a>
+      , sensitive
+      <a href="/wiki/Galvanometer" title="Galvanometer">
+       galvanometers
+      </a>
+      were used to measure fault currents; by testing at both ends of a faulted cable, the fault location could be isolated to within a few miles, which allowed the cable to be grappled up and repaired. The
+      <i>
+       <a href="/wiki/Murray_loop_bridge" title="Murray loop bridge">
+        Murray loop
+       </a>
+      </i>
+      and the
+      <i>
+       Varley loop
+      </i>
+      were two types of connections for locating faults in cables
+     </p>
+     <p>
+      Sometimes an insulation fault in a power cable will not show up at lower voltages. A "thumper" test set applies a high-energy, high-voltage pulse to the cable. Fault location is done by listening for the sound of the discharge at the fault. While this test contributes to damage at the cable site, it is practical because the faulted location would have to be re-insulated when found in any case.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In a high resistance grounded distribution system, a feeder may develop a fault to ground but the system continues in operation. The faulted, but energized, feeder can be found with a ring-type current transformer collecting all the phase wires of the circuit; only the circuit containing a fault to ground will show a net unbalanced current. To make the ground fault current easier to detect, the grounding resistor of the system may be switched between two values so that the fault current pulses.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Batteries">
+       Batteries
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=10" title="Edit section: Batteries">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The prospective fault current of larger batteries, such as
+      <a href="/wiki/Deep_cycle_battery" title="Deep cycle battery">
+       deep-cycle batteries
+      </a>
+      used in
+      <a href="/wiki/Stand-alone_power_system" title="Stand-alone power system">
+       stand-alone power systems
+      </a>
+      , is often given by the manufacturer.
+     </p>
+     <p>
+      In Australia, when this information is not given, the prospective fault current in amperes "should be considered to be 6 times the nominal battery capacity at the
+      <i>
+       C
+      </i>
+      <sub>
+       120
+      </sub>
+      A·h rate," according to AS 4086 part 2 (Appendix H).
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Fault_(technology)" title="Fault (technology)">
+        Fault (technology)
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit&amp;section=12" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.lightning.ece.ufl.edu/PDF/01516222.pdf" rel="nofollow">
+          http://www.lightning.ece.ufl.edu/PDF/01516222.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Grainger, John J. (2003).
+          <i>
+           Power System Analysis
+          </i>
+          . Tata McGraw-Hill. p. 380.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-07-058515-7" title="Special:BookSources/978-0-07-058515-7">
+           978-0-07-058515-7
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFault+%28power+engineering%29&amp;rft.aufirst=John+J.&amp;rft.aulast=Grainger&amp;rft.btitle=Power+System+Analysis&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0-07-058515-7&amp;rft.pages=380&amp;rft.pub=Tata+McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/" rel="nofollow">
+          https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/" rel="nofollow">
+          https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/" rel="nofollow">
+          https://www.elprocus.com/what-are-the-different-types-of-faults-in-electrical-power-systems/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://tdworld.com/reliability-amp-safety/investigating-tree-caused-faults" rel="nofollow">
+           "INVESTIGATING TREE-CAUSED FAULTS | Reliability &amp; Safety content from TDWorld"
+          </a>
+          .
+          <a class="new" href="/w/index.php?title=TDWorld&amp;action=edit&amp;redlink=1" title="TDWorld (page does not exist)">
+           TDWorld
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFault+%28power+engineering%29&amp;rft.btitle=INVESTIGATING+TREE-CAUSED+FAULTS+%26%23124%3B+Reliability+%26+Safety+content+from+TDWorld&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftdworld.com%2Freliability-amp-safety%2Finvestigating-tree-caused-faults&amp;rft.pub=TDWorld&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Murari Mohan Saha, Jan Izykowski, Eugeniusz Rosolowski
+         <i>
+          Fault Location on Power Networks
+         </i>
+         Springer, 2009
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1848828853">
+          ISBN 1-84882-885-3
+         </a>
+         , page 339
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Smth,Paul, Furse, Cynthia and Gunther, Jacob. "Analysis of
+         <a class="external text" href="http://livewiretest.com/analysis-of-spread-spectrum-time-domain-reflectometry-for-wire-fault-location/" rel="nofollow">
+          Spread Spectrum Time Domain Reflectometry
+         </a>
+         for Wire Fault Location." IEEE Sensors Journal. December, 2005.
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Edward J. Tyler,
+         <i>
+          2005 National Electrical Estimator
+         </i>
+         , Craftsman Book Company, 2004
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1572181435">
+          ISBN 1-57218-143-5
+         </a>
+         page 90
+        </span>
+       </li>
+      </ol>
+     </div>
+     <p>
+      <b>
+       General
+      </b>
+     </p>
+     <div class="refbegin" style="">
+      <ul>
+       <li>
+        <cite class="citation book">
+         Glover, J.D.; Sarma, M.S. (2002).
+         <i>
+          Power System Analysis and Design
+         </i>
+         . Brooks/Cole.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-534-95367-0" title="Special:BookSources/0-534-95367-0">
+          0-534-95367-0
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFault+%28power+engineering%29&amp;rft.aufirst=J.D.&amp;rft.aulast=Glover&amp;rft.au=Sarma%2C+M.S.&amp;rft.btitle=Power+System+Analysis+and+Design&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-534-95367-0&amp;rft.pub=Brooks%2FCole&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Burton, G.C.
+         <i>
+          Power Analysis
+         </i>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFault+%28power+engineering%29&amp;rft.aufirst=G.C.&amp;rft.aulast=Burton&amp;rft.btitle=Power+Analysis&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <a class="external text" href="http://arcblasts.com/short-circuit-software" rel="nofollow">
+         Short Circuit Fault Current Calculations Software &amp; Mobile Apps
+        </a>
+        Free Demo
+       </li>
+      </ul>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6499752-0!*!0!!en!4!* and timestamp 20161029172549 and revision id 739711642
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fault_(power_engineering)&amp;oldid=739711642">
+      https://en.wikipedia.org/w/index.php?title=Fault_(power_engineering)&amp;oldid=739711642
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Power_engineering" title="Category:Power engineering">
+         Power engineering
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_August_2010" title="Category:Articles lacking in-text citations from August 2010">
+         Articles lacking in-text citations from August 2010
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fault+%28power+engineering%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fault+%28power+engineering%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Fault_(power_engineering)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Fault_(power_engineering)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Fault_(power_engineering)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Fault_(power_engineering)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Fault_(power_engineering)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Fault_(power_engineering)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fault_(power_engineering)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Fault_(power_engineering)&amp;oldid=739711642" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Fault_(power_engineering)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5438148" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fault_%28power_engineering%29&amp;id=739711642" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fault+%28power+engineering%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Fault+%28power+engineering%29&amp;returnto=Fault+%28power+engineering%29&amp;oldid=739711642&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Fault_(power_engineering)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B9%D8%B7%D8%A7%D9%84_%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D9%89" hreflang="ar" lang="ar" title="أعطال منظومة القوى – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fehlerstrom" hreflang="de" lang="de" title="Fehlerstrom – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AE%D8%B7%D8%A7_(%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C_%D8%A8%D8%B1%D9%82)" hreflang="fa" lang="fa" title="خطا (مهندسی برق) – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%BC%8F%E9%9B%BB" hreflang="ja" lang="ja" title="漏電 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Corrente_de_fuga" hreflang="pt" lang="pt" title="Corrente de fuga – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C" hreflang="zh" lang="zh" title="電力系統故障 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5438148#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 16 September 2016, at 13:37.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fault_(power_engineering)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.088",
+            "walltime": "0.123",
+            "ppvisitednodes": {
+                "value": 391,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 9161,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 46,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   99.593      1 -total",
+                " 42.36%   42.187      1 Template:More_footnotes",
+                " 41.42%   41.254      1 Template:Reflist",
+                " 33.76%   33.627      3 Template:Cite_book",
+                " 28.42%   28.304      1 Template:Ambox",
+                "  3.77%    3.759      1 Template:Cite_web",
+                "  1.80%    1.790      1 Template:Refbegin",
+                "  1.32%    1.315      1 Template:Sub",
+                "  1.19%    1.186      1 Template:Column-width",
+                "  1.03%    1.030      1 Template:Refend"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.038",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2197841,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1244",
+            "timestamp": "20161029172549",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1257"});});
+  </script>
+ </body>
+</html>

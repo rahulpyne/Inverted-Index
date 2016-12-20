@@ -1,0 +1,3612 @@
+https://en.wikipedia.org/wiki/Province_of_Pavia
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Province of Pavia - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Province_of_Pavia","wgTitle":"Province of Pavia","wgCurRevisionId":747620853,"wgRevisionId":747620853,"wgArticleId":1448723,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2015","Articles containing Italian-language text","Articles containing potentially dated statements from 2015","All articles containing potentially dated statements","Articles with Italian-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Coordinates on Wikidata","Province of Pavia","Provinces of Italy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Province_of_Pavia","wgRelevantArticleId":1448723,"wgRequestId":"WB0CyApAMFwAAL3NLe8AAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":45.183333333333,"lon":9.15},"wgWikibaseItemId":"Q16231","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Province_of_Pavia" rel="alternate"/>
+  <link href="/w/index.php?title=Province_of_Pavia&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Province_of_Pavia&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Province_of_Pavia" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Province_of_Pavia rootpage-Province_of_Pavia skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Province of Pavia
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox geography vcard" style="width:22em;width:23em">
+      <tr>
+       <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">
+        <span class="fn org">
+         Province of Pavia
+        </span>
+       </th>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+        <span class="category">
+         <a href="/wiki/Provinces_of_Italy" title="Provinces of Italy">
+          Province
+         </a>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center;padding:0.7em 0.8em">
+        <a class="image" href="/wiki/File:861PaviaPalProvincia.JPG">
+         <img alt="861PaviaPalProvincia.JPG" data-file-height="600" data-file-width="800" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/861PaviaPalProvincia.JPG/250px-861PaviaPalProvincia.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/861PaviaPalProvincia.JPG/375px-861PaviaPalProvincia.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/861PaviaPalProvincia.JPG/500px-861PaviaPalProvincia.JPG 2x" width="250"/>
+        </a>
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Pavia_in_Italy.svg" title="Map highlighting the location of the province of Pavia in Italy">
+         <img alt="Map highlighting the location of the province of Pavia in Italy" data-file-height="1299" data-file-width="1034" height="314" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pavia_in_Italy.svg/250px-Pavia_in_Italy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pavia_in_Italy.svg/375px-Pavia_in_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pavia_in_Italy.svg/500px-Pavia_in_Italy.svg.png 2x" width="250"/>
+        </a>
+        <br/>
+        <small>
+         Map highlighting the location of the province of Pavia in Italy
+        </small>
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th scope="row">
+        Country
+       </th>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1500" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Italy" title="Italy">
+         Italy
+        </a>
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        Region
+       </th>
+       <td>
+        <a href="/wiki/Lombardy" title="Lombardy">
+         Lombardy
+        </a>
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th scope="row">
+        Capital(s)
+       </th>
+       <td>
+        <a href="/wiki/Pavia" title="Pavia">
+         Pavia
+        </a>
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        <a href="/wiki/Comune" title="Comune">
+         Comuni
+        </a>
+       </th>
+       <td>
+        190
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th colspan="2" style="text-align:center;text-align:left">
+        Government
+       </th>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        • President
+       </th>
+       <td>
+        Daniele Bosone, elected 30 May 2011
+        <sup class="reference" id="cite_ref-1">
+         <a href="#cite_note-1">
+          [1]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th colspan="2" style="text-align:center;text-align:left">
+        Area
+        <span style="font-weight:normal">
+         <sup class="reference" id="cite_ref-2">
+          <a href="#cite_note-2">
+           [2]
+          </a>
+         </sup>
+        </span>
+       </th>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        • Total
+       </th>
+       <td>
+        2,965 km
+        <sup>
+         2
+        </sup>
+        (1,145 sq mi)
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th colspan="2" style="text-align:center;text-align:left">
+        Population
+        <span style="font-weight:normal">
+         (1 January 2015)
+         <sup class="reference" id="cite_ref-3">
+          <a href="#cite_note-3">
+           [3]
+          </a>
+         </sup>
+        </span>
+       </th>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        • Total
+       </th>
+       <td>
+        548,722
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        • Density
+       </th>
+       <td>
+        190/km
+        <sup>
+         2
+        </sup>
+        (480/sq mi)
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th scope="row">
+        <a href="/wiki/Time_zone" title="Time zone">
+         Time zone
+        </a>
+       </th>
+       <td>
+        <a href="/wiki/Central_European_Time" title="Central European Time">
+         CET
+        </a>
+        (
+        <a class="mw-redirect" href="/wiki/UTC%2B1" title="UTC+1">
+         UTC+1
+        </a>
+        )
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        <span style="white-space:nowrap">
+         • Summer (
+         <a href="/wiki/Daylight_saving_time" title="Daylight saving time">
+          DST
+         </a>
+         )
+        </span>
+       </th>
+       <td>
+        <a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">
+         CEST
+        </a>
+        (
+        <a class="mw-redirect" href="/wiki/UTC%2B2" title="UTC+2">
+         UTC+2
+        </a>
+        )
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th scope="row">
+        Postal code
+       </th>
+       <td class="adr">
+        <span class="postal-code">
+         27010-27027, 27029-27030, 27032,
+         <br/>
+         27034-27055, 27057-27059, 27100
+        </span>
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        Telephone prefix
+       </th>
+       <td>
+        0381, 0382, 0383, 0384, 0385
+       </td>
+      </tr>
+      <tr class="mergedrow">
+       <th scope="row">
+        <a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">
+         Vehicle registration
+        </a>
+       </th>
+       <td>
+        <a class="mw-redirect" href="/wiki/Italian_car_number_plates" title="Italian car number plates">
+         PV
+        </a>
+       </td>
+      </tr>
+      <tr class="mergedtoprow">
+       <th scope="row">
+        <a class="mw-redirect" href="/wiki/Istituto_Nazionale_di_Statistica" title="Istituto Nazionale di Statistica">
+         ISTAT
+        </a>
+       </th>
+       <td>
+        018
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       province of Pavia
+      </b>
+      (
+      <a href="/wiki/Italian_language" title="Italian language">
+       Italian
+      </a>
+      :
+      <span lang="it" xml:lang="it">
+       <i>
+        Provincia di Pavia
+       </i>
+      </span>
+      ) is a
+      <a href="/wiki/Provinces_of_Italy" title="Provinces of Italy">
+       province
+      </a>
+      in the region of
+      <a href="/wiki/Lombardy" title="Lombardy">
+       Lombardy
+      </a>
+      in northern
+      <a href="/wiki/Italy" title="Italy">
+       Italy
+      </a>
+      . Its capital is
+      <a href="/wiki/Pavia" title="Pavia">
+       Pavia
+      </a>
+      and the president of the province is Daniele Bosone. As of 2015
+      <sup class="plainlinks noprint asof-tag update" style="display:none;">
+       <a class="external text" href="//en.wikipedia.org/w/index.php?title=Province_of_Pavia&amp;action=edit">
+        [update]
+       </a>
+      </sup>
+      , the province has a population of 548,722 inhabitants and an area of 2,968.64 square kilometres (1,146.20 sq mi); the town of Pavia has a population of 72,205.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Geography">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Geography
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Municipalities">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Municipalities
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#External_links">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The city Pavia was initially settled by the
+      <a href="/wiki/Ligures" title="Ligures">
+       Ligures
+      </a>
+      and was later occupied by Gaulish tribes; it was conquered by the
+      <a href="/wiki/Ancient_Rome" title="Ancient Rome">
+       Romans
+      </a>
+      in 220 BCE.
+      <sup class="reference" id="cite_ref-2002d_5-0">
+       <a href="#cite_note-2002d-5">
+        [5]
+       </a>
+      </sup>
+      Named "Ticinum" by the Romans, the town was reinforced and became a key part of their defenses in northern Italy; despite this, the town was sacked by Ruler of the Hunnic Empire
+      <a href="/wiki/Attila" title="Attila">
+       Attila
+      </a>
+      in 452 CE, and then again by
+      <a href="/wiki/Odoacer" title="Odoacer">
+       Odoacer
+      </a>
+      in 476 CE. In the sixth century it was the capital of German tribe the
+      <a href="/wiki/Lombards" title="Lombards">
+       Lombards
+      </a>
+      and survived an attempted Frankish invasion. However, following the death of Charlemagne, the Lombard territory became part of Frankish territory.
+      <sup class="reference" id="cite_ref-2002d_5-1">
+       <a href="#cite_note-2002d-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In the 12th century, it became a commune after Frankish rule ceased, and
+      <a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">
+       Frederick I, Holy Roman Emperor
+      </a>
+      fortified areas of the commune and he was crowned in Pavia in 1155. The University of Pavia was founded in 1361. Starting from 1359, Pavia and its neighbourhood were owned by the
+      <a href="/wiki/House_of_Visconti" title="House of Visconti">
+       Visconti
+      </a>
+      and then the
+      <a href="/wiki/House_of_Sforza" title="House of Sforza">
+       Sforza
+      </a>
+      of Milan, until, in 1499, the
+      <a href="/wiki/Duchy_of_Milan" title="Duchy of Milan">
+       Duchy of Milan
+      </a>
+      became a Spanish possession. It was the scene of a Franco-Imperial battle in 1525, in which
+      <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">
+       Charles V, Holy Roman Emperor
+      </a>
+      defeated
+      <a href="/wiki/Francis_I_of_France" title="Francis I of France">
+       Francis I of France
+      </a>
+      . In 1707 and again 1774, parts of the so-called "principality of Pavia", a province of the Duchy under the Spaniards, were sold to
+      <a href="/wiki/Piedmont" title="Piedmont">
+       Piedmont
+      </a>
+      ; these changes were restored after the collapse of the French Empire in 1814.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Geography">
+       Geography
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=2" title="Edit section: Geography">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Province of Pavia is in the region of Lombardy in northwestern Italy. It is bounded to the north by the provinces of
+      <a href="/wiki/Province_of_Milan" title="Province of Milan">
+       Milan
+      </a>
+      and the
+      <a href="/wiki/Province_of_Lodi" title="Province of Lodi">
+       Lodi
+      </a>
+      , to the southeast by the
+      <a href="/wiki/Province_of_Piacenza" title="Province of Piacenza">
+       Province of Piacenza
+      </a>
+      (
+      <a href="/wiki/Emilia-Romagna" title="Emilia-Romagna">
+       Emilia-Romagna
+      </a>
+      ), and to the southwest it is bounded by the
+      <a href="/wiki/Province_of_Alessandria" title="Province of Alessandria">
+       Province of Alessandria
+      </a>
+      (
+      <a href="/wiki/Piedmont" title="Piedmont">
+       Piedmont
+      </a>
+      ). The province is crossed by the rivers
+      <a href="/wiki/Ticino_(river)" title="Ticino (river)">
+       Ticino
+      </a>
+      and
+      <a href="/wiki/Po_(river)" title="Po (river)">
+       Po
+      </a>
+      , which meet four kilometres south of the capital,
+      <a href="/wiki/Pavia" title="Pavia">
+       Pavia
+      </a>
+      . The province contains 190 communes and the River Po is navigable up to its confluence with the Ticino.
+      <sup class="reference" id="cite_ref-2002d_5-2">
+       <a href="#cite_note-2002d-5">
+        [5]
+       </a>
+      </sup>
+      There are three regions of the province, the
+      <a href="/wiki/Pavese_(territory)" title="Pavese (territory)">
+       Pavese
+      </a>
+      , which is entirely in the Po Valley, the
+      <a href="/wiki/Lomellina" title="Lomellina">
+       Lomellina
+      </a>
+      , which is also completely in the Po Valley but between the Ticino and the Po, and
+      <a href="/wiki/Oltrep%C3%B2_Pavese" title="Oltrepò Pavese">
+       Oltrepò
+      </a>
+      , to the south of the Po and which includes Monte Lesima (1,724 m (5,656 ft)), a mountain in the
+      <a href="/wiki/Apennine_Mountains" title="Apennine Mountains">
+       Apennine Mountains
+      </a>
+      which is the highest point in the province. The territory of
+      <a class="new" href="/w/index.php?title=Siccomario&amp;action=edit&amp;redlink=1" title="Siccomario (page does not exist)">
+       Siccomario
+      </a>
+      , at the confluence of the two great rivers, should properly be included in Lomellina, but for historical reasons it is considered part of Pavese. Another large river flowing through the province is the
+      <a href="/wiki/Olona" title="Olona">
+       Olona
+      </a>
+      .
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The province is mostly flat with the northwestern part of the province being good agricultural land. The southern part rises to low hills which give way to the Ligurian Apennines. The town of Pavia has a major position in northern Italy's textile industry and is renowned for hatmaking. It also plays its part in the country's engineering and metallurgical industries.
+      <sup class="reference" id="cite_ref-King2015_7-0">
+       <a href="#cite_note-King2015-7">
+        [7]
+       </a>
+      </sup>
+      This is an important winemaking district and produces sparkling wines. It is the largest area in Italy for the production of
+      <a href="/wiki/Pinot_noir" title="Pinot noir">
+       Pinot noir
+      </a>
+      .
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Municipalities">
+       Municipalities
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=3" title="Edit section: Municipalities">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The list below shows the most populated municipalities of the province in 2010:
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <table class="wikitable" style="text-align:center">
+      <tr>
+       <th>
+        Rank
+       </th>
+       <th>
+        City
+       </th>
+       <th>
+        Population
+       </th>
+       <th>
+        Area
+        <br/>
+        (km
+        <sup>
+         2
+        </sup>
+        )
+       </th>
+       <th>
+        Density
+        <br/>
+        (inhabitants/km
+        <sup>
+         2
+        </sup>
+        )
+       </th>
+       <th>
+        Altitude
+        <br/>
+        (mslm)
+       </th>
+      </tr>
+      <tr>
+       <td>
+        1st
+       </td>
+       <td>
+        <a href="/wiki/Pavia" title="Pavia">
+         Pavia
+        </a>
+       </td>
+       <td>
+        71,142
+       </td>
+       <td>
+        62
+       </td>
+       <td>
+        1147.5
+       </td>
+       <td>
+        77
+       </td>
+      </tr>
+      <tr>
+       <td>
+        2nd
+       </td>
+       <td>
+        <a href="/wiki/Vigevano" title="Vigevano">
+         Vigevano
+        </a>
+       </td>
+       <td>
+        63,984
+       </td>
+       <td>
+        82
+       </td>
+       <td>
+        780.3
+       </td>
+       <td>
+        116
+       </td>
+      </tr>
+      <tr>
+       <td>
+        3rd
+       </td>
+       <td>
+        <a href="/wiki/Voghera" title="Voghera">
+         Voghera
+        </a>
+       </td>
+       <td>
+        39,937
+       </td>
+       <td>
+        63.28
+       </td>
+       <td>
+        631.1
+       </td>
+       <td>
+        96
+       </td>
+      </tr>
+      <tr>
+       <td>
+        4th
+       </td>
+       <td>
+        <a href="/wiki/Mortara,_Lombardy" title="Mortara, Lombardy">
+         Mortara
+        </a>
+       </td>
+       <td>
+        15,673
+       </td>
+       <td>
+        52
+       </td>
+       <td>
+        301.4
+       </td>
+       <td>
+        108
+       </td>
+      </tr>
+      <tr>
+       <td>
+        5th
+       </td>
+       <td>
+        <a href="/wiki/Stradella,_Lombardy" title="Stradella, Lombardy">
+         Stradella
+        </a>
+       </td>
+       <td>
+        11,674
+       </td>
+       <td>
+        18.77
+       </td>
+       <td>
+        621.9
+       </td>
+       <td>
+        101
+       </td>
+      </tr>
+      <tr>
+       <td>
+        6th
+       </td>
+       <td>
+        <a href="/wiki/Gambol%C3%B2" title="Gambolò">
+         Gambolò
+        </a>
+       </td>
+       <td>
+        10,312
+       </td>
+       <td>
+        51
+       </td>
+       <td>
+        202.2
+       </td>
+       <td>
+        104
+       </td>
+      </tr>
+      <tr>
+       <td>
+        7th
+       </td>
+       <td>
+        <a href="/wiki/Garlasco" title="Garlasco">
+         Garlasco
+        </a>
+       </td>
+       <td>
+        9,888
+       </td>
+       <td>
+        39.03
+       </td>
+       <td>
+        253.3
+       </td>
+       <td>
+        93
+       </td>
+      </tr>
+      <tr>
+       <td>
+        8th
+       </td>
+       <td>
+        <a href="/wiki/Broni" title="Broni">
+         Broni
+        </a>
+       </td>
+       <td>
+        9,528
+       </td>
+       <td>
+        20.87
+       </td>
+       <td>
+        456.5
+       </td>
+       <td>
+        88
+       </td>
+      </tr>
+      <tr>
+       <td>
+        9th
+       </td>
+       <td>
+        <a href="/wiki/Casorate_Primo" title="Casorate Primo">
+         Casorate Primo
+        </a>
+       </td>
+       <td>
+        8,425
+       </td>
+       <td>
+        9
+       </td>
+       <td>
+        936.1
+       </td>
+       <td>
+        103
+       </td>
+      </tr>
+      <tr>
+       <td>
+        10th
+       </td>
+       <td>
+        <a href="/wiki/Cassolnovo" title="Cassolnovo">
+         Cassolnovo
+        </a>
+       </td>
+       <td>
+        7,116
+       </td>
+       <td>
+        31.96
+       </td>
+       <td>
+        222.7
+       </td>
+       <td>
+        120
+       </td>
+      </tr>
+     </table>
+     <p>
+      <br/>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Comuni_of_the_Province_of_Pavia" title="Comuni of the Province of Pavia">
+        Comuni of the Province of Pavia
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.provincia.pv.it/index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=114" rel="nofollow">
+           "Provincia di Pavia – Il Presidente"
+          </a>
+          . Provincia di Pavia
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            18 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.btitle=Provincia+di+Pavia+%93+Il+Presidente&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.provincia.pv.it%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D8%26Itemid%3D114&amp;rft.pub=Provincia+di+Pavia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Italian Institute of Statistics (Istat) (2001).
+          <a class="external text" href="http://dawinci.istat.it/daWinci/jsp/MD/dawinciMD.jsp?a1=m0GG0c0I0&amp;a2=mG0Y8048f8&amp;n=1UH90007RK4&amp;v=1UH0D807RK40000" rel="nofollow">
+           "Superficie territoriale (Kmq) - Pavia (dettaglio comunale) - Censimento 2001"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            26 October
+           </span>
+           2009
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.atitle=Superficie+territoriale+%28Kmq%29+-+Pavia+%28dettaglio+comunale%29+-+Censimento+2001&amp;rft.au=Italian+Institute+of+Statistics+%28Istat%29&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdawinci.istat.it%2FdaWinci%2Fjsp%2FMD%2FdawinciMD.jsp%3Fa1%3Dm0GG0c0I0%26a2%3DmG0Y8048f8%26n%3D1UH90007RK4%26v%3D1UH0D807RK40000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://dati.istat.it/Index.aspx?DataSetCode=DCIS_POPRES1&amp;Lang=#" rel="nofollow">
+           "Popolazione residente al 1° gennaio"
+          </a>
+          . Istat
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            18 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.btitle=Popolazione+residente++al+1%B0+gennaio&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdati.istat.it%2FIndex.aspx%3FDataSetCode%3DDCIS_POPRES1%26Lang%3D%23&amp;rft.pub=Istat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.tuttitalia.it/lombardia/provincia-di-pavia/" rel="nofollow">
+           "Provincia di Pavia"
+          </a>
+          . Tutt Italia
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            17 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.btitle=Provincia+di+Pavia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tuttitalia.it%2Flombardia%2Fprovincia-di-pavia%2F&amp;rft.pub=Tutt+Italia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2002d-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-2002d_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-2002d_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-2002d_5-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Roy Palmer Domenico (2002).
+          <i>
+           The Regions of Italy: A Reference Guide to History and Culture
+          </i>
+          . Greenwood Publishing Group. p. 200.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-313-30733-1" title="Special:BookSources/978-0-313-30733-1">
+           978-0-313-30733-1
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.au=Roy+Palmer+Domenico&amp;rft.btitle=The+Regions+of+Italy%3A+A+Reference+Guide+to+History+and+Culture&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=978-0-313-30733-1&amp;rft.pages=200&amp;rft.pub=Greenwood+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          <i>
+           The Times Comprehensive Atlas of the World
+          </i>
+          (13 ed.). Times Books. 2011. p. 76.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780007419135" title="Special:BookSources/9780007419135">
+           9780007419135
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.btitle=The+Times+Comprehensive+Atlas+of+the+World&amp;rft.date=2011&amp;rft.edition=13&amp;rft.genre=book&amp;rft.isbn=9780007419135&amp;rft.pages=76&amp;rft.pub=Times+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-King2015-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-King2015_7-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Russell King (27 March 2015).
+          <a class="external text" href="https://books.google.com/books?id=n5SsBwAAQBAJ&amp;pg=PA185" rel="nofollow">
+           <i>
+            The Industrial Geography of Italy
+           </i>
+          </a>
+          . Routledge. pp. 185–.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-1-317-52111-2" title="Special:BookSources/978-1-317-52111-2">
+           978-1-317-52111-2
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.au=Russell+King&amp;rft.btitle=The+Industrial+Geography+of+Italy&amp;rft.date=2015-03-27&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dn5SsBwAAQBAJ%26pg%3DPA185&amp;rft.isbn=978-1-317-52111-2&amp;rft.pages=185-&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.vinoltrepo.it/languageeng/pino-nero.asp" rel="nofollow">
+           "Pinot Noir"
+          </a>
+          .
+          <i>
+           Mondo del vino al bivio, il Consorzio: Noi parliamo con i fatti
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            20 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.atitle=Pinot+Noir&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vinoltrepo.it%2Flanguageeng%2Fpino-nero.asp&amp;rft.jtitle=Mondo+del+vino+al+bivio%2C+il+Consorzio%3A+Noi+parliamo+con+i+fatti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://demo.istat.it/bil2010/index.html" rel="nofollow">
+           "Bilancio demografico anno 2010 e popolazione residente al 31 Dicembre"
+          </a>
+          . Istat.it
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            24 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProvince+of+Pavia&amp;rft.btitle=Bilancio+demografico+anno+2010+e+popolazione+residente+al+31+Dicembre&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdemo.istat.it%2Fbil2010%2Findex.html&amp;rft.pub=Istat.it&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Province_of_Pavia&amp;action=edit&amp;section=6" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/Province_of_Pavia" title="commons:Special:Search/Province of Pavia">
+           Province of Pavia
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.provincia.pv.it" rel="nofollow">
+        Province of Pavia official website
+       </a>
+       <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">
+        (Italian)
+       </span>
+      </li>
+      <li>
+       <a class="external text" href="http://www.oltrepEAT.com" rel="nofollow">
+        Oltrepò Pavese Touristic site
+       </a>
+       <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">
+        (Italian)
+       </span>
+      </li>
+     </ul>
+     <div aria-labelledby="23x15px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0Lombardy" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Lombardy" title="Template:Lombardy">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Lombardy" title="Template talk:Lombardy">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lombardy&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="23x15px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0Lombardy" style="font-size:114%">
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Lombardy.svg/23px-Flag_of_Lombardy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Lombardy.svg/35px-Flag_of_Lombardy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Lombardy.svg/45px-Flag_of_Lombardy.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Lombardy" title="Lombardy">
+           Lombardy
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="padding:0.2em 1.0em; line-height:1.1em;">
+         <a href="/wiki/Provinces_of_Italy" title="Provinces of Italy">
+          Provinces
+          <br/>
+          and places
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#f7f7f7;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Province_of_Bergamo" title="Province of Bergamo">
+             Bergamo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Brescia" title="Province of Brescia">
+             Brescia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Como" title="Province of Como">
+             Como
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Cremona" title="Province of Cremona">
+             Cremona
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Lecco" title="Province of Lecco">
+             Lecco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Lodi" title="Province of Lodi">
+             Lodi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Mantua" title="Province of Mantua">
+             Mantua
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Milan" title="Province of Milan">
+             Milan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Monza_and_Brianza" title="Province of Monza and Brianza">
+             Monza and Brianza
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Pavia
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Sondrio" title="Province of Sondrio">
+             Sondrio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Province_of_Varese" title="Province of Varese">
+             Varese
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <div class="floatright">
+           <a class="image" href="/wiki/File:Map_of_region_of_Lombardy,_Italy,_with_provinces-en.svg">
+            <img alt="Map of region of Lombardy, Italy, with provinces-en.svg" data-file-height="5262" data-file-width="5930" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg/200px-Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg/300px-Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg/400px-Map_of_region_of_Lombardy%2C_Italy%2C_with_provinces-en.svg.png 2x" width="200"/>
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="padding:0.2em 1.0em; line-height:1.1em;">
+         History
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:transparent;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Insubria" title="Insubria">
+             Insubria
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Insubres" title="Insubres">
+               Insubres
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Lombards" title="Lombards">
+             Lombards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kingdom_of_the_Lombards" title="Kingdom of the Lombards">
+             Kingdom of the Lombards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Duchy_of_Milan" title="Duchy of Milan">
+             Duchy of Milan
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/List_of_rulers_of_Milan" title="List of rulers of Milan">
+               Monarchs of Milan
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_governors_of_the_Duchy_of_Milan" title="List of governors of the Duchy of Milan">
+               Governors of Milan
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Golden_Ambrosian_Republic" title="Golden Ambrosian Republic">
+             Golden Ambrosian Republic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Margravate_of_Mantua" title="Margravate of Mantua">
+             Margravate of Mantua
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Duchy_of_Mantua" title="Duchy of Mantua">
+             Duchy of Mantua
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Duke_of_Mantua" title="Duke of Mantua">
+               Monarchs of Mantua
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Transpadane_Republic" title="Transpadane Republic">
+             Transpadane Republic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cisalpine_Republic" title="Cisalpine Republic">
+             Cisalpine Republic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Italian_Republic_(Napoleonic)" title="Italian Republic (Napoleonic)">
+             Italian Republic
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kingdom_of_Italy_(Napoleonic)" title="Kingdom of Italy (Napoleonic)">
+             Kingdom of Italy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kingdom_of_Lombardy%E2%80%93Venetia" title="Kingdom of Lombardy–Venetia">
+             Kingdom of Lombardy–Venetia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Five_Days_of_Milan" title="Five Days of Milan">
+             Provisional Government of Milan
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="padding:0.2em 1.0em; line-height:1.1em;">
+         <a href="/wiki/Politics_of_Lombardy" title="Politics of Lombardy">
+          Politics and
+          <br/>
+          government
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#f7f7f7;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Elections_in_Lombardy" title="Elections in Lombardy">
+             Elections in Lombardy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_Presidents_of_Lombardy" title="List of Presidents of Lombardy">
+             List of Presidents of Lombardy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row" style="padding:0.2em 1.0em; line-height:1.1em;">
+         <a href="/wiki/Category:Education_in_Lombardy" title="Category:Education in Lombardy">
+          Education
+         </a>
+         and
+         <br/>
+         <a href="/wiki/Category:Culture_in_Lombardy" title="Category:Culture in Lombardy">
+          culture
+         </a>
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:transparent;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Lombard_cuisine" title="Lombard cuisine">
+             Cuisine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lombardia_(wine)" title="Lombardia (wine)">
+             Wine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fashion_in_Milan" title="Fashion in Milan">
+             Fashion in Milan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Music_of_Lombardy" title="Music of Lombardy">
+             Music of Lombardy
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Music_of_Milan" title="Music of Milan">
+               Music of Milan
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <a href="/wiki/Category:Lombardy" title="Category:Lombardy">
+           Categories
+          </a>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Lombardy_.C2.B7_Comuni_of_the_Province_of_Pavia" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Province_of_Pavia" title="Template:Province of Pavia">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Province_of_Pavia" title="Template talk:Province of Pavia">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Province_of_Pavia&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Lombardy_.C2.B7_Comuni_of_the_Province_of_Pavia" style="font-size:114%">
+          <a href="/wiki/Lombardy" title="Lombardy">
+           Lombardy
+          </a>
+          ·
+          <i>
+           <a href="/wiki/Comune" title="Comune">
+            Comuni
+           </a>
+          </i>
+          of the
+          <strong class="selflink">
+           Province of Pavia
+          </strong>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Alagna" title="Alagna">
+             Alagna
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Albaredo_Arnaboldi" title="Albaredo Arnaboldi">
+             Albaredo Arnaboldi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Albonese" title="Albonese">
+             Albonese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Albuzzano" title="Albuzzano">
+             Albuzzano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Arena_Po" title="Arena Po">
+             Arena Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Badia_Pavese" title="Badia Pavese">
+             Badia Pavese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bagnaria" title="Bagnaria">
+             Bagnaria
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Barbianello" title="Barbianello">
+             Barbianello
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bascap%C3%A8" title="Bascapè">
+             Bascapè
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bastida_Pancarana" title="Bastida Pancarana">
+             Bastida Pancarana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bastida_de%27_Dossi" title="Bastida de' Dossi">
+             Bastida de' Dossi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Battuda" title="Battuda">
+             Battuda
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Belgioioso,_Lombardy" title="Belgioioso, Lombardy">
+             Belgioioso
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bereguardo" title="Bereguardo">
+             Bereguardo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Borgarello" title="Borgarello">
+             Borgarello
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Borgo_Priolo" title="Borgo Priolo">
+             Borgo Priolo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Borgo_San_Siro" title="Borgo San Siro">
+             Borgo San Siro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Borgoratto_Mormorolo" title="Borgoratto Mormorolo">
+             Borgoratto Mormorolo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bornasco" title="Bornasco">
+             Bornasco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bosnasco" title="Bosnasco">
+             Bosnasco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brallo_di_Pregola" title="Brallo di Pregola">
+             Brallo di Pregola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Breme" title="Breme">
+             Breme
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bressana_Bottarone" title="Bressana Bottarone">
+             Bressana Bottarone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Broni" title="Broni">
+             Broni
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Calvignano" title="Calvignano">
+             Calvignano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Campospinoso" title="Campospinoso">
+             Campospinoso
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Candia_Lomellina" title="Candia Lomellina">
+             Candia Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canevino" title="Canevino">
+             Canevino
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Canneto_Pavese" title="Canneto Pavese">
+             Canneto Pavese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carbonara_al_Ticino" title="Carbonara al Ticino">
+             Carbonara al Ticino
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Casanova_Lonati" title="Casanova Lonati">
+             Casanova Lonati
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Casatisma" title="Casatisma">
+             Casatisma
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Casei_Gerola" title="Casei Gerola">
+             Casei Gerola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Casorate_Primo" title="Casorate Primo">
+             Casorate Primo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cassolnovo" title="Cassolnovo">
+             Cassolnovo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castana,_Lombardy" title="Castana, Lombardy">
+             Castana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Casteggio" title="Casteggio">
+             Casteggio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castelletto_di_Branduzzo" title="Castelletto di Branduzzo">
+             Castelletto di Branduzzo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castello_d%27Agogna" title="Castello d'Agogna">
+             Castello d'Agogna
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castelnovetto" title="Castelnovetto">
+             Castelnovetto
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cava_Manara" title="Cava Manara">
+             Cava Manara
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cecima" title="Cecima">
+             Cecima
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ceranova" title="Ceranova">
+             Ceranova
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ceretto_Lomellina" title="Ceretto Lomellina">
+             Ceretto Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cergnago" title="Cergnago">
+             Cergnago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Certosa_di_Pavia_(comune)" title="Certosa di Pavia (comune)">
+             Certosa di Pavia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cervesina" title="Cervesina">
+             Cervesina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chignolo_Po" title="Chignolo Po">
+             Chignolo Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cigognola" title="Cigognola">
+             Cigognola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cilavegna" title="Cilavegna">
+             Cilavegna
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Codevilla" title="Codevilla">
+             Codevilla
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Confienza" title="Confienza">
+             Confienza
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Copiano" title="Copiano">
+             Copiano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corana" title="Corana">
+             Corana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cornale" title="Cornale">
+             Cornale
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corteolona" title="Corteolona">
+             Corteolona
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corvino_San_Quirico" title="Corvino San Quirico">
+             Corvino San Quirico
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Costa_de%27_Nobili" title="Costa de' Nobili">
+             Costa de' Nobili
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cozzo" title="Cozzo">
+             Cozzo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cura_Carpignano" title="Cura Carpignano">
+             Cura Carpignano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dorno" title="Dorno">
+             Dorno
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ferrera_Erbognone" title="Ferrera Erbognone">
+             Ferrera Erbognone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Filighera" title="Filighera">
+             Filighera
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fortunago" title="Fortunago">
+             Fortunago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Frascarolo" title="Frascarolo">
+             Frascarolo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Galliavola" title="Galliavola">
+             Galliavola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gambarana" title="Gambarana">
+             Gambarana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gambol%C3%B2" title="Gambolò">
+             Gambolò
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Garlasco" title="Garlasco">
+             Garlasco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Genzone" title="Genzone">
+             Genzone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gerenzago" title="Gerenzago">
+             Gerenzago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Giussago" title="Giussago">
+             Giussago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Godiasco" title="Godiasco">
+             Godiasco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Golferenzo" title="Golferenzo">
+             Golferenzo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gravellona_Lomellina" title="Gravellona Lomellina">
+             Gravellona Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gropello_Cairoli" title="Gropello Cairoli">
+             Gropello Cairoli
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Inverno_e_Monteleone" title="Inverno e Monteleone">
+             Inverno e Monteleone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Landriano" title="Landriano">
+             Landriano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Langosco" title="Langosco">
+             Langosco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lardirago" title="Lardirago">
+             Lardirago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Linarolo" title="Linarolo">
+             Linarolo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lirio" title="Lirio">
+             Lirio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lomello" title="Lomello">
+             Lomello
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lungavilla" title="Lungavilla">
+             Lungavilla
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Magherno" title="Magherno">
+             Magherno
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Marcignago" title="Marcignago">
+             Marcignago
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Marzano" title="Marzano">
+             Marzano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mede,_Lombardy" title="Mede, Lombardy">
+             Mede
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Menconico" title="Menconico">
+             Menconico
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mezzana_Bigli" title="Mezzana Bigli">
+             Mezzana Bigli
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mezzana_Rabattone" title="Mezzana Rabattone">
+             Mezzana Rabattone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mezzanino" title="Mezzanino">
+             Mezzanino
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Miradolo_Terme" title="Miradolo Terme">
+             Miradolo Terme
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Montalto_Pavese" title="Montalto Pavese">
+             Montalto Pavese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Montebello_della_Battaglia" title="Montebello della Battaglia">
+             Montebello della Battaglia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Montecalvo_Versiggia" title="Montecalvo Versiggia">
+             Montecalvo Versiggia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Montescano" title="Montescano">
+             Montescano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Montesegale" title="Montesegale">
+             Montesegale
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Monticelli_Pavese" title="Monticelli Pavese">
+             Monticelli Pavese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mont%C3%B9_Beccaria" title="Montù Beccaria">
+             Montù Beccaria
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mornico_Losana" title="Mornico Losana">
+             Mornico Losana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mortara,_Lombardy" title="Mortara, Lombardy">
+             Mortara
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nicorvo" title="Nicorvo">
+             Nicorvo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Olevano_di_Lomellina" title="Olevano di Lomellina">
+             Olevano di Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Oliva_Gessi" title="Oliva Gessi">
+             Oliva Gessi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ottobiano" title="Ottobiano">
+             Ottobiano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Palestro" title="Palestro">
+             Palestro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pancarana" title="Pancarana">
+             Pancarana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Parona" title="Parona">
+             Parona
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pavia" title="Pavia">
+             Pavia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pietra_de%27_Giorgi" title="Pietra de' Giorgi">
+             Pietra de' Giorgi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pieve_Albignola" title="Pieve Albignola">
+             Pieve Albignola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pieve_Porto_Morone" title="Pieve Porto Morone">
+             Pieve Porto Morone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pieve_del_Cairo" title="Pieve del Cairo">
+             Pieve del Cairo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pinarolo_Po" title="Pinarolo Po">
+             Pinarolo Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pizzale" title="Pizzale">
+             Pizzale
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ponte_Nizza" title="Ponte Nizza">
+             Ponte Nizza
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portalbera" title="Portalbera">
+             Portalbera
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rea,_Lombardy" title="Rea, Lombardy">
+             Rea
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Redavalle" title="Redavalle">
+             Redavalle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Retorbido" title="Retorbido">
+             Retorbido
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rivanazzano_Terme" title="Rivanazzano Terme">
+             Rivanazzano Terme
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Robbio" title="Robbio">
+             Robbio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Robecco_Pavese" title="Robecco Pavese">
+             Robecco Pavese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rocca_Susella" title="Rocca Susella">
+             Rocca Susella
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rocca_de%27_Giorgi" title="Rocca de' Giorgi">
+             Rocca de' Giorgi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rognano" title="Rognano">
+             Rognano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Romagnese" title="Romagnese">
+             Romagnese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Roncaro" title="Roncaro">
+             Roncaro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rosasco" title="Rosasco">
+             Rosasco
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rovescala" title="Rovescala">
+             Rovescala
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ruino" title="Ruino">
+             Ruino
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Cipriano_Po" title="San Cipriano Po">
+             San Cipriano Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Damiano_al_Colle" title="San Damiano al Colle">
+             San Damiano al Colle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Genesio_ed_Uniti" title="San Genesio ed Uniti">
+             San Genesio ed Uniti
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Giorgio_di_Lomellina" title="San Giorgio di Lomellina">
+             San Giorgio di Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Martino_Siccomario" title="San Martino Siccomario">
+             San Martino Siccomario
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/San_Zenone_al_Po" title="San Zenone al Po">
+             San Zenone al Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sannazzaro_de%27_Burgondi" title="Sannazzaro de' Burgondi">
+             Sannazzaro de' Burgondi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sant%27Alessio_con_Vialone" title="Sant'Alessio con Vialone">
+             Sant'Alessio con Vialone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sant%27Angelo_Lomellina" title="Sant'Angelo Lomellina">
+             Sant'Angelo Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Santa_Cristina_e_Bissone" title="Santa Cristina e Bissone">
+             Santa Cristina e Bissone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Santa_Giuletta" title="Santa Giuletta">
+             Santa Giuletta
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Santa_Margherita_di_Staffora" title="Santa Margherita di Staffora">
+             Santa Margherita di Staffora
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Santa_Maria_della_Versa" title="Santa Maria della Versa">
+             Santa Maria della Versa
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sartirana_Lomellina" title="Sartirana Lomellina">
+             Sartirana Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Scaldasole" title="Scaldasole">
+             Scaldasole
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Semiana" title="Semiana">
+             Semiana
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Silvano_Pietra" title="Silvano Pietra">
+             Silvano Pietra
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Siziano" title="Siziano">
+             Siziano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sommo" title="Sommo">
+             Sommo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spessa" title="Spessa">
+             Spessa
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stradella,_Lombardy" title="Stradella, Lombardy">
+             Stradella
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Suardi" title="Suardi">
+             Suardi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torrazza_Coste" title="Torrazza Coste">
+             Torrazza Coste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torre_Beretti_e_Castellaro" title="Torre Beretti e Castellaro">
+             Torre Beretti e Castellaro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torre_d%27Arese" title="Torre d'Arese">
+             Torre d'Arese
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torre_d%27Isola" title="Torre d'Isola">
+             Torre d'Isola
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torre_de%27_Negri" title="Torre de' Negri">
+             Torre de' Negri
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torrevecchia_Pia" title="Torrevecchia Pia">
+             Torrevecchia Pia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Torricella_Verzate" title="Torricella Verzate">
+             Torricella Verzate
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Travac%C3%B2_Siccomario" title="Travacò Siccomario">
+             Travacò Siccomario
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Trivolzio" title="Trivolzio">
+             Trivolzio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tromello" title="Tromello">
+             Tromello
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Trovo" title="Trovo">
+             Trovo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Val_di_Nizza" title="Val di Nizza">
+             Val di Nizza
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Valeggio,_Lombardy" title="Valeggio, Lombardy">
+             Valeggio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Valle_Lomellina" title="Valle Lomellina">
+             Valle Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Valle_Salimbene" title="Valle Salimbene">
+             Valle Salimbene
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Valverde,_Lombardy" title="Valverde, Lombardy">
+             Valverde
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Varzi" title="Varzi">
+             Varzi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Velezzo_Lomellina" title="Velezzo Lomellina">
+             Velezzo Lomellina
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vellezzo_Bellini" title="Vellezzo Bellini">
+             Vellezzo Bellini
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Verretto" title="Verretto">
+             Verretto
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Verrua_Po" title="Verrua Po">
+             Verrua Po
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vidigulfo" title="Vidigulfo">
+             Vidigulfo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vigevano" title="Vigevano">
+             Vigevano
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Villa_Biscossi" title="Villa Biscossi">
+             Villa Biscossi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Villanova_d%27Ardenghi" title="Villanova d'Ardenghi">
+             Villanova d'Ardenghi
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Villanterio" title="Villanterio">
+             Villanterio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vistarino" title="Vistarino">
+             Vistarino
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Voghera" title="Voghera">
+             Voghera
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Volpara" title="Volpara">
+             Volpara
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zavattarello" title="Zavattarello">
+             Zavattarello
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zeccone" title="Zeccone">
+             Zeccone
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zeme,_Lombardy" title="Zeme, Lombardy">
+             Zeme
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zenevredo" title="Zenevredo">
+             Zenevredo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zerbo" title="Zerbo">
+             Zerbo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zerbol%C3%B2" title="Zerbolò">
+             Zerbolò
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zinasco" title="Zinasco">
+             Zinasco
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="external text" href="//www.worldcat.org/identities/containsVIAFID/143071572" rel="nofollow">
+              WorldCat Identities
+             </a>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+              VIAF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="https://viaf.org/viaf/143071572" rel="nofollow">
+               143071572
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+              LCCN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.loc.gov/authorities/names/n81003058" rel="nofollow">
+               n81003058
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/4270720-1" rel="nofollow">
+               4270720-1
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">
+              BNE
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX459327" rel="nofollow">
+               XX459327
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <p>
+      <span style="font-size: small;">
+       <span id="coordinates">
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Coordinates
+        </a>
+        :
+        <span class="plainlinks nourlexpansion">
+         <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Province_of_Pavia&amp;params=45_11_N_9_9_E_source:itwiki_type:adm2nd">
+          <span class="geo-default">
+           <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+            <span class="latitude">
+             45°11′N
+            </span>
+            <span class="longitude">
+             9°9′E
+            </span>
+           </span>
+          </span>
+          <span class="geo-multi-punct">
+           ﻿ / ﻿
+          </span>
+          <span class="geo-nondefault">
+           <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+            45.183°N 9.150°E
+           </span>
+           <span style="display:none">
+            ﻿ /
+            <span class="geo">
+             45.183; 9.150
+            </span>
+           </span>
+          </span>
+         </a>
+        </span>
+       </span>
+      </span>
+     </p>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1448723-0!*!0!!en!4!* and timestamp 20161104215104 and revision id 747620853
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Province_of_Pavia&amp;oldid=747620853">
+      https://en.wikipedia.org/w/index.php?title=Province_of_Pavia&amp;oldid=747620853
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Province_of_Pavia" title="Category:Province of Pavia">
+         Province of Pavia
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Provinces_of_Italy" title="Category:Provinces of Italy">
+         Provinces of Italy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_August_2015" title="Category:Use dmy dates from August 2015">
+         Use dmy dates from August 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">
+         Articles containing Italian-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2015" title="Category:Articles containing potentially dated statements from 2015">
+         Articles containing potentially dated statements from 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">
+         All articles containing potentially dated statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_Italian-language_external_links" title="Category:Articles with Italian-language external links">
+         Articles with Italian-language external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Province+of+Pavia" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Province+of+Pavia" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Province_of_Pavia" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Province_of_Pavia" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Province_of_Pavia">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Province_of_Pavia&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Province_of_Pavia&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Province_of_Pavia" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Province_of_Pavia" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Province_of_Pavia&amp;oldid=747620853" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Province_of_Pavia&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q16231" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Province_of_Pavia&amp;id=747620853" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Province+of+Pavia">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Province+of+Pavia&amp;returnto=Province+of+Pavia&amp;oldid=747620853&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Province_of_Pavia&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Province_of_Pavia" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage">
+        <a href="https://en.wikivoyage.org/wiki/Southern_Lombardy" hreflang="en">
+         Wikivoyage
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D8%A8%D8%A7%D9%81%D9%8A%D8%A7" hreflang="ar" lang="ar" title="مقاطعة بافيا – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Pavia_S%C3%A9ng" hreflang="zh-min-nan" lang="zh-min-nan" title="Pavia Séng – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" hreflang="bg" lang="bg" title="Павия (провинция) – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Provi%C3%B1s_Pavia" hreflang="br" lang="br" title="Proviñs Pavia – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Prov%C3%ADncia_de_Pavia" hreflang="ca" lang="ca" title="Província de Pavia – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Provincia_di_Pavia" hreflang="ceb" lang="ceb" title="Provincia di Pavia – Cebuano">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Provincie_Pavia" hreflang="cs" lang="cs" title="Provincie Pavia – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Pavia_(provins)" hreflang="da" lang="da" title="Pavia (provins) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Provinz_Pavia" hreflang="de" lang="de" title="Provinz Pavia – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Pavia_provints" hreflang="et" lang="et" title="Pavia provints – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%B2%CE%AF%CE%B1_(%CE%B5%CF%80%CE%B1%CF%81%CF%87%CE%AF%CE%B1)" hreflang="el" lang="el" title="Παβία (επαρχία) – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Provincia_de_Pav%C3%ADa" hreflang="es" lang="es" title="Provincia de Pavía – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Provinco_Pavia" hreflang="eo" lang="eo" title="Provinco Pavia – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Paviako_probintzia" hreflang="eu" lang="eu" title="Paviako probintzia – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D9%88%DB%8C%D8%A7" hreflang="fa" lang="fa" title="استان پاویا – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Province_de_Pavie" hreflang="fr" lang="fr" title="Province de Pavie – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Provincia_de_Pav%C3%ADa" hreflang="gl" lang="gl" title="Provincia de Pavía – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%B9%84%EC%95%84_%ED%98%84" hreflang="ko" lang="ko" title="파비아 현 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BE%D5%AB%D5%A1_(%D5%A3%D5%A1%D5%BE%D5%A1%D5%BC)" hreflang="hy" lang="hy" title="Պավիա (գավառ) – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Provinsi_Pavia" hreflang="id" lang="id" title="Provinsi Pavia – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Provincia_di_Pavia" hreflang="it" lang="it" title="Provincia di Pavia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%90%D7%91%D7%99%D7%94_(%D7%A0%D7%A4%D7%94)" hreflang="he" lang="he" title="פאביה (נפה) – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Provinsi_Pavia" hreflang="jv" lang="jv" title="Provinsi Pavia – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%95%E1%83%98%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="პავიის პროვინცია – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lad">
+        <a class="interlanguage-link-target" href="https://lad.wikipedia.org/wiki/Provinsia_de_Pavia" hreflang="lad" lang="lad" title="Provinsia de Pavia – Ladino">
+         Ladino
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Provincia_Papiensis" hreflang="la" lang="la" title="Provincia Papiensis – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/P%C4%81vijas_province" hreflang="lv" lang="lv" title="Pāvijas province – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pavijos_provincija" hreflang="lt" lang="lt" title="Pavijos provincija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Pruvincia_de_Pavia" hreflang="lmo" lang="lmo" title="Pruvincia de Pavia – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Pavia_megye" hreflang="hu" lang="hu" title="Pavia megye – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Wilayah_Pavia" hreflang="ms" lang="ms" title="Wilayah Pavia – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Pavia_(provincie)" hreflang="nl" lang="nl" title="Pavia (provincie) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%A2%E7%9C%8C" hreflang="ja" lang="ja" title="パヴィーア県 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nap">
+        <a class="interlanguage-link-target" href="https://nap.wikipedia.org/wiki/Pruvincia_%27e_Pavia" hreflang="nap" lang="nap" title="Pruvincia 'e Pavia – Neapolitan">
+         Napulitano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Provinsen_Pavia" hreflang="no" lang="no" title="Provinsen Pavia – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Provinsen_Pavia" hreflang="nn" lang="nn" title="Provinsen Pavia – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Prov%C3%ADncia_de_Pavia" hreflang="oc" lang="oc" title="Província de Pavia – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Pavia_(provinsiya)" hreflang="uz" lang="uz" title="Pavia (provinsiya) – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnb">
+        <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%B6%D9%84%D8%B9_%D9%BE%D8%A7%D9%88%DB%8C%D8%A7" hreflang="pnb" lang="pnb" title="ضلع پاویا – Western Punjabi">
+         پنجابی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Provincia_%C3%ABd_Pav%C3%ACa" hreflang="pms" lang="pms" title="Provincia ëd Pavìa – Piedmontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Prowincja_Pawia" hreflang="pl" lang="pl" title="Prowincja Pawia – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pavia_(prov%C3%ADncia)" hreflang="pt" lang="pt" title="Pavia (província) – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Provincia_Pavia" hreflang="ro" lang="ro" title="Provincia Pavia – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" hreflang="ru" lang="ru" title="Павия (провинция) – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Province_o_Pavia" hreflang="sco" lang="sco" title="Province o Pavia – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Provinca_e_Pavias" hreflang="sq" lang="sq" title="Provinca e Pavias – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Pruvincia_di_Pav%C3%ACa" hreflang="scn" lang="scn" title="Pruvincia di Pavìa – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Province_of_Pavia" hreflang="simple" lang="simple" title="Province of Pavia – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pavia_(provincia)" hreflang="sk" lang="sk" title="Pavia (provincia) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Pavia_(pokrajina)" hreflang="sl" lang="sl" title="Pavia (pokrajina) – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B8%D1%98%D0%B0_(%D0%BE%D0%BA%D1%80%D1%83%D0%B3)" hreflang="sr" lang="sr" title="Павија (округ) – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Pavia_(provincija)" hreflang="sh" lang="sh" title="Pavia (provincija) – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Pavian_maakunta" hreflang="fi" lang="fi" title="Pavian maakunta – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pavia_(provins)" hreflang="sv" lang="sv" title="Pavia (provins) – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pavia_(lalawigan)" hreflang="tl" lang="tl" title="Pavia (lalawigan) – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-roa-tara">
+        <a class="interlanguage-link-target" href="https://roa-tara.wikipedia.org/wiki/Provinge_de_Pavia" hreflang="roa-Tara" lang="roa-Tara" title="Provinge de Pavia – tarandíne">
+         Tarandíne
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Pavia_ili" hreflang="tr" lang="tr" title="Pavia ili – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D1%96%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D1%96%D0%BD%D1%86%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Павія (провінція) – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D9%BE%D8%A7%D9%88%DB%8C%D8%A7" hreflang="ur" lang="ur" title="صوبہ پاویا – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Provincia_de_Pavia" hreflang="vec" lang="vec" title="Provincia de Pavia – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Pavia_(t%E1%BB%89nh)" hreflang="vi" lang="vi" title="Pavia (tỉnh) – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Pavia_(lalawigan)" hreflang="war" lang="war" title="Pavia (lalawigan) – Waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B8%95%E7%B6%AD%E4%BA%9E%E7%9C%81" hreflang="zh" lang="zh" title="帕維亞省 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q16231#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 3 November 2016, at 11:44.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Province_of_Pavia&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.388",
+            "walltime": "0.475",
+            "ppvisitednodes": {
+                "value": 3970,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 68029,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 7631,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 25,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 5,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  376.595      1 -total",
+                " 32.12%  120.971      1 Template:Infobox_settlement",
+                " 25.13%   94.638      2 Template:Infobox",
+                " 17.03%   64.120      1 Template:Reflist",
+                " 16.14%   60.789      1 Template:Authority_control",
+                "  9.78%   36.824      5 Template:Cite_web",
+                "  7.10%   26.735      2 Template:Navbox",
+                "  6.72%   25.298      1 Template:Convert",
+                "  5.83%   21.941      1 Template:Province_of_Pavia",
+                "  5.41%   20.386      1 Template:Navbox_Province_of_Italy"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.166",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 7004487,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1257",
+            "timestamp": "20161104215104",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":562,"wgHostname":"mw1257"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2192 @@
+https://en.wikipedia.org/wiki/Community_Choice_Aggregation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Community Choice Aggregation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Community_Choice_Aggregation","wgTitle":"Community Choice Aggregation","wgCurRevisionId":747701453,"wgRevisionId":747701453,"wgArticleId":11958464,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2011","All articles needing additional references","Environmental policy in the United States","Renewable energy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Community_Choice_Aggregation","wgRelevantArticleId":11958464,"wgRequestId":"WB0KtQpAADwAAKu61SIAAADE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5154673","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Community_Choice_Aggregation" rel="alternate"/>
+  <link href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Community_Choice_Aggregation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Community_Choice_Aggregation rootpage-Community_Choice_Aggregation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Community Choice Aggregation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Community_Choice_Aggregation&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (December 2011)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Community Choice Aggregation
+      </b>
+      , abbreviated
+      <b>
+       CCA
+      </b>
+      , is a system adopted into law in the United States states of
+      <a href="/wiki/Massachusetts" title="Massachusetts">
+       Massachusetts
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/New_York_(state)" title="New York (state)">
+       New York
+      </a>
+      ,
+      <a href="/wiki/Ohio" title="Ohio">
+       Ohio
+      </a>
+      ,
+      <a href="/wiki/California" title="California">
+       California
+      </a>
+      ,
+      <a href="/wiki/New_Jersey" title="New Jersey">
+       New Jersey
+      </a>
+      ,
+      <a href="/wiki/Rhode_Island" title="Rhode Island">
+       Rhode Island
+      </a>
+      , and
+      <a href="/wiki/Illinois" title="Illinois">
+       Illinois
+      </a>
+      , which allows cities and counties to aggregate the buying power of individual customers within a defined jurisdiction in order to secure alternative energy supply contracts on a community-wide basis, but allowing consumers not wishing to participate to opt out. Also known as
+      <b>
+       municipal aggregation
+      </b>
+      ,
+      <b>
+       governmental aggregation
+      </b>
+      ,
+      <b>
+       electricity aggregation
+      </b>
+      , and
+      <b>
+       community aggregation
+      </b>
+      , CCAs now serve nearly 5% of Americans in over 1300 municipalities as of 2014.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      CCA's are
+      <i>
+       de facto
+      </i>
+      <a class="mw-redirect" href="/wiki/Public_utilities" title="Public utilities">
+       public utilities
+      </a>
+      of a new form that aggregate regional energy demand and negotiate with competitive suppliers and developers, rather than the traditional utility business model based on monopolizing energy supply.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Significance">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Significance
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Early_days">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Early days
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Massachusetts">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Massachusetts
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Ohio">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Ohio
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#California">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          California
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Marin_Clean_Energy">
+           <span class="tocnumber">
+            5.1
+           </span>
+           <span class="toctext">
+            Marin Clean Energy
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Sonoma_Clean_Power">
+           <span class="tocnumber">
+            5.2
+           </span>
+           <span class="toctext">
+            Sonoma Clean Power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Defining_green_energy">
+           <span class="tocnumber">
+            5.3
+           </span>
+           <span class="toctext">
+            Defining green energy
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Growing_popularity_and_expansion">
+           <span class="tocnumber">
+            5.4
+           </span>
+           <span class="toctext">
+            Growing popularity and expansion
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Illinois">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Illinois
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#New_Jersey">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          New Jersey
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#New_York">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          New York
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#References">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#External_links">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Significance">
+       Significance
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=1" title="Edit section: Significance">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      CCAs have set a number of national green power and climate protection records while reducing power bills, a rare combination that has won national Renewable Energy Laboratory (NREL) and Environmental Protection Agency (EPA) recognition for achieving significantly higher
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable energy
+      </a>
+      portfolios while maintaining rates that are competitive with conventional fossil and nuclear-based utility power. Several major U.S. population centers under CCA have switched to energy portfolios that are an order of magnitude greener than local utilities or other direct access providers, but charge no premium above utility or direct access rates. CCAs are therefore already conspicuous leaders in green power innovation, receiving U.S. Environmental Protection Agency’s “green power leadership awards” for achievements in renewable energy (Marin County, CA; Oak Park, IL, Cincinnati, OH). With the more recent emergence of "CCA 2.0" in California, CCAs like Sonoma County and San Francisco are increasingly focused on using the policy as a platform for financing and integrating a transition to local renewable energy sources rather than grid power.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Early_days">
+       Early days
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=2" title="Edit section: Early days">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In Massachusetts, where the nation's first CCA bill (Senate 447, Montigny) was first drafted by Massachusetts senate energy committee director Paul Fenn in 1995
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      and enacted in 1997,
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      the towns of
+      <a href="/wiki/Cape_Cod" title="Cape Cod">
+       Cape Cod
+      </a>
+      and
+      <a href="/wiki/Martha%27s_Vineyard" title="Martha's Vineyard">
+       Martha's Vineyard
+      </a>
+      formed the
+      <a class="new" href="/w/index.php?title=Cape_Light_Compact&amp;action=edit&amp;redlink=1" title="Cape Light Compact (page does not exist)">
+       Cape Light Compact
+      </a>
+      and successfully lobbied for passage of the seminal CCA legislation. Two of the Cape Light Compact founders,
+      <a href="/wiki/Falmouth,_Massachusetts" title="Falmouth, Massachusetts">
+       Falmouth
+      </a>
+      <a class="mw-redirect" href="/wiki/Selectman" title="Selectman">
+       Selectman
+      </a>
+      Matthew Patrick and
+      <a href="/wiki/Barnstable_County,_Massachusetts" title="Barnstable County, Massachusetts">
+       Barnstable County
+      </a>
+      Commissioner Rob O'Leary, were subsequently elected to the Massachusetts House of Representatives and Senate respectively. Between 1995 and 2000, Fenn formed the American Local Power Project and worked with Patrick to draft and pass similar laws in Ohio, New Jersey, and other states.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Former FERC Commissioner Nora Brownell has called Community Choice Aggregations “the only great exceptions to the failure of electric deregulation in the U.S.” With every CCA yet formed still in operation and charging ratepayers less per kilowatt hour than their Investor-Owned-Utilities, CCAs have proven to be reliable and capable of delivering greener power at competitive prices. Ohio’s Office of the Consumer’s Council has said that CCA is “the greatest success story” in Ohio’s competitive market, and new legislation to re-regulate utility rates in Ohio will preserve CCA even if other forms of competition are eliminated. In Massachusetts, the success of the Cape Light Compact has led to the formation of new CCAs used in towns such as
+      <a href="/wiki/Marlborough,_Massachusetts" title="Marlborough, Massachusetts">
+       Marlborough, Massachusetts
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Massachusetts">
+       Massachusetts
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=3" title="Edit section: Massachusetts">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The nation's first CCA, the Cape Light Compact, currently serves 200,000 customers, running aggressive and transparent energy efficiency programs and installing solar installations on Cape Cod schools, fire stations and libraries. The
+      <a href="/wiki/Hampshire_Council_of_Governments" title="Hampshire Council of Governments">
+       Hampshire Council of Governments
+      </a>
+      has filed petitions for Municipal Aggregation of Electricity on behalf of 44 communities in Berkshire, Franklin, Hampden, Hampshire, and Worcester Counties. After approval by state regulators, the Council will arrange supply for those customers who have not chosen an independent supplier. These include Great Barrington and Washington in Berkshire County; Blandford, Hampden, Holland, Monson, and Montgomery in Hampden County; Chesterfield, Cummington, Goshen, Granby, Hadley, Hatfield, Huntington, Middlefield, Northampton, Pelham, Plainfield, Westhampton, and Williamsburg in Hampshire County; Charlemont, Conway, Deerfield, Gill, Heath, Leverett, Montague, Northfield, Rowe, Warwick, Wendell, and Whately in Franklin County; and Barre, Brookfield, Charlton, East Brookfield, Hardwick, Leicester, Mendon, Millville, New Braintree, North Brookfield, Upton, and West Brookfield in Worcester County.
+     </p>
+     <p>
+      Other towns and cities are working to complete the initial process, in addition to these communities, which have a combined population of over 165,000 people.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ohio">
+       Ohio
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=4" title="Edit section: Ohio">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In Ohio, the nation's largest CCA was formed shortly after 1999 when the state legislature adopted a CCA law - the
+      <a class="new" href="/w/index.php?title=Northeast_Ohio_Public_Energy_Council&amp;action=edit&amp;redlink=1" title="Northeast Ohio Public Energy Council (page does not exist)">
+       Northeast Ohio Public Energy Council
+      </a>
+      (NOPEC), made up of approximately 500,000 customers in 138 cities and towns across eight counties, procured a power supply contract that switched electric generation fuel supply from a mix of coal and nuclear power to a mix of natural gas and a small percentage of renewably powered electricity, announcing a 70% air pollution reduction in the region's power mix. The contract also included solar photovoltaic demonstration projects in each of the eight counties. NOPEC's contracting process was led by Scott Ridley, an energy consultant who had worked with Fenn to develop Community Choice Aggregation in Massachusetts and was a consultant for the Cape Light Compact.
+     </p>
+     <h2>
+      <span class="mw-headline" id="California">
+       California
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=5" title="Edit section: California">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In 2002, California State Legislature passed Assembly Bill 117, enabling Community Choice Aggregation (CCA). Not only did the Bill allow CCAs, but it mandated that customers be automatically enrolled in their local CCA, with an option to opt out.
+     </p>
+     <p>
+      In the early days of the
+      <a class="mw-redirect" href="/wiki/California_energy_crisis" title="California energy crisis">
+       California energy crisis
+      </a>
+      , Paul Fenn, the Massachusetts Senate Energy Committee director who conducted the legal research and drafting of the original CCA legislation, formed Local Power Inc.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      and drafted new CCA legislation for California.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      In a campaign organized by Local Power, the City and County of San Francisco led Oakland, Berkeley, Marin County, and a group of Los Angeles municipalities in adopting resolutions asking for a state CCA law in response to the failure of California's deregulated electricity market. Fenn's bill was sponsored by then Assembly Member Carole Migden (D-San Francisco) in 2001, and the bill became law (AB117) in September, 2002.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      CCA formation in California was delayed by initial political opposition by the state's investor-owned utilities. In June 2010,
+      <a class="mw-redirect" href="/wiki/Pacific_Gas_%26_Electric" title="Pacific Gas &amp; Electric">
+       Pacific Gas &amp; Electric
+      </a>
+      sponsored a proposition,
+      <a href="/wiki/California_Proposition_16_(2010)" title="California Proposition 16 (2010)">
+       Proposition 16
+      </a>
+      , to make it more difficult for local entities to form either municipal utilities or CCAs by requiring a two-thirds vote of the electorate rather than a simple majority, for a public agency to enter the retail
+      <a class="mw-redirect" href="/wiki/Electrical_power_industry" title="Electrical power industry">
+       power
+      </a>
+      business.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      Although PG&amp;E contributed over $46 million in an effort to pass the
+      <a href="/wiki/Initiative" title="Initiative">
+       initiative
+      </a>
+      (Prop 16's opponents, led by Local Power Inc. and The Utility Reform Network,
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      had access to less than $100,000),
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      Proposition 16 was defeated.
+     </p>
+     <p>
+      San Francisco adopted a CCA Ordinance drafted by Fenn (86-04, Tom Ammiano) in 2004, creating a CCA program to build 360 Megawatts (MW) of solar, green distributed generation, wind generation, and energy efficiency and
+      <a href="/wiki/Demand_response" title="Demand response">
+       demand response
+      </a>
+      to serve San Francisco ratepayers using
+      <a href="/wiki/Solar_bonds" title="Solar bonds">
+       solar bonds
+      </a>
+      .
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      Specifically, the ordinance combined the power purchasing authority of CCA with a revenue bond authority also developed by Fenn to expand the power of CCA, known as the H Bond Authority (San Francisco Charter Section 9.107.8, Ammiano), to allow the CCA to finance new green power infrastructure, worth approximately $1 Billion. In 2007 the City adopted a detailed CCA Plan also written primarily by Fenn (Ordinance 447-07, Ammiano and Mirkarimi), which established a 51% Renewable Portfolio Standard by 2017 for San Francisco.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      Over the following decade, Sonoma and San Francisco worked with Fenn's company, Local Power Inc. on program designs focused on achieving energy localization through renewables and energy efficiency.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Inspired by Climate Protection efforts, CCA has spread to cities throughout the Bay Area and the state. In 2007, 40 California local governments were in the process of exploring CCA, virtually all of them seeking to double, triple or quadruple the green power levels (Renewable Portfolio Standard, or "RPS) of the state's three Investor-Owned Utilities.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Marin_Clean_Energy">
+       Marin Clean Energy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=6" title="Edit section: Marin Clean Energy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a href="/wiki/Marin_County,_California" title="Marin County, California">
+       Marin County
+      </a>
+      launched California's first CCA program,
+      <a class="external text" href="http://www.mcecleanenergy.org" rel="nofollow">
+       Marin Clean Energy
+      </a>
+      , on May 7, 2010, offering 50%-100% renewable energy at competitive prices. Marin Clean Energy (MCE) now serves approximately 175,000 customers in Marin County, unincorporated Napa County and the cities of Benicia, El Cerrito, San Pablo, and Richmond.
+     </p>
+     <p>
+      MCE is helping to strengthen and democratize California's energy economy. As California's first CCA program, MCE is charting the course for a new, highly innovative approach to electricity service in the Bay Area. The organization's mission is to reduce energy-related greenhouse gas emissions by expanding access to affordable, renewable energy and energy efficiency programs while creating local economic and workforce benefits.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Sonoma_Clean_Power">
+       Sonoma Clean Power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=7" title="Edit section: Sonoma Clean Power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a href="/wiki/Sonoma_County,_California" title="Sonoma County, California">
+       Sonoma County
+      </a>
+      created a countywide CCA, SonomaCleanPower, under the CCA law in 2013, offering power that is both greener and more locally sourced, and also to be offered at a lower cost than incumbent utility PG&amp;E.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      All participating cities include Cloverdale, Cotati, Petaluma, Rohnert Park, Santa Rosa, Sebastopol, Sonoma, unincorporated Sonoma County and the Town of Windsor.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      Geof Syphers, one of the consultants who wrote the feasibility study and financial analysis, was named CEO on July 2, 2013. SCP started providing power on May 1, 2014.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      <a class="external text" href="http://www.sonomacleanpower.org" rel="nofollow">
+       SonomaCleanPower.org
+      </a>
+     </p>
+     <p>
+      In April, 2014, Assemblymember Bradford (D-Gardena) introduced legislation (AB 2145) that would sharply limit the ability of CCAs to enroll customers. CCA advocates view AB 2145 as an existential threat to CCAs in California.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+      This bill passed in the Assembly but was defeated by the California state Senate on August 30, 2014 when the Senate's legislative session was ended without it coming up for a vote.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Defining_green_energy">
+       Defining green energy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=8" title="Edit section: Defining green energy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In 2015, Marin Clean Energy (MCE) Sonoma Clean Power (SCP), and Lancaster Choice Energy (LCE)–the first three CCAs established in California– voiced concerns over portions of Assembly Bill 1110, which proposes a standard for uniform disclosure of greenhouse gas emissions by energy retailers.
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+      Many in the community saw this resistance to transparency and disclosure as an admission that their "undbundled RECs" were not as "clean" as they had publicly claimed, even though all three entities disclose their power sources publicly on an annual basis.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+      The three CCAs publicly praised the bill for encouraging transparency and for the intent of the bill's author to establish a consistent methodology for reporting GHG emissions. They sent “oppose unless amended” letters and made testimony saying that they were concerned that the bill would directly undermine California's Renewable Portfolio Standard and several of the efforts underway the California Energy Commission, the California Air Resources Board, and the U.S. Environmental Protection Agency to establish a GHG accounting methodology through a broad and thoughtful stakeholder, regulatory, and expert input process.
+     </p>
+     <p>
+      <a href="/wiki/Sierra_Club" title="Sierra Club">
+       Sierra Club
+      </a>
+      California, The Utility Reform Network (TURN),
+      <a class="external text" href="http://www.cacleanpower.com" rel="nofollow">
+       California Clean Power
+      </a>
+      , Vote Solar, and labor unions support Assembly Bill 1110.
+      <sup class="reference" id="cite_ref-26">
+       <a href="#cite_note-26">
+        [26]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Surprisingly, opposition to the green house gas transparency bill (AB 1110) included MCE, SCP, and LCE, the existing CCAs. Additional opposition came from LEAN Energy US and the California Municipal Utilities Association who have also voiced similar concerns with the inconsistencies of AB 1110 and have encouraged certain amendments.
+      <sup class="reference" id="cite_ref-27">
+       <a href="#cite_note-27">
+        [27]
+       </a>
+      </sup>
+      Embarrassingly, LEAN Energy drew harsh criticism when the letter LEAN circulated in opposition to AB 1110 ("the greenhouse gas transparency bill") mistakenly, and incorrectly, stated that it was from the Executive of Marin Clean Energy. Questions of conflict between the agencies have arisen with LEAN's executive in the past.
+      <sup class="reference" id="cite_ref-28">
+       <a href="#cite_note-28">
+        [28]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-29">
+       <a href="#cite_note-29">
+        [29]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Assembly Bill 1110 received a 9-0 unanimous vote of approval in the State Senate Energy, Utilities, and Communications Committee. Several of these votes were contingent on the bill's author agreeing to adopt the Committee's recommended changes to address inconsistencies with current law and to continue working with key stakeholder groups to ensure AB 1110 creates sound public policy.
+      <sup class="reference" id="cite_ref-30">
+       <a href="#cite_note-30">
+        [30]
+       </a>
+      </sup>
+     </p>
+     <p>
+      CCAs are capable of surpassing the known benchmarks of greener and cheaper power for the communities they serve. Both Sonoma Clean Power and Marin Clean Energy have provided remarkably cleaner energy and competitive, often cheaper, rates than their investor-owned private competitor, Pacific Gas &amp; Electric, for every year they have been in operation. Lancaster Clean Energy is projected to do the same in their first year of service.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Growing_popularity_and_expansion">
+       Growing popularity and expansion
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=9" title="Edit section: Growing popularity and expansion">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Community Choice has become a central part of the state's strategy to achieve its climate change goals.
+      <sup class="reference" id="cite_ref-31">
+       <a href="#cite_note-31">
+        [31]
+       </a>
+      </sup>
+      As of 2015, over 25 cities and four counties have created or joined a CCA in California.
+      <sup class="reference" id="cite_ref-32">
+       <a href="#cite_note-32">
+        [32]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Communities in Southern California have started to investigate the feasibility of forming CCAs because the program allows some flexibility in choosing the mix and sources of power production. A study by The Local Government Commission (LGC) published in February 2009 evaluated forming a CCA and has been published to the California Energy Commission website.
+      <sup class="reference" id="cite_ref-33">
+       <a href="#cite_note-33">
+        [33]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a class="external text" href="http://www.montereybaycca.org" rel="nofollow">
+       Monterey Bay Community Power
+      </a>
+      is working to implement CCA with the support of local governments throughout the counties of
+      <a href="/wiki/Santa_Cruz_County,_California" title="Santa Cruz County, California">
+       Santa Cruz
+      </a>
+      ,
+      <a href="/wiki/Monterey_County,_California" title="Monterey County, California">
+       Monterey
+      </a>
+      , and
+      <a href="/wiki/San_Benito_County,_California" title="San Benito County, California">
+       San Benito
+      </a>
+      .
+     </p>
+     <p>
+      Sonoma Clean Power is not allowing new members to join until 2017 because SCP has not finished buying power and rolling out the program in Sonoma.
+     </p>
+     <p>
+      Communities that want more control can create their own CCA. There is a growing support for micro-CCAs that are able to keep their resources and energy local. Environmental groups across California are pushing for best practices and learning from the experiences of Marin Clean Energy and Sonoma Clean Power. Full service providers are also now offering cleaner power at better rates than before.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Illinois">
+       Illinois
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=10" title="Edit section: Illinois">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The state of Illinois adopted a CCA law in 2009, which has led to an explosion of communities providing electricity services to over 2/3 of the state's population as of 2014, including the city of Chicago, whose mayor, Rahm Emanuel, is focusing the program on reducing coal power production and increasing renewable energy.
+      <sup class="reference" id="cite_ref-34">
+       <a href="#cite_note-34">
+        [34]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As of October 2013, 671 Illinois cities and towns (representing 80% of the state's residential electricity market) have utilized CCA.
+      <sup class="reference" id="cite_ref-35">
+       <a href="#cite_note-35">
+        [35]
+       </a>
+      </sup>
+     </p>
+     <p>
+      By the end of 2013, 91 local governments in Illinois (representing 1.7 million state residents) used the state's 2009 CCA law to purchase 100% renewable electricity for their communities.
+      <sup class="reference" id="cite_ref-36">
+       <a href="#cite_note-36">
+        [36]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="New_Jersey">
+       New Jersey
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=11" title="Edit section: New Jersey">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      New Jersey adopted a CCA law in 2003, but did not see active formation of aggregations until 2013, when Bergen county, Jackson county, and fifteen other cities and counties started CCA programs, focused on both lowering electric bills and in some cases greening their power supply, or both.
+      <sup class="reference" id="cite_ref-37">
+       <a href="#cite_note-37">
+        [37]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="New_York">
+       New York
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=12" title="Edit section: New York">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The
+      <a class="external text" href="http://www.dps.ny.gov/" rel="nofollow">
+       New York State Public Service Commission
+      </a>
+      (PSC) has identified CCA as consistent with the stated goals of the regulatory reform “
+      <a class="external text" href="http://www3.dps.ny.gov/W/PSCWeb.nsf/All/26BE8A93967E604785257CC40066B91A?OpenDocument" rel="nofollow">
+       Reforming the Energy Vision
+      </a>
+      ” (REV), and has stated that local energy planning gives municipalities better opportunities to realize the benefits of distributed energy resources enabled by REV.
+      <sup class="reference" id="cite_ref-38">
+       <a href="#cite_note-38">
+        [38]
+       </a>
+      </sup>
+      CCA legislation had been filed in the New York state assembly in February 2014,
+      <sup class="reference" id="cite_ref-39">
+       <a href="#cite_note-39">
+        [39]
+       </a>
+      </sup>
+      followed by Governor Andrew Cuomo's order directing the PSC to implement CCA directly under its own authority in December 2014.
+      <sup class="reference" id="cite_ref-40">
+       <a href="#cite_note-40">
+        [40]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In December 2014, non-profit organization
+      <a class="external text" href="http://sustainablewestchester.org/" rel="nofollow">
+       Sustainable Westchester
+      </a>
+      <a class="external text" href="http://sustainablewestchester.org/images/toolkits/CCA/CCA_Sustainable_Westchester_petition.pdf" rel="nofollow">
+       submitted a petition
+      </a>
+      to the PSC on behalf of its member municipalities to implement a CCA demonstration program in Westchester County. The PSC
+      <a class="external text" href="http://sustainablewestchester.org/images/toolkits/CCA/CCA_PSC_approval_pressrelease.pdf" rel="nofollow">
+       granted the Order on February 26, 2015
+      </a>
+      authorizing Sustainable Westchester to put out an RFP and award contracts for both electric and natural gas supply for residents and small businesses within municipalities in the county that pass a resolution to join the CCA. "The Sustainable Westchester pilot is expected to provide valuable experience on CCA design and outcomes that, in addition to the many comments in that proceeding, will assist the Commission in making a determination on statewide implementation of CCA."
+      <sup class="reference" id="cite_ref-41">
+       <a href="#cite_note-41">
+        [41]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The program launched in 2015, becoming the first operational CCA in New York State.
+      <sup class="reference" id="cite_ref-42">
+       <a href="#cite_note-42">
+        [42]
+       </a>
+      </sup>
+      Similar local CCA organizing efforts are underway in Ulster County, Sullivan County, Hudson Highlands, and other communities.
+      <sup class="reference" id="cite_ref-43">
+       <a href="#cite_note-43">
+        [43]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=13" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.localpower.com/CommunityChoiceAggregation.html" rel="nofollow">
+          Local Power Inc. website
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://financere.nrel.gov/finance/content/newer-kids-block-community-choice-aggregators" rel="nofollow">
+          https://financere.nrel.gov/finance/content/newer-kids-block-community-choice-aggregators
+         </a>
+         National Renewable Energy Laboratory article
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.local.org/masscomp.html" rel="nofollow">
+          http://www.local.org/masscomp.html
+         </a>
+         Electric Power Alert, Volume V. No.1 - January 4, 1995
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.fastcompany.com/magazine/128/power-play.html" rel="nofollow">
+          http://www.fastcompany.com/magazine/128/power-play.html
+         </a>
+         Fast Company Magazine article
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.bates.edu/news/2010/04/21/power-by-the-people/" rel="nofollow">
+          http://www.bates.edu/news/2010/04/21/power-by-the-people/
+         </a>
+         Bates Magazine article
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://localpower.com" rel="nofollow">
+          https://localpower.com
+         </a>
+         Local Power Inc. website
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.good.is/posts/giving-power-to-the-people" rel="nofollow">
+          http://www.good.is/posts/giving-power-to-the-people
+         </a>
+         Good Magazine article
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.nytimes.com/gwire/2010/01/07/07greenwire-community-bids-to-bypass-utilities-facing-hurdl-1763.html" rel="nofollow">
+          http://www.nytimes.com/gwire/2010/01/07/07greenwire-community-bids-to-bypass-utilities-facing-hurdl-1763.html
+         </a>
+         New York Times article
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/01/13/BUND1BHQ7S.DTL&amp;type=business" rel="nofollow">
+          <i>
+           San Francisco Chronicle
+          </i>
+          , "PG&amp;E initiative on power suppliers on ballot", January 14, 2010
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://web.archive.org/web/20100627085045/http://noprop16.org/" rel="nofollow">
+          https://web.archive.org/web/20100627085045/http://noprop16.org/
+         </a>
+         No on 16 Website on the Internet Archive
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.capitolweekly.net/article.php?_c=ycw4x46esj5qqj&amp;xid=ycvk844cuw9uxh&amp;done=.ycw4x46esjoqqj" rel="nofollow">
+          <i>
+           Capitol Weekly
+          </i>
+          , "Initiative backers submit paperwork promising a busy 2010 cycle", October 22, 2009
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.mercurynews.com/breaking-news/ci_14759178?nclick_check=1" rel="nofollow">
+          <i>
+           Santa Cruz Sentinel
+          </i>
+          , "Prop 16 is June's priciest ballot initiative, with PG&amp;E coughing up big money", March 25, 2010
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.sfweekly.com/2009-01-14/news/green-scheme/" rel="nofollow">
+          http://www.sfweekly.com/2009-01-14/news/green-scheme/
+         </a>
+         San Francisco Weekly article
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.renewableenergyworld.com/rea/news/article/2008/03/financing-green-projects-51766" rel="nofollow">
+          http://www.renewableenergyworld.com/rea/news/article/2008/03/financing-green-projects-51766
+         </a>
+         Renewable Energy World article
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.metroactive.com/bohemian/11.23.11/news-1147.html" rel="nofollow">
+          http://www.metroactive.com/bohemian/11.23.11/news-1147.html
+         </a>
+         North Bay Bohemian article
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.sfgate.com/business/article/New-Sonoma-utility-promises-cleaner-cheaper-power-5122295.php" rel="nofollow">
+          http://www.sfgate.com/business/article/New-Sonoma-utility-promises-cleaner-cheaper-power-5122295.php
+         </a>
+         San Francisco Chronicle article January 8, 2014
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.pressdemocrat.com/article/20130421/COMMUNITY/130429958/1033/news?p=1&amp;tc=pg" rel="nofollow">
+          [1]
+         </a>
+         Santa Rosa Press Democrat article
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://sonomacleanpower.org/about-scp/history/" rel="nofollow">
+          https://sonomacleanpower.org/about-scp/history/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.northbaybusinessjournal.com/91826/sonoma-clean-power-flips-switch-for-first-customers/" rel="nofollow">
+          http://www.northbaybusinessjournal.com/91826/sonoma-clean-power-flips-switch-for-first-customers/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://cleantechnica.com/2014/05/06/californias-ab-2145-threatens-community-choice-aggregates/" rel="nofollow">
+          http://cleantechnica.com/2014/05/06/californias-ab-2145-threatens-community-choice-aggregates/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.no2145.org/" rel="nofollow">
+          http://www.no2145.org/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1110" rel="nofollow">
+          http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1110
+         </a>
+         AB 1110
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.marinij.com/environment-and-nature/20150711/critics-marin-clean-energy-not-so-clean-and-green" rel="nofollow">
+          http://www.marinij.com/environment-and-nature/20150711/critics-marin-clean-energy-not-so-clean-and-green
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.marinij.com/opinion/20150713/marin-ij-readers-forum-for-july-14" rel="nofollow">
+          http://www.marinij.com/opinion/20150713/marin-ij-readers-forum-for-july-14
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&amp;clip_id=159&amp;meta_id=7714" rel="nofollow">
+          http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&amp;clip_id=159&amp;meta_id=7714
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=201520160AB1110#" rel="nofollow">
+          http://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=201520160AB1110#
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.leanenergyus.org/wp-content/uploads/2013/10/CA-Marin-Master-PPA-2-5-2010.pdf" rel="nofollow">
+          http://www.leanenergyus.org/wp-content/uploads/2013/10/CA-Marin-Master-PPA-2-5-2010.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://patch.com/california/millvalley/marshall-steps-down-from-mea-board" rel="nofollow">
+          http://patch.com/california/millvalley/marshall-steps-down-from-mea-board
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&amp;clip_id=159&amp;meta_id=7714" rel="nofollow">
+          http://cityofmillvalley.granicus.com/MetaViewer.php?view_id=2&amp;clip_id=159&amp;meta_id=7714
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201520160AB1110" rel="nofollow">
+          http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201520160AB1110
+         </a>
+         Unanimous vote for AB 1110
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://cacleanpower.com/faq/" rel="nofollow">
+          http://cacleanpower.com/faq/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://cacleanpower.com/news/" rel="nofollow">
+          http://cacleanpower.com/news/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.energy.ca.gov/pier/project_reports/CEC-500-2008-091.html" rel="nofollow">
+          http://www.energy.ca.gov/pier/project_reports/CEC-500-2008-091.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.midwestenergynews.com/2012/11/15/how-chicagos-municipal-aggregation-could-be-a-boon-for-renewable-energy/" rel="nofollow">
+          http://www.midwestenergynews.com/2012/11/15/how-chicagos-municipal-aggregation-could-be-a-boon-for-renewable-energy/
+         </a>
+         Midwest Energy News article
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Lean Energy U.S. (October 2013).
+          <a class="external text" href="http://www.leanenergyus.org/cca-by-state/illinois/" rel="nofollow">
+           "CCA By State - Illinois"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-03-21
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommunity+Choice+Aggregation&amp;rft.au=Lean+Energy+U.S.&amp;rft.btitle=CCA+By+State+-+Illinois&amp;rft.date=2013-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.leanenergyus.org%2Fcca-by-state%2Fillinois%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-36">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-36">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          WWF (March 2014).
+          <a class="external text" href="http://cleantechnica.com/2014/03/07/91-illinois-communities-powered-100-green-electricity/" rel="nofollow">
+           "91 Illinois Communities Powered 100% By Green Electricity"
+          </a>
+          . CleanTechnica
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-03-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommunity+Choice+Aggregation&amp;rft.au=WWF&amp;rft.btitle=91+Illinois+Communities+Powered+100%25+By+Green+Electricity&amp;rft.date=2014-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcleantechnica.com%2F2014%2F03%2F07%2F91-illinois-communities-powered-100-green-electricity%2F&amp;rft.pub=CleanTechnica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-37">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-37">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.northjersey.com/news/opinions/241598211_Herald_News__Aggregation_could_help_reduce_utility_bills.html" rel="nofollow">
+          http://www.northjersey.com/news/opinions/241598211_Herald_News__Aggregation_could_help_reduce_utility_bills.html
+         </a>
+         North Jersey Herald News article January 23, 2014
+        </span>
+       </li>
+       <li id="cite_note-38">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-38">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB4EB41-3E10-4BD0-AC6D-97EB40F7798D}" rel="nofollow">
+          http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BDB4EB41-3E10-4BD0-AC6D-97EB40F7798D}
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-39">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-39">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://localpower.com/A08883_Summary_&amp;_bill_text_Local_Power_Inc_2015.pdf" rel="nofollow">
+          http://localpower.com/A08883_Summary_&amp;_bill_text_Local_Power_Inc_2015.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-40">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-40">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://blogs.edf.org/energyexchange/2015/06/03/community-choice-programs-empower-electricity-customers-in-new-york-and-beyond/" rel="nofollow">
+          http://blogs.edf.org/energyexchange/2015/06/03/community-choice-programs-empower-electricity-customers-in-new-york-and-beyond/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-41">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-41">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://sustainablewestchester.org/images/toolkits/CCA/CCA_PSC_approval_pressrelease.pdf" rel="nofollow">
+          http://sustainablewestchester.org/images/toolkits/CCA/CCA_PSC_approval_pressrelease.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-42">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-42">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://sustainablewestchester.org/community-toolkits/cca" rel="nofollow">
+          http://sustainablewestchester.org/community-toolkits/cca
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-43">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-43">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.greenbiz.com/article/how-clean-energy-aggregation-empowers-neighborhoods" rel="nofollow">
+          http://www.greenbiz.com/article/how-clean-energy-aggregation-empowers-neighborhoods
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit&amp;section=14" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.energy.ca.gov/pier/project_reports/CEC-500-2008-091.html" rel="nofollow">
+        CEC Community Choice Pilot Project
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://truth-out.org/news/item/18347-considered-a-national-example-san-franciscos-green-power-plan-has-struggled-for-a-decade-to-overcome-opposition-from-monopoly-corporate-interests" rel="nofollow">
+        Truthout article published in 2013
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:11958464-0!*!0!!en!4!* and timestamp 20161103215112 and revision id 747701453
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Community_Choice_Aggregation&amp;oldid=747701453">
+      https://en.wikipedia.org/w/index.php?title=Community_Choice_Aggregation&amp;oldid=747701453
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Environmental_policy_in_the_United_States" title="Category:Environmental policy in the United States">
+         Environmental policy in the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Renewable_energy" title="Category:Renewable energy">
+         Renewable energy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_December_2011" title="Category:Articles needing additional references from December 2011">
+         Articles needing additional references from December 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Community+Choice+Aggregation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Community+Choice+Aggregation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Community_Choice_Aggregation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Community_Choice_Aggregation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Community_Choice_Aggregation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Community_Choice_Aggregation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Community_Choice_Aggregation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Community_Choice_Aggregation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Community_Choice_Aggregation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Community_Choice_Aggregation&amp;oldid=747701453" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Community_Choice_Aggregation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5154673" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Community_Choice_Aggregation&amp;id=747701453" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Community+Choice+Aggregation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Community+Choice+Aggregation&amp;returnto=Community+Choice+Aggregation&amp;oldid=747701453&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Community_Choice_Aggregation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5154673#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 3 November 2016, at 21:51.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Community_Choice_Aggregation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.116",
+            "walltime": "0.150",
+            "ppvisitednodes": {
+                "value": 660,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 7310,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 22,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  123.821      1 -total",
+                " 43.32%   53.642      1 Template:Reflist",
+                " 36.45%   45.131      1 Template:Refimprove",
+                " 28.22%   34.942      2 Template:Cite_web",
+                " 23.31%   28.866      1 Template:Ambox",
+                "  0.95%    1.172      1 Template:Column-count"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.035",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1784310,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1286",
+            "timestamp": "20161103215042",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1265"});});
+  </script>
+ </body>
+</html>

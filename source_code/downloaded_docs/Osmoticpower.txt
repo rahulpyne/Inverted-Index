@@ -1,0 +1,2605 @@
+https://en.wikipedia.org/wiki/Osmotic_power
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Osmotic power - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Osmotic_power","wgTitle":"Osmotic power","wgCurRevisionId":704672808,"wgRevisionId":704672808,"wgArticleId":4711003,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fuel cells","Sustainable technologies","Alternative energy","Energy conversion","Water power","Membrane technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Osmotic_power","wgRelevantArticleId":4711003,"wgRequestId":"WBvRJQpAMFIAADXTDDgAAABO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q786486","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Osmotic_power" rel="alternate"/>
+  <link href="/w/index.php?title=Osmotic_power&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Osmotic_power&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Osmotic_power" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Osmotic_power rootpage-Osmotic_power skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Osmotic power
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "Blue energy" redirects here. For the NGO, see
+      <a href="/wiki/BlueEnergy" title="BlueEnergy">
+       blueEnergy
+      </a>
+      .
+     </div>
+     <table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+      <tr>
+       <td style="padding-top:0.4em;line-height:1.2em">
+        Part of a series on
+       </td>
+      </tr>
+      <tr>
+       <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">
+        <a href="/wiki/Renewable_energy" title="Renewable energy">
+         Renewable energy
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Biofuel" title="Biofuel">
+           Biofuel
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Biomass" title="Biomass">
+           Biomass
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Geothermal_energy" title="Geothermal energy">
+           Geothermal
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Hydropower" title="Hydropower">
+           Hydropower
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Solar_energy" title="Solar energy">
+           Solar energy
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Tidal_power" title="Tidal power">
+           Tidal power
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wave_power" title="Wave power">
+           Wave power
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wind_power" title="Wind power">
+           Wind power
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">
+           Topics by country
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/100%25_renewable_energy" title="100% renewable energy">
+           100% renewable energy
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">
+           Marketing and policy trends
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Renewable_energy_sources" title="Template:Renewable energy sources">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Renewable_energy_sources" title="Template talk:Renewable energy sources">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_sources&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Osmotic power
+      </b>
+      ,
+      <b>
+       salinity gradient power
+      </b>
+      or
+      <b>
+       blue energy
+      </b>
+      is the energy available from the difference in the salt concentration between
+      <a href="/wiki/Seawater" title="Seawater">
+       seawater
+      </a>
+      and
+      <a href="/wiki/Fresh_water" title="Fresh water">
+       river water
+      </a>
+      . Two practical methods for this are
+      <a class="mw-redirect" href="/wiki/Reverse_electrodialysis" title="Reverse electrodialysis">
+       reverse electrodialysis
+      </a>
+      (RED) and
+      <a class="mw-redirect" href="/wiki/Pressure_retarded_osmosis" title="Pressure retarded osmosis">
+       pressure retarded osmosis
+      </a>
+      (PRO). Both processes rely on
+      <a href="/wiki/Osmosis" title="Osmosis">
+       osmosis
+      </a>
+      with ion specific
+      <a class="mw-redirect" href="/wiki/Artificial_membrane" title="Artificial membrane">
+       membranes
+      </a>
+      . The key waste product is
+      <a href="/wiki/Brackish_water" title="Brackish water">
+       brackish water
+      </a>
+      . This byproduct is the result of natural forces that are being harnessed: the flow of fresh water into seas that are made up of salt water.
+     </p>
+     <p>
+      In 1954 Pattle
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      suggested that there was an untapped source of power when a river mixes with the sea, in terms of the lost osmotic pressure, however it was not until the mid ‘70s where a practical method of exploiting it using selectively permeable membranes by Loeb
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      was outlined.
+     </p>
+     <p>
+      The method of generating power by pressure retarded osmosis was invented by Prof.
+      <a href="/wiki/Sidney_Loeb" title="Sidney Loeb">
+       Sidney Loeb
+      </a>
+      in 1973 at the Ben-Gurion University of the Negev, Beersheba, Israel.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      The idea came to Prof. Loeb, in part, as he observed the Jordan River flowing into the Dead Sea. He wanted to harvest the energy of mixing of the two aqueous solutions (the Jordan River being one and the Dead Sea being the other) that was going to waste in this natural mixing process.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      In 1977 Prof. Loeb invented a method of producing power by a reverse electrodialysis heat engine.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The technologies have been confirmed in laboratory conditions. They are being developed into commercial use in the Netherlands (RED) and Norway (PRO). The cost of the membrane has been an obstacle. A new, lower cost membrane, based on an electrically modified
+      <a href="/wiki/Polyethylene" title="Polyethylene">
+       polyethylene
+      </a>
+      plastic, made it fit for potential commercial use.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      Other methods have been proposed and are currently under development. Among them, a method based on
+      <a href="/wiki/Electric_double-layer_capacitor" title="Electric double-layer capacitor">
+       electric double-layer capacitor
+      </a>
+      technology.
+      <sup class="reference" id="cite_ref-Brogioli_7-0">
+       <a href="#cite_note-Brogioli-7">
+        [7]
+       </a>
+      </sup>
+      and a method based on
+      <a href="/wiki/Vapor_pressure" title="Vapor pressure">
+       vapor pressure
+      </a>
+      difference.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Basics_of_salinity_gradient_power">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Basics of salinity gradient power
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Efficiency">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Efficiency
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Methods">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Methods
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Pressure-retarded_osmosis">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Pressure-retarded osmosis
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Reversed_electrodialysis">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Reversed electrodialysis
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Capacitive_method">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            Capacitive method
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Vapor_pressure_differences:_open_cycle_and_absorption_refrigeration_cycle_.28closed_cycle.29">
+           <span class="tocnumber">
+            3.4
+           </span>
+           <span class="toctext">
+            Vapor pressure differences: open cycle and absorption refrigeration cycle (closed cycle)
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-8">
+            <a href="#Open_cycle">
+             <span class="tocnumber">
+              3.4.1
+             </span>
+             <span class="toctext">
+              Open cycle
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-9">
+            <a href="#Absorption_refrigeration_cycle_.28closed_cycle.29">
+             <span class="tocnumber">
+              3.4.2
+             </span>
+             <span class="toctext">
+              Absorption refrigeration cycle (closed cycle)
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Solar_pond">
+           <span class="tocnumber">
+            3.5
+           </span>
+           <span class="toctext">
+            Solar pond
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Boron_nitride_nanotubes">
+           <span class="tocnumber">
+            3.6
+           </span>
+           <span class="toctext">
+            Boron nitride nanotubes
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#Possible_negative_environmental_impact">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Possible negative environmental impact
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#See_also">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#References">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#External_links">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Basics_of_salinity_gradient_power">
+       Basics of salinity gradient power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=1" title="Edit section: Basics of salinity gradient power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Blue_energy_mechanism.png">
+        <img alt="" class="thumbimage" data-file-height="320" data-file-width="299" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Blue_energy_mechanism.png/220px-Blue_energy_mechanism.png" srcset="//upload.wikimedia.org/wikipedia/commons/d/dc/Blue_energy_mechanism.png 1.5x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Blue_energy_mechanism.png" title="Enlarge">
+         </a>
+        </div>
+        Pressure-retarded osmosis
+       </div>
+      </div>
+     </div>
+     <p>
+      Salinity gradient power is a specific renewable energy alternative that creates renewable and sustainable power by using naturally occurring processes. This practice does not contaminate or release
+      <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+       carbon dioxide
+      </a>
+      (CO
+      <sub>
+       2
+      </sub>
+      ) emissions (vapor pressure methods will release dissolved air containing CO
+      <sub>
+       2
+      </sub>
+      at low pressures—these non-condensable gases can be re-dissolved of course, but with an energy penalty). Also as stated by Jones and Finley within their article “Recent Development in Salinity Gradient Power”, there is basically no fuel cost.
+     </p>
+     <p>
+      Salinity gradient energy is based on using the resources of “osmotic pressure difference between fresh water and sea water.”
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      All energy that is proposed to use salinity gradient technology relies on the evaporation to separate water from salt. Osmotic pressure is the "chemical potential of concentrated and dilute solutions of salt".
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      When looking at relations between high osmotic pressure and low, solutions with higher concentrations of salt have higher pressure.
+     </p>
+     <p>
+      Differing salinity gradient power generations exist but one of the most commonly discussed is
+      <a href="/wiki/Pressure-retarded_osmosis" title="Pressure-retarded osmosis">
+       pressure-retarded osmosis
+      </a>
+      (PRO). Within PRO seawater is pumped into a pressure chamber where the pressure is lower than the difference between fresh and salt water pressure. Fresh water moves in a semipermeable membrane and increases its volume in the chamber. As the pressure in the chamber is compensated a turbine spins to generate electricity. In Braun's article he states that this process is easy to understand in a more broken down manner. Two solutions, A being salt water and B being fresh water are separated by a membrane. He states "only water molecules can pass the semipermeable membrane. As a result of the osmotic pressure difference between both solutions, the water from solution B thus will diffuse through the membrane in order to dilute the solution".
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      The pressure drives the turbines and power the generator that produces the electrical energy. Osmosis might be used directly to "pump" fresh water out of The Netherlands into the sea. This is currently done using electric pumps.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Efficiency">
+       Efficiency
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=2" title="Edit section: Efficiency">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A 2012 study on efficiency from Yale university concluded that the highest extractable work in constant-pressure PRO with a seawater draw solution and river water feed solution is 0.75 kWh/m
+      <sup>
+       3
+      </sup>
+      while the free energy of mixing is 0.81 kWh/m
+      <sup>
+       3
+      </sup>
+      —a thermodynamic extraction efficiency of 91.0%.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Methods">
+       Methods
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=3" title="Edit section: Methods">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      While the mechanics and concepts of salinity gradient power are still being studied, the power source has been implemented in several different locations. Most of these are experimental, but thus far they have been predominantly successful. The various companies that have utilized this power have also done so in many different ways as there are several concepts and processes that harness the power from salinity gradient.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Pressure-retarded_osmosis">
+       Pressure-retarded osmosis
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=4" title="Edit section: Pressure-retarded osmosis">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg">
+        <img alt="" class="thumbimage" data-file-height="6788" data-file-width="9738" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg/220px-Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg/330px-Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg/440px-Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Simplistic_pressure_retarded_osmosis_power_generation_diagram.jpg" title="Enlarge">
+         </a>
+        </div>
+        Simple PRO power generation scheme
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:252px;">
+       <a class="image" href="/wiki/File:Hurum_osmosis_power_02.JPG">
+        <img alt="" class="thumbimage" data-file-height="2592" data-file-width="3888" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hurum_osmosis_power_02.JPG/250px-Hurum_osmosis_power_02.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hurum_osmosis_power_02.JPG/375px-Hurum_osmosis_power_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hurum_osmosis_power_02.JPG/500px-Hurum_osmosis_power_02.JPG 2x" width="250"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Hurum_osmosis_power_02.JPG" title="Enlarge">
+         </a>
+        </div>
+        Osmotic Power Prototype at Tofte (Hurum), Norway
+       </div>
+      </div>
+     </div>
+     <p>
+      One method to utilize salinity gradient energy is called
+      <a href="/wiki/Pressure-retarded_osmosis" title="Pressure-retarded osmosis">
+       pressure-retarded osmosis
+      </a>
+      .
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      In this method, seawater is pumped into a pressure chamber that is at a pressure lower than the difference between the pressures of saline water and fresh water. Freshwater is also pumped into the pressure chamber through a membrane, which increase both the volume and pressure of the chamber. As the pressure differences are compensated, a turbine is spun, providing kinetic energy. This method is being specifically studied by the
+      <a href="/wiki/Norway" title="Norway">
+       Norwegian
+      </a>
+      <a href="/wiki/Public_utility" title="Public utility">
+       utility
+      </a>
+      <a href="/wiki/Statkraft" title="Statkraft">
+       Statkraft
+      </a>
+      , which has calculated that up to 2.85 GW would be available from this process in Norway.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      Statkraft has built the world's first prototype PRO power plant on the Oslo fjord which was opened by
+      <a href="/wiki/Mette-Marit,_Crown_Princess_of_Norway" title="Mette-Marit, Crown Princess of Norway">
+       Princess Mette-Marit of Norway
+      </a>
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      on November 24, 2009. It aims to produce enough electricity to light and heat a small town within five years by osmosis. At first it will produce a minuscule 4 kilowatts – enough to heat a large electric kettle, but by 2015 the target is 25 megawatts – the same as a small wind farm.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Reversed_electrodialysis">
+       Reversed electrodialysis
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=5" title="Edit section: Reversed electrodialysis">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A second method being developed and studied is
+      <a href="/wiki/Reversed_electrodialysis" title="Reversed electrodialysis">
+       reversed electrodialysis
+      </a>
+      or reverse dialysis, which is essentially the creation of a salt battery. This method was described by Weinstein and Leitz as “an array of alternating anion and cation exchange membranes can be used to generate electric power from the free energy of river and sea water.”
+     </p>
+     <p>
+      The technology related to this type of power is still in its infant stages, even though the principle was discovered in the 1950s. Standards and a complete understanding of all the ways salinity gradients can be utilized are important goals to strive for in order make this clean energy source more viable in the future.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Capacitive_method">
+       Capacitive method
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=6" title="Edit section: Capacitive method">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A third method is
+      <a class="new" href="/w/index.php?title=Doriano_Brogioli&amp;action=edit&amp;redlink=1" title="Doriano Brogioli (page does not exist)">
+       Doriano Brogioli
+      </a>
+      's
+      <sup class="reference" id="cite_ref-Brogioli_7-1">
+       <a href="#cite_note-Brogioli-7">
+        [7]
+       </a>
+      </sup>
+      capacitive method, which is relatively new and has so far only been tested on lab scale. With this method energy can be extracted out of the mixing of saline water and freshwater by cyclically charging up
+      <a href="/wiki/Electrode" title="Electrode">
+       electrodes
+      </a>
+      in contact with saline water, followed by a discharge in freshwater. Since the amount of electrical energy which is needed during the charging step is less than one gets out during the discharge step, each completed cycle effectively produces energy. An intuitive explanation of this effect is that the great number of
+      <a href="/wiki/Ion" title="Ion">
+       ions
+      </a>
+      in the saline water efficiently neutralizes the charge on each electrode by forming a thin layer of opposite charge very close to the electrode surface, known as an
+      <a class="mw-redirect" href="/wiki/Double_layer_(interfacial)" title="Double layer (interfacial)">
+       electric double layer
+      </a>
+      . Therefore, the
+      <a href="/wiki/Voltage" title="Voltage">
+       voltage
+      </a>
+      over the electrodes remains low during the charge step and charging is relatively easy. In between the charge and discharge step, the electrodes are brought in contact with freshwater. After this, there are less ions available to neutralize the charge on each electrode such that the voltage over the electrodes increases. The discharge step which follows is therefore able to deliver a relatively high amount of energy. A physical explanation is that on an electrically charged capacitor, there is a mutually attractive
+      <a class="mw-redirect" href="/wiki/Electric_force" title="Electric force">
+       electric force
+      </a>
+      between the
+      <a href="/wiki/Electric_charge" title="Electric charge">
+       electric charge
+      </a>
+      on the electrode, and the ionic charge in the liquid. In order to pull ions away from the charged electrode, osmotic pressure must do
+      <a href="/wiki/Work_(physics)" title="Work (physics)">
+       work
+      </a>
+      . This work done increases the electrical potential energy in the capacitor. An electronic explanation is that
+      <a href="/wiki/Capacitance" title="Capacitance">
+       capacitance
+      </a>
+      is a function of ion density. By introducing a salinity gradient and allowing some of the ions to diffuse out of the capacitor, this reduces the capacitance, and so the voltage must increase, since the voltage equals the ratio of charge to capacitance.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Vapor_pressure_differences:_open_cycle_and_absorption_refrigeration_cycle_.28closed_cycle.29">
+       Vapor pressure differences: open cycle and absorption refrigeration cycle (closed cycle)
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=7" title="Edit section: Vapor pressure differences: open cycle and absorption refrigeration cycle (closed cycle)">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Both of these methods do not rely on membranes, so filtration requirements are not as important as they are in the PRO &amp; RED schemes.
+     </p>
+     <h4>
+      <span class="mw-headline" id="Open_cycle">
+       Open cycle
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=8" title="Edit section: Open cycle">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      Similar to the open cycle in ocean thermal energy conversion (OTEC). The disadvantage of this cycle is the cumbersome problem of a large diameter turbine (75 meters +) operating at below atmospheric pressure to extract the power between the water with less salinity &amp; the water with greater salinity.
+     </p>
+     <h4>
+      <span class="mw-headline" id="Absorption_refrigeration_cycle_.28closed_cycle.29">
+       Absorption refrigeration cycle (closed cycle)
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=9" title="Edit section: Absorption refrigeration cycle (closed cycle)">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      For the purpose of dehumidifying air, in a
+      <a href="/wiki/Absorption_refrigerator#Water_spray_absorption_refrigeration" title="Absorption refrigerator">
+       water-spray absorption refrigeration
+      </a>
+      system, water vapor is dissolved into a
+      <a class="mw-redirect" href="/wiki/Deliquescent" title="Deliquescent">
+       deliquescent
+      </a>
+      salt water mixture using osmotic power as an intermediary. The primary power source originates from a thermal difference, as part of a
+      <a href="/wiki/Thermodynamics" title="Thermodynamics">
+       thermodynamic
+      </a>
+      <a href="/wiki/Heat_engine" title="Heat engine">
+       heat engine
+      </a>
+      cycle.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Solar_pond">
+       Solar pond
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=10" title="Edit section: Solar pond">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      At the Eddy Potash Mine in New Mexico, a technology called "salinity gradient
+      <a href="/wiki/Solar_pond" title="Solar pond">
+       solar pond
+      </a>
+      " (SGSP) is being utilized to provide the energy needed by the mine.
+      <b>
+       This method does not harness osmotic power
+      </b>
+      , only solar power (see:
+      <a href="/wiki/Solar_pond" title="Solar pond">
+       solar pond
+      </a>
+      ). Sunlight reaching the bottom of the saltwater pond is absorbed as heat. The effect of
+      <a href="/wiki/Natural_convection" title="Natural convection">
+       natural convection
+      </a>
+      , wherein "heat rises", is blocked using density differences between the three layers that make up the pond, in order to trap heat. The upper convection zone is the uppermost zone, followed by the stable gradient zone, then the bottom thermal zone. The stable gradient zone is the most important. The saltwater in this layer can not rise to the higher zone because the saltwater above has lower salinity and is therefore less-dense and more buoyant; and it can not sink to the lower level because that saltwater is denser. This middle zone, the stable gradient zone, effectively becomes an "insulator" for the bottom layer (although the main purpose is to block natural convection, since water is a poor insulator). This water from the lower layer, the storage zone, is pumped out and the heat is used to produce energy, usually by turbine in an
+      <a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">
+       organic Rankine cycle
+      </a>
+      .
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In theory a solar pond
+      <i>
+       could
+      </i>
+      be used to generate osmotic power if evaporation from solar heat is used to create a salinity gradient,
+      <i>
+       and
+      </i>
+      the potential energy in this salinity gradient is
+      <i>
+       harnessed directly
+      </i>
+      using one of the first three methods above, such as the capacitive method.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Boron_nitride_nanotubes">
+       Boron nitride nanotubes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=11" title="Edit section: Boron nitride nanotubes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A research team built an experimental system using boron nitride that produced much greater power than the Statoil prototype. It used an impermeable and electrically insulating membrane that was pierced by a single boron nitride nanotube with an external diameter of a few dozen nanometers. With this membrane separating a salt water reservoir and a fresh water reservoir, the team measured the electric current passing through the membrane using two electrodes immersed in the fluid either side of the nanotube.
+     </p>
+     <p>
+      The results showed the device was able to generate an electric current on the order of a nanoampere. The researchers claim this is 1,000 times the yield of other known techniques for harvesting osmotic energy and makes boron nitride nanotubes an extremely efficient solution for harvesting the energy of salinity gradients for usable electrical power.
+     </p>
+     <p>
+      The team claimed that a 1 square metre (11 sq ft) membrane could generate around 4 kW and be capable of generating up to 30 MWh per year.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Possible_negative_environmental_impact">
+       Possible negative environmental impact
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=12" title="Edit section: Possible negative environmental impact">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Marine and river environments have obvious differences in water quality, namely salinity. Each species of aquatic plant and animal is adapted to survive in either marine, brackish, or freshwater environments. There are species that can tolerate both, but these species usually thrive best in a specific water environment. The main waste product of salinity gradient technology is brackish water. The discharge of brackish water into the surrounding waters, if done in large quantities and with any regularity, will cause salinity fluctuations. While some variation in salinity is usual, particularly where fresh water (rivers) empties into an ocean or sea anyway, these variations become less important for both bodies of water with the addition of brackish waste waters. Extreme salinity changes in an aquatic environment may result in findings of low densities of both animals and plants due to intolerance of sudden severe salinity drops or spikes.
+      <sup class="reference" id="cite_ref-Montague_19-0">
+       <a href="#cite_note-Montague-19">
+        [19]
+       </a>
+      </sup>
+      According to the prevailing environmentalist opinions, the possibility of these negative effects should be considered by the operators of future large blue energy establishments.
+     </p>
+     <p>
+      The impact of brackish water on ecosystems can be minimized by pumping it out to sea and releasing it into the mid-layer, away from the surface and bottom ecosystems.
+     </p>
+     <p>
+      Impingement and entrainment at intake structures are a concern due to large volumes of both river and sea water utilized in both PRO and RED schemes. Intake construction permits must meet strict environmental regulations and desalination plants and power plants that utilize surface water are sometimes involved with various local, state and federal agencies to obtain permission that can take upwards to 18 months.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=13" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Wind-turbine-icon.svg">
+          <img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+          Renewable energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+      <ul>
+       <li>
+        <a href="/wiki/Forward_osmosis" title="Forward osmosis">
+         Forward osmosis
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Electrodialysis_reversal" title="Electrodialysis reversal">
+         Electrodialysis reversal
+        </a>
+        (EDR)
+       </li>
+       <li>
+        <a href="/wiki/Reversed_electrodialysis" title="Reversed electrodialysis">
+         Reversed electrodialysis
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">
+         Reverse osmosis
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Semipermeable_membrane" title="Semipermeable membrane">
+         Semipermeable membrane
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Marine_energy" title="Marine energy">
+         Marine energy
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">
+         Green energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Renewable_energy" title="Renewable energy">
+         Renewable energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Fugacity" title="Fugacity">
+         Fugacity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Concentration_cell" title="Concentration cell">
+         Concentration cell
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Solar_Pond" title="Solar Pond">
+         Solar Pond
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=14" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          R.E. Pattle (2 October 1954). "Production of electric power by mixing fresh and salt water in the hydroelectric pile".
+          <i>
+           Nature
+          </i>
+          .
+          <b>
+           174
+          </b>
+          (4431): 660.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1038%2F174660a0" rel="nofollow">
+           10.1038/174660a0
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsmotic+power&amp;rft.atitle=Production+of+electric+power+by+mixing+fresh+and+salt+water+in+the+hydroelectric+pile&amp;rft.au=R.E.+Pattle&amp;rft.date=1954-10-02&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F174660a0&amp;rft.issue=4431&amp;rft.jtitle=Nature&amp;rft.pages=660&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=174">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          S. Loeb (22 August 1975). "Osmotic power plants".
+          <i>
+           Science
+          </i>
+          .
+          <b>
+           189
+          </b>
+          (4203): 654–655.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1126%2Fscience.189.4203.654" rel="nofollow">
+           10.1126/science.189.4203.654
+          </a>
+          .
+          <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">
+           PMID
+          </a>
+          <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17838753" rel="nofollow">
+           17838753
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsmotic+power&amp;rft.atitle=Osmotic+power+plants&amp;rft.au=S.+Loeb&amp;rft.date=1975-08-22&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.189.4203.654&amp;rft_id=info%3Apmid%2F17838753&amp;rft.issue=4203&amp;rft.jtitle=Science&amp;rft.pages=654-655&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=189">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         ^ Israel Patent Application 42658 of July 3, 1973. (see also
+         <span class="citation patent">
+          <a class="external text" href="http://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US3906250" rel="nofollow">
+           US 3906250
+          </a>
+         </span>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=3906250&amp;rft.cc=US&amp;rft.title=">
+          <span style="display: none;">
+          </span>
+         </span>
+         Erroneously shows Israel priority as 1974 instead of 1973
+         <span class="citation patent">
+          <a class="external text" href="http://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US3906250" rel="nofollow">
+           US 3906250
+          </a>
+         </span>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=3906250&amp;rft.cc=US&amp;rft.title=">
+          <span style="display: none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         ^ Weintraub, Bob. "Sidney Loeb," Bulletin of the Israel Chemical Society, Dec. 2001, issue 8, page 8-9.
+         <a class="external free" href="https://drive.google.com/file/d/1hpgY6dd0Qtb4M6xnNXhutP4pMxidq_jqG962VzWt_W7-hssGnSxSzjTY8RvW/edit" rel="nofollow">
+          https://drive.google.com/file/d/1hpgY6dd0Qtb4M6xnNXhutP4pMxidq_jqG962VzWt_W7-hssGnSxSzjTY8RvW/edit
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="https://www.google.com/patents/US4171409?dq=4,171,409&amp;hl=en&amp;sa=X&amp;ei=sVRiUoX1N8bA0QXm6YGIDA&amp;ved=0CDcQ6AEwAA%20" rel="nofollow">
+          United States Patent US4171409
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://web.archive.org/web/*/www.statkraft.com/Images/Faktaark%20OSMOTIC%20ENG_tcm4-7797.pdf" rel="nofollow">
+          History of osmotic power (PDF) at archive.org
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-Brogioli-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Brogioli_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Brogioli_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         D. Brogioli,
+         <i>
+          <a class="external text" href="http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=PRLTAO000103000005058501000001&amp;idtype=cvips&amp;gifs=Yes" rel="nofollow">
+           Extracting renewable energy from a salinity difference using a capacitor
+          </a>
+         </i>
+         , Phys. Rev. Lett.
+         <b>
+          103
+         </b>
+         058501-1-4 (2009).
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         M. Olsson, G. L. Wick and J. D. Isaacs,
+         <i>
+          <a class="external text" href="http://www.sciencemag.org/cgi/content/abstract/206/4417/452" rel="nofollow">
+           Salinity Gradient Power: utilizing vapour pressure differences
+          </a>
+         </i>
+         , Science
+         <b>
+          206
+         </b>
+         452--454 (1979)
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         (Jones, A.T., W. Finley. “Recent developments in salinity gradient power”. Oceans. 2003. 2284-2287.)
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         (Brauns, E. “Toward a worldwide sustainable and simultaneous large-scale production of renewable energy and potable water trough salinity gradient power by combining reversed electrodialysis and solar power?” Environmental Process and Technology. Jan 2007. 312-323.)
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         (Brauns, E. “Toward a worldwide sustainable and simultaneous large-scale production of renewable energy and potable water through salinity gradient power by combining reversed electrodialysis and solar power?.”
+         <i>
+          Environmental Process and Technology
+         </i>
+         . Jan 2007. 312-323.)
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://pubs.acs.org/doi/abs/10.1021/es300060m" rel="nofollow">
+          [1]
+         </a>
+         Thermodynamic and Energy Efficiency Analysis of Power Generation from Natural Salinity Gradients by Pressure Retarded Osmosis
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6TGK-4MDGP8H-1&amp;_user=607017&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_version=1&amp;_urlVersion=0&amp;_userid=607017&amp;md5=acc4682fd086886dff4b0cb1ee6123df" rel="nofollow">
+          Salinity-gradient power: Evaluation of pressure-retarded osmosis and reverse electrodialysis
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://waderllc.com/2284-2287.pdf" rel="nofollow">
+          Recent Developments in Salinity Gradient Power
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.gizmag.com/statkraft-osmotic-power/13451/" rel="nofollow">
+          [2]
+         </a>
+         Statkraft-osmotic-power
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://news.bbc.co.uk/1/hi/world/europe/8377186.stm" rel="nofollow">
+          BBC News Norway's Statkraft opens first osmotic power plant
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.osti.gov/bridge/servlets/purl/756432-k7Q3X9/webviewable/756432.pdf" rel="nofollow">
+          Salinity Gradient Solar Pond Technology Applied to Potash Solution Mining
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.gizmag.com/osmotic-salinity-gradient-power-nanotubes/26623/?utm_source=Gizmag+Subscribers&amp;utm_campaign=43f9f1d042-UA-2235360-4&amp;utm_medium=email" rel="nofollow">
+           "Nanotubes boost potential of salinity power as a renewable energy source"
+          </a>
+          . Gizmag.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-03-15
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsmotic+power&amp;rft.btitle=Nanotubes+boost+potential+of+salinity+power+as+a+renewable+energy+source&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gizmag.com%2Fosmotic-salinity-gradient-power-nanotubes%2F26623%2F%3Futm_source%3DGizmag%2BSubscribers%26utm_campaign%3D43f9f1d042-UA-2235360-4%26utm_medium%3Demail&amp;rft.pub=Gizmag.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Montague-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Montague_19-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Montague, C., Ley, J. A Possible Effect of Salinity Fluctuation on Abundance of Benthic Vegetation and Associated Fauna in Northeastern Florida Bay. Estuaries and Coasts. 1993. Springer New York. Vol.15 No. 4. Pg. 703-717
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Osmotic_power&amp;action=edit&amp;section=15" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.euronews.net/2009/12/10/dutch-water-plan-to-turn-green-energy-blue/" rel="nofollow">
+        Dutch water plan to turn green energy blue
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://climatetechwiki.org/technology/jiqweb-ro" rel="nofollow">
+        ClimateTechWiki: Ocean Energy: Salinity gradient for electricity generation
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Ocean_energy" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Ocean_energy" title="Template:Ocean energy">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Ocean_energy" title="Template talk:Ocean energy">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean_energy&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Ocean_energy" style="font-size:114%">
+          <a class="mw-redirect" href="/wiki/Ocean_energy" title="Ocean energy">
+           Ocean energy
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Wave_power" title="Wave power">
+          Wave power
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Wave_power_in_Australia" title="Wave power in Australia">
+             Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ocean_power_in_New_Zealand" title="Ocean power in New Zealand">
+             New Zealand
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Tidal_power_conceptual_barrage.jpg" title="Tidal power conceptual barrage">
+           <img alt="Tidal power conceptual barrage" data-file-height="400" data-file-width="500" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/120px-Tidal_power_conceptual_barrage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/180px-Tidal_power_conceptual_barrage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tidal_power_conceptual_barrage.jpg/240px-Tidal_power_conceptual_barrage.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Tidal_power" title="Tidal power">
+          Tidal power
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ocean_power_in_New_Zealand" title="Ocean power in New Zealand">
+             New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Annapolis_Royal_Generating_Station" title="Annapolis Royal Generating Station">
+             Annapolis Royal Generating Station
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Other
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Marine_current_power" title="Marine current power">
+             Marine current power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Offshore_construction" title="Offshore construction">
+             Offshore construction
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">
+             Ocean thermal energy conversion
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Osmotic power
+            </strong>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Pelamis_wave_energy_converter" title="Pelamis wave energy converter">
+             Pelamis wave energy converter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/SDE_Sea_Waves_Power_Plant" title="SDE Sea Waves Power Plant">
+             SDE Sea Waves Power Plant
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">
+             Wind power
+            </a>
+            (offshore)
+           </li>
+           <li>
+            <a href="/wiki/Wave_farm" title="Wave farm">
+             Wave farm
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Ocean_energy" title="Category:Ocean energy">
+             Ocean energy
+            </a>
+           </li>
+           <li>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <b>
+             Portals:
+            </b>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Fuel_cells" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Fuel_cells" title="Template:Fuel cells">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Fuel_cells" title="Template talk:Fuel cells">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fuel_cells&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Fuel_cells" style="font-size:114%">
+          <a href="/wiki/Fuel_cell" title="Fuel cell">
+           Fuel cells
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         By electrolyte
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Alkaline_fuel_cell" title="Alkaline fuel cell">
+             Alkaline fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">
+             Molten carbonate fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Phosphoric_acid_fuel_cell" title="Phosphoric acid fuel cell">
+             Phosphoric acid fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Proton_exchange_membrane_fuel_cell" title="Proton exchange membrane fuel cell">
+             Proton exchange membrane fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">
+             Solid oxide fuel cell
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         By fuel
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Direct-ethanol_fuel_cell" title="Direct-ethanol fuel cell">
+             Direct-ethanol fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Direct_methanol_fuel_cell" title="Direct methanol fuel cell">
+             Direct methanol fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Formic_acid_fuel_cell" title="Formic acid fuel cell">
+             Formic acid fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reformed_methanol_fuel_cell" title="Reformed methanol fuel cell">
+             Reformed methanol fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zinc%E2%80%93air_battery" title="Zinc–air battery">
+             Zinc-air battery
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Biofuel cells
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Enzymatic_biofuel_cell" title="Enzymatic biofuel cell">
+             Enzymatic biofuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">
+             Microbial fuel cell
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Others
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <strong class="selflink">
+             Blue energy
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Direct_borohydride_fuel_cell" title="Direct borohydride fuel cell">
+             Direct borohydride fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Direct_carbon_fuel_cell" title="Direct carbon fuel cell">
+             Direct carbon fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electro-galvanic_fuel_cell" title="Electro-galvanic fuel cell">
+             Electro-galvanic fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Flow_battery" title="Flow battery">
+             Flow battery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Membraneless_Fuel_Cells" title="Membraneless Fuel Cells">
+             Membraneless Fuel Cells
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Metal_hydride_fuel_cell" title="Metal hydride fuel cell">
+             Metal hydride fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Photoelectrochemical_cell" title="Photoelectrochemical cell">
+             Photoelectrochemical cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Protonic_ceramic_fuel_cell" title="Protonic ceramic fuel cell">
+             Protonic ceramic fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Regenerative_fuel_cell" title="Regenerative fuel cell">
+             Regenerative fuel cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solid_oxide_electrolyser_cell" title="Solid oxide electrolyser cell">
+             Solid oxide electrolyser cell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Unitized_regenerative_fuel_cell" title="Unitized regenerative fuel cell">
+             Unitized regenerative fuel cell
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Hydrogen" title="Hydrogen">
+          Hydrogen
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Hydrogen_economy" title="Hydrogen economy">
+             Economy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hydrogen_storage" title="Hydrogen storage">
+             Storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hydrogen_station" title="Hydrogen station">
+             Station
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hydrogen_vehicle" title="Hydrogen vehicle">
+             Vehicle
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <a href="/wiki/Glossary_of_fuel_cell_terms" title="Glossary of fuel cell terms">
+             Glossary
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:4711003-0!*!0!!en!4!* and timestamp 20161015161502 and revision id 704672808
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Osmotic_power&amp;oldid=704672808">
+      https://en.wikipedia.org/w/index.php?title=Osmotic_power&amp;oldid=704672808
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Fuel_cells" title="Category:Fuel cells">
+         Fuel cells
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">
+         Sustainable technologies
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Alternative_energy" title="Category:Alternative energy">
+         Alternative energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">
+         Energy conversion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_power" title="Category:Water power">
+         Water power
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Membrane_technology" title="Category:Membrane technology">
+         Membrane technology
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Osmotic+power" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Osmotic+power" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Osmotic_power" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Osmotic_power" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Osmotic_power">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Osmotic_power&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Osmotic_power&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Osmotic_power" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Osmotic_power" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Osmotic_power&amp;oldid=704672808" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Osmotic_power&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q786486" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Osmotic_power&amp;id=704672808" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Osmotic+power">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Osmotic+power&amp;returnto=Osmotic+power&amp;oldid=704672808&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Osmotic_power&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Osmotic_power" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D8%A5%D8%B3%D9%85%D9%88%D8%B2%D9%8A%D8%A9" hreflang="ar" lang="ar" title="طاقة إسموزية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Осмотическа енергия – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Saltkraft" hreflang="da" lang="da" title="Saltkraft – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Osmosekraftwerk" hreflang="de" lang="de" title="Osmosekraftwerk – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A9%CF%83%CE%BC%CF%89%CF%84%CE%B9%CE%BA%CE%AE_%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1" hreflang="el" lang="el" title="Ωσμωτική ενέργεια – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Energ%C3%ADa_azul" hreflang="es" lang="es" title="Energía azul – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D9%86_%D8%A7%D8%B3%D9%85%D8%B2%DB%8C" hreflang="fa" lang="fa" title="توان اسمزی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_osmotique" hreflang="fr" lang="fr" title="Énergie osmotique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Enerx%C3%ADa_azul" hreflang="gl" lang="gl" title="Enerxía azul – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Dobivanje_energije_osmozom" hreflang="hr" lang="hr" title="Dobivanje energije osmozom – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Sumber_energi_osmosis_air" hreflang="id" lang="id" title="Sumber energi osmosis air – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Energia_a_gradiente_salino" hreflang="it" lang="it" title="Energia a gradiente salino – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Blauwe_energie" hreflang="nl" lang="nl" title="Blauwe energie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%88%86%E6%BF%83%E5%BA%A6%E5%B7%AE%E7%99%BA%E9%9B%BB" hreflang="ja" lang="ja" title="塩分濃度差発電 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Saltkraft" hreflang="no" lang="no" title="Saltkraft – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Saltenergi" hreflang="nn" lang="nn" title="Saltenergi – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Energia_azul" hreflang="pt" lang="pt" title="Energia azul – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Energie_poten%C8%9Bial%C4%83_osmotic%C4%83" hreflang="ro" lang="ro" title="Energie potențială osmotică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Осмотическая электростанция – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Osmoosivoima" hreflang="fi" lang="fi" title="Osmoosivoima – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Saltkraft" hreflang="sv" lang="sv" title="Saltkraft – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D0%BC%D0%BE%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Осмотична електростанція – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E6%B0%B4%E9%B9%BD%E5%B7%AE%E8%83%BD" hreflang="zh" lang="zh" title="海水鹽差能 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q786486#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 12 February 2016, at 21:55.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Osmotic_power&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.184",
+            "walltime": "0.226",
+            "ppvisitednodes": {
+                "value": 1102,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 34633,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1406,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 13,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  173.147      1 -total",
+                " 41.10%   71.163      1 Template:Reflist",
+                " 18.13%   31.385      2 Template:Cite_journal",
+                " 15.62%   27.038      1 Template:Convert",
+                " 11.59%   20.070      2 Template:Patent",
+                " 11.46%   19.843      1 Template:Redirect",
+                "  8.88%   15.384      2 Template:Navbox",
+                "  7.93%   13.732      1 Template:Ocean_energy",
+                "  7.46%   12.909      2 Template:Cite_patent",
+                "  6.04%   10.465      1 Template:Portal"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.063",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4033612,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1209",
+            "timestamp": "20161015161502",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1247"});});
+  </script>
+ </body>
+</html>

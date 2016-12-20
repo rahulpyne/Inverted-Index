@@ -1,0 +1,3074 @@
+https://en.wikipedia.org/wiki/Resource_depletion
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Resource depletion - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Resource_depletion","wgTitle":"Resource depletion","wgCurRevisionId":747545041,"wgRevisionId":747545041,"wgArticleId":155961,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Articles needing additional references from December 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2015","Resource economics","Environmental issues","Peak resource production"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Resource_depletion","wgRelevantArticleId":155961,"wgRequestId":"WB0jWQpAAEUAAdbaJBEAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3737914","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Resource_depletion" rel="alternate"/>
+  <link href="/w/index.php?title=Resource_depletion&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Resource_depletion&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Resource_depletion" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Resource_depletion rootpage-Resource_depletion skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Resource depletion
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      For other uses, see
+      <a class="mw-disambig" href="/wiki/Depletion" title="Depletion">
+       Depletion
+      </a>
+      .
+     </div>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wiktionary-logo-v2.svg">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" width="40"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Look up
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wiktionary.org/wiki/Depletion" title="wiktionary:Depletion">
+           Depletion
+          </a>
+         </b>
+        </i>
+        in Wiktionary, the free dictionary.
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Resource depletion
+      </b>
+      is the consumption of a resource faster than it can be replenished.
+      <a href="/wiki/Natural_resource" title="Natural resource">
+       Natural resources
+      </a>
+      are commonly divided between
+      <a href="/wiki/Renewable_resource" title="Renewable resource">
+       renewable resources
+      </a>
+      and
+      <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">
+       non-renewable resources
+      </a>
+      (see also
+      <a href="/wiki/Mineral_resource_classification" title="Mineral resource classification">
+       mineral resource classification
+      </a>
+      ). Use of either of these forms of resources beyond their rate of replacement is considered to be resource depletion.
+     </p>
+     <p>
+      Resource depletion is most commonly used in reference to
+      <a href="/wiki/Farm" title="Farm">
+       farming
+      </a>
+      ,
+      <a href="/wiki/Fishing" title="Fishing">
+       fishing
+      </a>
+      ,
+      <a href="/wiki/Mining" title="Mining">
+       mining
+      </a>
+      ,
+      <a href="/wiki/Water" title="Water">
+       water
+      </a>
+      usage, and consumption of
+      <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+       fossil fuels
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Causes">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Causes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Minerals">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Minerals
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Oil">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Oil
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Deforestation">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Deforestation
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Causes_2">
+           <span class="tocnumber">
+            4.1
+           </span>
+           <span class="toctext">
+            Causes
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Environmental_impact">
+           <span class="tocnumber">
+            4.2
+           </span>
+           <span class="toctext">
+            Environmental impact
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Controlling_deforestation">
+           <span class="tocnumber">
+            4.3
+           </span>
+           <span class="toctext">
+            Controlling deforestation
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Wetlands">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Wetlands
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Causes">
+       Causes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=1" title="Edit section: Causes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Aquifer" title="Aquifer">
+        Aquifer
+       </a>
+       depletion
+      </li>
+      <li>
+       <a href="/wiki/Habitat_destruction" title="Habitat destruction">
+        Habitat degradation
+       </a>
+       leads to the loss of
+       <a href="/wiki/Biodiversity" title="Biodiversity">
+        biodiversity
+       </a>
+       (i.e.
+       <a href="/wiki/Species" title="Species">
+        species
+       </a>
+       and
+       <a href="/wiki/Ecosystem" title="Ecosystem">
+        ecosystems
+       </a>
+       with its
+       <a href="/wiki/Ecosystem_services" title="Ecosystem services">
+        ecosystem services
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Irrigation" title="Irrigation">
+        Irrigation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Mining" title="Mining">
+        Mining
+       </a>
+       for fossil fuels and minerals
+      </li>
+      <li>
+       <a href="/wiki/Overconsumption" title="Overconsumption">
+        Overconsumption
+       </a>
+       , excessive or unnecessary use of resources
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Overpopulation_(biology)" title="Overpopulation (biology)">
+        Overpopulation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Pollution" title="Pollution">
+        Pollution
+       </a>
+       or contamination of resources
+      </li>
+      <li>
+       <a href="/wiki/Slash-and-burn" title="Slash-and-burn">
+        Slash-and-burn
+       </a>
+       agricultural practices, currently occurring in many
+       <a href="/wiki/Developing_country" title="Developing country">
+        developing countries
+       </a>
+      </li>
+      <li>
+       Soil
+       <a href="/wiki/Erosion" title="Erosion">
+        erosion
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Technology" title="Technology">
+        Technological
+       </a>
+       and
+       <a href="/wiki/Industry" title="Industry">
+        industrial
+       </a>
+       development
+      </li>
+      <li>
+       Deforestation
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Minerals">
+       Minerals
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=2" title="Edit section: Minerals">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Peak_minerals" title="Peak minerals">
+       Peak minerals
+      </a>
+     </div>
+     <p>
+      Minerals are needed to provide food, clothing, and housing. A
+      <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">
+       United States Geological Survey
+      </a>
+      (USGS) study found a significant long-term trend over the 20th century for non-renewable resources such as minerals to supply a greater proportion of the raw material inputs to the non-fuel, non-food sector of the economy; an example is the greater consumption of crushed stone, sand, and gravel used in construction.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Large-scale exploitation of minerals began in the
+      <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">
+       Industrial Revolution
+      </a>
+      around 1760 in
+      <a href="/wiki/England" title="England">
+       England
+      </a>
+      and has grown rapidly ever since. Technological improvements have allowed humans to dig deeper and access lower grades and different types of ore over that time.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-:0_4-0">
+       <a href="#cite_note-:0-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-:1_5-0">
+       <a href="#cite_note-:1-5">
+        [5]
+       </a>
+      </sup>
+      Virtually all basic industrial metals (copper, iron, bauxite, etc.), as well as
+      <a href="/wiki/Rare_earth_mineral" title="Rare earth mineral">
+       rare earth minerals
+      </a>
+      , face production output limitations from time to time,
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      because supply involves large up-front investments and is therefore slow to respond to rapid increases in demand.
+      <sup class="reference" id="cite_ref-:0_4-1">
+       <a href="#cite_note-:0-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Minerals projected by some to enter production decline during the next 20 years:
+     </p>
+     <ul>
+      <li>
+       Gas (2023)
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Copper (2024).
+       <sup class="reference" id="cite_ref-sciencedirect.com_8-0">
+        <a href="#cite_note-sciencedirect.com-8">
+         [8]
+        </a>
+       </sup>
+       Data from the United States Geological Survey (USGS) suggest that it is very unlikely that copper production will peak before 2040.
+       <sup class="reference" id="cite_ref-:1_5-1">
+        <a href="#cite_note-:1-5">
+         [5]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Zinc.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       New developments in hydrometallurgy have transformed non-sulphide zinc deposits (largely ignored until now) into large low cost reserves.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      Minerals projected by some to enter production decline during the present century:
+     </p>
+     <ul>
+      <li>
+       Aluminium (2057)
+       <sup class="reference" id="cite_ref-sciencedirect.com_8-1">
+        <a href="#cite_note-sciencedirect.com-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Coal (2060)
+       <sup class="reference" id="cite_ref-sciencedirect.com_8-2">
+        <a href="#cite_note-sciencedirect.com-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+      <li>
+       Iron (2068).
+       <sup class="reference" id="cite_ref-sciencedirect.com_8-3">
+        <a href="#cite_note-sciencedirect.com-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      Such projections may change, as new discoveries are made
+      <sup class="reference" id="cite_ref-sciencedirect.com_8-4">
+       <a href="#cite_note-sciencedirect.com-8">
+        [8]
+       </a>
+      </sup>
+      and typically misinterpret available data on Mineral Resources and Mineral Reserves.
+      <sup class="reference" id="cite_ref-:0_4-2">
+       <a href="#cite_note-:0-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-:1_5-2">
+       <a href="#cite_note-:1-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Oil">
+       Oil
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=3" title="Edit section: Oil">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main articles:
+      <a href="/wiki/Oil_depletion" title="Oil depletion">
+       Oil depletion
+      </a>
+      and
+      <a href="/wiki/Peak_oil" title="Peak oil">
+       Peak oil
+      </a>
+     </div>
+     <p>
+      <a href="/wiki/Peak_oil" title="Peak oil">
+       Peak oil
+      </a>
+      is the period when the maximum rate of global
+      <a href="/wiki/Petroleum" title="Petroleum">
+       petroleum
+      </a>
+      <a href="/wiki/Extraction_of_petroleum" title="Extraction of petroleum">
+       extraction
+      </a>
+      is reached, after which the rate of production enters terminal decline. It relates to a long-term decline in the available supply of petroleum. This, combined with increasing demand, will significantly increase the worldwide prices of petroleum derived products. Most significant will be the availability and price of liquid fuel for transportation.
+     </p>
+     <p>
+      The
+      <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+       United States Department of Energy
+      </a>
+      in the
+      <a href="/wiki/Hirsch_report" title="Hirsch report">
+       Hirsch report
+      </a>
+      indicates that “The peaking of world oil production presents the U. S. and the world with an unprecedented risk management problem. As peaking is approached, liquid fuel prices and price volatility will increase dramatically, and, without timely mitigation, the economic, social, and political costs will be unprecedented. Viable mitigation options exist on both the supply and demand sides, but to have substantial impact, they must be initiated more than a decade in advance of peaking.”
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Deforestation">
+       Deforestation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=4" title="Edit section: Deforestation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Deforestation" title="Deforestation">
+       Deforestation
+      </a>
+     </div>
+     <p>
+      <a href="/wiki/Deforestation" title="Deforestation">
+       Deforestation
+      </a>
+      is the clearing of forests by logging or burning of trees and plants in a forested area. As a result of deforestation, presently about one half of the forests that once covered
+      <a href="/wiki/Earth" title="Earth">
+       Earth
+      </a>
+      have been destroyed.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      It occurs for many different reasons, and it has several negative implications on the atmosphere and the quality of the land in and surrounding the forest.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Causes_2">
+       Causes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=5" title="Edit section: Causes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      One of the main causes of deforestation is clearing forests for agricultural reasons. As the population of developing areas, especially near rainforests, increases, the need for land for farming becomes more and more important.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      For most people, a forest has no value when its resources aren’t being used, so the incentives to deforest these areas outweigh the incentives to preserve the forests. For this reason, the economic value of the forests is very important for the developing countries.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Environmental_impact">
+       Environmental impact
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=6" title="Edit section: Environmental impact">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Because deforestation is so extensive, it has made several significant impacts on the environment, including carbon dioxide in the atmosphere, changing the water cycle, an increase in soil erosion, and a decrease in biodiversity.
+      <a class="mw-redirect" href="/wiki/Deforestation_and_global_warming" title="Deforestation and global warming">
+       Deforestation is often cited as a cause of global warming
+      </a>
+      . Because trees and plants remove carbon dioxide and emit oxygen into the atmosphere, the reduction of forests contribute to about 12% of anthropogenic carbon dioxide emissions.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      One of the most pressing issues that deforestation creates is soil erosion. The removal of trees causes higher rates of erosion, increasing risks of landslides, which is a direct threat to many people living close to deforested areas. As forests get destroyed, so does the habitat for millions of animals. It is estimated that 80% of the world’s known biodiversity lives in the rainforests, and the destruction of these rainforests is accelerating extinction at an alarming rate.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Controlling_deforestation">
+       Controlling deforestation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=7" title="Edit section: Controlling deforestation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The
+      <a href="/wiki/United_Nations" title="United Nations">
+       United Nations
+      </a>
+      and the
+      <a href="/wiki/World_Bank" title="World Bank">
+       World Bank
+      </a>
+      created programs such as
+      <a class="mw-redirect" href="/wiki/Reducing_Emissions_from_Deforestation_and_Forest_Degradation" title="Reducing Emissions from Deforestation and Forest Degradation">
+       Reducing Emissions from Deforestation and Forest Degradation
+      </a>
+      (REDD), which works especially with developing countries to use subsidies or other incentives to encourage citizens to use the forest in a more sustainable way.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      In addition to making sure that emissions from deforestation are kept to a minimum, an effort to educate people on sustainability and helping them to focus on the long-term risks is key to the success of these programs.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/New_York_Declaration_on_Forests" title="New York Declaration on Forests">
+       New York Declaration on Forests
+      </a>
+      and its associated actions promotes reforestation, which is being encouraged in many countries in an attempt to repair the damage that deforestation has done.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Wetlands">
+       Wetlands
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=8" title="Edit section: Wetlands">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Wetland" title="Wetland">
+       Wetland
+      </a>
+     </div>
+     <table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This section
+         <b>
+          does not
+          <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+           cite
+          </a>
+          any
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           sources
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help improve this section by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and
+          <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">
+           removed
+          </a>
+          .
+         </span>
+         <small>
+          <i>
+           (December 2011)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <a href="/wiki/Wetland" title="Wetland">
+       Wetlands
+      </a>
+      are areas that are often saturated by enough
+      <a href="/wiki/Surface_water" title="Surface water">
+       surface
+      </a>
+      or
+      <a href="/wiki/Groundwater" title="Groundwater">
+       groundwater
+      </a>
+      to sustain vegetation that is usually adapted to saturated soil conditions, such as cattails, bulrushes, red maples, wild rice, blackberries, cranberries, and peat moss. Because some varieties of wetlands are rich in minerals and nutrients and provide many of the advantages of both land and water environments they contain diverse species and possibly even form a food chain. When human activities take away resources many species are affected. An ecosystem contains many species.
+     </p>
+     <p>
+      Years ago people assumed wetlands were useless so it was not a large concern when they were being dug up. Many people want to use them for developing homes etc. On the other side of the argument, people believe that the wetlands are a vital source for other life forms and a part of the life cycle.
+     </p>
+     <p>
+      Wetlands provide services for:
+     </p>
+     <ol>
+      <li>
+       Food and habitat
+      </li>
+      <li>
+       Improving water quality
+      </li>
+      <li>
+       Commercial fishing
+      </li>
+      <li>
+       Floodwater reduction
+      </li>
+      <li>
+       Shoreline stabilization
+      </li>
+      <li>
+       Recreation
+      </li>
+     </ol>
+     <p>
+      Some loss of wetlands resulted from natural causes such as erosion, sedimentation (the buildup of soil by the settling of fine particles over a long period of time), subsidence (the sinking of land because of diminishing underground water supplies), and a rise in the sea level.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (February 2015)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=9" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Holocene_extinction" title="Holocene extinction">
+        Holocene extinction
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Overexploitation" title="Overexploitation">
+        Overexploitation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Overfishing" title="Overfishing">
+        Overfishing
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_coal" title="Peak coal">
+        Peak coal
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_copper" title="Peak copper">
+        Peak copper
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_gas" title="Peak gas">
+        Peak gas
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_gold" title="Peak gold">
+        Peak gold
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_minerals" title="Peak minerals">
+        Peak minerals
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_phosphorus" title="Peak phosphorus">
+        Peak phosphorus
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_uranium" title="Peak uranium">
+        Peak uranium
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_water" title="Peak water">
+        Peak water
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Peak_wheat" title="Peak wheat">
+        Peak wheat
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Planetary_boundaries" title="Planetary boundaries">
+        Planetary boundaries
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Resource_depletion&amp;action=edit&amp;section=10" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.libraryindex.com/pages/103/Depletion-Conservation-Natural-Resources.html" rel="nofollow">
+          Depletion and Conservation of Natural Resources: The Economic Value of the World's Ecosystems — How Much is Nature Worth? The Role of Forests and Habitat
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <i>
+          Materials Flow and Sustainability
+         </i>
+         , US Geological Survey, Fact Sheet FS-068-98, June 1998.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          West, J (2011). "Decreasing metal ore grades: are they really being driven by the depletion of high-grade deposits?".
+          <i>
+           J Ind Ecol
+          </i>
+          .
+          <b>
+           15
+          </b>
+          (2): 165–168.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1111%2Fj.1530-9290.2011.00334.x" rel="nofollow">
+           10.1111/j.1530-9290.2011.00334.x
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=Decreasing+metal+ore+grades%3A+are+they+really+being+driven+by+the+depletion+of+high-grade+deposits%3F&amp;rft.aufirst=J&amp;rft.aulast=West&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1530-9290.2011.00334.x&amp;rft.issue=2&amp;rft.jtitle=J+Ind+Ecol&amp;rft.pages=165-168&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-:0-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-:0_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-:0_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-:0_4-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Drielsma, Johannes A; Russell-Vaccari, Andrea J; Drnek, Thomas; Brady, Tom; Weihed, Pär; Mistry, Mark; Perez Simbor, Laia (2016). "Mineral resources in life cycle impact assessment—defining the path forward".
+          <i>
+           Int J Life Cycle Assess
+          </i>
+          .
+          <b>
+           21
+          </b>
+          (1): 85–105.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1007%2Fs11367-015-0991-7" rel="nofollow">
+           10.1007/s11367-015-0991-7
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=Mineral+resources+in+life+cycle+impact+assessment%94defining+the+path+forward&amp;rft.au=Brady%2C+Tom&amp;rft.au=Drnek%2C+Thomas&amp;rft.aufirst=Johannes+A&amp;rft.aulast=Drielsma&amp;rft.au=Mistry%2C+Mark&amp;rft.au=Perez+Simbor%2C+Laia&amp;rft.au=Russell-Vaccari%2C+Andrea+J&amp;rft.au=Weihed%2C+P%C3%A4r&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs11367-015-0991-7&amp;rft.issue=1&amp;rft.jtitle=Int+J+Life+Cycle+Assess&amp;rft.pages=85-105&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-:1-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-:1_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-:1_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-:1_5-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Meinert, Lawrence D; Robinson, Gilpin R Jr; Nassar, Nedal T (2016). "Mineral Resources: Reserves, Peak Production and the Future".
+          <i>
+           resources
+          </i>
+          .
+          <b>
+           5
+          </b>
+          (14).
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.3390%2Fresources5010014" rel="nofollow">
+           10.3390/resources5010014
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=Mineral+Resources%3A+Reserves%2C+Peak+Production+and+the+Future&amp;rft.aufirst=Lawrence+D&amp;rft.aulast=Meinert&amp;rft.au=Nassar%2C+Nedal+T&amp;rft.au=Robinson%2C+Gilpin+R+Jr&amp;rft.date=2016&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3390%2Fresources5010014&amp;rft.issue=14&amp;rft.jtitle=resources&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Klare, M. T. (2012).
+          <i>
+           The Race for What’s Left
+          </i>
+          . Metropolitan Books.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9781250023971" title="Special:BookSources/9781250023971">
+           9781250023971
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.aufirst=M.+T.&amp;rft.aulast=Klare&amp;rft.btitle=The+Race+for+What%99s+Left&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=9781250023971&amp;rft.pub=Metropolitan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Valero &amp; Valero(2010)による『Physical geonomics: Combining the exergy and Hubbert peak analysis for predicting mineral resources depletion』から
+        </span>
+       </li>
+       <li id="cite_note-sciencedirect.com-8">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-sciencedirect.com_8-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_8-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_8-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_8-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_8-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0921344910000510" rel="nofollow">
+          Physical geonomics: Combining the exergy and Hubbert peak analysis for predicting mineral resources depletion
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.roperld.com/science/minerals/zinc.htm" rel="nofollow">
+          Zinc Depletion
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Jenkin, G. R. T.; Lusty, P. A. J.; McDonald, I; Smith, M. P.; Boyce, A. J.; Wilkinson, J. J. (2014).
+          <a class="external text" href="http://dx.doi.org/10.1144/SP393.13" rel="nofollow">
+           <i>
+            Ore Deposits in an Evolving Earth
+           </i>
+          </a>
+          . London: Geological Society, London, Special Publications.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.au=Boyce%2C+A.+J.&amp;rft.aufirst=G.+R.+T.&amp;rft.aulast=Jenkin&amp;rft.au=Lusty%2C+P.+A.+J.&amp;rft.au=McDonald%2C+I&amp;rft.au=Smith%2C+M.+P.&amp;rft.au=Wilkinson%2C+J.+J.&amp;rft.btitle=Ore+Deposits+in+an+Evolving+Earth&amp;rft.date=2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1144%2FSP393.13&amp;rft.place=London&amp;rft.pub=Geological+Society%2C+London%2C+Special+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Hitzman, M. W.; Reynolds, N. A.; Sangster, D. F.; Allen, C. R.; Carman, C. F. (2003). "Classification, genesis, and exploration guides for Nonsulfide Zinc deposits".
+          <i>
+           Economic Geology
+          </i>
+          (98): 685–714.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=Classification%2C+genesis%2C+and+exploration+guides+for+Nonsulfide+Zinc+deposits&amp;rft.au=Allen%2C+C.+R.&amp;rft.au=Carman%2C+C.+F.&amp;rft.aufirst=M.+W.&amp;rft.aulast=Hitzman&amp;rft.au=Reynolds%2C+N.+A.&amp;rft.au=Sangster%2C+D.+F.&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issue=98&amp;rft.jtitle=Economic+Geology&amp;rft.pages=685-714&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.netl.doe.gov/publications/others/pdf/Oil_Peaking_NETL.pdf" rel="nofollow">
+          DOE Hirsch Report
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         "Global Deforestation". Global Change Curriculum. University of Michigan Global Change Program. January 4, 2006
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Butler, Rhett A. "Impact of Population and Poverty on Rainforests". Mongabay.com / A Place Out of Time: Tropical Rainforests and the Perils They Face. Retrieved May 13, 2009.
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Pearce, David W (2001). "The Economic Value of Forest Ecosystems".
+          <i>
+           Ecosystem Health
+          </i>
+          .
+          <b>
+           7
+          </b>
+          (4): 284–296.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1046%2Fj.1526-0992.2001.01037.x" rel="nofollow">
+           10.1046/j.1526-0992.2001.01037.x
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=The+Economic+Value+of+Forest+Ecosystems&amp;rft.aufirst=David+W&amp;rft.aulast=Pearce&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1046%2Fj.1526-0992.2001.01037.x&amp;rft.issue=4&amp;rft.jtitle=Ecosystem+Health&amp;rft.pages=284-296&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         G. R. van der Werf, D. C. Morton, R. S. DeFries, J. G. J. Olivier, P. S. Kasibhatla, R. B. Jackson, G. J. Collatz and J .T. Randerson, CO2 emissions from forest loss,
+         <i>
+          Nature Geoscience
+         </i>
+         , Volume 2 (November 2009) pp. 737–738
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.actionbioscience.org/environment/nilsson.html" rel="nofollow">
+          Do We Have Enough Forests? By Sten Nilsson
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         "Copenhagen Accord of 18 December 2009". UNFCC. 2009. Retrieved 2009-12-28.
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Diamond, Jared
+         <i>
+          Collapse: How Societies Choose To Fail or Succeed
+         </i>
+         ; Viking Press 2004, pages 301–302
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Foley, Jonathan A; DeFries, Ruth; Asner, Gregory P; Barford, Carol; et al. (2005). "Global Consequences of Land Use".
+          <i>
+           <a href="/wiki/Science_(journal)" title="Science (journal)">
+            Science
+           </a>
+          </i>
+          .
+          <b>
+           309
+          </b>
+          (5734): 570–574.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1126%2Fscience.1111772" rel="nofollow">
+           10.1126/science.1111772
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResource+depletion&amp;rft.atitle=Global+Consequences+of+Land+Use&amp;rft.au=Asner%2C+Gregory+P&amp;rft.au=Barford%2C+Carol&amp;rft.au=DeFries%2C+Ruth&amp;rft.aufirst=Jonathan+A&amp;rft.aulast=Foley&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1111772&amp;rft.issue=5734&amp;rft.jtitle=Science&amp;rft.pages=570-574&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=309">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="citation-comment" style="display:none; color:#33aa33">
+          CS1 maint: Explicit use of et al. (
+          <a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">
+           link
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <div aria-labelledby="Natural_resources" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Natural_resources" title="Template:Natural resources">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Natural_resources" style="font-size:114%">
+          <a href="/wiki/Natural_resource" title="Natural resource">
+           Natural resources
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">
+          Air
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">
+            <a href="/wiki/Air_pollution" title="Air pollution">
+             Pollution / quality
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">
+                Ambient standards
+                <span style="font-size:90%;">
+                 (USA)
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Air_quality_index" title="Air quality index">
+                Index
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Indoor_air_quality" title="Indoor air quality">
+                Indoor
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">
+                  developing nations
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Air_quality_law" title="Air quality law">
+                Law
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">
+                  Clean Air Act
+                  <span style="font-size:90%;">
+                   (USA)
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Ozone_depletion" title="Ozone depletion">
+                Ozone depletion
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">
+            Emissions
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Airshed" title="Airshed">
+                Airshed
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Emissions_trading" title="Emissions trading">
+                Trading
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">
+                Deforestation (REDD)
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" title="Carson Falls on Mount Kinabalu, Borneo">
+           <img alt="Carson Falls on Mount Kinabalu, Borneo" data-file-height="3456" data-file-width="2592" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" width="100"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Energy" title="Energy">
+          Energy
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Energy_law" title="Energy law">
+             Law
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Energy_resources" title="Energy resources">
+             Resources
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+             Fossil fuels
+            </a>
+            (
+            <a href="/wiki/Peak_oil" title="Peak oil">
+             peak oil
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Geothermal_energy" title="Geothermal energy">
+             Geothermal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nuclear_power" title="Nuclear power">
+             Nuclear
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Solar_energy" title="Solar energy">
+             Solar
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Sunlight" title="Sunlight">
+               sunlight
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Shade_(shadow)" title="Shade (shadow)">
+               shade
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Tidal_power" title="Tidal power">
+             Tidal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wave_power" title="Wave power">
+             Wave
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wind_power" title="Wind power">
+             Wind
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Land" title="Land">
+          Land
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Arable_land" title="Arable land">
+             Arable
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Land_degradation" title="Land degradation">
+             Degradation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Land_law" title="Land law">
+             Law
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Property_law" title="Property law">
+               property
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Land_management" title="Land management">
+             Management
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Habitat_conservation" title="Habitat conservation">
+               habitat conservation
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Mineral" title="Mineral">
+             Minerals
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Mining" title="Mining">
+               mining
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/Mining_law" title="Mining law">
+                 law
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Sand_mining" title="Sand mining">
+                 sand
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="/wiki/Peak_minerals" title="Peak minerals">
+               peak
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Mineral_rights" title="Mineral rights">
+               rights
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Soil" title="Soil">
+             Soil
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Soil_conservation" title="Soil conservation">
+               conservation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Soil_fertility" title="Soil fertility">
+               fertility
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Soil_health" title="Soil health">
+               health
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Soil_resilience" title="Soil resilience">
+               resilience
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Land_use" title="Land use">
+             Use
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Land-use_planning" title="Land-use planning">
+               planning
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Open_space_reserve" title="Open space reserve">
+               reserve
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Life" title="Life">
+          Life
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Biodiversity" title="Biodiversity">
+             Biodiversity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bioprospecting" title="Bioprospecting">
+             Bioprospecting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biosphere" title="Biosphere">
+             Biosphere
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Bushfood" title="Bushfood">
+             Bushfood
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bushmeat" title="Bushmeat">
+             Bushmeat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fishery" title="Fishery">
+             Fisheries
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Fisheries_law" title="Fisheries law">
+               law
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Fisheries_management" title="Fisheries management">
+               management
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Food" title="Food">
+             Food
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Forest" title="Forest">
+             Forests
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">
+               genetic resources
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/Forest_law" title="Forest law">
+               law
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Forest_management" title="Forest management">
+               management
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Game_(food)" title="Game (food)">
+             Game
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Game_law" title="Game law">
+               law
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Gene_bank" title="Gene bank">
+             Gene bank
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">
+             Herbalist plants
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Marine_conservation" title="Marine conservation">
+             Marine conservation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">
+             Non-timber forest products
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rangeland" title="Rangeland">
+             Rangeland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Seed_bank" title="Seed bank">
+             Seed bank
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wildlife" title="Wildlife">
+             Wildlife
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Wildlife_conservation" title="Wildlife conservation">
+               conservation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Wildlife_management" title="Wildlife management">
+               management
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Wood" title="Wood">
+             Wood
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Water" title="Water">
+          Water
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">
+            Types / location
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Aquifer" title="Aquifer">
+                Aquifer
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">
+                  storage and recovery
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Drinking_water" title="Drinking water">
+                Drinking
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fresh_water" title="Fresh water">
+                Fresh
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Groundwater" title="Groundwater">
+                Groundwater
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Groundwater_pollution" title="Groundwater pollution">
+                  pollution
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Groundwater_recharge" title="Groundwater recharge">
+                  recharge
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Groundwater_remediation" title="Groundwater remediation">
+                  remediation
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Hydrosphere" title="Hydrosphere">
+                Hydrosphere
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ice" title="Ice">
+                Ice
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Iceberg" title="Iceberg">
+                  bergs
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Glacier" title="Glacier">
+                  glacial
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Polar_ice_cap" title="Polar ice cap">
+                  polar
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Irrigation" title="Irrigation">
+                Irrigation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Rain" title="Rain">
+                Rain
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">
+                  harvesting
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Stormwater" title="Stormwater">
+                Stormwater
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Surface_water" title="Surface water">
+                Surface water
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wastewater" title="Wastewater">
+                Wastewater
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Reclaimed_water" title="Reclaimed water">
+                  reclaimed
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">
+            Aspects
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Desalination" title="Desalination">
+                Desalination
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Flood" title="Flood">
+                Floods
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Water_law" title="Water law">
+                Law
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">
+                Leaching
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Sanitation" title="Sanitation">
+                Sanitation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_conflict" title="Water conflict">
+                Conflict
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_conservation" title="Water conservation">
+                Conservation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_pollution" title="Water pollution">
+                Pollution
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_privatization" title="Water privatization">
+                Privatization
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_quality" title="Water quality">
+                Quality
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_right" title="Water right">
+                Right
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Water_resources" title="Water resources">
+                Resources
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Water_resource_management" title="Water resource management">
+                  management
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Water_resource_policy" title="Water resource policy">
+                  policy
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Related
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <td class="navbox-list navbox-even" colspan="2" style="padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Common_land" title="Common land">
+                Common land
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Common-pool_resource" title="Common-pool resource">
+                common-pool
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Enclosure" title="Enclosure">
+                  enclosure
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Global_commons" title="Global commons">
+                  global
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">
+                  tragedy theory
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Natural_resource_economics" title="Natural resource economics">
+                Economics
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Ecological_economics" title="Ecological economics">
+                  ecological
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Ecosystem_services" title="Ecosystem services">
+                Ecosystem services
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">
+                Exploitation
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Overexploitation" title="Overexploitation">
+                  overexploitation
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Natural_resource_management" title="Natural resource management">
+                Management
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Adaptive_management" title="Adaptive management">
+                  adaptive
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Natural_capital" title="Natural capital">
+                Natural capital
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">
+                  accounting
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Nature_reserve" title="Nature reserve">
+                Nature reserve
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Systems_ecology" title="Systems ecology">
+                Systems ecology
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Urban_ecology" title="Urban ecology">
+                Urban ecology
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wilderness" title="Wilderness">
+                Wilderness
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">
+            <a href="/wiki/Resource" title="Resource">
+             Resource
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Conflict_resource" title="Conflict resource">
+                Conflict
+                <span style="font-size:90%;">
+                 (perpetuation)
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Resource_curse" title="Resource curse">
+                Curse
+               </a>
+              </li>
+              <li>
+               <strong class="selflink">
+                Depletion
+               </strong>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Resource_extraction" title="Resource extraction">
+                Extraction
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Resource_nationalism" title="Resource nationalism">
+                Nationalism
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Renewable_resource" title="Renewable resource">
+                Renewable
+               </a>
+               /
+               <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">
+                Non-renewable
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+         <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">
+          Portals
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">
+             Agriculture and agronomy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Environment" title="Portal:Environment">
+             Environment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Fishing" title="Portal:Fishing">
+             Fishing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Forestry" title="Portal:Forestry">
+             Forestry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Mining" title="Portal:Mining">
+             Mining
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Water" title="Portal:Water">
+             Water
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">
+             Wetlands
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">
+             Category
+            </a>
+            <ul>
+             <li>
+              <span style="font-weight:normal;">
+               <a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">
+                agencies
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="font-weight:normal;">
+               <a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">
+                law
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="font-weight:normal;">
+               <a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">
+                management
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="font-weight:normal;">
+               <a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">
+                ministries
+               </a>
+              </span>
+             </li>
+             <li>
+              <span style="font-weight:normal;">
+               <a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">
+                organizations
+               </a>
+              </span>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <span style="font-weight:normal;">
+             <a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">
+              Colleges
+             </a>
+            </span>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Natural_resources" title="commons:Category:Natural resources">
+             Natural resources
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:155961-0!*!0!!en!4!* and timestamp 20161103000805 and revision id 747545041
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Resource_depletion&amp;oldid=747545041">
+      https://en.wikipedia.org/w/index.php?title=Resource_depletion&amp;oldid=747545041
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Resource_economics" title="Category:Resource economics">
+         Resource economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Environmental_issues" title="Category:Environmental issues">
+         Environmental issues
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Peak_resource_production" title="Category:Peak resource production">
+         Peak resource production
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">
+         CS1 maint: Explicit use of et al.
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_December_2011" title="Category:Articles needing additional references from December 2011">
+         Articles needing additional references from December 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2015" title="Category:Articles with unsourced statements from February 2015">
+         Articles with unsourced statements from February 2015
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Resource+depletion" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Resource+depletion" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Resource_depletion" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Resource_depletion" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Resource_depletion">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Resource_depletion&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Resource_depletion&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Resource_depletion" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Resource_depletion" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Resource_depletion&amp;oldid=747545041" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Resource_depletion&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q3737914" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Resource_depletion&amp;id=747545041" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Resource+depletion">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Resource+depletion&amp;returnto=Resource+depletion&amp;oldid=747545041&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Resource_depletion&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Ammendumine" hreflang="et" lang="et" title="Ammendumine – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Baliabideen_agortze" hreflang="eu" lang="eu" title="Baliabideen agortze – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A4%A8_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3" hreflang="hi" lang="hi" title="संसाधन न्यूनीकरण – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%B2%D0%B8%D1%87%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%85_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%96%D0%B2" hreflang="uk" lang="uk" title="Проблема вичерпання природних ресурсів – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%B5%84%E6%BA%90%E6%9E%AF%E7%AB%AD" hreflang="zh" lang="zh" title="资源枯竭 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q3737914#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 3 November 2016, at 00:08.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Resource_depletion&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.188",
+            "walltime": "0.257",
+            "ppvisitednodes": {
+                "value": 1261,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 61572,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1015,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  192.947      1 -total",
+                " 35.03%   67.589      1 Template:Reflist",
+                " 22.86%   44.104      6 Template:Cite_journal",
+                " 17.85%   34.442      4 Template:Navbox",
+                " 15.18%   29.299      1 Template:Natural_resources",
+                " 12.55%   24.220      1 Template:Unreferenced_section",
+                " 11.92%   22.995      1 Template:Other_uses",
+                " 10.70%   20.653      1 Template:Ambox",
+                "  9.92%   19.147      1 Template:Citation_needed",
+                "  8.87%   17.121      1 Template:Fix"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.072",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4649494,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1286",
+            "timestamp": "20161103000805",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1274"});});
+  </script>
+ </body>
+</html>

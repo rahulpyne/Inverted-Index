@@ -1,0 +1,2755 @@
+https://en.wikipedia.org/wiki/Consumption_(economics)
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Consumption (economics) - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Consumption_(economics)","wgTitle":"Consumption (economics)","wgCurRevisionId":739268055,"wgRevisionId":739268055,"wgArticleId":570984,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from March 2008","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from June 2010","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from October 2015","Pages with citations lacking titles","Wikipedia articles with GND identifiers","Consumption","Consumer theory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Consumption_(economics)","wgRelevantArticleId":570984,"wgRequestId":"WB0WbApAIDcAAGgx8a8AAABG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q192270","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Consumption_(economics)" rel="alternate"/>
+  <link href="/w/index.php?title=Consumption_(economics)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Consumption_(economics)&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Consumption_(economics)" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Consumption_economics rootpage-Consumption_economics skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Consumption (economics)
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "Spend" redirects here. For The Walking Dead episode, see
+      <a href="/wiki/Spend_(The_Walking_Dead)" title="Spend (The Walking Dead)">
+       Spend (The Walking Dead)
+      </a>
+      .
+     </div>
+     <table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article includes a
+         <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">
+          list of references
+         </a>
+         , but
+         <b>
+          its sources remain unclear
+         </b>
+         because it has
+         <b>
+          insufficient
+          <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">
+           inline citations
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help to
+          <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">
+           improve
+          </a>
+          this article by
+          <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">
+           introducing
+          </a>
+          more precise citations.
+         </span>
+         <small>
+          <i>
+           (March 2008)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+      <tr>
+       <th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background: none;">
+        <a href="/wiki/Economics" title="Economics">
+         Economics
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0.2em 0 0.4em;padding-left:0;padding-right:0;">
+        <a class="image" href="/wiki/File:Countries_by_GDP_(PPP)_Per_Capita_in_2015.svg" title="World GDP (PPP) per capita by country">
+         <img alt="World GDP (PPP) per capita by country" data-file-height="396" data-file-width="863" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg/220px-Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg/330px-Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg/440px-Countries_by_GDP_%28PPP%29_Per_Capita_in_2015.svg.png 2x" width="220"/>
+        </a>
+        <div style="padding-top:0.2em;line-height:1.2em;font-size:90%;white-space:nowrap;padding-bottom:0.2em; background: none;">
+         <a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">
+          World GDP (PPP) per capita by country
+         </a>
+         (2015)
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding:0.15em 0.15em 0.25em; display:block; margin-bottom:0.55em; background-color: #efefef;">
+        <div class="hlist">
+         <ul>
+          <li>
+           <a href="/wiki/Index_of_economics_articles" title="Index of economics articles">
+            Index
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Outline_of_economics" title="Outline of economics">
+            Outline
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Category:Economics" title="Category:Economics">
+            Category
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+        <div class="hlist nowrap">
+         <ul>
+          <li>
+           History
+          </li>
+          <li>
+           Types
+          </li>
+          <li>
+           Classification
+          </li>
+         </ul>
+        </div>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+        <ul>
+         <li>
+          <a href="/wiki/History_of_economic_thought" title="History of economic thought">
+           History of economics
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Economic_history" title="Economic history">
+           Economic history
+           <span style="font-size:90%;">
+            (academic study)
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">
+           Schools of economics
+          </a>
+         </li>
+        </ul>
+        <div class="hlist">
+         <ul>
+          <li>
+           <a href="/wiki/Microeconomics" title="Microeconomics">
+            Microeconomics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Macroeconomics" title="Macroeconomics">
+            Macroeconomics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Economic_methodology" title="Economic methodology">
+            Methodology
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Heterodox_economics" title="Heterodox economics">
+            Heterodox economics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/JEL_classification_codes" title="JEL classification codes">
+            JEL classification codes
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+        <div class="hlist nowrap">
+         <ul>
+          <li>
+           Concepts
+          </li>
+          <li>
+           Theory
+          </li>
+          <li>
+           Techniques
+          </li>
+         </ul>
+        </div>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+        <div class="hlist">
+         <ul>
+          <li>
+           <a href="/wiki/Econometrics" title="Econometrics">
+            Econometrics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Economic_growth" title="Economic growth">
+            Economic growth
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Economic_system" title="Economic system">
+            Economic system
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Experimental_economics" title="Experimental economics">
+            <span class="wrap">
+             Experimental economics
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Mathematical_economics" title="Mathematical economics">
+            Mathematical economics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Game_theory" title="Game theory">
+            <span class="wrap">
+             Game theory
+            </span>
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Market_(economics)" title="Market (economics)">
+            Market
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/National_accounts" title="National accounts">
+            National accounting
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+        By application
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+        <div class="hlist">
+         <ul>
+          <li>
+           <a href="/wiki/Agricultural_economics" title="Agricultural economics">
+            Agricultural
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Behavioral_economics" title="Behavioral economics">
+            Behavioral
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Business_economics" title="Business economics">
+            Business
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Computational_economics" title="Computational economics">
+            Computational
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Cultural_economics" title="Cultural economics">
+            Cultural
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Demographic_economics" title="Demographic economics">
+            Demographic
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Development_economics" title="Development economics">
+            Development
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Economics_of_digitization" title="Economics of digitization">
+            Digitization
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Ecological_economics" title="Ecological economics">
+            Ecological
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Education_economics" title="Education economics">
+            Education
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Environmental_economics" title="Environmental economics">
+            Environmental
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Evolutionary_economics" title="Evolutionary economics">
+            Evolutionary
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Expeditionary_economics" title="Expeditionary economics">
+            Expeditionary
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Economic_geography" title="Economic geography">
+            Geography
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Health_economics" title="Health economics">
+            Health
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Industrial_organization" title="Industrial organization">
+            Industrial organization
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Information_economics" title="Information economics">
+            Information
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/International_economics" title="International economics">
+            International
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Knowledge_economy" title="Knowledge economy">
+            Knowledge
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Labour_economics" title="Labour economics">
+            Labour
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Law_and_economics" title="Law and economics">
+            Law
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Managerial_economics" title="Managerial economics">
+            Managerial
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Monetary_economics" title="Monetary economics">
+            Monetary
+           </a>
+           /
+           <a href="/wiki/Financial_economics" title="Financial economics">
+            Financial
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Natural_resource_economics" title="Natural resource economics">
+            Natural resource
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Personnel_economics" title="Personnel economics">
+            Personnel
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Public_economics" title="Public economics">
+            Public
+           </a>
+           /
+           <a href="/wiki/Welfare_economics" title="Welfare economics">
+            Welfare economics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Regional_science" title="Regional science">
+            Regional
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Rural_economics" title="Rural economics">
+            Rural
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Service_economy" title="Service economy">
+            Service
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Urban_economics" title="Urban economics">
+            Urban
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Welfare" title="Welfare">
+            Welfare
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;background-color: #efefef;">
+        <a href="/wiki/Category:Economics_lists" title="Category:Economics lists">
+         Lists
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em;padding:0.15em 0.25em 0.5em;">
+        <ul>
+         <li>
+          <a href="/wiki/List_of_economists" title="List of economists">
+           Economists
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/List_of_important_publications_in_economics" title="List of important publications in economics">
+           Publications
+          </a>
+          (
+          <a href="/wiki/List_of_economics_journals" title="List of economics journals">
+           journals
+          </a>
+          )
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;background-color: #efefef;">
+        <ul>
+         <li>
+          <span class="metadata">
+           <a class="image" href="/wiki/File:Emblem-money.svg">
+            <img alt="icon" data-file-height="48" data-file-width="48" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/16px-Emblem-money.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 2x" width="16"/>
+           </a>
+           <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">
+            Business and economics portal
+           </a>
+          </span>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Economics_sidebar" title="Template:Economics sidebar">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Economics_sidebar" title="Template talk:Economics sidebar">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economics_sidebar&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Consumption
+      </b>
+      is major concept in economics and is also studied by many other social sciences. Economists are particularly interested in the relationship between consumption and income, as modeled with the
+      <i>
+       consumption function
+      </i>
+      .
+     </p>
+     <p>
+      Different schools of economists define
+      <a href="/wiki/Production_(economics)" title="Production (economics)">
+       production
+      </a>
+      and consumption differently. According to
+      <a href="/wiki/Mainstream_economics" title="Mainstream economics">
+       mainstream economists
+      </a>
+      , only the final purchase of
+      <a href="/wiki/Good_(economics)" title="Good (economics)">
+       goods
+      </a>
+      and
+      <a href="/wiki/Service_(economics)" title="Service (economics)">
+       services
+      </a>
+      by individuals constitutes consumption, while other types of expenditure — in particular,
+      <a href="/wiki/Fixed_investment" title="Fixed investment">
+       fixed investment
+      </a>
+      ,
+      <a href="/wiki/Intermediate_consumption" title="Intermediate consumption">
+       intermediate consumption
+      </a>
+      , and government spending — are placed in separate categories (See
+      <a href="/wiki/Consumer_choice" title="Consumer choice">
+       consumer choice
+      </a>
+      ). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and
+      <a href="/wiki/Marketing" title="Marketing">
+       marketing
+      </a>
+      of
+      <a href="/wiki/Goods_and_services" title="Goods and services">
+       goods and services
+      </a>
+      (e.g. the selection, adoption, use, disposal and recycling of goods and services).
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (June 2010)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Consumption_function">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Consumption function
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Behavioural_economics_and_consumption">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Behavioural economics and consumption
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Consumption_and_household_production">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Consumption and household production
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Effects_of_consumption">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Effects of consumption
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Old-age_spending">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Old-age spending
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#External_links">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Consumption_function">
+       Consumption function
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=1" title="Edit section: Consumption function">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Consumption_function" title="Consumption function">
+       Consumption function
+      </a>
+     </div>
+     <p>
+      The consumption function is a
+      <a class="mw-redirect" href="/wiki/Mathematical_function" title="Mathematical function">
+       mathematical function
+      </a>
+      that expresses
+      <a href="/wiki/Consumer_spending" title="Consumer spending">
+       consumer spending
+      </a>
+      in terms of its determinants, such as
+      <a href="/wiki/Income" title="Income">
+       income
+      </a>
+      and accumulated
+      <a href="/wiki/Wealth#Economic_analysis" title="Wealth">
+       wealth
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Behavioural_economics_and_consumption">
+       Behavioural economics and consumption
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=2" title="Edit section: Behavioural economics and consumption">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Keynesian
+      <a href="/wiki/Consumption_function" title="Consumption function">
+       consumption function
+      </a>
+      is also known as the
+      <a href="/wiki/Absolute_income_hypothesis" title="Absolute income hypothesis">
+       absolute income hypothesis
+      </a>
+      , as it only bases consumption on current income and ignores potential future income (or lack of). Criticism of this assumption led to the development of
+      <a href="/wiki/Milton_Friedman" title="Milton Friedman">
+       Milton Friedman
+      </a>
+      's
+      <a href="/wiki/Permanent_income_hypothesis" title="Permanent income hypothesis">
+       permanent income hypothesis
+      </a>
+      and
+      <a href="/wiki/Franco_Modigliani" title="Franco Modigliani">
+       Franco Modigliani
+      </a>
+      's
+      <a class="mw-redirect" href="/wiki/Life_cycle_hypothesis" title="Life cycle hypothesis">
+       life cycle hypothesis
+      </a>
+      . More recent theoretical approaches are based on
+      <a href="/wiki/Behavioral_economics" title="Behavioral economics">
+       behavioral economics
+      </a>
+      and suggest that a number of behavioural principles can be taken as microeconomic foundations for a behaviourally-based aggregate consumption function.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Consumption_and_household_production">
+       Consumption and household production
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=3" title="Edit section: Consumption and household production">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Consumption is defined in part by comparison to
+      <a class="mw-redirect" href="/wiki/Production_theory_basics" title="Production theory basics">
+       production
+      </a>
+      . In the tradition of the Columbia School of Household Economics, also known as the
+      <a href="/wiki/New_Home_Economics" title="New Home Economics">
+       New Home Economics
+      </a>
+      , commercial consumption has to be analyzed in the context of household production. The opportunity cost of time affects the cost of home-produced substitutes and therefore demand for commercial goods and services.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      The elasticity of demand for consumption goods is also a function of who performs chores in households and how their spouses compensate them for opportunity costs of home production.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Different schools of economists define
+      <a href="/wiki/Production_(economics)" title="Production (economics)">
+       production
+      </a>
+      and consumption differently. According to
+      <a href="/wiki/Mainstream_economics" title="Mainstream economics">
+       mainstream economists
+      </a>
+      , only the final purchase of
+      <a href="/wiki/Good_(economics)" title="Good (economics)">
+       goods
+      </a>
+      and
+      <a href="/wiki/Service_(economics)" title="Service (economics)">
+       services
+      </a>
+      by individuals constitutes consumption, while other types of expenditure — in particular,
+      <a href="/wiki/Fixed_investment" title="Fixed investment">
+       fixed investment
+      </a>
+      ,
+      <a href="/wiki/Intermediate_consumption" title="Intermediate consumption">
+       intermediate consumption
+      </a>
+      , and government spending — are placed in separate categories (See
+      <a href="/wiki/Consumer_choice" title="Consumer choice">
+       consumer choice
+      </a>
+      ). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and
+      <a href="/wiki/Marketing" title="Marketing">
+       marketing
+      </a>
+      of
+      <a href="/wiki/Goods_and_services" title="Goods and services">
+       goods and services
+      </a>
+      (e.g. the selection, adoption, use, disposal and recycling of goods and services).
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (June 2010)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      Consumption can also be measured by a variety of different ways such as
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      in
+      <a href="/wiki/Energy_economics" title="Energy economics">
+       energy economics
+      </a>
+      metrics.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Effects_of_consumption">
+       Effects of consumption
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=4" title="Edit section: Effects of consumption">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Aggregate consumption is a component of
+      <a href="/wiki/Aggregate_demand" title="Aggregate demand">
+       aggregate demand
+      </a>
+      .
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      According to the UN, "today’s consumption is undermining the environmental resource base. It is exacerbating
+      <a href="/wiki/Economic_inequality" title="Economic inequality">
+       inequalities
+      </a>
+      . And the dynamics of the consumption-
+      <a href="/wiki/Poverty" title="Poverty">
+       poverty
+      </a>
+      -inequality-environment nexus are accelerating. If the trends continue without change — not redistributing from
+      <a class="mw-redirect" href="/wiki/High-income" title="High-income">
+       high-income
+      </a>
+      to
+      <a class="mw-redirect" href="/wiki/Low-income" title="Low-income">
+       low-income
+      </a>
+      consumers, not shifting from
+      <a class="mw-redirect" href="/wiki/Polluting" title="Polluting">
+       polluting
+      </a>
+      to cleaner goods and production technologies, not shifting priority from consumption for conspicuous display to meeting
+      <a href="/wiki/Basic_needs" title="Basic needs">
+       basic needs
+      </a>
+      — today’s problems of consumption and human development will worsen." Developing countries like India, as they move down the path of copying the consumption patterns of developed economies, will basically create demands that earth will not be able to fulfill. Some economists
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch">
+         <span title="The material near this tag possibly uses too-vague attribution or weasel words. (October 2015)">
+          who?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      talk about putting a price on
+      <a href="/wiki/Resource_consumption" title="Resource consumption">
+       using earth's resources
+      </a>
+      which is in addition to the cost of just extracting them.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Old-age_spending">
+       Old-age spending
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=5" title="Edit section: Old-age spending">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <i>
+       Spending the Kids' Inheritance
+      </i>
+      (originally the title of a book on the subject by
+      <a href="/wiki/Annie_Hulley" title="Annie Hulley">
+       Annie Hulley
+      </a>
+      ) and the acronyms SKI and SKI'ing refer to the growing number of
+      <a class="mw-redirect" href="/wiki/Retire" title="Retire">
+       older people
+      </a>
+      in
+      <a href="/wiki/Western_culture" title="Western culture">
+       Western society
+      </a>
+      spending their
+      <a href="/wiki/Money" title="Money">
+       money
+      </a>
+      on
+      <a href="/wiki/Travel" title="Travel">
+       travel
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Cars" title="Cars">
+       cars
+      </a>
+      and
+      <a href="/wiki/Property" title="Property">
+       property
+      </a>
+      , in contrast to previous
+      <a class="mw-redirect" href="/wiki/Generations" title="Generations">
+       generations
+      </a>
+      who tended to leave that money to their
+      <a class="mw-redirect" href="/wiki/Children" title="Children">
+       children
+      </a>
+      .
+     </p>
+     <p>
+      <i>
+       Die Broke
+      </i>
+      (from the book
+      <i>
+       Die Broke: A Radical Four-Part Financial Plan
+      </i>
+      by Stephen Pollan and
+      <a class="new" href="/w/index.php?title=Mark_Levine_(economist)&amp;action=edit&amp;redlink=1" title="Mark Levine (economist) (page does not exist)">
+       Mark Levine
+      </a>
+      ) is a similar idea.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=6" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Aggregate_demand" title="Aggregate demand">
+        Aggregate demand
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Life_cycle_hypothesis" title="Life cycle hypothesis">
+        Life cycle hypothesis
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Measures_of_national_income_and_output" title="Measures of national income and output">
+        Measures of national income and output
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Permanent_income_hypothesis" title="Permanent income hypothesis">
+        Permanent income hypothesis
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Consumer_debt" title="Consumer debt">
+        Consumer debt
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Classification_of_Individual_Consumption_by_Purpose" title="Classification of Individual Consumption by Purpose">
+        Classification of Individual Consumption by Purpose
+       </a>
+       (COICOP)
+      </li>
+      <li>
+       <a href="/wiki/Consumer_choice" title="Consumer choice">
+        Consumer choice
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Consumerism" title="Consumerism">
+        Consumerism
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_largest_consumer_markets" title="List of largest consumer markets">
+        List of largest consumer markets
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">
+        Over-consumption
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=7" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          D'Orlando, F.; Sanfilippo, E. (2010). "Behavioral foundations for the Keynesian Consumption Function".
+          <i>
+           <a class="new" href="/w/index.php?title=Journal_of_Economic_Psychology&amp;action=edit&amp;redlink=1" title="Journal of Economic Psychology (page does not exist)">
+            Journal of Economic Psychology
+           </a>
+          </i>
+          .
+          <b>
+           31
+          </b>
+          (6): 1035–1046.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1016%2Fj.joep.2010.09.004" rel="nofollow">
+           10.1016/j.joep.2010.09.004
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.atitle=Behavioral+foundations+for+the+Keynesian+Consumption+Function&amp;rft.aufirst=F.&amp;rft.aulast=D%27Orlando&amp;rft.au=Sanfilippo%2C+E.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.joep.2010.09.004&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Economic+Psychology&amp;rft.pages=1035-1046&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Mincer, Jacob (1963). "Market Prices, Opportunity Costs, and Income Effects". In Christ, C.
+          <i>
+           Measurement in Economics
+          </i>
+          . Stanford, CA: Stanford University Press.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.atitle=Market+Prices%2C+Opportunity+Costs%2C+and+Income+Effects&amp;rft.aufirst=Jacob&amp;rft.aulast=Mincer&amp;rft.btitle=Measurement+in+Economics&amp;rft.date=1963&amp;rft.genre=bookitem&amp;rft.place=Stanford%2C+CA&amp;rft.pub=Stanford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Becker, Gary S. (1965). "A Theory of the Allocation of Time".
+          <i>
+           Economic Journal
+          </i>
+          .
+          <b>
+           75
+          </b>
+          (299): 493–517.
+          <a href="/wiki/JSTOR" title="JSTOR">
+           JSTOR
+          </a>
+          <a class="external text" href="//www.jstor.org/stable/2228949" rel="nofollow">
+           2228949
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.atitle=A+Theory+of+the+Allocation+of+Time&amp;rft.aufirst=Gary+S.&amp;rft.aulast=Becker&amp;rft.date=1965&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2228949&amp;rft.issue=299&amp;rft.jtitle=Economic+Journal&amp;rft.pages=493-517&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=75">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Grossbard-Shechtman, Shoshana (2003). "A Consumer Theory with Competitive Markets for Work in Marriage".
+          <i>
+           Journal of Socio-Economics
+          </i>
+          .
+          <b>
+           31
+          </b>
+          (6): 609–645.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1016%2FS1053-5357%2802%2900138-5" rel="nofollow">
+           10.1016/S1053-5357(02)00138-5
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.atitle=A+Consumer+Theory+with+Competitive+Markets+for+Work+in+Marriage&amp;rft.aufirst=Shoshana&amp;rft.aulast=Grossbard-Shechtman&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS1053-5357%2802%2900138-5&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Socio-Economics&amp;rft.pages=609-645&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.consumptiongrowth101.com/Basics.html" rel="nofollow">
+           "CONSUMPTION GROWTH 101"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.btitle=CONSUMPTION+GROWTH+101&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.consumptiongrowth101.com%2FBasics.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=8" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <cite class="citation book">
+        <a href="/wiki/Pierre_Bourdieu" title="Pierre Bourdieu">
+         Bourdieu, Pierre
+        </a>
+        (1984).
+        <i>
+         Distinction: A Social Critique of the Judgement of Taste (paperback)
+        </i>
+        . Cambridge:
+        <a href="/wiki/Harvard_University_Press" title="Harvard University Press">
+         Harvard University Press
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-674-21277-0" title="Special:BookSources/0-674-21277-0">
+         0-674-21277-0
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Bourdieu%2C+Pierre&amp;rft.btitle=Distinction%3A+A+Social+Critique+of+the+Judgement+of+Taste+%28paperback%29&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=0-674-21277-0&amp;rft.place=Cambridge&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+       Also:
+       <cite class="citation book">
+        . Lincoln: London. 1984.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-415-04546-0" title="Special:BookSources/0-415-04546-0">
+         0-415-04546-0
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=0-415-04546-0&amp;rft.place=Lincoln&amp;rft.pub=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+       <span class="error citation-comment" style="font-size:100%">
+        Missing or empty
+        <code style="color:inherit; border:inherit; padding:inherit;">
+         |title=
+        </code>
+        (
+        <a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">
+         help
+        </a>
+        )
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Deaton, Angus (1992).
+        <i>
+         Understanding Consumption
+        </i>
+        .
+        <a href="/wiki/Oxford_University_Press" title="Oxford University Press">
+         Oxford University Press
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-19-828824-7" title="Special:BookSources/0-19-828824-7">
+         0-19-828824-7
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Deaton%2C+Angus&amp;rft.btitle=Understanding+Consumption&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-19-828824-7&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Friedman, Jonathan (1994).
+        <i>
+         Consumption and Identity (Studies in Anthropology &amp; History)
+        </i>
+        . Washington, DC:
+        <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">
+         Taylor &amp; Francis
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/3-7186-5592-6" title="Special:BookSources/3-7186-5592-6">
+         3-7186-5592-6
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Friedman%2C+Jonathan&amp;rft.btitle=Consumption+and+Identity+%28Studies+in+Anthropology+%26+History%29&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=3-7186-5592-6&amp;rft.place=Washington%2C+DC&amp;rft.pub=Taylor+%26+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Isherwood, Baron C.; Douglas, Mary (1996).
+        <i>
+         The World of Goods: Towards an Anthropology of Consumption (Paperback)
+        </i>
+        . New York:
+        <a href="/wiki/Routledge" title="Routledge">
+         Routledge
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-415-13047-6" title="Special:BookSources/0-415-13047-6">
+         0-415-13047-6
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Douglas%2C+Mary&amp;rft.au=Isherwood%2C+Baron+C.&amp;rft.btitle=The+World+of+Goods%3A+Towards+an+Anthropology+of+Consumption+%28Paperback%29&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-415-13047-6&amp;rft.place=New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Mackay, Hugh (Editor) (1997).
+        <i>
+         Consumption and Everyday Life (Culture, Media and Identities series) (Paperback)
+        </i>
+        . Thousand Oaks, Calif:
+        <a href="/wiki/SAGE_Publications" title="SAGE Publications">
+         SAGE Publications
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-7619-5438-4" title="Special:BookSources/0-7619-5438-4">
+         0-7619-5438-4
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Mackay%2C+Hugh+%28Editor%29&amp;rft.btitle=Consumption+and+Everyday+Life+%28Culture%2C+Media+and+Identities+series%29+%28Paperback%29&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-7619-5438-4&amp;rft.place=Thousand+Oaks%2C+Calif&amp;rft.pub=SAGE+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Miller, Daniel (1998).
+        <i>
+         A Theory of Shopping (paperback)
+        </i>
+        .
+        <a class="mw-redirect" href="/wiki/Ithaca,_N.Y." title="Ithaca, N.Y.">
+         Ithaca, N.Y.
+        </a>
+        :
+        <a href="/wiki/Cornell_University_Press" title="Cornell University Press">
+         Cornell University Press
+        </a>
+        .
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-8014-8551-7" title="Special:BookSources/0-8014-8551-7">
+         0-8014-8551-7
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Miller%2C+Daniel&amp;rft.btitle=A+Theory+of+Shopping+%28paperback%29&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-8014-8551-7&amp;rft.place=Ithaca%2C+N.Y.&amp;rft.pub=Cornell+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Slater, Don (1997).
+        <i>
+         Consumer Culture and Modernity
+        </i>
+        . Cambridge, UK: Polity Press.
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+        <a href="/wiki/Special:BookSources/0-7456-0304-1" title="Special:BookSources/0-7456-0304-1">
+         0-7456-0304-1
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConsumption+%28economics%29&amp;rft.au=Slater%2C+Don&amp;rft.btitle=Consumer+Culture+and+Modernity&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-7456-0304-1&amp;rft.place=Cambridge%2C+UK&amp;rft.pub=Polity+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Consumption_(economics)&amp;action=edit&amp;section=9" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wikiquote-logo.svg">
+         <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikiquote has quotations related to:
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Consumption_(economics)" title="q:Special:Search/Consumption (economics)">
+           Consumption (economics)
+          </a>
+         </b>
+        </i>
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.economic-truth.co.uk/content-essays/bsc/keynesconsumption.pdf" rel="nofollow">
+        An essay examining the strengths and weaknesses of Keynes's theory of consumption
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Consumer_behaviour" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Consumer_behaviour" title="Template:Consumer behaviour">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Consumer_behaviour" title="Template talk:Consumer behaviour">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Consumer_behaviour&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Consumer_behaviour" style="font-size:114%">
+          <a href="/wiki/Consumer_behaviour" title="Consumer behaviour">
+           Consumer behaviour
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <strong class="selflink">
+             Consumption (economics)
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_spending" title="Consumer spending">
+             Consumer spending
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Autonomous_consumption" title="Autonomous consumption">
+             Autonomous consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induced_consumption" title="Induced consumption">
+             Induced consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_debt" title="Consumer debt">
+             Consumer debt
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_economy" title="Consumer economy">
+             Consumer economy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_culture_theory" title="Consumer culture theory">
+             Consumer culture theory
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Research types
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consumer_behaviour" title="Consumer behaviour">
+             Consumer behaviour
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Marketing_research" title="Marketing research">
+             Marketing research
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_neuroscience" title="Consumer neuroscience">
+             Consumer neuroscience
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_choice" title="Consumer choice">
+             Consumer choice
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Consumer_product" title="Consumer product">
+             Consumer product
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_economics" title="Consumer economics">
+             Consumer economics
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Consumer attributes
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consumer_confusion" title="Consumer confusion">
+             Consumer confusion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer%27s_risk" title="Consumer's risk">
+             Consumer's risk
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_confidence" title="Consumer confidence">
+             Consumer confidence
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_socialization" title="Consumer socialization">
+             Consumer socialization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_ethnocentrism" title="Consumer ethnocentrism">
+             Consumer ethnocentrism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cultural_consumer" title="Cultural consumer">
+             Cultural consumer
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Homo_economicus" title="Homo economicus">
+              Homo economicus
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Consumption_function" title="Consumption function">
+             Consumption function
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Processes
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a class="mw-redirect" href="/wiki/Consumer_cooperative" title="Consumer cooperative">
+             Consumer cooperative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer-to-business" title="Consumer-to-business">
+             Consumer-to-business
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Factory-to-consumer" title="Factory-to-consumer">
+             Factory-to-consumer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumer_service" title="Consumer service">
+             Consumer service
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Consumerization" title="Consumerization">
+             Consumerization
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Consumption" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Consumption" title="Template:Consumption">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Consumption" title="Template talk:Consumption">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Consumption&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Consumption" style="font-size:114%">
+          <strong class="selflink">
+           Consumption
+          </strong>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Topics
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consumption_function" title="Consumption function">
+             Consumption function
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Final_consumption_expenditure" title="Final consumption expenditure">
+             Final consumption expenditure
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Deferred_gratification" title="Deferred gratification">
+             Instant gratification
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intertemporal_consumption" title="Intertemporal consumption">
+             Intertemporal consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Random_walk_hypothesis" title="Random walk hypothesis">
+             Random walk hypothesis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Autonomous_consumption" title="Autonomous consumption">
+             Autonomous consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induced_consumption" title="Induced consumption">
+             Induced consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Conspicuous_consumption" title="Conspicuous consumption">
+             Conspicuous consumption
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Theories
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Absolute_income_hypothesis" title="Absolute income hypothesis">
+             Absolute income hypothesis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Life-cycle_hypothesis" title="Life-cycle hypothesis">
+             Life-cycle hypothesis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Permanent_income_hypothesis" title="Permanent income hypothesis">
+             Permanent income hypothesis
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Random_walk_model_of_consumption" title="Random walk model of consumption">
+             Random walk model of consumption
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Relative_income_hypothesis" title="Relative income hypothesis">
+             Relative income hypothesis
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Lists
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/List_of_largest_consumer_markets" title="List of largest consumer markets">
+             List of largest consumer markets
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/4078777-1" rel="nofollow">
+               4078777-1
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00572051" rel="nofollow">
+               00572051
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:570984-0!*!0!!en!4!* and timestamp 20161031044855 and revision id 739268055
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Consumption_(economics)&amp;oldid=739268055">
+      https://en.wikipedia.org/w/index.php?title=Consumption_(economics)&amp;oldid=739268055
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Consumption" title="Category:Consumption">
+         Consumption
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Consumer_theory" title="Category:Consumer theory">
+         Consumer theory
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_in-text_citations_from_March_2008" title="Category:Articles lacking in-text citations from March 2008">
+         Articles lacking in-text citations from March 2008
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">
+         All articles lacking in-text citations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2010" title="Category:Articles with unsourced statements from June 2010">
+         Articles with unsourced statements from June 2010
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">
+         All articles with specifically marked weasel-worded phrases
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2015" title="Category:Articles with specifically marked weasel-worded phrases from October 2015">
+         Articles with specifically marked weasel-worded phrases from October 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">
+         Pages with citations lacking titles
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Consumption+%28economics%29" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Consumption+%28economics%29" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Consumption_(economics)" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Consumption_(economics)" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Consumption_(economics)">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Consumption_(economics)&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Consumption_(economics)&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Consumption_(economics)" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Consumption_(economics)" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Consumption_(economics)&amp;oldid=739268055" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Consumption_(economics)&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q192270" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Consumption_%28economics%29&amp;id=739268055" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Consumption+%28economics%29">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Consumption+%28economics%29&amp;returnto=Consumption+%28economics%29&amp;oldid=739268055&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Consumption_(economics)&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Consumption" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote">
+        <a href="https://en.wikiquote.org/wiki/Consumption_(economics)" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83" hreflang="ar" lang="ar" title="استهلاك – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Потребление – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Consum" hreflang="ca" lang="ca" title="Consum – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Spot%C5%99eba" hreflang="cs" lang="cs" title="Spotřeba – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Forbrug_(%C3%B8konomi)" hreflang="da" lang="da" title="Forbrug (økonomi) – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Konsum" hreflang="de" lang="de" title="Konsum – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Tarbimine" hreflang="et" lang="et" title="Tarbimine – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Consumo" hreflang="es" lang="es" title="Consumo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Konsumo" hreflang="eo" lang="eo" title="Konsumo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Kontsumo" hreflang="eu" lang="eu" title="Kontsumo – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%B5%D8%B1%D9%81" hreflang="fa" lang="fa" title="مصرف – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Consommation" hreflang="fr" lang="fr" title="Consommation – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%86%8C%EB%B9%84" hreflang="ko" lang="ko" title="소비 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Konsumo" hreflang="io" lang="io" title="Konsumo – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Consumo" hreflang="it" lang="it" title="Consumo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%AE%E1%83%9B%E1%83%90%E1%83%A0%E1%83%94%E1%83%91%E1%83%90" hreflang="ka" lang="ka" title="მოხმარება – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Konsomasyon" hreflang="ht" lang="ht" title="Konsomasyon – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lo">
+        <a class="interlanguage-link-target" href="https://lo.wikipedia.org/wiki/%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%8A%E0%BA%BB%E0%BA%A1%E0%BB%83%E0%BA%8A%E0%BB%89" hreflang="lo" lang="lo" title="ການຊົມໃຊ້ – Lao">
+         ລາວ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Consumptio_(oeconomia)" hreflang="la" lang="la" title="Consumptio (oeconomia) – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Konsumpcija" hreflang="lt" lang="lt" title="Konsumpcija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Fogyaszt%C3%A1s" hreflang="hu" lang="hu" title="Fogyasztás – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF_(%E0%A4%AA%E0%A5%88%E0%A4%B8%E0%A4%BE)" hreflang="mr" lang="mr" title="व्यय (पैसा) – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Consumptie" hreflang="nl" lang="nl" title="Consumptie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B6%88%E8%B2%BB" hreflang="ja" lang="ja" title="消費 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Konsum" hreflang="no" lang="no" title="Konsum – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Forbruk" hreflang="nn" lang="nn" title="Forbruk – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Konsumpcja" hreflang="pl" lang="pl" title="Konsumpcja – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Consumo" hreflang="pt" lang="pt" title="Consumo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Потребление – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Consumption_(economics)" hreflang="simple" lang="simple" title="Consumption (economics) – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Spotreba_(ekon%C3%B3mia)" hreflang="sk" lang="sk" title="Spotreba (ekonómia) – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A8%DB%95%D8%B1%D8%AE%DB%86%D8%B1%DB%8C" hreflang="ckb" lang="ckb" title="بەرخۆری – Central Kurdish">
+         کوردیی ناوەندی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kulutus" hreflang="fi" lang="fi" title="Kulutus – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Konsumtion" hreflang="sv" lang="sv" title="Konsumtion – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pagkonsumo" hreflang="tl" lang="tl" title="Pagkonsumo – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%81%E0%AE%95%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81" hreflang="ta" lang="ta" title="நுகர்வு – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%A0%E0%B8%84" hreflang="th" lang="th" title="การบริโภค – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%8A%D0%BC%D0%BE%D0%BB" hreflang="tg" lang="tg" title="Истеъмол – Tajik">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/T%C3%BCketim" hreflang="tr" lang="tr" title="Tüketim – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B5%D8%B1%D9%81" hreflang="ur" lang="ur" title="صرف – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ti%C3%AAu_d%C3%B9ng" hreflang="vi" lang="vi" title="Tiêu dùng – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B6%88%E8%B4%B9" hreflang="zh" lang="zh" title="消费 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q192270#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 13 September 2016, at 18:37.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Consumption_(economics)&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.240",
+            "walltime": "0.313",
+            "ppvisitednodes": {
+                "value": 1352,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 62692,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1880,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  254.073      1 -total",
+                " 20.18%   51.274      1 Template:Reflist",
+                " 16.60%   42.176      3 Template:Fix",
+                " 13.97%   35.506      3 Template:Cite_journal",
+                " 12.90%   32.765      2 Template:Citation_needed",
+                " 12.07%   30.675      1 Template:More_footnotes",
+                " 12.06%   30.643      9 Template:Cite_book",
+                " 11.75%   29.849      1 Template:Economics_sidebar",
+                " 10.92%   27.750      3 Template:Delink",
+                " 10.70%   27.185      1 Template:Sidebar"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.125",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4453067,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1182",
+            "timestamp": "20161031044855",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1185"});});
+  </script>
+ </body>
+</html>

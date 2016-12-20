@@ -1,0 +1,3446 @@
+https://en.wikipedia.org/wiki/Water_footprint
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Water use - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_use","wgTitle":"Water use","wgCurRevisionId":745754632,"wgRevisionId":745754632,"wgArticleId":18962147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles lacking reliable references","Articles lacking reliable references from September 2012","Water","Water supply","Water development and sustainability","Environmental issues with water"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_use","wgRelevantArticleId":18962147,"wgRequestId":"WBwm7wpAEKoAAD2PSLQAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Water_footprint","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Water_use","wgWikibaseItemId":"Q26534","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Water_use" rel="alternate"/>
+  <link href="/w/index.php?title=Water_use&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Water_use&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Water_use" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_use rootpage-Water_use skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Water use
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Water_footprint&amp;redirect=no" title="Water footprint">
+       Water footprint
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Water use
+      </b>
+      can mean the amount of
+      <a href="/wiki/Water" title="Water">
+       water
+      </a>
+      used by a household or a country, or the amount used for a given task or for the production of a given quantity of some product or crop, or the amount allocated for a particular purpose.
+     </p>
+     <p>
+      Globally, of
+      <a href="/wiki/Precipitation" title="Precipitation">
+       precipitation
+      </a>
+      falling on land each year (about 117,000 km
+      <sup>
+       3
+      </sup>
+      (28,000 cu mi)),
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      about 4 percent is used by rainfed agriculture and about half is subject to evaporation and transpiration in
+      <a href="/wiki/Forest" title="Forest">
+       forests
+      </a>
+      and other natural or quasi-natural landscapes.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      The remainder, which goes to
+      <a href="/wiki/Groundwater" title="Groundwater">
+       groundwater
+      </a>
+      replenishment and
+      <a href="/wiki/Surface_runoff" title="Surface runoff">
+       surface runoff
+      </a>
+      , is sometimes called “total actual renewable freshwater resources”. Its magnitude was recently estimated at 52,579 km
+      <sup>
+       3
+      </sup>
+      (12,614 cu mi)/year.
+      <sup class="reference" id="cite_ref-Frenken2012_3-0">
+       <a href="#cite_note-Frenken2012-3">
+        [3]
+       </a>
+      </sup>
+      It represents water that can be used either instream or after withdrawal from surface and groundwater sources. Of this remainder, about 3,918 km
+      <sup>
+       3
+      </sup>
+      were withdrawn in 2007, of which 2,722 km
+      <sup>
+       3
+      </sup>
+      (69 percent) were used by agriculture, and 734 km
+      <sup>
+       3
+      </sup>
+      (19 percent) by other industry.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      Most agricultural use of withdrawn water is for irrigation, which uses about 5.1 percent of total actual renewable
+      <a class="mw-redirect" href="/wiki/Freshwater" title="Freshwater">
+       freshwater
+      </a>
+      resources.
+      <sup class="reference" id="cite_ref-Frenken2012_3-1">
+       <a href="#cite_note-Frenken2012-3">
+        [3]
+       </a>
+      </sup>
+      World water use has been growing rapidly in the last hundred years (see
+      <a class="external text" href="http://environment.newscientist.com/data/images/archive/2670/26700101.jpg" rel="nofollow">
+       graph
+      </a>
+      from
+      <a href="/wiki/New_Scientist" title="New Scientist">
+       New Scientist
+      </a>
+      article
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      ).
+     </p>
+     <p>
+      There are numerous measures of water use, including total water use,
+      <a href="/wiki/Drinking_water" title="Drinking water">
+       drinking water
+      </a>
+      consumption, non-consumptive use, withdrawn water use (from surface and groundwater sources), instream use, water footprint, etc. Each of these (and other) measures of water use is appropriate for some purposes and inappropriate for others. Water “footprints” have become popular measures of use, e.g. in relation to personal consumption. The term "water footprint" is often used to refer to the amount of water used by an individual, community, business, or nation, or the amount of water use associated with (although not necessarily assignable to) a product.
+     </p>
+     <p>
+      The total water footprint of a typical 3-person household in the U.S. is 23,360 l (5,140 imp gal; 6,170 US gal).
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      By comparison, a typical single family home in the U.S. only uses about 262 l (58 imp gal; 69 US gal) of water per day (2008 estimate). This includes (in decreasing order)
+      <a class="mw-redirect" href="/wiki/Water_toilet" title="Water toilet">
+       toilet
+      </a>
+      use,
+      <a href="/wiki/Washing_machine" title="Washing machine">
+       washing machine
+      </a>
+      use,
+      <a href="/wiki/Shower" title="Shower">
+       showers
+      </a>
+      , baths, faucet use, and
+      <a class="mw-redirect" href="/wiki/Water_leak" title="Water leak">
+       leaks
+      </a>
+      .
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      <sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a class="mw-redirect" href="/wiki/Wikipedia:NOTRS" title="Wikipedia:NOTRS">
+         <span title="This claim needs references to better sources. (September 2012)">
+          better source needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Water_footprint">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Water footprint
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#History">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            History
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Water_Footprint_Network_.28WFN.29">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            Water Footprint Network (WFN)
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-4">
+            <a href="#blue_water_footprint">
+             <span class="tocnumber">
+              1.2.1
+             </span>
+             <span class="toctext">
+              blue water footprint
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-5">
+            <a href="#green_water_footprint">
+             <span class="tocnumber">
+              1.2.2
+             </span>
+             <span class="toctext">
+              green water footprint
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-6">
+            <a href="#grey_water_footprint">
+             <span class="tocnumber">
+              1.2.3
+             </span>
+             <span class="toctext">
+              grey water footprint
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-7">
+            <a href="#sustainable_water_use">
+             <span class="tocnumber">
+              1.2.4
+             </span>
+             <span class="toctext">
+              sustainable water use
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Calculation_for_different_actors">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Calculation for different actors
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#International_standard">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            International standard
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Life_Cycle_Analysis_of_water_use">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Life Cycle Analysis of water use
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#Water_footprint_of_products">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Water footprint of products
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#Water_footprint_of_individual_consumers">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Water footprint of individual consumers
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#Water_footprint_of_companies">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Water footprint of companies
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#Water_footprint_of_nations">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Water footprint of nations
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-15">
+          <a href="#Europe">
+           <span class="tocnumber">
+            6.1
+           </span>
+           <span class="toctext">
+            Europe
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-16">
+        <a href="#Criticism_of_water_footprint_and_virtual_water">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Criticism of water footprint and virtual water
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-17">
+          <a href="#Insufficient_consideration_of_consequences_of_proposed_water_saving_policies_to_farm_households">
+           <span class="tocnumber">
+            7.1
+           </span>
+           <span class="toctext">
+            Insufficient consideration of consequences of proposed water saving policies to farm households
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-18">
+          <a href="#Insufficient_consideration_of_regional_water_scarcity">
+           <span class="tocnumber">
+            7.2
+           </span>
+           <span class="toctext">
+            Insufficient consideration of regional water scarcity
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-19">
+        <a href="#Environmental_water_use">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Environmental water use
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-20">
+        <a href="#Sectoral_distributions_of_withdrawn_water_use">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Sectoral distributions of withdrawn water use
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-21">
+        <a href="#See_also">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-22">
+        <a href="#References">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-23">
+        <a href="#External_links">
+         <span class="tocnumber">
+          12
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Water_footprint">
+       Water footprint
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=1" title="Edit section: Water footprint">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The
+      <b>
+       water footprint
+      </b>
+      of an individual, community or business is defined as the total volume of freshwater used to produce the goods and services consumed by the individual or community or produced by the business. Water use is measured in water volume consumed (evaporated) and/or polluted per unit of time. A water footprint can be calculated for any well-defined group of consumers (e.g., an individual, family, village, city, province, state or nation) or producers (e.g., a public organization, private enterprise or economic sector). The water footprint is a geographically explicit indicator, not only showing volumes of water use and pollution, but also the locations.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-0">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The water footprint of a country is related to what its people eat. For example, it is a common thought that the water involved in a cup of coffee is just the water in the cup.
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-1">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+      There is actually 140 litres of water involved. The 140 litres of water is the amount of water that was used to grow, produce, package, and ship the coffee beans.
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-2">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+      A
+      <a href="/wiki/Hamburger" title="Hamburger">
+       hamburger
+      </a>
+      needs an estimated 2,400 litres of water. This hidden water is technically called
+      <a href="/wiki/Virtual_water" title="Virtual water">
+       virtual water
+      </a>
+      .
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-3">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+      Therefore, eating a lot of meat means a large water footprint. However, care is needed to avoid misunderstanding the significance of water footprints of food. (See "Water footprint of products", below.)
+     </p>
+     <h3>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=2" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The water footprint concept was introduced in 2002 by Arjen Y. Hoekstra from
+      <a href="/wiki/UNESCO-IHE" title="UNESCO-IHE">
+       UNESCO-IHE
+      </a>
+      as an alternative indicator of water use.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      Water footprint is one of a family of footprint indicators, which also includes
+      <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+       carbon footprint
+      </a>
+      and
+      <a href="/wiki/Land_footprint" title="Land footprint">
+       land footprint
+      </a>
+      . The water footprint concept is further related to the idea of virtual water trade introduced by Professor
+      <a href="/wiki/John_Anthony_Allan" title="John Anthony Allan">
+       John Allan
+      </a>
+      (2008
+      <a href="/wiki/Stockholm_Water_Prize" title="Stockholm Water Prize">
+       Stockholm Water Prize Laureate
+      </a>
+      ). The most elaborate publications on how to estimate water footprints are a 2004 report on the "Water footprint of nations" from UNESCO-IHE
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      and the 2008 book
+      <i>
+       Globalization of Water
+      </i>
+      ,
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      and the 2011 manual “The water footprint assessment manual: Setting the global standard”.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      Cooperation between global leading institutions in the field has led to the establishment of the Water Footprint Network in 2008 that aims to coordinate efforts to further develop and disseminate knowledge on water footprint concepts, methods and tools.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Water_Footprint_Network_.28WFN.29">
+       Water Footprint Network (WFN)
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=3" title="Edit section: Water Footprint Network (WFN)">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The Water Footprint Network is an international learning community (non-profit foundation under Dutch law) that serves as a platform for connecting communities interested in sustainability, equitability and efficiency of water use. The organization has two work programmes: a Technical Work Programme and a Policy Work Programme. In addition, there is a Partner Forum which offer partners of the WFN a way of receiving, contributing and exchanging knowledge and experience on water footprint. Its mission and activities are listed below and taken directly from the Water Footprint website.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <h4>
+      <span class="mw-headline" id="blue_water_footprint">
+       blue water footprint
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=4" title="Edit section: blue water footprint">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The
+      <i>
+       blue water footprint
+      </i>
+      is the volume of
+      <a class="mw-redirect" href="/wiki/Freshwater" title="Freshwater">
+       freshwater
+      </a>
+      that evaporated from the global blue water resources (surface water and ground water) to produce the goods and services consumed by the individual or community (either lost through evapotranspiration, incorporated in products or transferred to non-blue catchments).
+     </p>
+     <h4>
+      <span class="mw-headline" id="green_water_footprint">
+       green water footprint
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=5" title="Edit section: green water footprint">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The
+      <i>
+       green water footprint
+      </i>
+      is the volume of water evaporated from the global green water resources (rainwater stored in the soil as soil moisture) during production or those incorporated in products.
+     </p>
+     <h4>
+      <span class="mw-headline" id="grey_water_footprint">
+       grey water footprint
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=6" title="Edit section: grey water footprint">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      The
+      <i>
+       grey water footprint
+      </i>
+      is the volume of
+      <a href="/wiki/Water_pollution" title="Water pollution">
+       polluted water
+      </a>
+      that associates with the production of all goods and services for the individual or community. The latter can be estimated as the volume of water that is required to dilute pollutants to such an extent that the quality of the water remains at or above agreed water quality standards. It is calculated as:
+     </p>
+     <p>
+      <span>
+       <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow class="MJX-TeXAtom-ORD">
+           <mstyle displaystyle="true" scriptlevel="0">
+            <mi>
+             W
+            </mi>
+            <msub>
+             <mi>
+              F
+             </mi>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi>
+               p
+              </mi>
+              <mi>
+               r
+              </mi>
+              <mi>
+               o
+              </mi>
+              <mi>
+               c
+              </mi>
+              <mo>
+               ,
+              </mo>
+              <mi>
+               g
+              </mi>
+              <mi>
+               r
+              </mi>
+              <mi>
+               e
+              </mi>
+              <mi>
+               y
+              </mi>
+             </mrow>
+            </msub>
+            <mo>
+             =
+            </mo>
+            <mrow class="MJX-TeXAtom-ORD">
+             <mfrac>
+              <mi>
+               L
+              </mi>
+              <mrow>
+               <msub>
+                <mi>
+                 c
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  m
+                 </mi>
+                 <mi>
+                  a
+                 </mi>
+                 <mi>
+                  x
+                 </mi>
+                </mrow>
+               </msub>
+               <mo>
+                −
+                <!-- − -->
+               </mo>
+               <msub>
+                <mi>
+                 c
+                </mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                 <mi>
+                  n
+                 </mi>
+                 <mi>
+                  a
+                 </mi>
+                 <mi>
+                  t
+                 </mi>
+                </mrow>
+               </msub>
+              </mrow>
+             </mfrac>
+            </mrow>
+           </mstyle>
+          </mrow>
+          <annotation encoding="application/x-tex">
+           {\displaystyle WF_{proc,grey}={\frac {L}{c_{max}-c_{nat}}}}
+          </annotation>
+         </semantics>
+        </math>
+       </span>
+       <img alt="WF_{{proc,grey}}={\frac  {L}{c_{{max}}-c_{{nat}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43ae6356551932e5c47f6188c6f880564e5e5438" style="vertical-align: -2.171ex; width:25.94ex; height:5.676ex;"/>
+      </span>
+     </p>
+     <p>
+      where
+      <i>
+       L
+      </i>
+      is the pollutant load (as
+      <a href="/wiki/Mass_flux" title="Mass flux">
+       mass flux
+      </a>
+      ),
+      <i>
+       c
+       <sub>
+        max
+       </sub>
+      </i>
+      the maximum allowable concentration and
+      <i>
+       c
+       <sub>
+        nat
+       </sub>
+      </i>
+      the natural concentration of the pollutant in the receiving water body (both expressed in mass/volume).
+      <sup class="reference" id="cite_ref-TheWaterFootprintAssessmentManual_15-0">
+       <a href="#cite_note-TheWaterFootprintAssessmentManual-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h4>
+      <span class="mw-headline" id="sustainable_water_use">
+       sustainable water use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=7" title="Edit section: sustainable water use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      <a class="mw-redirect" href="/wiki/Sustainable" title="Sustainable">
+       Sustainable
+      </a>
+      water use involves the rigorous assessment of all source of clean water to establish the current and future rates of use, the impacts of that use both downstream and in the wider area where the water may be used and the impact of contaminated water streams on the environment and economic well being of the area. It also involves the implementation of
+      <a href="/wiki/Social_policy" title="Social policy">
+       social policies
+      </a>
+      such as
+      <a href="/wiki/Water_pricing" title="Water pricing">
+       water pricing
+      </a>
+      in order to manage water demand.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      In some localities, water may also have spiritual relevance and the use of such water may need to take account of such interests. For example, the
+      <a href="/wiki/M%C4%81ori_people" title="Māori people">
+       Maori
+      </a>
+      believe that water is the source and foundation of all life and have many spiritual associations with water and places associated with water.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      On a national and global scale, water sustainability requires strategic and long term planning to ensure appropriate sources of clean water are identified and the environmental and economic impact of such choices are understood and accepted.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      The re-use and reclamation of water is also part of sustainability including downstream impacts on both surface waters and
+      <a class="mw-redirect" href="/wiki/Ground_water" title="Ground water">
+       ground waters
+      </a>
+      .
+      <sup class="reference" id="cite_ref-naumann_19-0">
+       <a href="#cite_note-naumann-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Calculation_for_different_actors">
+       Calculation for different actors
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=8" title="Edit section: Calculation for different actors">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The water footprint of a process is expressed as
+      <a href="/wiki/Volumetric_flow_rate" title="Volumetric flow rate">
+       volumetric flow rate
+      </a>
+      of water. That of a product is the whole footprint (sum) of processes in its complete supply chain divided by the number of product units. For consumers, businesses and geographic area, water footprint is indicated as volume of water per time, in particular:
+      <sup class="reference" id="cite_ref-TheWaterFootprintAssessmentManual_15-1">
+       <a href="#cite_note-TheWaterFootprintAssessmentManual-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       That of a consumer is the sum of footprint of all consumed products.
+      </li>
+      <li>
+       That of a community or a nation is the sum for all of its members resp. inhabitants.
+      </li>
+      <li>
+       That of a business is the footprint of all produced goods.
+      </li>
+      <li>
+       That of a geographically delineated area is the footprint of all processes undertaken in this area. The virtual water balance of an area is the net import of virtual water
+       <i>
+        V
+        <sub>
+         i, net
+        </sub>
+       </i>
+       , defined as the difference of the gross import
+       <i>
+        V
+        <sub>
+         i
+        </sub>
+       </i>
+       of virtual water from its gross export
+       <i>
+        V
+        <sub>
+         e
+        </sub>
+       </i>
+       . The water footprint of national consumption
+       <i>
+        WF
+        <sub>
+         area,nat
+        </sub>
+       </i>
+       results from this as the sum of the water footprint of national area and its virtual water balance.
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="International_standard">
+       International standard
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=9" title="Edit section: International standard">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In February 2011, the Water Footprint Network, in a global collaborative effort of environmental organizations, companies, research institutions and the UN, launched the
+      <a class="external text" href="http://www.waterfootprint.org/?page=files/GlobalWaterFootprintStandard" rel="nofollow">
+       Global Water Footprint Standard
+      </a>
+      . On July 24, 2014, ISO issued ISO 14046:2014, Environmental management—Water footprint—Principles, requirements and guidelines.
+      <a class="external autonumber" href="http://www.iso.org/iso/catalogue_detail?csnumber=43263" rel="nofollow">
+       [4]
+      </a>
+      The ISO standard is based on Life Cycle Assessment (LCA) principles and can be applied for different sorts of assessment of products and companies.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Life_Cycle_Analysis_of_water_use">
+       Life Cycle Analysis of water use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=10" title="Edit section: Life Cycle Analysis of water use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Life Cycle Analysis (LCA) is a systematic, phased approach to assessing the environmental aspects and potential impacts that are associated with a product, process or service. “Life cycle” “refers to the major activities in the course of the product’s life-span from its manufacture, use, and maintenance, to its final disposal, including the raw material acquisition required to manufacture the product”.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+      Thus a method for assessing the environmental impacts of freshwater consumption was developed. It specifically looks at the damage to three areas of protection: human health, ecosystem quality, and resources. The consideration of water consumption is crucial where water-intensive products (for example agricultural goods) are concerned and need to therefore undergo a life-cycle assessment.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+      In addition, regional assessments are equally as necessary as the impact of water use depends on its location. In short, LCA is important as it identifies the impact of water use in certain products, consumers, companies, nations, etc. which can help reduce the amount of water used.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Water_footprint_of_products">
+       Water footprint of products
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=11" title="Edit section: Water footprint of products">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The water footprint of a product is the total volume of freshwater used to produce the product, summed over the various steps of the production chain. The water footprint of a product refers not only to the total volume of water used; it also refers to where and when the water is used (Source:
+      <a class="external text" href="http://www.waterfootprint.org/?page=files/Glossary" rel="nofollow">
+       WFN Glossary
+      </a>
+      ). The Water Footprint Network maintains a global database on the water footprint of products:
+      <a class="external text" href="http://www.waterfootprint.org/?page=files/WaterStat" rel="nofollow">
+       WaterStat
+      </a>
+     </p>
+     <p>
+      The water footprints involved in various diets vary greatly, and much of the variation tends to be associated with levels of meat consumption.
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+      The following table gives some examples of estimated global average water footprints of some agricultural products.
+      <sup class="reference" id="cite_ref-Mekonnen2010a_23-0">
+       <a href="#cite_note-Mekonnen2010a-23">
+        [23]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+     </p>
+     <table class="wikitable">
+      <tr>
+       <th>
+        Product
+       </th>
+       <th>
+        Global average water footprint, L/kg
+       </th>
+      </tr>
+      <tr>
+       <td>
+        almonds, shelled
+       </td>
+       <td>
+        16,194
+       </td>
+      </tr>
+      <tr>
+       <td>
+        beef
+       </td>
+       <td>
+        15,415
+       </td>
+      </tr>
+      <tr>
+       <td>
+        chocolate
+       </td>
+       <td>
+        17,196
+       </td>
+      </tr>
+      <tr>
+       <td>
+        cotton lint
+       </td>
+       <td>
+        9,114
+       </td>
+      </tr>
+      <tr>
+       <td>
+        lettuce
+       </td>
+       <td>
+        238
+       </td>
+      </tr>
+      <tr>
+       <td>
+        milk
+       </td>
+       <td>
+        1,021
+       </td>
+      </tr>
+      <tr>
+       <td>
+        olive oil
+       </td>
+       <td>
+        14,430
+       </td>
+      </tr>
+      <tr>
+       <td>
+        tomatoes, fresh
+       </td>
+       <td>
+        214
+       </td>
+      </tr>
+      <tr>
+       <td>
+        tomatoes, dried
+       </td>
+       <td>
+        4,275
+       </td>
+      </tr>
+      <tr>
+       <td>
+        vanilla beans
+       </td>
+       <td>
+        126,505
+       </td>
+      </tr>
+      <tr>
+       <td>
+        wheat bread
+       </td>
+       <td>
+        1,608
+       </td>
+      </tr>
+     </table>
+     <p>
+      (For more product water footprints: see the
+      <a class="external text" href="http://www.waterfootprint.org/?page=files/productgallery" rel="nofollow">
+       Product Gallery of the Water Footprint Network
+      </a>
+      )
+     </p>
+     <h2>
+      <span class="mw-headline" id="Water_footprint_of_individual_consumers">
+       Water footprint of individual consumers
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=12" title="Edit section: Water footprint of individual consumers">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The water footprint of an individual refers to the sum of his or her direct and indirect freshwater use. The direct water use is the water used at home, while the indirect water use relates to the total volume of freshwater that is used to produce the goods and services consumed.
+     </p>
+     <p>
+      The average global water footprint of an individual is 1,385 m
+      <sup>
+       3
+      </sup>
+      per year. Residents in some example nations have a water footprints as shown in the table:
+     </p>
+     <table class="wikitable">
+      <tr>
+       <th>
+        Nation
+       </th>
+       <th>
+        annual water footprint
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/China" title="China">
+         China
+        </a>
+       </td>
+       <td>
+        1,071 m
+        <sup>
+         3
+        </sup>
+        <sup class="reference" id="cite_ref-WF-CN-IN-Hoekstra_25-0">
+         <a href="#cite_note-WF-CN-IN-Hoekstra-25">
+          [25]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Finland" title="Finland">
+         Finland
+        </a>
+       </td>
+       <td>
+        1,733 m
+        <sup>
+         3
+        </sup>
+        <sup class="reference" id="cite_ref-26">
+         <a href="#cite_note-26">
+          [26]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/India" title="India">
+         India
+        </a>
+       </td>
+       <td>
+        1,089 m
+        <sup>
+         3
+        </sup>
+        <sup class="reference" id="cite_ref-WF-CN-IN-Hoekstra_25-1">
+         <a href="#cite_note-WF-CN-IN-Hoekstra-25">
+          [25]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/United_Kingdom" title="United Kingdom">
+         United Kingdom
+        </a>
+       </td>
+       <td>
+        1,695 m
+        <sup>
+         3
+        </sup>
+        <sup class="reference" id="cite_ref-27">
+         <a href="#cite_note-27">
+          [27]
+         </a>
+        </sup>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/United_States" title="United States">
+         United States
+        </a>
+       </td>
+       <td>
+        2,842 m
+        <sup>
+         3
+        </sup>
+        <sup class="reference" id="cite_ref-28">
+         <a href="#cite_note-28">
+          [28]
+         </a>
+        </sup>
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="Water_footprint_of_companies">
+       Water footprint of companies
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=13" title="Edit section: Water footprint of companies">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The water footprint of a business, the 'corporate water footprint', is defined as the total volume of freshwater that is used directly or indirectly to run and support a business. It is the total volume of water use to be associated with the use of the business outputs. The water footprint of a business consists of water used for producing/manufacturing or for supporting activities and the indirect water use in the producer’s supply chain.
+     </p>
+     <p>
+      <a class="mw-redirect" href="/wiki/The_Carbon_Trust" title="The Carbon Trust">
+       The Carbon Trust
+      </a>
+      argue that a more robust approach is for businesses to go beyond simple volumetric measurement to assess the full range of water impact from all sites. Its work with leading global pharmaceutical company
+      <a href="/wiki/GlaxoSmithKline" title="GlaxoSmithKline">
+       GlaxoSmithKline
+      </a>
+      (GSK) analysed four key categories: water availability, water quality, health impacts, and licence to operate (including reputational and regulatory risks) in order to enable GSK to quantitatively measure, and credibly reduce, its year-on-year water impact.
+      <sup class="reference" id="cite_ref-29">
+       <a href="#cite_note-29">
+        [29]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The
+      <a class="mw-redirect" href="/wiki/Coca-Cola_Company" title="Coca-Cola Company">
+       Coca-Cola Company
+      </a>
+      operates over a thousand manufacturing plants in about 200 countries. Making its drink uses a lot of water. Critics say its water footprint has been large. Coca-Cola has started to look at its
+      <a class="mw-redirect" href="/wiki/Water_sustainability" title="Water sustainability">
+       water sustainability
+      </a>
+      .
+      <sup class="reference" id="cite_ref-30">
+       <a href="#cite_note-30">
+        [30]
+       </a>
+      </sup>
+      It has now set out goals to reduce its water footprint such as treating the water it uses so it goes back into the environment in a clean state. Another goal is to find sustainable sources for the raw materials it uses in its drinks, such as
+      <a href="/wiki/Sugarcane" title="Sugarcane">
+       sugarcane
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Oranges" title="Oranges">
+       oranges
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/Corn" title="Corn">
+       corn
+      </a>
+      . By making its water footprint better, the company can reduce costs, improve the environment, and benefit the communities in which it operates.
+      <sup class="reference" id="cite_ref-naumann_19-1">
+       <a href="#cite_note-naumann-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Water_footprint_of_nations">
+       Water footprint of nations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=14" title="Edit section: Water footprint of nations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The water footprint of a nation is the water used to produce the goods and services consumed by the inhabitants of the nation. The internal water footprint is the appropriation of domestic water resources; the external water footprint is the appropriation of water resources in other countries. About 65% of Japan's total water footprint comes from outside the country; about 7% of the Chinese water footprint falls outside China.
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-4">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Europe">
+       Europe
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=15" title="Edit section: Europe">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Category:Droughts_in_Europe" title="Category:Droughts in Europe">
+       Category:Droughts in Europe
+      </a>
+     </div>
+     <p>
+      Each
+      <a href="/wiki/Demographics_of_the_European_Union" title="Demographics of the European Union">
+       EU citizen
+      </a>
+      consumes 4,815 litres of water per day on average, 44% is used in power production primarily to cool thermal plants or
+      <a href="/wiki/Nuclear_power_in_the_European_Union" title="Nuclear power in the European Union">
+       nuclear power
+      </a>
+      plants. Energy production annual water consumption in the EU 27 in 2011 was as billion m3 for gas 0.53, coal 1.54 and nuclear 2.44.
+      <a class="mw-redirect" href="/wiki/Wind_energy" title="Wind energy">
+       Wind energy
+      </a>
+      avoided the use of 387 million cubic metres (mn m³) of water in 2012 avoiding a cost of €743 mn. The cost of
+      <a class="mw-redirect" href="/wiki/Droughts" title="Droughts">
+       droughts
+      </a>
+      in Europe over the past thirty years is according to the European Commission €100 billion.
+      <sup class="reference" id="cite_ref-31">
+       <a href="#cite_note-31">
+        [31]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-32">
+       <a href="#cite_note-32">
+        [32]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Criticism_of_water_footprint_and_virtual_water">
+       Criticism of water footprint and virtual water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=16" title="Edit section: Criticism of water footprint and virtual water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Insufficient_consideration_of_consequences_of_proposed_water_saving_policies_to_farm_households">
+       Insufficient consideration of consequences of proposed water saving policies to farm households
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=17" title="Edit section: Insufficient consideration of consequences of proposed water saving policies to farm households">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      According to Dennis Wichelns of the
+      <a href="/wiki/International_Water_Management_Institute" title="International Water Management Institute">
+       International Water Management Institute
+      </a>
+      :
+      <i>
+       Although one goal of virtual water analysis is to describe opportunities for improving water security, there is almost no mention of the potential impacts of the prescriptions arising from that analysis on farm households in industrialized or developing countries. It is essential to consider more carefully the inherent flaws in the virtual water and water footprint perspectives, particularly when seeking guidance regarding policy decisions.
+      </i>
+      <sup class="reference" id="cite_ref-33">
+       <a href="#cite_note-33">
+        [33]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Insufficient_consideration_of_regional_water_scarcity">
+       Insufficient consideration of regional water scarcity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=18" title="Edit section: Insufficient consideration of regional water scarcity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The application and interpretation of water footprints may sometimes be used to promote industrial activities that lead to facile criticism of certain products. For example, the 140 litres required for coffee production for one cup
+      <sup class="reference" id="cite_ref-waterfootprintorg_9-5">
+       <a href="#cite_note-waterfootprintorg-9">
+        [9]
+       </a>
+      </sup>
+      might be of no harm to water resources if its cultivation occurs mainly in humid areas, but could be damaging in more arid regions. Other factors such as hydrology, climate, geology, topography, population and demographics should also be taken into account. Nevertheless, high water footprint calculations do suggest that environmental concern may be appropriate.
+     </p>
+     <p>
+      The use of the term "footprint" can also confuse people familiar with the notion of a
+      <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+       carbon footprint
+      </a>
+      , because the water footprint concept includes sums of water quantities without necessarily evaluating related impacts. This is in contrast to the carbon footprint, where carbon emissions are not simply summarized but normalized by CO
+      <sub>
+       2
+      </sub>
+      emissions, which are globally identical, to account for the environmental harm. The difference is due to the somewhat more complex nature of water; while involved in the global hydrological cycle, it is expressed in conditions both local and regional through various forms like river basins, watersheds, on down to groundwater (as part of larger aquifer systems).
+     </p>
+     <p>
+      The water footprint of a business, the 'corporate water footprint', is defined as the total volume of fresh water that is used directly or indirectly to run and support a business. It is the total volume of water use to be associated with the use of the business outputs. The water footprint of a business consists of water used for producing/manufacturing or for supporting activities and the indirect water use in the producer’s supply chain. Water Credit for conserving water: Nagpur based innovator Shripad Vaidya's idea of giving water credit's, much like carbon credits, to those who save and conserve water is gaining ground. These water credits can be marketed or sold to those in need of surplus water for social,agricultural or industrial ventures.
+      <sup class="reference" id="cite_ref-34">
+       <a href="#cite_note-34">
+        [34]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-35">
+       <a href="#cite_note-35">
+        [35]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-36">
+       <a href="#cite_note-36">
+        [36]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Environmental_water_use">
+       Environmental water use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=19" title="Edit section: Environmental water use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Although agriculture’s water use includes provision of important terrestrial environmental values (as discussed in the “Water footprint of products” section above), and much “green water’ is used in maintaining forests and wild lands, there is also direct environmental use (e.g. of surface water) that may be allocated by governments. For example, in California, where water use issues are sometimes severe because of drought, about 48 percent of “dedicated water use” in an average water year is for the environment (somewhat more than for agriculture).
+      <sup class="reference" id="cite_ref-37">
+       <a href="#cite_note-37">
+        [37]
+       </a>
+      </sup>
+      Such environmental water use is for keeping streams flowing, maintaining aquatic and riparian habitats, keeping wetlands wet, etc.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Sectoral_distributions_of_withdrawn_water_use">
+       Sectoral distributions of withdrawn water use
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=20" title="Edit section: Sectoral distributions of withdrawn water use">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Several nations estimate sectoral distribution of use of water withdrawn from surface and groundwater sources. For example, in Canada, in 2005, 42 billion cu. m of withdrawn water were used, of which about 38 billion cu. m was freshwater. Distribution of this use among sectors was: thermoelectric power generation 66.2%, manufacturing 13.6%, residential 9.0%, agriculture 4.7%, commercial and institutional 2.7%, water treatment and distribution systems 2.3%, mining 1.1%, and oil and gas extraction 0.5%. The 38 billion cu.m of freshwater withdrawn in that year can be compared with the nation’s annual freshwater yield (estimated as streamflow) of 3,472 billion cu.m.
+      <sup class="reference" id="cite_ref-38">
+       <a href="#cite_note-38">
+        [38]
+       </a>
+      </sup>
+      Sectoral distribution is different in many respects in the US, where agriculture accounts for about 39% of fresh water withdrawals, thermoelectric power generation 38%, industrial 4%, residential 1%, and mining (including oil and gas) 1%.
+      <sup class="reference" id="cite_ref-Maupin2014_39-0">
+       <a href="#cite_note-Maupin2014-39">
+        [39]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Within the agricultural sector, withdrawn water use is for irrigation and for livestock. Whereas all irrigation in the US (including loss in conveyance of irrigation water) is estimated to account for about 38 percent of US withdrawn freshwater use,
+      <sup class="reference" id="cite_ref-Maupin2014_39-1">
+       <a href="#cite_note-Maupin2014-39">
+        [39]
+       </a>
+      </sup>
+      the irrigation water used for production of livestock feed and forage has been estimated to account for about 9 percent,
+      <sup class="reference" id="cite_ref-40">
+       <a href="#cite_note-40">
+        [40]
+       </a>
+      </sup>
+      and other withdrawn freshwater use for the livestock sector (for drinking, washdown of facilities, etc.) is estimated at about 0.7 percent.
+      <sup class="reference" id="cite_ref-Maupin2014_39-2">
+       <a href="#cite_note-Maupin2014-39">
+        [39]
+       </a>
+      </sup>
+      Because agriculture is a major user of withdrawn water, changes in the magnitude and efficiency of its water use are important. In the US, from 1980 (when agriculture’s withdrawn water use peaked) to 2010, there was a 23 percent reduction in agriculture’s use of withdrawn water,
+      <sup class="reference" id="cite_ref-Maupin2014_39-3">
+       <a href="#cite_note-Maupin2014-39">
+        [39]
+       </a>
+      </sup>
+      while US agricultural output increased by 49 percent over that period.
+      <sup class="reference" id="cite_ref-41">
+       <a href="#cite_note-41">
+        [41]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In the US, irrigation water application data are collected in the quintennial Farm and Ranch Irrigation Survey, conducted as part of the Census of Agriculture. Such data indicate great differences in irrigation water use within various agricultural sectors. For example, about 14 percent of corn-for-grain land and 11 percent of soybean land in the US are irrigated, compared with 66 percent of vegetable land, 79 percent of orchard land and 97 percent of rice land.
+      <sup class="reference" id="cite_ref-USDA2009_42-0">
+       <a href="#cite_note-USDA2009-42">
+        [42]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-43">
+       <a href="#cite_note-43">
+        [43]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=21" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg">
+          <img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Environment" title="Portal:Environment">
+          Environment portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Ecology" title="Portal:Ecology">
+          Ecology portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+      <ul>
+       <li>
+        <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+         Carbon footprint
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Deficit_irrigation" title="Deficit irrigation">
+         Deficit irrigation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ecological_footprint" title="Ecological footprint">
+         Ecological footprint
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Runoff_footprint" title="Runoff footprint">
+         Runoff footprint
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Social_metabolism" title="Social metabolism">
+         Social metabolism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Virtual_water" title="Virtual water">
+         Virtual water
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Waste_water" title="Waste water">
+         Waste water
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">
+         Water crisis
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Water_resource_management" title="Water resource management">
+         Water resource management
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Water_resources" title="Water resources">
+         Water resources
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=22" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Schneider, U. et al. 2014. GPCC’s new land surface precipitation climatology based on quality-controlled in-situ data and its role in quantifying the global water cycle. Theoretical and Applied Climatology. 115: 15-40.
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         FAO. Water use.
+         <a class="external free" href="http://www.fao.org/nr/water/aquastat/water_use/index.stm#tables" rel="nofollow">
+          http://www.fao.org/nr/water/aquastat/water_use/index.stm#tables
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-Frenken2012-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Frenken2012_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Frenken2012_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Frenken, K. and V. Gillet. 2012.
+         <a href="/wiki/Irrigation" title="Irrigation">
+          Irrigation
+         </a>
+         water requirement and water withdrawal by country. AQUASTAT, FAO.
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         FAO. 2014. Water withdrawal by sector, around 2007.
+         <a class="external free" href="http://www.fao.org/nr/water/aquastat/tables/WorldData-Withdrawal_eng.pdf" rel="nofollow">
+          http://www.fao.org/nr/water/aquastat/tables/WorldData-Withdrawal_eng.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://environment.newscientist.com/channel/earth/mg19926700.100-looming-water-crisis-simply-a-management-problem.html" rel="nofollow">
+          "Looming water crisis simply a management problem"
+         </a>
+         by Jonathan Chenoweth,
+         <a href="/wiki/New_Scientist" title="New Scientist">
+          New Scientist
+         </a>
+         28 Aug., 2008, pp. 28-32.
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.waterfootprint.org/Reports/Report50-NationalWaterFootprints-Vol1.pdf" rel="nofollow">
+           "Mekonnen, M.M. and Hoekstra, A.Y.,National water footprint accounts: the green, blue and grey water footprint of production and consumption, Value of Water Research Report Series No. 50, UNESCO-IHE, Delft, the Netherlands."
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <a class="new" href="/w/index.php?title=Water_Footprint_Network&amp;action=edit&amp;redlink=1" title="Water Footprint Network (page does not exist)">
+           Water Footprint Network
+          </a>
+          . 2011. Archived from
+          <a class="external text" href="http://www.waterfootprint.org/?page=cal/waterfootprintcalculator_national:" rel="nofollow">
+           the original
+          </a>
+          on 2014.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Mekonnen%2C+M.M.+and+Hoekstra%2C+A.Y.%2CNational+water+footprint+accounts%3A+the+green%2C+blue+and+grey+water+footprint+of+production+and+consumption%2C+Value+of+Water+Research+Report+Series+No.+50%2C+UNESCO-IHE%2C+Delft%2C+the+Netherlands.&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waterfootprint.org%2F%3Fpage%3Dcal%2Fwaterfootprintcalculator_national%3A&amp;rft.pub=Water+Footprint+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://web.archive.org/web/20081004003759/http://www.ibisworld.com/pressrelease/pressrelease.aspx?prid=125" rel="nofollow">
+           "Cashing in on climate change"
+          </a>
+          .
+          <a href="/wiki/IBISWorld" title="IBISWorld">
+           IBISWorld
+          </a>
+          . 29 May 2008. Archived from
+          <a class="external text" href="http://www.ibisworld.com/pressrelease/pressrelease.aspx?prid=125:" rel="nofollow">
+           the original
+          </a>
+          on 4 October 2008.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Cashing+in+on+climate+change&amp;rft.date=2008-05-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ibisworld.com%2Fpressrelease%2Fpressrelease.aspx%3Fprid%3D125%3A&amp;rft.pub=IBISWorld&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Definition taken from the Hoekstra, A.Y. and Chapagain, A.K. (2008) Globalization of water: Sharing the planet's freshwater resources, Blackwell Publishing, Oxford, UK.
+         <a class="external autonumber" href="http://www.blackwellpublishing.com/book.asp?ref=9781405163354&amp;site=1" rel="nofollow">
+          [1]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-waterfootprintorg-9">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-waterfootprintorg_9-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-waterfootprintorg_9-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-waterfootprintorg_9-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-waterfootprintorg_9-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-waterfootprintorg_9-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-waterfootprintorg_9-5">
+          <sup>
+           <i>
+            <b>
+             f
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.waterfootprint.org/?page=files/home" rel="nofollow">
+           "Waterfootprint.org: Water footprint and virtual water"
+          </a>
+          . The Water Footprint Network
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            9 April
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Waterfootprint.org%3A+Water+footprint+and+virtual+water&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waterfootprint.org%2F%3Fpage%3Dfiles%2Fhome&amp;rft.pub=The+Water+Footprint+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hoekstra, A.Y. (2003) (ed) Virtual water trade: Proceedings of the International Expert Meeting on Virtual Water Trade, IHE Delft, the Netherlands
+         <a class="external autonumber" href="http://www.waterfootprint.org/Reports/Report12.pdf" rel="nofollow">
+          [2]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.waterfootprint.org/Reports/Report16Vol1.pdf" rel="nofollow">
+          [3]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <i>
+          Globalization of Water
+         </i>
+         , A.Y. Hoekstra and A.K. Chapagain, Blackwell, 2008
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Hoekstra, Arjen (2011).
+          <a class="external text" href="http://www.waterfootprint.org/downloads/TheWaterFootprintAssessmentManual.pdf" rel="nofollow">
+           <i>
+            The water footprint assessment manual: Setting the global standard
+           </i>
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . London: Earthscan.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-1-84971-279-8" title="Special:BookSources/978-1-84971-279-8">
+           978-1-84971-279-8
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.aufirst=Arjen&amp;rft.aulast=Hoekstra&amp;rft.btitle=The+water+footprint+assessment+manual%3A+Setting+the+global+standard&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.waterfootprint.org%2Fdownloads%2FTheWaterFootprintAssessmentManual.pdf&amp;rft.isbn=978-1-84971-279-8&amp;rft.place=London&amp;rft.pub=Earthscan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.waterfootprint.org/?page=files/WFN-mission" rel="nofollow">
+           "Why a Water Footprint Network"
+          </a>
+          . Water Footprint Network
+          <span class="reference-accessdate">
+           . Retrieved 2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Why+a+Water+Footprint+Network&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waterfootprint.org%2F%3Fpage%3Dfiles%2FWFN-mission&amp;rft.pub=Water+Footprint+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          Check date values in:
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |access-date=
+          </code>
+          (
+          <a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-TheWaterFootprintAssessmentManual-15">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-TheWaterFootprintAssessmentManual_15-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-TheWaterFootprintAssessmentManual_15-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.waterfootprint.org/?page=files/WaterFootprintAssessmentManual" rel="nofollow">
+           "The Water Footprint Assessment Manual"
+          </a>
+          . Water Footprint Network
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2015-01-20
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=The+Water+Footprint+Assessment+Manual&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.waterfootprint.org%2F%3Fpage%3Dfiles%2FWaterFootprintAssessmentManual&amp;rft.pub=Water+Footprint+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.eea.europa.eu/themes/water/water-resources/policies-and-measures-to-promote-sustainable-water-use" rel="nofollow">
+           "Policies and measure to promote sustainable water use"
+          </a>
+          . Europeanm Environment Agency. 18 February 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            26 April
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Policies+and+measure+to+promote+sustainable+water+use&amp;rft.date=2008-02-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eea.europa.eu%2Fthemes%2Fwater%2Fwater-resources%2Fpolicies-and-measures-to-promote-sustainable-water-use&amp;rft.pub=Europeanm+Environment+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          e Ahukaramū Charles Royal (22 September 2012).
+          <a class="external text" href="http://www.teara.govt.nz/en/tangaroa-the-sea/page-5" rel="nofollow">
+           "Tangaroa – the sea - Water as the source of life"
+          </a>
+          . Encyclopaedia of New Zealand.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.au=e+Ahukaram%C5%AB+Charles+Royal&amp;rft.btitle=Tangaroa+%93+the+sea+-+Water+as+the+source+of+life&amp;rft.date=2012-09-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.teara.govt.nz%2Fen%2Ftangaroa-the-sea%2Fpage-5&amp;rft.pub=Encyclopaedia+of+New+Zealand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.oecd-ilibrary.org/environment/water-consumption-and-sustainable-water-resources-management_9789264162648-en" rel="nofollow">
+           "Water Consumption and Sustainable Water Resources Management"
+          </a>
+          . OECD Library. 25 March 1998.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9789264162648" title="Special:BookSources/9789264162648">
+           9789264162648
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            26 April
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=Water+Consumption+and+Sustainable+Water+Resources+Management&amp;rft.date=1998-03-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oecd-ilibrary.org%2Fenvironment%2Fwater-consumption-and-sustainable-water-resources-management_9789264162648-en&amp;rft.isbn=9789264162648&amp;rft.pub=OECD+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-naumann-19">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-naumann_19-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-naumann_19-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Naumann, Ruth (2011).
+          <i>
+           Sustainability
+          </i>
+          (1st ed.). North Shore, N.Z.: Cengage Learning. pp. 56–58.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-017021-034-8" title="Special:BookSources/978-017021-034-8">
+           978-017021-034-8
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.aufirst=Ruth&amp;rft.aulast=Naumann&amp;rft.btitle=Sustainability&amp;rft.date=2011&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=978-017021-034-8&amp;rft.pages=56-58&amp;rft.place=North+Shore%2C+N.Z.&amp;rft.pub=Cengage+Learning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Scientific Applications International Corporations (SAIC) (2006).
+          <i>
+           Life Cycle Assessment: Principles and Practice
+          </i>
+          . Reston, VA: SAIC.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.au=Scientific+Applications+International+Corporations+%28SAIC%29&amp;rft.btitle=Life+Cycle+Assessment%3A+Principles+and+Practice&amp;rft.date=2006&amp;rft.genre=book&amp;rft.place=Reston%2C+VA&amp;rft.pub=SAIC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Pfister, Stephan; Koehler, Annette; Hellweg, Stefanie (20 March 2009). "Assessing the Environmental Impacts of Freshwater Consumption in LCA".
+          <i>
+           Environmental Science
+          </i>
+          .
+          <b>
+           43
+          </b>
+          : 4008–104.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=Assessing+the+Environmental+Impacts+of+Freshwater+Consumption+in+LCA&amp;rft.aufirst=Stephan&amp;rft.au=Hellweg%2C+Stefanie&amp;rft.au=Koehler%2C+Annette&amp;rft.aulast=Pfister&amp;rft.date=2009-03-20&amp;rft.genre=article&amp;rft.jtitle=Environmental+Science&amp;rft.pages=4008-104&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=43">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Vanham, D., M. M.Mekonnen and A. Y. Hoekstra. 2013. The water footprint of the EU for different diets. Ecological Indicators 32: 1-8.
+        </span>
+       </li>
+       <li id="cite_note-Mekonnen2010a-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Mekonnen2010a_23-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Mekonnen, M. M. and A. Y. Hoekstra. 2010. The green, blue and grey water footprint of farm animals and animal products. Volume 1: Main report. UNESCO-IHE., Institute for Water Education. 50 pp.
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Mekonnen, M. M. and A. Y. Hoekstra. 2010. The green, blue and grey water footprint of crops and derived crop products. Volume 2. Appendices main report. Value of Water Research Report Series No. 47. UNESCO-IHE Institute for Water Education. 1196 pp.
+        </span>
+       </li>
+       <li id="cite_note-WF-CN-IN-Hoekstra-25">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-WF-CN-IN-Hoekstra_25-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-WF-CN-IN-Hoekstra_25-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Hoekstra, AY (2012). "The Water Footprint of Humanity".
+          <i>
+           <a class="mw-redirect" href="/wiki/PNAS" title="PNAS">
+            PNAS
+           </a>
+          </i>
+          .
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1073%2Fpnas.1109936109" rel="nofollow">
+           10.1073/pnas.1109936109
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=The+Water+Footprint+of+Humanity&amp;rft.aufirst=AY&amp;rft.aulast=Hoekstra&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1109936109&amp;rft.jtitle=PNAS&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Data obtained from the Finnish Wikipedia article page
+         <a class="extiw" href="https://fi.wikipedia.org/wiki/Vesijalanj%C3%A4lki" title="fi:Vesijalanjälki">
+          Vesijalanjälki
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Chapagain, A.K. &amp; Orr, S.
+          <a class="external text" href="http://assets.wwf.org.uk/downloads/water_footprint_uk.pdf" rel="nofollow">
+           "U.K. Water Footprint: The Impact of the U.K.'s Food and Fibre Consumption on Global Water Resources, Volume 1"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           WWF-UK
+          </i>
+          . WWF-UK.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=U.K.+Water+Footprint%3A+The+Impact+of+the+U.K.%27s+Food+and+Fibre+Consumption+on+Global+Water+Resources%2C+Volume+1&amp;rft.au=Chapagain%2C+A.K.&amp;rft.au=Orr%2C+S.&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fassets.wwf.org.uk%2Fdownloads%2Fwater_footprint_uk.pdf&amp;rft.jtitle=WWF-UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         and volume 2
+         <cite class="citation journal">
+          Chapagain, A.K. &amp; Orr, S.
+          <a class="external text" href="http://assets.wwf.org.uk/downloads/uk_waterfootprint_v2.pdf" rel="nofollow">
+           "Volume 2"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           WWF-UK
+          </i>
+          . WWF-UK.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=Volume+2&amp;rft.au=Chapagain%2C+A.K.&amp;rft.au=Orr%2C+S.&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fassets.wwf.org.uk%2Fdownloads%2Fuk_waterfootprint_v2.pdf&amp;rft.jtitle=WWF-UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://journalistsresource.org/studies/environment/sustainability/water-footprint-humanity/" rel="nofollow">
+           "The Water Footprint of Humanity"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=The+Water+Footprint+of+Humanity&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fjournalistsresource.org%2Fstudies%2Fenvironment%2Fsustainability%2Fwater-footprint-humanity%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         JournalistsResource.org, retrieved 20 March 2012
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.carbontrust.com/news/2014/11/water-water-everywhere-business-water-consumption" rel="nofollow">
+          "Water, water everywhere... or is it?"
+         </a>
+         ,
+         <i>
+          <a class="mw-redirect" href="/wiki/The_Carbon_Trust" title="The Carbon Trust">
+           The Carbon Trust
+          </a>
+         </i>
+         , 26 November 2014. Retrieved on 20 January 2015.
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.coca-colacompany.com/2013-water-stewardship-replenish-report/" rel="nofollow">
+           "2013 Water Report: The Coca-Cola Company"
+          </a>
+          . The Coca-Cola Company
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            8 April
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.btitle=2013+Water+Report%3A+The+Coca-Cola+Company&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.coca-colacompany.com%2F2013-water-stewardship-replenish-report%2F&amp;rft.pub=The+Coca-Cola+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ewea.org/fileadmin/files/library/publications/reports/Saving_water_with_wind_energy.pdf" rel="nofollow">
+          Saving water with wind energy
+         </a>
+         EWEA June 2014
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ewea.org/publications/reports/saving-water-with-wind-energy/" rel="nofollow">
+          Saving water with wind energy Summary EWEA
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Wichelns, Dennis (2010).
+          <a class="external text" href="http://www.iwmi.cgiar.org/publications/journal-articles/" rel="nofollow">
+           "Virtual water and water footprints offer limited insight regarding important policy questions"
+          </a>
+          .
+          <i>
+           International Journal of Water Resources Development
+          </i>
+          .
+          <b>
+           26
+          </b>
+          (4): 639–651.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1080%2F07900627.2010.519494" rel="nofollow">
+           10.1080/07900627.2010.519494
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2015-01-21
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+use&amp;rft.atitle=Virtual+water+and+water+footprints+offer+limited+insight+regarding+important+policy+questions&amp;rft.aufirst=Dennis&amp;rft.aulast=Wichelns&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.iwmi.cgiar.org%2Fpublications%2Fjournal-articles%2F&amp;rft_id=info%3Adoi%2F10.1080%2F07900627.2010.519494&amp;rft.issue=4&amp;rft.jtitle=International+Journal+of+Water+Resources+Development&amp;rft.pages=639-651&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.scribd.com/doc/97302583/Water-use" rel="nofollow">
+          http://www.scribd.com/doc/97302583/Water-use
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Limca Book of Records2012 page 278
+        </span>
+       </li>
+       <li id="cite_note-36">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-36">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://arnoneumann.wordpress.com/tag/environment-2/page/2/" rel="nofollow">
+          https://arnoneumann.wordpress.com/tag/environment-2/page/2/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-37">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-37">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         California Department of Water Resources. California State Water Project water supply.
+         <a class="external free" href="http://www.water.ca.gov/swp/watersupply.cfm" rel="nofollow">
+          http://www.water.ca.gov/swp/watersupply.cfm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-38">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-38">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Statistics Canada. 2010. Human activity and the environment. Freshwater supply and demand in Canada. Catalogue no. 16-201-X.
+        </span>
+       </li>
+       <li id="cite_note-Maupin2014-39">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Maupin2014_39-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Maupin2014_39-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Maupin2014_39-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Maupin2014_39-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Maupin, M. A. et al. 2014. Estimated use of water in the United States 2010. U. S. Geological Survey Circular 1405. 55 pp.
+        </span>
+       </li>
+       <li id="cite_note-40">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-40">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Zering, K. D., T. J. Centner, D. Meyer, G. L. Newton, J. M. Sweeten and S. Woodruff. 2012. Water and land issues associated with animal agriculture: a U.S. perspective. CAST Issue Paper No. 50. Council for Agricultural Science and Technology, Ames, Iowa. 24 pp.
+        </span>
+       </li>
+       <li id="cite_note-41">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-41">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         USA ERS.2013. Table 1. Indices of farm output, input and total factor productivity for the United States, 1948-2011. (last update 9/27/2013)
+         <a class="external free" href="http://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us.aspx#28247" rel="nofollow">
+          http://www.ers.usda.gov/data-products/agricultural-productivity-in-the-us.aspx#28247
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-USDA2009-42">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-USDA2009_42-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         US Department of Agriculture. 2009. 2007 Census of agriculture. Farm and ranch irrigation survey (2008). Volume 3. Special Studies. Part 1. AC-07-SS-1. 177 pp. + appendices.
+        </span>
+       </li>
+       <li id="cite_note-43">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-43">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         USDA. 2009. 2007 Census of agriculture. United States summary and State Data. Vol. 1. Geographic Area Series. Part 51. AC-07-A-51. 639 pp. + appendices.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Water_use&amp;action=edit&amp;section=23" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.waterfootprint.org/" rel="nofollow">
+        Water Footprint Network
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.wwf.org.uk/what_we_do/safeguarding_the_natural_world/rivers_and_lakes/key_issues" rel="nofollow">
+        WWF-UK
+        <i>
+         Key freshwater issues
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.wnf.nl/nl/wat_wnf_doet/thema_s/water/waterfootprint/index.cfm" rel="nofollow">
+        WWF-NL
+        <i>
+         Watervoetafdruk
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.unesco-ihe.org/Value-of-Water-Research-Report-Series" rel="nofollow">
+        UNESCO-IHE
+        <i>
+         Value of Water Research Report Series
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://visual.ly/water-footprint-crops" rel="nofollow">
+        Water Footprint of Crops | Visual.ly
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:18962147-0!*!0!!en!4!*!math=5 and timestamp 20161023031327 and revision id 745754632
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Water_use&amp;oldid=745754632">
+      https://en.wikipedia.org/w/index.php?title=Water_use&amp;oldid=745754632
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Water" title="Category:Water">
+         Water
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_supply" title="Category:Water supply">
+         Water supply
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_development_and_sustainability" title="Category:Water development and sustainability">
+         Water development and sustainability
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Environmental_issues_with_water" title="Category:Environmental issues with water">
+         Environmental issues with water
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">
+         CS1 errors: dates
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">
+         All articles lacking reliable references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2012" title="Category:Articles lacking reliable references from September 2012">
+         Articles lacking reliable references from September 2012
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Water+use" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+use" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Water_use" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Water_use" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Water_use">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Water_use&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Water_use&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Water_use" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Water_use" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Water_use&amp;oldid=745754632" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Water_use&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q26534" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Water_use&amp;id=745754632" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+use">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Water+use&amp;returnto=Water+use&amp;oldid=745754632&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Water_use&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Consum_d%27aigua" hreflang="ca" lang="ca" title="Consum d'aigua – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Huella_h%C3%ADdrica" hreflang="es" lang="es" title="Huella hídrica – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Ur-aztarna" hreflang="eu" lang="eu" title="Ur-aztarna – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Empreinte_eau" hreflang="fr" lang="fr" title="Empreinte eau – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AC%BC_%EB%B0%9C%EC%9E%90%EA%B5%AD" hreflang="ko" lang="ko" title="물 발자국 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8B%D6%80%D6%85%D5%A3%D5%BF%D5%A1%D5%A3%D5%B8%D6%80%D5%AE%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Ջրօգտագործում – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Watervoetafdruk" hreflang="nl" lang="nl" title="Watervoetafdruk – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Vannfotavtrykk" hreflang="no" lang="no" title="Vannfotavtrykk – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pegada_h%C3%ADdrica" hreflang="pt" lang="pt" title="Pegada hídrica – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Water_footprint" hreflang="simple" lang="simple" title="Water footprint – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vesijalanj%C3%A4lki" hreflang="fi" lang="fi" title="Vesijalanjälki – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%81%D0%BF%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Водоспоживання – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q26534#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 23 October 2016, at 03:13.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Water_use&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.300",
+            "walltime": "0.371",
+            "ppvisitednodes": {
+                "value": 1318,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 34094,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1466,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  298.086      1 -total",
+                " 51.15%  152.475      1 Template:Reflist",
+                " 23.51%   70.091      9 Template:Cite_web",
+                " 16.18%   48.225      4 Template:Convert",
+                " 14.03%   41.830      1 Template:Better_source",
+                " 12.55%   37.401      1 Template:Fix",
+                "  7.41%   22.090      3 Template:Cite_book",
+                "  7.22%   21.514      1 Template:Category_handler",
+                "  6.41%   19.120      5 Template:Cite_journal",
+                "  4.19%   12.494      1 Template:Delink"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.142",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5506369,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1196",
+            "timestamp": "20161023031322",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1215"});});
+  </script>
+ </body>
+</html>

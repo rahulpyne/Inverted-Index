@@ -1,0 +1,2276 @@
+https://en.wikipedia.org/wiki/Electric_power_quality
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Electric power quality - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electric_power_quality","wgTitle":"Electric power quality","wgCurRevisionId":738025839,"wgRevisionId":738025839,"wgArticleId":1679935,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electrical power control","Electric power quality","Power engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electric_power_quality","wgRelevantArticleId":1679935,"wgRequestId":"WBz98QpAEKgAADOMUtwAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1780079","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electric_power_quality" rel="alternate"/>
+  <link href="/w/index.php?title=Electric_power_quality&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Electric_power_quality&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Electric_power_quality" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electric_power_quality rootpage-Electric_power_quality skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Electric power quality
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Electric power quality
+      </b>
+      (EPQ), or simply
+      <b>
+       Power quality
+      </b>
+      , refers to "maintaining the near sinusoidal waveform of power distribution bus voltages and currents at rated magnitude and frequency.",
+      <sup class="reference" id="cite_ref-FOOTNOTEChattopadhyay20111_1-0">
+       <a href="#cite_note-FOOTNOTEChattopadhyay20111-1">
+        [1]
+       </a>
+      </sup>
+      determining the fitness of
+      <a href="/wiki/Electric_power" title="Electric power">
+       electric power
+      </a>
+      to
+      <a href="/wiki/Consumer" title="Consumer">
+       consumer
+      </a>
+      devices. Synchronization of the voltage frequency and phase allows
+      <a class="mw-redirect" href="/wiki/Grid_(electricity)" title="Grid (electricity)">
+       electrical systems
+      </a>
+      to function in their intended manner without significant loss of performance or life. The term is used to describe electric power that drives an
+      <a href="/wiki/Electrical_load" title="Electrical load">
+       electrical load
+      </a>
+      and the load's ability to function properly. Without the proper power, an electrical device (or load) may malfunction, fail prematurely or not operate at all. There are many ways in which electric power can be of poor quality and many more causes of such poor quality power.
+     </p>
+     <p>
+      The
+      <a href="/wiki/Electric_power_industry" title="Electric power industry">
+       electric power industry
+      </a>
+      comprises
+      <a href="/wiki/Electricity_generation" title="Electricity generation">
+       electricity generation
+      </a>
+      (
+      <a href="/wiki/AC_power" title="AC power">
+       AC power
+      </a>
+      ),
+      <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+       electric power transmission
+      </a>
+      and ultimately
+      <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+       electric power distribution
+      </a>
+      to an
+      <a href="/wiki/Electricity_meter" title="Electricity meter">
+       electricity meter
+      </a>
+      located at the premises of the end user of the electric power. The
+      <a href="/wiki/Electricity" title="Electricity">
+       electricity
+      </a>
+      then moves through the wiring system of the end user until it reaches the load. The complexity of the system to move electric energy from the point of production to the point of consumption combined with variations in weather, generation, demand and other factors provide many opportunities for the quality of supply to be compromised.
+     </p>
+     <p>
+      While "power quality" is a convenient term for many, it is the quality of the
+      <a href="/wiki/Voltage" title="Voltage">
+       voltage
+      </a>
+      —rather than power or
+      <a href="/wiki/Electric_current" title="Electric current">
+       electric current
+      </a>
+      —that is actually described by the term. Power is simply the flow of energy and the current demanded by a load is largely uncontrollable.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Variation_of_utility_frequency.svg">
+        <img alt="" class="thumbimage" data-file-height="1020" data-file-width="220" height="1020" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Variation_of_utility_frequency.svg/220px-Variation_of_utility_frequency.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Variation_of_utility_frequency.svg/330px-Variation_of_utility_frequency.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Variation_of_utility_frequency.svg/440px-Variation_of_utility_frequency.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Variation_of_utility_frequency.svg" title="Enlarge">
+         </a>
+        </div>
+        Frequency stability of some large electrical grids
+       </div>
+      </div>
+     </div>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Introduction">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Introduction
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Power_conditioning">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Power conditioning
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Smart_grids_and_power_quality">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Smart grids and power quality
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Power_quality_compression_algorithm">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Power quality compression algorithm
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Power_quality_challenges">
+           <span class="tocnumber">
+            4.1
+           </span>
+           <span class="toctext">
+            Power quality challenges
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Raw_data_compression">
+           <span class="tocnumber">
+            4.2
+           </span>
+           <span class="toctext">
+            Raw data compression
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Aggregated_data_compression">
+           <span class="tocnumber">
+            4.3
+           </span>
+           <span class="toctext">
+            Aggregated data compression
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Literature">
+           <span class="tocnumber">
+            5.1
+           </span>
+           <span class="toctext">
+            Literature
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Introduction">
+       Introduction
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=1" title="Edit section: Introduction">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The quality of electrical power may be described as a set of values of parameters, such as:
+     </p>
+     <ul>
+      <li>
+       <a class="new" href="/w/index.php?title=Continuity_of_service&amp;action=edit&amp;redlink=1" title="Continuity of service (page does not exist)">
+        Continuity of service
+       </a>
+       (Whether the electrical power is subject to voltage drops or overages below or above a threshold level thereby causing blackouts or brownouts
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       )
+      </li>
+      <li>
+       Variation in voltage magnitude (see below)
+      </li>
+      <li>
+       <a href="/wiki/Transient_(oscillation)" title="Transient (oscillation)">
+        Transient
+       </a>
+       voltages and currents
+      </li>
+      <li>
+       <a href="/wiki/Harmonics_(electrical_power)" title="Harmonics (electrical power)">
+        Harmonic
+       </a>
+       content in the waveforms for AC power
+      </li>
+     </ul>
+     <p>
+      It is often useful to think of power quality as a
+      <a class="extiw" href="https://en.wiktionary.org/wiki/compatibility" title="wikt:compatibility">
+       compatibility
+      </a>
+      problem: is the equipment connected to the grid compatible with the events on the grid, and is the power delivered by the grid, including the events, compatible with the equipment that is connected? Compatibility problems always have at least two solutions: in this case, either clean up the power, or make the equipment tougher.
+     </p>
+     <p>
+      The tolerance of data-processing equipment to voltage variations is often characterized by the
+      <a href="/wiki/International_Committee_for_Information_Technology_Standards#CBEMA_Curve" title="International Committee for Information Technology Standards">
+       CBEMA curve
+      </a>
+      , which give the duration and magnitude of voltage variations that can be tolerated.
+      <sup class="reference" id="cite_ref-pge_volts_3-0">
+       <a href="#cite_note-pge_volts-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Ideally, AC voltage is supplied by a utility as
+      <a href="/wiki/Sine_wave" title="Sine wave">
+       sinusoidal
+      </a>
+      having an amplitude and frequency given by national standards (in the case of
+      <a href="/wiki/Mains_electricity" title="Mains electricity">
+       mains
+      </a>
+      ) or system specifications (in the case of a power feed not directly attached to the mains) with an
+      <a href="/wiki/Electrical_impedance" title="Electrical impedance">
+       impedance
+      </a>
+      of zero
+      <a href="/wiki/Ohm" title="Ohm">
+       ohms
+      </a>
+      at all
+      <a href="/wiki/Frequency" title="Frequency">
+       frequencies
+      </a>
+      .
+     </p>
+     <p>
+      No real-life power source is ideal and generally can deviate in at least the following ways:
+     </p>
+     <ul>
+      <li>
+       Variations in the
+       <a href="/wiki/Amplitude" title="Amplitude">
+        peak
+       </a>
+       or
+       <a href="/wiki/Root_mean_square" title="Root mean square">
+        RMS
+       </a>
+       voltage are both important to different types of equipment.
+      </li>
+      <li>
+       When the RMS voltage exceeds the nominal voltage by 10 to 80% for 0.5 cycle to 1 minute, the event is called a "swell".
+      </li>
+      <li>
+       A "dip" (in British English) or a "sag" (in American English the two terms are equivalent) is the opposite situation: the RMS voltage is below the nominal voltage by 10 to 90% for 0.5 cycle to 1 minute.
+      </li>
+      <li>
+       Random or repetitive variations in the
+       <a href="/wiki/Root_mean_square" title="Root mean square">
+        RMS
+       </a>
+       voltage between 90 and 110% of nominal can produce a phenomenon known as "
+       <a class="mw-redirect" href="/wiki/Power_line_flicker" title="Power line flicker">
+        flicker
+       </a>
+       " in lighting equipment. Flicker is rapid visible changes of light level. Definition of the characteristics of voltage fluctuations that produce objectionable light flicker has been the subject of ongoing research.
+      </li>
+      <li>
+       Abrupt, very brief increases in voltage, called "
+       <a href="/wiki/Voltage_spike" title="Voltage spike">
+        spikes
+       </a>
+       ", "impulses", or "surges", generally caused by large
+       <a href="/wiki/Electric_motor" title="Electric motor">
+        inductive loads
+       </a>
+       being turned off, or more severely by
+       <a href="/wiki/Lightning" title="Lightning">
+        lightning
+       </a>
+       .
+      </li>
+      <li>
+       "Undervoltage" occurs when the nominal voltage drops below 90% for more than 1 minute. The term "brownout" is an apt description for voltage drops somewhere between full power (bright lights) and a blackout (no power – no light). It comes from the noticeable to significant dimming of regular incandescent lights, during system faults or overloading etc., when insufficient power is available to achieve full brightness in (usually) domestic lighting. This term is in common usage has no formal definition but is commonly used to describe a reduction in system voltage by the utility or system operator to decrease demand or to increase system operating margins.
+      </li>
+      <li>
+       "
+       <a href="/wiki/Overvoltage" title="Overvoltage">
+        Overvoltage
+       </a>
+       " occurs when the nominal voltage rises above 110% for more than 1 minute.
+      </li>
+      <li>
+       Variations in the
+       <a href="/wiki/Utility_frequency" title="Utility frequency">
+        frequency
+       </a>
+       .
+      </li>
+      <li>
+       Variations in the wave shape – usually described as
+       <a href="/wiki/Harmonics_(electrical_power)" title="Harmonics (electrical power)">
+        harmonics
+       </a>
+       at lower frequencies (usually less than 3 kHz) and described as Common Mode Distortion or Interharmonics at higher frequencies.
+      </li>
+      <li>
+       Nonzero low-frequency
+       <a href="/wiki/Electrical_impedance" title="Electrical impedance">
+        impedance
+       </a>
+       (when a load draws more power, the voltage drops).
+      </li>
+      <li>
+       Nonzero high-frequency impedance (when a load demands a large amount of current, then stops demanding it suddenly, there will be a dip or
+       <a href="/wiki/Voltage_spike" title="Voltage spike">
+        spike
+       </a>
+       in the voltage due to the inductances in the power supply line).
+      </li>
+     </ul>
+     <p>
+      Each of these power quality problems has a different cause. Some problems are a result of the shared infrastructure. For example, a fault on the network may cause a dip that will affect some customers; the higher the level of the fault, the greater the number affected. A problem on one customer’s site may cause a transient that affects all other customers on the same subsystem. Problems, such as harmonics, arise within the customer’s own installation and may propagate onto the network and affect other customers. Harmonic problems can be dealt with by a combination of good design practice and well proven reduction equipment.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Power_conditioning">
+       Power conditioning
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=2" title="Edit section: Power conditioning">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      <a href="/wiki/Power_conditioner" title="Power conditioner">
+       Power conditioning
+      </a>
+      is modifying the power to improve its quality.
+     </p>
+     <p>
+      An
+      <a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">
+       uninterruptible power supply
+      </a>
+      can be used to switch off of mains power if there is a
+      <a href="/wiki/Transient_(oscillation)" title="Transient (oscillation)">
+       transient
+      </a>
+      (temporary) condition on the line. However, cheaper UPS units create poor-quality power themselves, akin to imposing a higher-frequency and lower-
+      <a href="/wiki/Amplitude" title="Amplitude">
+       amplitude
+      </a>
+      <a href="/wiki/Square_wave" title="Square wave">
+       square wave
+      </a>
+      atop the sine wave. High-quality UPS units utilize a double conversion topology which breaks down incoming AC power into DC, charges the batteries, then remanufactures an AC sine wave. This remanufactured sine wave is of higher quality than the original AC power feed.
+      <sup class="reference" id="cite_ref-dcf_power_quality_4-0">
+       <a href="#cite_note-dcf_power_quality-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      A
+      <a href="/wiki/Surge_protector" title="Surge protector">
+       surge protector
+      </a>
+      or simple
+      <a href="/wiki/Capacitor" title="Capacitor">
+       capacitor
+      </a>
+      or
+      <a href="/wiki/Varistor" title="Varistor">
+       varistor
+      </a>
+      can protect against most overvoltage conditions, while a
+      <a href="/wiki/Lightning_arrester" title="Lightning arrester">
+       lightning arrester
+      </a>
+      protects against severe spikes.
+     </p>
+     <p>
+      <a href="/wiki/Electronic_filter" title="Electronic filter">
+       Electronic filters
+      </a>
+      can remove harmonics.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Smart_grids_and_power_quality">
+       Smart grids and power quality
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=3" title="Edit section: Smart grids and power quality">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Modern systems use sensors called
+      <a href="/wiki/Phasor_measurement_unit" title="Phasor measurement unit">
+       phasor measurement units
+      </a>
+      (PMU) distributed throughout their network to monitor power quality and in some cases respond automatically to them. Using such
+      <a href="/wiki/Smart_grid" title="Smart grid">
+       smart grids
+      </a>
+      features of rapid sensing and automated self healing of anomalies in the network promises to bring higher quality power and less downtime while simultaneously supporting power from
+      <a class="mw-redirect" href="/wiki/Intermittent_power_sources" title="Intermittent power sources">
+       intermittent power sources
+      </a>
+      and
+      <a href="/wiki/Distributed_generation" title="Distributed generation">
+       distributed generation
+      </a>
+      , which would if unchecked degrade power quality.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Power_quality_compression_algorithm">
+       Power quality compression algorithm
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=4" title="Edit section: Power quality compression algorithm">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A
+      <b>
+       power quality compression algorithm
+      </b>
+      is an
+      <a href="/wiki/Algorithm" title="Algorithm">
+       algorithm
+      </a>
+      used in the analysis of power quality. To provide high quality electric power service, it is essential to monitor the quality of the electric signals also termed as power quality (PQ) at different locations along an electrical
+      <a href="/wiki/Electrical_network" title="Electrical network">
+       power network
+      </a>
+      . Electrical utilities carefully monitor waveforms and currents at various network locations constantly, to understand what lead up to any unforeseen events such as a
+      <a href="/wiki/Power_outage" title="Power outage">
+       power outage
+      </a>
+      and blackouts. This is particularly critical at sites where the environment and public safety are at risk (institutions such as hospitals, sewage treatment plants, mines, etc.).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Power_quality_challenges">
+       Power quality challenges
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=5" title="Edit section: Power quality challenges">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Engineers have at their disposal many meters,
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      that are able to read and display electrical power waveforms and calculating parameters of the waveforms. These parameters may include, for example,
+      <a href="/wiki/Electric_current" title="Electric current">
+       current
+      </a>
+      and
+      <a href="/wiki/Voltage" title="Voltage">
+       voltage
+      </a>
+      RMS, phase relationship between waveforms of a multi-phase signal,
+      <a href="/wiki/Power_factor" title="Power factor">
+       power factor
+      </a>
+      ,
+      <a href="/wiki/Utility_frequency" title="Utility frequency">
+       frequency
+      </a>
+      ,
+      <a href="/wiki/Total_harmonic_distortion" title="Total harmonic distortion">
+       THD
+      </a>
+      , active power (KW), reactive power (Kvar), apparent power (KVA) and active energy (KWh), reactive energy (Kvarh) and apparent energy (KVAh) and many more. In order to sufficiently monitor unforeseen events, Ribeiro et al.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      explains that it is not enough to display these parameters, but to also capture voltage waveform data at all times. This is impracticable due to the large amount of data involved, causing what is known the “bottle effect”. For instance, at a sampling rate of 32 samples per cycle, 1,920 samples are collected per second. For three-phase meters that measure both voltage and current waveforms, the data is 6-8 times as much. More practical solutions developed in recent years store data only when an event occurs (for example, when high levels of power system
+      <a class="mw-redirect" href="/wiki/Harmonics" title="Harmonics">
+       harmonics
+      </a>
+      are detected) or alternatively to store the
+      <a href="/wiki/Alternating_current" title="Alternating current">
+       RMS
+      </a>
+      value of the electrical signals.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      This data, however, is not always sufficient to determine the exact nature of problems.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Raw_data_compression">
+       Raw data compression
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=6" title="Edit section: Raw data compression">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Nisenblat
+      <i>
+       et al.
+      </i>
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      proposes the idea of power quality compression algorithm (similar to
+      <a href="/wiki/Lossy_compression" title="Lossy compression">
+       lossy compression
+      </a>
+      methods) that enables meters to continuously store the waveform of one or more power signals, regardless whether or not an event of interest was identified. This algorithm referred to as PQZip empowers a processor with a memory that is sufficient to store the waveform, under normal power conditions, over a long period of time, of at least a month, two months or even a year. The compression is performed in real time, as the signals are acquired; it calculates a compression decision before all the compressed data is received. For instance should one parameter remain constant, and various others fluctuate, the compression decision retains only what is relevant from the constant data, and retains all the fluctuation data. It then decomposes the waveform of the power signal of numerous components, over various periods of the waveform. It concludes the process by compressing the values of at least some of these components over different periods, separately. This real time compression algorithm, performed independent of the sampling, prevents data gaps and has a typical 1000:1 compression ratio.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Aggregated_data_compression">
+       Aggregated data compression
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=7" title="Edit section: Aggregated data compression">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A typical function of a common power quality analyzer is a generation of data archive aggregated over given interval. Most typically 10 minute or 1 minute interval is used as specified by the IEC/IEEE PQ standards. A significant archive sizes are created during an operation of such instrument. As Kraus
+      <i>
+       et al.
+      </i>
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      have demonstrated the compression ratio on such archives using
+      <a href="/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm" title="Lempel–Ziv–Markov chain algorithm">
+       Lempel–Ziv–Markov chain algorithm
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Bzip" title="Bzip">
+       bzip
+      </a>
+      or other similar lossless compression algorithms can be significant. By using prediction and modeling on the stored time series in the actual power quality archive the efficiency of post processing compression is usually further improved. This combination of simplistic techniques implies savings in both data storage and data acquisition processes.
+     </p>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-FOOTNOTEChattopadhyay20111-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-FOOTNOTEChattopadhyay20111_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="#CITEREFChattopadhyay2011">
+          Chattopadhyay 2011
+         </a>
+         , p. 1.
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Energy Storage Association
+        </span>
+       </li>
+       <li id="cite_note-pge_volts-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-pge_volts_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.pge.com/includes/docs/pdfs/mybusiness/customerservice/energystatus/powerquality/voltage_tolerance.pdf" rel="nofollow">
+          pge.com – A utility pamphlet illustrating the CBEMA curve
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-dcf_power_quality-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-dcf_power_quality_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.datacenterfix.com/forum/viewtopic.php?f=4&amp;t=68" rel="nofollow">
+          datacenterfix.com - A Power Quality discussion on UPS design
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Galli et al.: Exploring the power of wavelet analysis?: Oct 1996, IEEE, IEEE Computer Applications in Power, vol. 9, issue 4, pp. 37-41
+         <a class="external autonumber" href="http://www.ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=539845" rel="nofollow">
+          [1]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Ribeiro et al.: An enhanced data compression method for applications in power quality analysis? Nov. 29-Dec. 2, 2001, IEEE, The 27th Annual Conference of the IEEE Industrial Electronics Society, 2001. IECON '01, vol. 1, pp. 676-681.
+         <a class="external autonumber" href="http://www.ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=976594" rel="nofollow">
+          [2]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Ribeiro et al.: An improved method for signal processing and compression in power quality evaluation? Apr. 2004, IEEE, IEEE Transactions on Power Delivery, vol. 19, issue 2, pp. 464-471.
+         <a class="external autonumber" href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1270480" rel="nofollow">
+          [3]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Nisenblat et al: Method of compressing values of a monitored electrical power signal. April 18, 2004
+         <a class="external autonumber" href="http://www.patentvest.com/console/reports/docs/grant/07415370.html" rel="nofollow">
+          [4]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Kraus, Jan; Tobiska, Tomas; Bubla, Viktor; , "Lossless encodings and compression algorithms applied on power quality datasets," Electricity Distribution - Part 1, 2009. CIRED 2009. 20th International Conference and Exhibition on , vol., no., pp.1-4, 8–11 June 2009 URL:
+         <a class="external free" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5255775&amp;isnumber=5255237" rel="nofollow">
+          http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=5255775&amp;isnumber=5255237
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h3>
+      <span class="mw-headline" id="Literature">
+       Literature
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Electric_power_quality&amp;action=edit&amp;section=9" title="Edit section: Literature">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="refbegin" style="">
+      <ul>
+       <li>
+        <cite class="citation book">
+         Dugan, Roger C.; Mark McGranaghan; Surya Santoso; H. Wayne Beaty (2003).
+         <i>
+          Electrical Power Systems Quality
+         </i>
+         . McGraw-Hill Companies, Inc.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-07-138622-X" title="Special:BookSources/0-07-138622-X">
+          0-07-138622-X
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=Roger+C.&amp;rft.au=H.+Wayne+Beaty&amp;rft.aulast=Dugan&amp;rft.au=Mark+McGranaghan&amp;rft.au=Surya+Santoso&amp;rft.btitle=Electrical+Power+Systems+Quality&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-07-138622-X&amp;rft.pub=McGraw-Hill+Companies%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Meier, Alexandra von (2006).
+         <i>
+          Electric Power Systems: A Conceptual Introduction
+         </i>
+         . John Wiley &amp; Sons, Inc.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0471178590" title="Special:BookSources/978-0471178590">
+          978-0471178590
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=Alexandra+von&amp;rft.aulast=Meier&amp;rft.btitle=Electric+Power+Systems%3A+A+Conceptual+Introduction&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0471178590&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Heydt, G.T. (1991).
+         <i>
+          Electric Power Quality
+         </i>
+         . Stars in a Circle Publications. Library Of Congress 621.3191.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=G.T.&amp;rft.aulast=Heydt&amp;rft.btitle=Electric+Power+Quality&amp;rft.date=1991&amp;rft.genre=book&amp;rft.pub=Stars+in+a+Circle+Publications.+Library+Of+Congress+621.3191&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Bollen, Math H.J. (2000).
+         <i>
+          Understanding Power Quality Problems: Voltage Sags and Interruptions
+         </i>
+         . New York: IEEE Press.
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0780347137">
+          ISBN 0-7803-4713-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=Math+H.J.&amp;rft.aulast=Bollen&amp;rft.btitle=Understanding+Power+Quality+Problems%3A+Voltage+Sags+and+Interruptions&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pub=New+York%3A+IEEE+Press.+ISBN+0-7803-4713-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Sankaran, C. (2002).
+         <i>
+          Power Quality
+         </i>
+         . CRC Press LLC.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-8493-1040-7" title="Special:BookSources/0-8493-1040-7">
+          0-8493-1040-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=C.&amp;rft.aulast=Sankaran&amp;rft.btitle=Power+Quality&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-8493-1040-7&amp;rft.pub=CRC+Press+LLC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Baggini, A. (2008).
+         <i>
+          Handbook of Power Quality
+         </i>
+         . Wiley.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-470-06561-7" title="Special:BookSources/978-0-470-06561-7">
+          978-0-470-06561-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=A.&amp;rft.aulast=Baggini&amp;rft.btitle=Handbook+of+Power+Quality&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-470-06561-7&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Kusko, Alex; Marc Thompson (2007).
+         <i>
+          Power Quality in Electrical Systems
+         </i>
+         . McGraw Hill.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-0-07-147075-9" title="Special:BookSources/978-0-07-147075-9">
+          978-0-07-147075-9
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=Alex&amp;rft.aulast=Kusko&amp;rft.au=Marc+Thompson&amp;rft.btitle=Power+Quality+in+Electrical+Systems&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-07-147075-9&amp;rft.pub=McGraw+Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book" id="CITEREFChattopadhyay2011">
+         Chattopadhyay, Surajit; Mitra, Madhuchhanda; Sengupta, Samarjit (2011).
+         <i>
+          Electric Power Quality
+         </i>
+         .
+         <a class="mw-redirect" href="/wiki/Springer_Science%2BBusiness" title="Springer Science+Business">
+          Springer Science+Business
+         </a>
+         .
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/978-94-007-0634-7" title="Special:BookSources/978-94-007-0634-7">
+          978-94-007-0634-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectric+power+quality&amp;rft.aufirst=Surajit&amp;rft.aulast=Chattopadhyay&amp;rft.au=Mitra%2C+Madhuchhanda&amp;rft.au=Sengupta%2C+Samarjit&amp;rft.btitle=Electric+Power+Quality&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-94-007-0634-7&amp;rft.pub=Springer+Science%2BBusiness&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <i>
+         IEEE Standard 519 Recommended Practices and Requirements for Harmonic Control in Electrical Power Systems
+        </i>
+        section 10.5
+        <i>
+         Flicker
+        </i>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="Electricity_delivery" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Electricity_delivery" style="font-size:114%">
+          <a href="/wiki/Electricity_delivery" title="Electricity delivery">
+           Electricity delivery
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Availability_factor" title="Availability factor">
+             Availability factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Base_load" title="Base load">
+             Base load
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Black_start" title="Black start">
+             Black start
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Capacity_factor" title="Capacity factor">
+             Capacity factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_factor" title="Demand factor">
+             Demand factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_demand_management" title="Energy demand management">
+             Demand management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">
+             Fault
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grid_energy_storage" title="Grid energy storage">
+             Grid storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+             Intermittency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">
+             Load factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+             Load following
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+             Nameplate capacity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peak_demand" title="Peak demand">
+             Peak demand
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Power quality
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Power-flow_study" title="Power-flow study">
+             Power-flow study
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Repowering" title="Repowering">
+             Repowering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">
+             Variability
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Sources
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a class="mw-redirect" href="/wiki/Non-renewable_energy" title="Non-renewable energy">
+              Nonrenewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Coal" title="Coal">
+                Coal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">
+                Fossil-fuel power station
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Natural_gas" title="Natural gas">
+                Natural gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Petroleum" title="Petroleum">
+                Petroleum
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power" title="Nuclear power">
+                Nuclear
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oil_shale" title="Oil shale">
+                Oil shale
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Renewable_energy" title="Renewable energy">
+              Renewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Biomass" title="Biomass">
+                Biomass
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Biofuel" title="Biofuel">
+                Biofuel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Geothermal_power" title="Geothermal power">
+                Geothermal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+                Hydro
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Marine_energy" title="Marine energy">
+                Marine
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Marine_current_power" title="Marine current power">
+                  Current
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Osmotic_power" title="Osmotic power">
+                  Osmotic
+                 </a>
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/Ocean_thermal_energy" title="Ocean thermal energy">
+                  Thermal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Tidal_power" title="Tidal power">
+                  Tidal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Wave_power" title="Wave power">
+                  Wave
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Solar_power" title="Solar power">
+                Solar
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power" title="Wind power">
+                Wind
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+          Generation
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/AC_power" title="AC power">
+             AC power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cogeneration" title="Cogeneration">
+             Cogeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Combined_cycle" title="Combined cycle">
+             Combined cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooling_tower" title="Cooling tower">
+             Cooling tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induction_generator" title="Induction generator">
+             Induction generator
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">
+             Micro CHP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Microgeneration" title="Microgeneration">
+             Microgeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rankine_cycle" title="Rankine cycle">
+             Rankine cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">
+             Three-phase electric power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Virtual_power_plant" title="Virtual power plant">
+             Virtual power plant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+           Transmission
+          </a>
+          <br/>
+          and
+          <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+           distribution
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Power_outage" title="Power outage">
+             Blackout
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Rolling_blackout" title="Rolling blackout">
+             Rolling blackout
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">
+             Brownout
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_response" title="Demand response">
+             Demand response
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Distributed_generation" title="Distributed generation">
+             Distributed generation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">
+             Dynamic demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+             Electric power distribution
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_system" title="Electric power system">
+             Electric power system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+             Electric power transmission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_grid" title="Electrical grid">
+             Electrical grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">
+             High-voltage direct current
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_management" title="Load management">
+             Load management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+             Pumped hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power_station" title="Power station">
+             Power station
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Power_storage" title="Power storage">
+             Power storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Smart_grid" title="Smart grid">
+             Smart grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_substation" title="Electrical substation">
+             Substation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Super_grid" title="Super grid">
+             Super grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transformer" title="Transformer">
+             Transformer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transmission_system_operator" title="Transmission system operator">
+             Transmission system operator
+            </a>
+            (TSO)
+           </li>
+           <li>
+            <a href="/wiki/Transmission_tower" title="Transmission tower">
+             Transmission tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Utility_pole" title="Utility pole">
+             Utility pole
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Protective
+          <br/>
+          devices
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">
+             Arc-fault_circuit_interrupter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">
+             Earth leakage circuit breaker
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Residual-current_device" title="Residual-current device">
+             Residual-current device
+            </a>
+            (GFI)
+           </li>
+           <li>
+            <a href="/wiki/Power-system_protection" title="Power-system protection">
+             Power-system protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Protective_relay" title="Protective relay">
+             Protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Digital_protective_relay" title="Digital protective relay">
+             Digital protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">
+             Sulfur hexafluoride circuit breaker
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Economics
+          <br/>
+          and policies
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_offset" title="Carbon offset">
+             Carbon offset
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">
+             Cost of electricity by source
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecotax" title="Ecotax">
+             Ecotax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_subsidies" title="Energy subsidies">
+             Energy subsidies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">
+             Feed-in tariff
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Net_metering" title="Net metering">
+             Net metering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pigovian_tax" title="Pigovian tax">
+             Pigovian tax
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_Energy_Certificates" title="Renewable Energy Certificates">
+             Renewable Energy Certificates
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_payments" title="Renewable energy payments">
+             Renewable energy payments
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_policy" title="Renewable energy policy">
+             Renewable energy policy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spark_spread" title="Spark spread">
+             Spark spread
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <dl>
+           <dt>
+            Categories
+           </dt>
+           <dd>
+            <a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">
+             Electric power distribution
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">
+             Electricity economics
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+             Power station technology
+            </a>
+           </dd>
+           <dt>
+            Portals
+           </dt>
+           <dd>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </dd>
+          </dl>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:1679935-0!*!0!!en!4!* and timestamp 20161104152934 and revision id 738025839
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electric_power_quality&amp;oldid=738025839">
+      https://en.wikipedia.org/w/index.php?title=Electric_power_quality&amp;oldid=738025839
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Electrical_power_control" title="Category:Electrical power control">
+         Electrical power control
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Electric_power_quality" title="Category:Electric power quality">
+         Electric power quality
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Power_engineering" title="Category:Power engineering">
+         Power engineering
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electric+power+quality" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Electric+power+quality" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Electric_power_quality" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Electric_power_quality" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Electric_power_quality">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Electric_power_quality&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Electric_power_quality&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Electric_power_quality" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Electric_power_quality" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Electric_power_quality&amp;oldid=738025839" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Electric_power_quality&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1780079" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electric_power_quality&amp;id=738025839" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electric+power+quality">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Electric+power+quality&amp;returnto=Electric+power+quality&amp;oldid=738025839&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Electric_power_quality&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%AF%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A9" hreflang="ar" lang="ar" title="جودة القدرة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kvalita_elektrick%C3%A9_energie" hreflang="cs" lang="cs" title="Kvalita elektrické energie – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sp%C3%A6ndingskvalitet" hreflang="da" lang="da" title="Spændingskvalitet – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Versorgungsqualit%C3%A4t" hreflang="de" lang="de" title="Versorgungsqualität – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Calidad_de_suministro_el%C3%A9ctrico" hreflang="es" lang="es" title="Calidad de suministro eléctrico – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D9%81%DB%8C%D8%AA_%D8%AA%D9%88%D8%A7%D9%86" hreflang="fa" lang="fa" title="کیفیت توان – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Power_quality" hreflang="fr" lang="fr" title="Power quality – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Qualit%C3%A0_dell%27energia" hreflang="it" lang="it" title="Qualità dell'energia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-or">
+        <a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%AA%E0%AC%BE%E0%AD%B1%E0%AC%BE%E0%AC%B0_%E0%AC%95%E0%AD%8D%E0%AC%B5%E0%AC%BE%E0%AC%B2%E0%AC%BF%E0%AC%9F%E0%AC%BF" hreflang="or" lang="or" title="ପାୱାର କ୍ଵାଲିଟି – Odia">
+         ଓଡ଼ିଆ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Jako%C5%9B%C4%87_energii_elektrycznej" hreflang="pl" lang="pl" title="Jakość energii elektrycznej – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Качество электрической энергии – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1780079#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 6 September 2016, at 13:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Electric_power_quality&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.120",
+            "walltime": "0.149",
+            "ppvisitednodes": {
+                "value": 957,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 35112,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 781,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  103.174      1 -total",
+                " 46.66%   48.146      8 Template:Cite_book",
+                " 27.91%   28.797      2 Template:Navbox",
+                " 26.15%   26.977      1 Template:Electricity_generation",
+                " 12.67%   13.073      1 Template:Sfn",
+                " 11.12%   11.474      1 Template:Navbox_subgroup",
+                "  7.10%    7.330      1 Template:Reflist",
+                "  2.23%    2.302      1 Template:Harvid",
+                "  1.79%    1.851      1 Template:Refbegin",
+                "  1.39%    1.430      3 Template:Longitem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.044",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3006206,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1274",
+            "timestamp": "20161104152934",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1213"});});
+  </script>
+ </body>
+</html>

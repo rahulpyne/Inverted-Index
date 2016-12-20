@@ -1,0 +1,1344 @@
+https://en.wikipedia.org/wiki/European_Biomass_Association
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   European Biomass Association - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Biomass_Association","wgTitle":"European Biomass Association","wgCurRevisionId":735621412,"wgRevisionId":735621412,"wgArticleId":51388,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with a promotional tone from July 2016","All articles with a promotional tone","Pages using infobox organization with unsupported parameters","Renewable energy","Natural resources organizations","Organisations based in Europe","Sustainable products","Soil improvers","Biomass","Wood fuel","Wood products"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Biomass_Association","wgRelevantArticleId":51388,"wgRequestId":"WBwQAgpAIDIAAAfhHfUAAABO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5412312","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/European_Biomass_Association" rel="alternate"/>
+  <link href="/w/index.php?title=European_Biomass_Association&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=European_Biomass_Association&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/European_Biomass_Association" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-European_Biomass_Association rootpage-European_Biomass_Association skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    European Biomass Association
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          contains content that is written like
+          <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">
+           an advertisement
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;action=edit">
+           improve it
+          </a>
+          by removing
+          <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">
+           promotional content
+          </a>
+          and inappropriate
+          <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">
+           external links
+          </a>
+          , and by adding encyclopedic content written from a
+          <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">
+           neutral point of view
+          </a>
+          .
+         </span>
+         <small>
+          <i>
+           (July 2016)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       European Biomass Association
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <div class="center">
+         <div class="floatnone">
+          <a class="image" href="/wiki/File:AEBIOM_logo_200x87.png">
+           <img alt="AEBIOM logo 200x87.png" data-file-height="87" data-file-width="220" height="87" src="//upload.wikimedia.org/wikipedia/commons/0/08/AEBIOM_logo_200x87.png" width="220"/>
+          </a>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Abbreviation
+       </th>
+       <td class="nickname">
+        AEBIOM
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Formation
+       </th>
+       <td class="note">
+        1990,
+        <a href="/wiki/Brussels" title="Brussels">
+         Brussels
+        </a>
+        ,
+        <a href="/wiki/Belgium" title="Belgium">
+         Belgium
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Type
+       </th>
+       <td>
+        <a class="mw-redirect" href="/wiki/Trade_Association" title="Trade Association">
+         Trade Association
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Purpose
+       </th>
+       <td>
+        <a href="/wiki/Renewable_energy" title="Renewable energy">
+         Renewable energy
+        </a>
+        ,
+        <a href="/wiki/Bioenergy" title="Bioenergy">
+         Bioenergy
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Headquarters
+       </th>
+       <td>
+        <a href="/wiki/Brussels" title="Brussels">
+         Brussels
+        </a>
+        ,
+        <a href="/wiki/Belgium" title="Belgium">
+         Belgium
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Region served
+        </div>
+       </th>
+       <td>
+        <a href="/wiki/Europe" title="Europe">
+         Europe
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Members
+        </div>
+       </th>
+       <td>
+        27 national associations 90 companies (2016)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         President
+        </div>
+       </th>
+       <td>
+        Gustav Melin (SE)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         General Secretary
+        </div>
+       </th>
+       <td>
+        Jean-Marc Jossart (BE)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Main organ
+        </div>
+       </th>
+       <td>
+        <a class="mw-redirect" href="/wiki/Board_of_Directors" title="Board of Directors">
+         Board of Directors
+        </a>
+        ,
+        <a class="mw-redirect" href="/wiki/Steering_Committee" title="Steering Committee">
+         Steering Committee
+        </a>
+        ,
+        <a class="mw-redirect" href="/wiki/General_Assembly" title="General Assembly">
+         General Assembly
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Staff
+        </div>
+       </th>
+       <td>
+        13 (2016)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Website
+       </th>
+       <td>
+        <a class="external text" href="http://www.aebiom.org/" rel="nofollow">
+         www.aebiom.org
+        </a>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       European Biomass Association
+      </b>
+      (AEBIOM, from the official
+      <a href="/wiki/French_language" title="French language">
+       French
+      </a>
+      name
+      <i>
+       Association Européenne pour la Biomasse
+      </i>
+      ) is a European trade association opens to national
+      <a href="/wiki/Biomass" title="Biomass">
+       biomass
+      </a>
+      associations and
+      <a href="/wiki/Bioenergy" title="Bioenergy">
+       bioenergy
+      </a>
+      companies active in
+      <a href="/wiki/Europe" title="Europe">
+       Europe
+      </a>
+      . AEBIOM was founded in 1990 and aims to promote biomass production and application throughout Europe.
+     </p>
+     <p>
+      AEBIOM is the umbrella organisation of the European Pellet Council (EPC),
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      the European Industry of Pellet Suppliers (EIPS) and the International Biomass Torrefaction Council (IBTC).
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#EU-projects">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          EU-projects
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Members_-_National_Associations">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Members - National Associations
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="EU-projects">
+       EU-projects
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=1" title="Edit section: EU-projects">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In 2016, AEBIOM was involved in different EU-funded projects:
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a class="external text" href="http://bioresproject.eu/" rel="nofollow">
+        BioRES
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.bioenergy4business.eu/" rel="nofollow">
+        Bioenergy4Business
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.biomasspolicies.eu/" rel="nofollow">
+        Biomass Policies
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.front-rhc.eu/" rel="nofollow">
+        FROnT
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.knowres-jobs.eu/en/" rel="nofollow">
+        KnowRES
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.africa-eu-renewables.org/" rel="nofollow">
+        Africa-EU Renewable Energy Cooperation Programme (RECP)
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Members_-_National_Associations">
+       Members - National Associations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=2" title="Edit section: Members - National Associations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Austrian Biomass Association - ABA
+      </li>
+      <li>
+       Association for extension of biomass in Spain - ADABE
+      </li>
+      <li>
+       British Biogen
+      </li>
+      <li>
+       Bulgarian Biomass Association -
+       <a class="external text" href="http://www.bab-bg.com/contacts.html" rel="nofollow">
+        BBA
+       </a>
+      </li>
+      <li>
+       Centrales Agrar-Rohstoff Marketing- und Energie-Netzwerk e.V. -
+       <a class="external text" href="https://www.carmen-ev.de/" rel="nofollow">
+        CARMEN
+       </a>
+      </li>
+      <li>
+       Czech Biomass Association -
+       <a class="external text" href="http://czbiom.cz/en/" rel="nofollow">
+        CZ-BIOM
+       </a>
+      </li>
+      <li>
+       Danish Biomass Association -
+       <a class="external text" href="http://www.danishenergyassociation.com/Theme/BiomassForEnergy.aspx" rel="nofollow">
+        DANBIO
+       </a>
+      </li>
+      <li>
+       Energy utilization Biomass Association -
+       <a class="external text" href="http://www.euba.bg/" rel="nofollow">
+        EUBA
+       </a>
+      </li>
+      <li>
+       Estonia Biofuels Association - EBU
+      </li>
+      <li>
+       European Wood Energy Technical Institute- ITEBE - France
+      </li>
+      <li>
+       Finnish Bioenergy Association -
+       <a class="external text" href="http://www.bioenergia.fi/English" rel="nofollow">
+        FINBIO
+       </a>
+      </li>
+      <li>
+       German BioEnergy Association -
+       <a class="external text" href="https://www.bioenergie.de/" rel="nofollow">
+        BBE
+       </a>
+      </li>
+      <li>
+       Greek Biomass Association -
+       <a class="external text" href="http://www.hellabiom.gr/?lang=en" rel="nofollow">
+        HELLABIOM
+       </a>
+      </li>
+      <li>
+       Hungarian Biomass Association - HBA
+      </li>
+      <li>
+       Italian Biomass Association - ITABIA
+      </li>
+      <li>
+       Irish Bioenergy Association -
+       <a class="external text" href="http://www.irbea.org" rel="nofollow">
+        IrBEA
+       </a>
+      </li>
+      <li>
+       Latvian Bioenergy Association -
+       <a class="external text" href="http://latbio.lv/en/home/" rel="nofollow">
+        LATBIO
+       </a>
+      </li>
+      <li>
+       Lithuanian Bioenergy Association -
+       <a class="external text" href="http://www.biokuras.lt/titulinis.html" rel="nofollow">
+        LITBIOMA
+       </a>
+      </li>
+      <li>
+       Norwegian Bioenergy Association -
+       <a class="external text" href="http://nobio.no/" rel="nofollow">
+        NOBIO
+       </a>
+      </li>
+      <li>
+       Polish Biomass Association -
+       <a class="external text" href="http://www.polbiom.pl/" rel="nofollow">
+        POLBIOM
+       </a>
+      </li>
+      <li>
+       Slovak Association for Biomass - SK-BIOM
+      </li>
+      <li>
+       Slovenian Biomass Association - SLO-BIOM
+      </li>
+      <li>
+       South Tyrol Biomass Association - STBA - Italy
+      </li>
+      <li>
+       Russian Biomass Association - RBA
+      </li>
+      <li>
+       Swedish Bioenergy Association -
+       <a class="external text" href="https://www.svebio.se/english" rel="nofollow">
+        SVEBIO
+       </a>
+      </li>
+      <li>
+       Swiss Farmer's Union - SBV
+      </li>
+      <li>
+       The Netherlands Bio-energy Association - NL-BEA
+      </li>
+      <li>
+       Ukrainian Bioenergy Association - UBA
+      </li>
+      <li>
+       Valorization of Biomass in Belgium -
+       <a class="external text" href="http://www.valbiom.be/" rel="nofollow">
+        ValBiom
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+      <ul>
+       <li>
+        <a href="/wiki/Renewable_energy" title="Renewable energy">
+         Renewable energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Bioenergy" title="Bioenergy">
+         Bioenergy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Biogas" title="Biogas">
+         Biogas
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Biofuel" title="Biofuel">
+         Biofuel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Biomass" title="Biomass">
+         Biomass
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lignocellulosic_biomass" title="Lignocellulosic biomass">
+         Lignocellulosic biomass
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Pellet_fuel" title="Pellet fuel">
+         Pellet fuel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Woodchips" title="Woodchips">
+         Woodchips
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Energy_crop" title="Energy crop">
+         Energy crop
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Miscanthus" title="Miscanthus">
+         Miscanthus
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Solid_fuel" title="Solid fuel">
+         Solid fuel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Renewable_heat" title="Renewable heat">
+         Renewable heat
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Pellet_mill" title="Pellet mill">
+         Pellet mill
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Pellet_stove" title="Pellet stove">
+         Pellet stove
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Cogeneration" title="Cogeneration">
+         Cogeneration
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/District_heating" title="District heating">
+         District heating
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">
+         Micro combined heat and power
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=4" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.aebiom.org" rel="nofollow">
+        AEBIOM website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.pelletcouncil.eu/" rel="nofollow">
+        EPC website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.biomasstorrefaction.org/" rel="nofollow">
+        IBTC website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.enplus-pellets.eu/" rel="nofollow">
+        ENplus website
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Biomass_Association&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ol class="references">
+      <li id="cite_note-1">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-1">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external free" href="http://www.pelletcouncil.eu/" rel="nofollow">
+         http://www.pelletcouncil.eu/
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-2">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-2">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external free" href="http://www.biomasstorrefaction.org/" rel="nofollow">
+         http://www.biomasstorrefaction.org/
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-3">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-3">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external free" href="http://www.aebiom.org/activities/european-ongoing-projects/" rel="nofollow">
+         http://www.aebiom.org/activities/european-ongoing-projects/
+        </a>
+       </span>
+      </li>
+     </ol>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:51388-0!*!0!!en!4!* and timestamp 20161103025135 and revision id 735621412
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;oldid=735621412">
+      https://en.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;oldid=735621412
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Renewable_energy" title="Category:Renewable energy">
+         Renewable energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">
+         Natural resources organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Organisations_based_in_Europe" title="Category:Organisations based in Europe">
+         Organisations based in Europe
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_products" title="Category:Sustainable products">
+         Sustainable products
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Soil_improvers" title="Category:Soil improvers">
+         Soil improvers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Biomass" title="Category:Biomass">
+         Biomass
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wood_fuel" title="Category:Wood fuel">
+         Wood fuel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wood_products" title="Category:Wood products">
+         Wood products
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_a_promotional_tone_from_July_2016" title="Category:Articles with a promotional tone from July 2016">
+         Articles with a promotional tone from July 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">
+         All articles with a promotional tone
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Pages_using_infobox_organization_with_unsupported_parameters" title="Category:Pages using infobox organization with unsupported parameters">
+         Pages using infobox organization with unsupported parameters
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=European+Biomass+Association" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=European+Biomass+Association" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/European_Biomass_Association" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li class="new" id="ca-talk">
+        <span>
+         <a accesskey="t" href="/w/index.php?title=Talk:European_Biomass_Association&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/European_Biomass_Association">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=European_Biomass_Association&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=European_Biomass_Association&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/European_Biomass_Association" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/European_Biomass_Association" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=European_Biomass_Association&amp;oldid=735621412" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=European_Biomass_Association&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5412312" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=European_Biomass_Association&amp;id=735621412" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Biomass+Association">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=European+Biomass+Association&amp;returnto=European+Biomass+Association&amp;oldid=735621412&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=European_Biomass_Association&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5412312#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 22 August 2016, at 00:30.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=European_Biomass_Association&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.104",
+            "walltime": "0.139",
+            "ppvisitednodes": {
+                "value": 1032,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 11551,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 809,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  114.403      1 -total",
+                " 58.43%   66.849      1 Template:Infobox_organization",
+                " 43.27%   49.500      1 Template:Infobox",
+                " 34.47%   39.440      1 Template:Advert",
+                " 22.13%   25.321      1 Template:Ambox",
+                " 11.75%   13.440      2 Template:Unbulleted_list",
+                "  5.72%    6.546      4 Template:If_empty",
+                "  5.47%    6.261      4 Template:Comma_separated_entries",
+                "  3.41%    3.898      1 Template:Colbegin",
+                "  1.74%    1.994      6 Template:Longitem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.042",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1901016,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1209",
+            "timestamp": "20161103025135",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1180"});});
+  </script>
+ </body>
+</html>

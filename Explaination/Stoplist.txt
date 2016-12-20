@@ -1,0 +1,67 @@
+Stop words - The term "Stop words" in context to Information Retrieval means those words which are extremely common in almost all the documents and have no direct contribution in finding a particular document, which is relevant to the user search. Such words can be removed from the vocabulary in order to save disk space and also to get rid of the overhead to traverse through those words during search process. Stop words vary for different languages. In English, stopwords are generally determiners, prepositions, auxilliary verbs etc. These determiners, prepositions, etc help us in constructing sentences and hence found equally distributed in the all the documents. This is the reason why stop words add no or little value to a search process. The list of such "Stop Words" is known as Stoplist and there are many ways to create a Stoplist. One can use the most frequent words from a term frequency table, use the least frequent words from a term frequency table or use low idf terms as stop words. The strategy used to create the below mentioned stoplist is as follows:
+	
+	1. Generate a term frequency table from a given corpus, where the occurence for each term is mentioned.
+	2. Sort the collection frequency in a descending order such that terms with maximum number of occurence appear at the top.
+	3. Scan through the terms from top and based on the relevance of the terms in respect to the topical content, choose a threshold value.
+	4. Make a stoplist of terms till that threshold.
+	5. Hand-filter the stoplist to remove the terms which are related to the topical content.
+
+The stop list generated using the unigram data is given below:
+
+STOP LIST:
+------------
+
+the
+of
+and
+in
+to
+a
+is
+for
+energy
+as
+by
+from
+on
+with
+that
+are
+s
+or
+be
+edit
+at
+was
+an
+it
+this
+2
+which
+has
+new
+also
+can
+1
+have
+may
+
+
+-------------
+
+The threshold value in this case is 37, i.e. top 37 terms from the term-frequency table for unigrams is selected to create the stoplist. Out of those 37 terms, 4 terms were excluded from the list as they were relevant to the topical content. They are as follows:-
+
+	a. energy -> Total term frequency : 37043
+	b. retrieved -> Total term frequency : 25119
+	c. power -> Total term frequency : 21498
+	d. solar -> Total term frequency : 10606
+
+
+CHOOSING THRESHOLD VALUE, EXPLANATION AND STOP LIST CONTENT:
+-----------------------------------------------------------
+
+Chooisng an optimum threshold value is of utmost importance while creating a stoplist because the threshold value decides the initial bulk of terms that needs to be added in the stoplist and then get hand-filtered for any topical content. In our case the threshold value is 37. If we had chosen a higher threshold value,  say 45, we might have added a few more stopwords in our initial stoplist but then more number of relevant terms had to be excluded during the hand-filter process because as we traverse down in a sorted term-frequency table, in a descending order, chances of getting a stopword drastically reduces while chances of getting topically related terms increases. For instance, if the threshold value was 45, terms like 'fuel', 'water', 'world', 'gas', 'used', 'united', 'heat', 'use' would have been added in the initial stoplist and then 'fuel', 'water', 'world', 'gas', 'united' and 'heat' would have been excluded from the list as they are relevant to our topical content and only 'used' and 'use' would have been retained in the stoplist. While choosing a lower threshold value would mean lesser number of stop words and hence increasing the overhead of indexing, query processing, etc unneccesarily. Hence a threshold value should be chosen in such a way that the initial selected bulk of terms have very few topically relevant terms in it.
+
+The hand-filter process is also equally important because we do not want any topically relevant term in our stoplist as those terms would not be indexed and as a result any query having those terms would not fetch the desired document containing those terms, because those terms would be ignored during query processing too. For instance if 'energy' was added in the list, then we would have not been able to fetch documents related to energy as the word 'energy' itself would have been ignored during indexing and during query processing.
+
+As explained above, most of the stop words in English are delimiters, prepositions, auxillary verbs and on closer inspection of the above mentioned stoplist, we will see determiners like 'the', 'a', 'an', 'that', 'this' etc along with prepositions and auxilliary verbs like 'in', 'to', 'of', 'for', 'by', 'is', 'are' etc added in the list. A couple of numeric terms like single digits '1', '2' have also been added as single digits hardly hold any relevance to a particular document. If we consider individual words for query processing and not phrases then it is safe to remove these terms before generating the index.

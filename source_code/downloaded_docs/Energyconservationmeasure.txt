@@ -1,0 +1,1448 @@
+https://en.wikipedia.org/wiki/Energy_conservation_measure
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Energy conservation measure - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_conservation_measure","wgTitle":"Energy conservation measure","wgCurRevisionId":740572365,"wgRevisionId":740572365,"wgArticleId":27295200,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Energy conservation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_conservation_measure","wgRelevantArticleId":27295200,"wgRequestId":"WBwEvApAIDEAADjesyEAAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5377030","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_conservation_measure" rel="alternate"/>
+  <link href="/w/index.php?title=Energy_conservation_measure&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Energy_conservation_measure&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Energy_conservation_measure" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_conservation_measure rootpage-Energy_conservation_measure skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Energy conservation measure
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Energy_conservation" title="Energy conservation">
+       energy conservation
+      </a>
+     </div>
+     <p>
+      An
+      <b>
+       <a href="/wiki/Energy_conservation" title="Energy conservation">
+        Energy conservation
+       </a>
+       measure
+      </b>
+      (ECM) is any type of project conducted, or technology implemented, to reduce the consumption of energy in a building. The types of projects implemented can be in a variety of forms but usually are designed to reduce utility costs: water, electricity and gas being the main three for industrial and commercial enterprises. The aim of an ECM should be to achieve a savings, reducing the amount of
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      used by a particular process, technology or facility.
+     </p>
+     <p>
+      Energy conservation measures are often combined into larger guaranteed
+      <a href="/wiki/Energy_Savings_Performance_Contract" title="Energy Savings Performance Contract">
+       Energy Savings Performance Contracts
+      </a>
+      to maximize energy savings while minimizing disruption to building occupants by coordinating renovations. Some ECMs cost less to implement yet return a higher energy savings. Traditionally, lighting projects were a good example of “low hanging fruit”
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      that could be used to drive implementation of more substantial upgrades to HVAC systems in large facilities. Smaller buildings might combine window replacement with modern insulation using advanced building foams to improve energy performance. Energy dashboard projects
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      are a new kind of ECM which relies on the behavioral change of building occupants to save energy. When implemented as part of a program, case studies (such as that for the DC Schools) report energy savings up 30%.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      Under the right circumstances, open energy dashboards can even be implemented for free
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      to improve upon these savings even more.
+     </p>
+     <p>
+      On a global basis
+      <a href="/wiki/Energy_conservation" title="Energy conservation">
+       energy efficiency
+      </a>
+      works behind the scenes to improve our energy security, lower our energy bills and move us closer to reaching our climate goals. According to the IEA, some 40% of the global energy efficiency market is financed with debt and equity.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <a href="/wiki/Energy_Performance_Investment" title="Energy Performance Investment">
+       Energy Performance Investment
+      </a>
+      are one financing mechanism by which ECMs can be implemented now and paid for by the savings realized over the life of the project. While all 50 states, Puerto Rico and Washington, D.C., have statutes allowing companies to offer energy savings performance contracts, success varies because of variations in the approach, the state’s degree of involvement and other factors.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      Homes and businesses are implementing energy-efficiency measures that include low-energy lighting, insulation and even high tech energy dashboards to cut bills by avoiding waste and boosting productivity.
+     </p>
+     <p>
+      Businesses implementing ECMs in their commercial buildings often employ
+      <a href="/wiki/Energy_service_company" title="Energy service company">
+       Energy Service Companies
+      </a>
+      (ESCOs) experienced in energy performance contracting . This industry has been around since the 1970s and is more prevalent than ever today. The US-based organization EVO (Efficiency Valuation Organization)
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      has created a set of guidelines for ESCOs to adhere to in evaluating the savings achieved by ECMs. These guidelines are called the
+      <a class="mw-redirect" href="/wiki/IPMVP" title="IPMVP">
+       International Performance Measurement and Verification Protocol
+      </a>
+      (IPMVP).
+     </p>
+     <p>
+      Homeowners implementing ECMs in their residential buildings often start with an
+      <a href="/wiki/Energy_audit" title="Energy audit">
+       energy audit
+      </a>
+      . This is a way homeowners look at what areas of their homes are using, and possibly losing energy. Residential energy auditors are accredited by the
+      <a class="new" href="/w/index.php?title=Building_Performance_Institute&amp;action=edit&amp;redlink=1" title="Building Performance Institute (page does not exist)">
+       Building Performance Institute
+      </a>
+      (BPI)
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      or the Residential Energy Services Network (
+      <a class="new" href="/w/index.php?title=RESNET&amp;action=edit&amp;redlink=1" title="RESNET (page does not exist)">
+       RESNET
+      </a>
+      ).
+      <sup class="reference" id="cite_ref-energy.ca.gov_10-0">
+       <a href="#cite_note-energy.ca.gov-10">
+        [10]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Southface_11-0">
+       <a href="#cite_note-Southface-11">
+        [11]
+       </a>
+      </sup>
+      Homeowners can hire a professional or do it themselves
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      or use a
+      <a href="/wiki/Smartphone" title="Smartphone">
+       smartphone
+      </a>
+      to help do an audit.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Types_of_energy_conservation_measures">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Types of energy conservation measures
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Energy_Dashboards">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Energy Dashboards
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Insulation">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            Insulation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Lighting">
+           <span class="tocnumber">
+            1.3
+           </span>
+           <span class="toctext">
+            Lighting
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Water">
+           <span class="tocnumber">
+            1.4
+           </span>
+           <span class="toctext">
+            Water
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Windows">
+           <span class="tocnumber">
+            1.5
+           </span>
+           <span class="toctext">
+            Windows
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#References">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Types_of_energy_conservation_measures">
+       Types of energy conservation measures
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=1" title="Edit section: Types of energy conservation measures">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Energy_Dashboards">
+       Energy Dashboards
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=2" title="Edit section: Energy Dashboards">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Energy Dashboards combine smart metering and Internet technologies to provide real-time data on energy use. Their success is based on the premise that real-time feedback drives behavior change and improves operational efficiency. Energy Dashboards are used to enable energy reduction competitions, showcase real-time building performance and
+      <a href="/wiki/Green_building" title="Green building">
+       green building
+      </a>
+      features, and empower occupants to become active participants in energy management.
+      <a href="/wiki/Sustainability" title="Sustainability">
+       Sustainability
+      </a>
+      teams from major corporations, governments, universities and K–12 public schools use energy dashboards as an effective communication tool that creates transparency.
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/BACnet" title="BACnet">
+        BACnet
+       </a>
+       +
+       <a href="/wiki/Drupal" title="Drupal">
+        Drupal
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Building_automation" title="Building automation">
+        Building automation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Gas_meter" title="Gas meter">
+        Gas meter
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Home_Automation" title="Home Automation">
+        Home Automation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Smart_grid" title="Smart grid">
+        Smart grid
+       </a>
+       and
+       <a href="/wiki/Smart_meter" title="Smart meter">
+        Smart meter
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Water_metering" title="Water metering">
+        Water metering
+       </a>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Insulation">
+       Insulation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=3" title="Edit section: Insulation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Insulation decreases thermal losses in cold climates and thermal gains in hot climates thus reducing
+      <a href="/wiki/HVAC" title="HVAC">
+       HVAC
+      </a>
+      loads.
+     </p>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/House_insulation" title="House insulation">
+        House insulation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Thermal_insulation" title="Thermal insulation">
+        Thermal insulation
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Cotton_insulation&amp;action=edit&amp;redlink=1" title="Cotton insulation (page does not exist)">
+        Cotton insulation
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Natural_wool_insulation&amp;action=edit&amp;redlink=1" title="Natural wool insulation (page does not exist)">
+        Natural wool insulation
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=VOCs_in_fiberglass_insulation&amp;action=edit&amp;redlink=1" title="VOCs in fiberglass insulation (page does not exist)">
+        VOCs in fiberglass insulation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Cellulose_insulation" title="Cellulose insulation">
+        Cellulose insulation
+       </a>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Lighting">
+       Lighting
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=4" title="Edit section: Lighting">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      One of the simplest ways consumers save a copious amount of energy is switching
+      <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">
+       incandescent light bulb
+      </a>
+      to a
+      <a class="mw-redirect" href="/wiki/Compact_fluorescent" title="Compact fluorescent">
+       compact fluorescent
+      </a>
+      lamp (CFL). A 15W
+      <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">
+       CFL
+      </a>
+      is capable of providing just as much light as a 60W incandescent, while consuming just one fourth of the amount of energy.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">
+        Compact fluorescent lamp
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Fluorescent_bulbs" title="Fluorescent bulbs">
+        Fluorescent bulbs
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/LED_lighting" title="LED lighting">
+        LED lighting
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Linear_fluorescent_retrofit_(T12_to_T8)&amp;action=edit&amp;redlink=1" title="Linear fluorescent retrofit (T12 to T8) (page does not exist)">
+        Linear fluorescent retrofit (T12 to T8)
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Sky_lights&amp;action=edit&amp;redlink=1" title="Sky lights (page does not exist)">
+        Sky lights
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Smart_windows" title="Smart windows">
+        Smart windows
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Solar_charged_flashlight&amp;action=edit&amp;redlink=1" title="Solar charged flashlight (page does not exist)">
+        Solar charged flashlight
+       </a>
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Solar_lights&amp;action=edit&amp;redlink=1" title="Solar lights (page does not exist)">
+        Solar lights
+       </a>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Water">
+       Water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=5" title="Edit section: Water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The average US homes wastes thousands of gallons of water a year.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      There are many water saving solutions that also save energy.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       1.6 GPM or less
+       <a class="new" href="/w/index.php?title=Low_flow_showerheads&amp;action=edit&amp;redlink=1" title="Low flow showerheads (page does not exist)">
+        low flow showerheads
+       </a>
+      </li>
+      <li>
+       Ultra
+       <a class="mw-redirect" href="/wiki/Low_flush_toilet" title="Low flush toilet">
+        low flush toilet
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Composting_toilets" title="Composting toilets">
+        Composting toilets
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Faucet_aerator" title="Faucet aerator">
+        Faucet aerator
+       </a>
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Windows">
+       Windows
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=6" title="Edit section: Windows">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a class="mw-redirect" href="/wiki/Windows" title="Windows">
+       Windows
+      </a>
+      may be one of the biggest contributing factors to energy loss and uncomfortable spaces.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      Individuals might find some ECMs related to windows more cost effective than others such as
+      <a class="new" href="/w/index.php?title=Thermal_curtains&amp;action=edit&amp;redlink=1" title="Thermal curtains (page does not exist)">
+       thermal curtains
+      </a>
+      ,
+      <a href="/wiki/Window_insulation_film" title="Window insulation film">
+       films
+      </a>
+      , or
+      <a class="mw-redirect" href="/wiki/Smart_windows" title="Smart windows">
+       Smart windows
+      </a>
+      .
+     </p>
+     <p>
+      <b>
+       Please add more
+      </b>
+     </p>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_conservation_measure&amp;action=edit&amp;section=7" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.publicpower.org/Media/magazine/ArticleDetail.cfm?ItemNumber=40476" rel="nofollow">
+          http://www.publicpower.org/Media/magazine/ArticleDetail.cfm?ItemNumber=40476
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://green.blogs.nytimes.com/2009/05/08/an-energy-dashboard-for-buildings/" rel="nofollow">
+          http://green.blogs.nytimes.com/2009/05/08/an-energy-dashboard-for-buildings/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.dcgreenschoolschallenge.com" rel="nofollow">
+          http://www.dcgreenschoolschallenge.com
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.drupal.org/project/bacnet" rel="nofollow">
+          https://www.drupal.org/project/bacnet
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.iea.org/newsroomandevents/pressreleases/2014/october/global-energy-efficiency-market-an-invisible-powerhouse-at-least-usd-310byr.html" rel="nofollow">
+           "Global Energy Efficiency"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation+measure&amp;rft.btitle=Global+Energy+Efficiency&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iea.org%2Fnewsroomandevents%2Fpressreleases%2F2014%2Foctober%2Fglobal-energy-efficiency-market-an-invisible-powerhouse-at-least-usd-310byr.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.ncsl.org/research/energy/state-energy-savings-performance-contracting.aspx" rel="nofollow">
+          http://www.ncsl.org/research/energy/state-energy-savings-performance-contracting.aspx
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.portal.state.pa.us/portal/server.pt/community/guaranteed_energy_savings_act/14339" rel="nofollow">
+          http://www.portal.state.pa.us/portal/server.pt/community/guaranteed_energy_savings_act/14339
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.evo-world.org" rel="nofollow">
+           "Efficiency Valuation Organization"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation+measure&amp;rft.btitle=Efficiency+Valuation+Organization&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.evo-world.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.bpi.org/professionals.aspx" rel="nofollow">
+          http://www.bpi.org/professionals.aspx
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-energy.ca.gov-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-energy.ca.gov_10-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.energy.ca.gov/HERS/index.html" rel="nofollow">
+           "Home Energy Rating System Program (HERS)"
+          </a>
+          . Energy.ca.gov
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2012-03-29
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation+measure&amp;rft.btitle=Home+Energy+Rating+System+Program+%28HERS%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.ca.gov%2FHERS%2Findex.html&amp;rft.pub=Energy.ca.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Southface-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Southface_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.southface.org/learning-center/trainings/home-energy-rating-system" rel="nofollow">
+           "Home Energy Rating System"
+          </a>
+          . Southface.org
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2012-03-29
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation+measure&amp;rft.btitle=Home+Energy+Rating+System&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.southface.org%2Flearning-center%2Ftrainings%2Fhome-energy-rating-system&amp;rft.pub=Southface.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Stephens, B. , Carter, E. , Gall, E. , Earnest, C. , Walsh, E. , et al. (2011). Home energy-efficiency retrofits. Environmental Health Perspectives, 119(7), A283-a284.
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://energy.gov/energysaver/articles/do-it-yourself-home-energy-audits" rel="nofollow">
+          US government guide
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Patrick Leslie, Joshua Pearce, Rob Harrap, Sylvie Daniel, “
+         <a class="external text" href="http://dx.doi.org/10.1080/1478646X.2011.578746" rel="nofollow">
+          The application of smartphone technology to economic and environmental analysis of building energy conservation strategies
+         </a>
+         ”,
+         <i>
+          International Journal of Sustainable Energy
+         </i>
+         <b>
+          31
+         </b>
+         (5), pp. 295-311 (2012).
+         <a class="external text" href="http://www.academia.edu/2101401/The_application_of_smartphone_technology_to_economic_and_environmental_analysis_of_building_energy_conservation_strategies" rel="nofollow">
+          open access
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.mnn.com/earth-matters/translating-uncle-sam/stories/cfl-vs-incandescent-battle-of-the-bulb" rel="nofollow">
+          http://www.mnn.com/earth-matters/translating-uncle-sam/stories/cfl-vs-incandescent-battle-of-the-bulb
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.epa.gov/WaterSense/pubs/fixleak.html" rel="nofollow">
+          http://www.epa.gov/WaterSense/pubs/fixleak.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.jetsongreen.com/2011/04/home-water-waste-info-graphic.html" rel="nofollow">
+          http://www.jetsongreen.com/2011/04/home-water-waste-info-graphic.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Save water, save energy. (2002). Professional Safety, 47(11), 45-45.
+         <a class="external free" href="http://search.proquest.com/docview/200389992" rel="nofollow">
+          http://search.proquest.com/docview/200389992
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.nfrc.org/documents/u-factor.pdf" rel="nofollow">
+          http://www.nfrc.org/documents/u-factor.pdf
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:27295200-0!*!0!!en!*!* and timestamp 20161022014338 and revision id 740572365
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_conservation_measure&amp;oldid=740572365">
+      https://en.wikipedia.org/w/index.php?title=Energy_conservation_measure&amp;oldid=740572365
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">
+         Energy conservation
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+conservation+measure" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+conservation+measure" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Energy_conservation_measure" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Energy_conservation_measure" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Energy_conservation_measure">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Energy_conservation_measure&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Energy_conservation_measure&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_conservation_measure" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_conservation_measure" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Energy_conservation_measure&amp;oldid=740572365" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Energy_conservation_measure&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5377030" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_conservation_measure&amp;id=740572365" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+conservation+measure">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+conservation+measure&amp;returnto=Energy+conservation+measure&amp;oldid=740572365&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Energy_conservation_measure&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5377030#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 21 September 2016, at 22:32.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_conservation_measure&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.084",
+            "walltime": "0.100",
+            "ppvisitednodes": {
+                "value": 361,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 4849,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 4,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   82.301      1 -total",
+                " 61.40%   50.533      1 Template:Reflist",
+                " 45.67%   37.584      4 Template:Cite_web",
+                " 25.51%   20.993      1 Template:Main_article"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.028",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1878326,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1213",
+            "timestamp": "20161022014338",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1179"});});
+  </script>
+ </body>
+</html>

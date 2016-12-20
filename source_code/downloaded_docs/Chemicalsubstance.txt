@@ -1,0 +1,2593 @@
+https://en.wikipedia.org/wiki/Chemical_substance
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Chemical substance - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chemical_substance","wgTitle":"Chemical substance","wgCurRevisionId":747612040,"wgRevisionId":747612040,"wgArticleId":9722260,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Wayback Machine links","Commons category with local link same as on Wikidata","General chemistry","Chemical substances"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chemical_substance","wgRelevantArticleId":9722260,"wgRequestId":"WBxg0QpAAEIAARkx-WkAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q79529","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chemical_substance" rel="alternate"/>
+  <link href="/w/index.php?title=Chemical_substance&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Chemical_substance&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Chemical_substance" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chemical_substance rootpage-Chemical_substance skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Chemical substance
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "Chemical" redirects here. For other uses, see
+      <a class="mw-disambig" href="/wiki/Chemical_(disambiguation)" title="Chemical (disambiguation)">
+       Chemical (disambiguation)
+      </a>
+      .
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Kochendes_wasser02.jpg">
+        <img alt="" class="thumbimage" data-file-height="644" data-file-width="674" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/220px-Kochendes_wasser02.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/330px-Kochendes_wasser02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/440px-Kochendes_wasser02.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Kochendes_wasser02.jpg" title="Enlarge">
+         </a>
+        </div>
+        Steam and liquid water are two different forms of the same chemical substance, water.
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <b>
+       chemical substance
+      </b>
+      is a form of
+      <a href="/wiki/Matter" title="Matter">
+       matter
+      </a>
+      that has constant
+      <a href="/wiki/Chemical_compound" title="Chemical compound">
+       chemical composition
+      </a>
+      and characteristic properties.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      It cannot be separated into components by physical separation methods, i.e., without breaking chemical bonds. Chemical substances can be
+      <a href="/wiki/Chemical_element" title="Chemical element">
+       chemical elements
+      </a>
+      ,
+      <a href="/wiki/Chemical_compound" title="Chemical compound">
+       chemical compounds
+      </a>
+      ,
+      <a href="/wiki/Ion" title="Ion">
+       ions
+      </a>
+      or
+      <a href="/wiki/Alloy" title="Alloy">
+       alloys
+      </a>
+      .
+     </p>
+     <p>
+      Chemical substances are often called 'pure' to set them apart from
+      <a href="/wiki/Mixture" title="Mixture">
+       mixtures
+      </a>
+      . A common example of a chemical substance is pure
+      <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">
+       water
+      </a>
+      ; it has the same properties and the same
+      <a href="/wiki/Ratio" title="Ratio">
+       ratio
+      </a>
+      of
+      <a href="/wiki/Hydrogen" title="Hydrogen">
+       hydrogen
+      </a>
+      to
+      <a href="/wiki/Oxygen" title="Oxygen">
+       oxygen
+      </a>
+      whether it is isolated from a river or made in a
+      <a href="/wiki/Laboratory" title="Laboratory">
+       laboratory
+      </a>
+      . Other chemical substances commonly encountered in pure form are
+      <a href="/wiki/Diamond" title="Diamond">
+       diamond
+      </a>
+      (carbon),
+      <a href="/wiki/Gold" title="Gold">
+       gold
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Edible_salt" title="Edible salt">
+       table salt
+      </a>
+      (
+      <a href="/wiki/Sodium_chloride" title="Sodium chloride">
+       sodium chloride
+      </a>
+      ) and refined
+      <a href="/wiki/Sugar" title="Sugar">
+       sugar
+      </a>
+      (
+      <a href="/wiki/Sucrose" title="Sucrose">
+       sucrose
+      </a>
+      ). However, in practice, no substance is entirely pure, and chemical purity is specified according to the intended use of the chemical.
+     </p>
+     <p>
+      Chemical substances exist as
+      <a href="/wiki/Solid" title="Solid">
+       solids
+      </a>
+      ,
+      <a href="/wiki/Liquid" title="Liquid">
+       liquids
+      </a>
+      ,
+      <a href="/wiki/Gas" title="Gas">
+       gases
+      </a>
+      or
+      <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+       plasma
+      </a>
+      , and may change between these
+      <a href="/wiki/Phase_(matter)" title="Phase (matter)">
+       phases of matter
+      </a>
+      with changes in
+      <a href="/wiki/Temperature" title="Temperature">
+       temperature
+      </a>
+      or
+      <a href="/wiki/Pressure" title="Pressure">
+       pressure
+      </a>
+      . Chemical substances may be combined or converted to others by means of
+      <a href="/wiki/Chemical_reaction" title="Chemical reaction">
+       chemical reactions
+      </a>
+      .
+     </p>
+     <p>
+      Forms of
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      , such as
+      <a href="/wiki/Light" title="Light">
+       light
+      </a>
+      and
+      <a href="/wiki/Heat" title="Heat">
+       heat
+      </a>
+      , are not considered to be matter, and are thus not "substances" in this regard.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Definition">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Definition
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#History">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Chemical_elements">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Chemical elements
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Chemical_compounds">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Chemical compounds
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Substances_versus_mixtures">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Substances versus mixtures
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Chemicals_versus_chemical_substances">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Chemicals versus chemical substances
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Naming_and_indexing">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Naming and indexing
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Isolation.2C_purification.2C_characterization.2C_and_identification">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Isolation, purification, characterization, and identification
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#See_also">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Notes_and_references">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          Notes and references
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Definition">
+       Definition
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=1" title="Edit section: Definition">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Nile_red_01.jpg">
+        <img alt="" class="thumbimage" data-file-height="1913" data-file-width="2900" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nile_red_01.jpg/220px-Nile_red_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nile_red_01.jpg/330px-Nile_red_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nile_red_01.jpg/440px-Nile_red_01.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Nile_red_01.jpg" title="Enlarge">
+         </a>
+        </div>
+        Colors of a single chemical (
+        <a href="/wiki/Nile_red" title="Nile red">
+         Nile red
+        </a>
+        ) in different solvents, under visible and UV light, showing how the chemical interacts dynamically with its solvent environment.
+       </div>
+      </div>
+     </div>
+     <p>
+      A chemical substance (also called a pure substance) may well be defined as "any material with a definite chemical composition" in an introductory general chemistry textbook.
+      <sup class="reference" id="cite_ref-HillPetrucciP5_2-0">
+       <a href="#cite_note-HillPetrucciP5-2">
+        [2]
+       </a>
+      </sup>
+      According to this definition a chemical substance can either be a pure
+      <a href="/wiki/Chemical_element" title="Chemical element">
+       chemical element
+      </a>
+      or a pure chemical compound. But, there are exceptions to this definition; a pure substance can also be defined as a form of
+      <a href="/wiki/Matter" title="Matter">
+       matter
+      </a>
+      that has both definite composition and distinct properties.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      The chemical substance index published by
+      <a href="/wiki/Chemical_Abstracts_Service" title="Chemical Abstracts Service">
+       CAS
+      </a>
+      also includes several
+      <a class="mw-redirect" href="/wiki/Alloys" title="Alloys">
+       alloys
+      </a>
+      of uncertain composition.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <a href="/wiki/Non-stoichiometric_compound" title="Non-stoichiometric compound">
+       Non-stoichiometric compounds
+      </a>
+      are a special case (in inorganic chemistry) that violates the law of constant composition, and for them, it is sometimes difficult to draw the line between a mixture and a compound, as in the case of
+      <a href="/wiki/Palladium_hydride" title="Palladium hydride">
+       palladium hydride
+      </a>
+      . Broader definitions of chemicals or chemical substances can be found, for example: "the term 'chemical substance' means any organic or inorganic substance of a particular molecular identity, including – (i) any combination of such substances occurring in whole or in part as a result of a chemical reaction or occurring in nature"
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In
+      <a href="/wiki/Geology" title="Geology">
+       geology
+      </a>
+      , substances of uniform composition are called
+      <a href="/wiki/Mineral" title="Mineral">
+       minerals
+      </a>
+      , while physical mixtures (aggregates) of several minerals (different substances) are defined as
+      <a href="/wiki/Rock_(geology)" title="Rock (geology)">
+       rocks
+      </a>
+      . Many minerals, however, mutually dissolve into
+      <a href="/wiki/Solid_solution" title="Solid solution">
+       solid solutions
+      </a>
+      , such that a single rock is a uniform substance despite being a mixture in stoichiometric terms.
+      <a href="/wiki/Feldspar" title="Feldspar">
+       Feldspars
+      </a>
+      are a common example:
+      <a href="/wiki/Anorthoclase" title="Anorthoclase">
+       anorthoclase
+      </a>
+      is an alkali aluminium silicate, where the alkali metal is interchangeably either sodium or potassium.
+     </p>
+     <p>
+      In law, "chemical substances" may include both pure substances and mixtures with a defined composition or manufacturing process. For example, the
+      <a href="/wiki/European_Union" title="European Union">
+       EU
+      </a>
+      regulation
+      <a href="/wiki/Registration,_Evaluation,_Authorisation_and_Restriction_of_Chemicals" title="Registration, Evaluation, Authorisation and Restriction of Chemicals">
+       REACH
+      </a>
+      defines "monoconstituent substances", "multiconstituent substances" and "substances of unknown or variable composition". The latter two consist of multiple chemical substances; however, their identity can be established either by direct chemical analysis or reference to a single manufacturing process. For example,
+      <a href="/wiki/Charcoal" title="Charcoal">
+       charcoal
+      </a>
+      is an extremely complex, partially polymeric mixture that can be defined by its manufacturing process. Therefore, although the exact chemical identity is unknown, identification can be made to a sufficient accuracy. The CAS index also includes mixtures.
+     </p>
+     <p>
+      <a href="/wiki/Polymer" title="Polymer">
+       Polymers
+      </a>
+      almost always appear as mixtures of molecules of multiple molar masses, each of which could be considered a separate chemical substance. However, the polymer may be defined by a known precursor or reaction(s) and the
+      <a href="/wiki/Molar_mass_distribution" title="Molar mass distribution">
+       molar mass distribution
+      </a>
+      . For example,
+      <a href="/wiki/Polyethylene" title="Polyethylene">
+       polyethylene
+      </a>
+      is a mixture of very long chains of -CH
+      <sub>
+       2
+      </sub>
+      - repeating units, and is generally sold in several molar mass distributions,
+      <a href="/wiki/Low-density_polyethylene" title="Low-density polyethylene">
+       LDPE
+      </a>
+      ,
+      <a href="/wiki/Medium-density_polyethylene" title="Medium-density polyethylene">
+       MDPE
+      </a>
+      ,
+      <a href="/wiki/High-density_polyethylene" title="High-density polyethylene">
+       HDPE
+      </a>
+      and
+      <a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">
+       UHMWPE
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=2" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The
+      <a href="/wiki/Concept" title="Concept">
+       concept
+      </a>
+      of a "chemical substance" became firmly established in the late eighteenth century after work by the chemist
+      <a href="/wiki/Joseph_Proust" title="Joseph Proust">
+       Joseph Proust
+      </a>
+      on the composition of some pure chemical compounds such as
+      <a href="/wiki/Basic_copper_carbonate" title="Basic copper carbonate">
+       basic copper carbonate
+      </a>
+      .
+      <sup class="reference" id="cite_ref-Hill_et_al_p37_6-0">
+       <a href="#cite_note-Hill_et_al_p37-6">
+        [6]
+       </a>
+      </sup>
+      He deduced that, "All samples of a compound have the same composition; that is, all samples have the same proportions, by mass, of the elements present in the compound." This is now known as the
+      <a class="mw-redirect" href="/wiki/Law_of_constant_composition" title="Law of constant composition">
+       law of constant composition
+      </a>
+      .
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      Later with the advancement of methods for
+      <a href="/wiki/Chemical_synthesis" title="Chemical synthesis">
+       chemical synthesis
+      </a>
+      particularly in the realm of
+      <a href="/wiki/Organic_chemistry" title="Organic chemistry">
+       organic chemistry
+      </a>
+      ; the discovery of many more chemical elements and new techniques in the realm of
+      <a href="/wiki/Analytical_chemistry" title="Analytical chemistry">
+       analytical chemistry
+      </a>
+      used for isolation and purification of elements and compounds from chemicals that led to the establishment of modern
+      <a href="/wiki/Chemistry" title="Chemistry">
+       chemistry
+      </a>
+      , the concept was defined as is found in most chemistry textbooks. However, there are some controversies regarding this definition mainly because the large number of chemical substances reported in chemistry literature need to be indexed.
+     </p>
+     <p>
+      <a class="mw-redirect" href="/wiki/Isomerism" title="Isomerism">
+       Isomerism
+      </a>
+      caused much consternation to early researchers, since
+      <a class="mw-redirect" href="/wiki/Isomers" title="Isomers">
+       isomers
+      </a>
+      have exactly the same composition, but differ in configuration (arrangement) of the atoms. For example, there was much speculation for the chemical identity of
+      <a href="/wiki/Benzene" title="Benzene">
+       benzene
+      </a>
+      , until the correct structure was described by
+      <a class="mw-redirect" href="/wiki/Friedrich_August_Kekul%C3%A9" title="Friedrich August Kekulé">
+       Friedrich August Kekulé
+      </a>
+      . Likewise, the idea of
+      <a href="/wiki/Stereoisomerism" title="Stereoisomerism">
+       stereoisomerism
+      </a>
+      - that atoms have rigid three-dimensional structure and can thus form isomers that differ only in their three-dimensional arrangement - was another crucial step in understanding the concept of distinct chemical substances. For example,
+      <a href="/wiki/Tartaric_acid" title="Tartaric acid">
+       tartaric acid
+      </a>
+      has three distinct isomers, a pair of
+      <a href="/wiki/Diastereomer" title="Diastereomer">
+       diastereomers
+      </a>
+      with one diastereomer forming two
+      <a href="/wiki/Enantiomer" title="Enantiomer">
+       enantiomers
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Chemical_elements">
+       Chemical elements
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=3" title="Edit section: Chemical elements">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Schwefel_01.jpg">
+        <img alt="" class="thumbimage" data-file-height="1284" data-file-width="1688" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schwefel_01.jpg/220px-Schwefel_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schwefel_01.jpg/330px-Schwefel_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schwefel_01.jpg/440px-Schwefel_01.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Schwefel_01.jpg" title="Enlarge">
+         </a>
+        </div>
+        Native sulfur crystals. Sulfur occurs naturally as elemental sulfur, in
+        <a href="/wiki/Sulfide" title="Sulfide">
+         sulfide
+        </a>
+        and
+        <a href="/wiki/Sulfate" title="Sulfate">
+         sulfate
+        </a>
+        minerals and in
+        <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">
+         hydrogen sulfide
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Chemical_element" title="Chemical element">
+       Chemical element
+      </a>
+     </div>
+     <div class="hatnote" role="note">
+      See also:
+      <a class="mw-redirect" href="/wiki/List_of_elements" title="List of elements">
+       List of elements
+      </a>
+     </div>
+     <p>
+      An
+      <a href="/wiki/Chemical_element" title="Chemical element">
+       element
+      </a>
+      is a chemical substance that is made up of a particular kind of atoms and hence cannot be broken down or transformed by a chemical reaction into a different element, though it can be transmutated into another element through a
+      <a href="/wiki/Nuclear_reaction" title="Nuclear reaction">
+       nuclear reaction
+      </a>
+      . This is so, because all of the atoms in a sample of an element have the same number of protons, though they may be different
+      <a href="/wiki/Isotope" title="Isotope">
+       isotopes
+      </a>
+      , with differing numbers of neutrons.
+     </p>
+     <p>
+      As of 2012, there are 118 known elements, about 80 of which are stable – that is, they do not change by
+      <a href="/wiki/Radioactive_decay" title="Radioactive decay">
+       radioactive decay
+      </a>
+      into other elements. Some elements can occur as more than a single chemical substance (
+      <a class="mw-redirect" href="/wiki/Allotropes" title="Allotropes">
+       allotropes
+      </a>
+      ). For instance, oxygen exists as both diatomic oxygen (O
+      <sub>
+       2
+      </sub>
+      ) and
+      <a href="/wiki/Ozone" title="Ozone">
+       ozone
+      </a>
+      (O
+      <sub>
+       3
+      </sub>
+      ). The majority of elements are classified as
+      <a href="/wiki/Metal" title="Metal">
+       metals
+      </a>
+      . These are elements with a characteristic
+      <a href="/wiki/Lustre_(mineralogy)" title="Lustre (mineralogy)">
+       lustre
+      </a>
+      such as
+      <a href="/wiki/Iron" title="Iron">
+       iron
+      </a>
+      ,
+      <a href="/wiki/Copper" title="Copper">
+       copper
+      </a>
+      , and
+      <a href="/wiki/Gold" title="Gold">
+       gold
+      </a>
+      . Metals typically conduct electricity and heat well, and they are
+      <a class="mw-redirect" href="/wiki/Malleability" title="Malleability">
+       malleable
+      </a>
+      and
+      <a href="/wiki/Ductility" title="Ductility">
+       ductile
+      </a>
+      .
+      <sup class="reference" id="cite_ref-Hill_et_al_pp44-45_8-0">
+       <a href="#cite_note-Hill_et_al_pp44-45-8">
+        [8]
+       </a>
+      </sup>
+      Around a dozen elements,
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      such as
+      <a href="/wiki/Carbon" title="Carbon">
+       carbon
+      </a>
+      ,
+      <a href="/wiki/Nitrogen" title="Nitrogen">
+       nitrogen
+      </a>
+      , and
+      <a href="/wiki/Oxygen" title="Oxygen">
+       oxygen
+      </a>
+      , are classified as
+      <a class="mw-redirect" href="/wiki/Non-metal" title="Non-metal">
+       non-metals
+      </a>
+      . Non-metals lack the metallic properties described above, they also have a high
+      <a href="/wiki/Electronegativity" title="Electronegativity">
+       electronegativity
+      </a>
+      and a tendency to form
+      <a href="/wiki/Ion" title="Ion">
+       negative ions
+      </a>
+      . Certain elements such as
+      <a href="/wiki/Silicon" title="Silicon">
+       silicon
+      </a>
+      sometimes resemble metals and sometimes resemble non-metals, and are known as
+      <a href="/wiki/Metalloid" title="Metalloid">
+       metalloids
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Chemical_compounds">
+       Chemical compounds
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=4" title="Edit section: Chemical compounds">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Potassium-ferricyanide-sample.jpg">
+        <img alt="" class="thumbimage" data-file-height="665" data-file-width="1000" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Potassium-ferricyanide-sample.jpg/220px-Potassium-ferricyanide-sample.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Potassium-ferricyanide-sample.jpg/330px-Potassium-ferricyanide-sample.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Potassium-ferricyanide-sample.jpg/440px-Potassium-ferricyanide-sample.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Potassium-ferricyanide-sample.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Potassium_ferricyanide" title="Potassium ferricyanide">
+         Potassium ferricyanide
+        </a>
+        is a compound of potassium, iron, carbon and nitrogen; although it contains cyanide anions, it does not release them and is nontoxic.
+       </div>
+      </div>
+     </div>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Chemical_compound" title="Chemical compound">
+       Chemical compound
+      </a>
+     </div>
+     <div class="hatnote" role="note">
+      See also:
+      <a class="mw-redirect" href="/wiki/List_of_organic_compounds" title="List of organic compounds">
+       List of organic compounds
+      </a>
+      and
+      <a href="/wiki/List_of_inorganic_compounds" title="List of inorganic compounds">
+       List of inorganic compounds
+      </a>
+     </div>
+     <p>
+      A pure chemical compound is a chemical substance that is composed of a particular set of
+      <a href="/wiki/Molecule" title="Molecule">
+       molecules
+      </a>
+      or
+      <a href="/wiki/Ion" title="Ion">
+       ions
+      </a>
+      . Two or more elements combined into one substance through a
+      <a href="/wiki/Chemical_reaction" title="Chemical reaction">
+       chemical reaction
+      </a>
+      form a
+      <a href="/wiki/Chemical_compound" title="Chemical compound">
+       chemical compound
+      </a>
+      . All compounds are substances, but not all substances are compounds.
+     </p>
+     <p>
+      A chemical compound can be either atoms
+      <a href="/wiki/Chemical_bond" title="Chemical bond">
+       bonded
+      </a>
+      together in
+      <a href="/wiki/Molecule" title="Molecule">
+       molecules
+      </a>
+      or
+      <a href="/wiki/Crystal" title="Crystal">
+       crystals
+      </a>
+      in which atoms, molecules or ions form a
+      <a href="/wiki/Crystal_structure" title="Crystal structure">
+       crystalline lattice
+      </a>
+      . Compounds based primarily on carbon and hydrogen atoms are called
+      <a href="/wiki/Organic_compound" title="Organic compound">
+       organic compounds
+      </a>
+      , and all others are called
+      <a href="/wiki/Inorganic_compound" title="Inorganic compound">
+       inorganic compounds
+      </a>
+      . Compounds containing bonds between carbon and a metal are called
+      <a class="mw-redirect" href="/wiki/Organometallic_compound" title="Organometallic compound">
+       organometallic compounds
+      </a>
+      .
+     </p>
+     <p>
+      Compounds in which components share electrons are known as
+      <a href="/wiki/Covalent_bond" title="Covalent bond">
+       covalent
+      </a>
+      compounds. Compounds consisting of oppositely charged
+      <a href="/wiki/Ion" title="Ion">
+       ions
+      </a>
+      are known as
+      <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">
+       ionic
+      </a>
+      compounds, or
+      <a href="/wiki/Salt" title="Salt">
+       salts
+      </a>
+      .
+     </p>
+     <p>
+      In organic chemistry, there can be more than one chemical compound with the same composition and molecular weight. Generally, these are called
+      <a href="/wiki/Isomer" title="Isomer">
+       isomers
+      </a>
+      . Isomers usually have substantially different chemical properties, may be isolated and do not spontaneously convert to each other. A common example is
+      <a href="/wiki/Glucose" title="Glucose">
+       glucose
+      </a>
+      vs.
+      <a href="/wiki/Fructose" title="Fructose">
+       fructose
+      </a>
+      . The former is an
+      <a href="/wiki/Aldehyde" title="Aldehyde">
+       aldehyde
+      </a>
+      , the latter is a
+      <a href="/wiki/Ketone" title="Ketone">
+       ketone
+      </a>
+      . Their interconversion requires either
+      <a class="mw-redirect" href="/wiki/Glucose_isomerase" title="Glucose isomerase">
+       enzymatic
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Lobry%E2%80%93de_Bruyn%E2%80%93van_Ekenstein_transformation" title="Lobry–de Bruyn–van Ekenstein transformation">
+       acid-base catalysis
+      </a>
+      . However, there are also
+      <a href="/wiki/Tautomer" title="Tautomer">
+       tautomers
+      </a>
+      , where isomerization occurs spontaneously, such that a pure substance cannot be isolated into its tautomers. A common example is
+      <a href="/wiki/Glucose" title="Glucose">
+       glucose
+      </a>
+      , which has open-chain and ring forms. One cannot manufacture pure open-chain glucose because glucose spontaneously cyclizes to the
+      <a href="/wiki/Hemiacetal" title="Hemiacetal">
+       hemiacetal
+      </a>
+      form. Materials may also comprise other entities such as polymers. These may be inorganic or organic and sometimes a combination of inorganic and organic.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Substances_versus_mixtures">
+       Substances versus mixtures
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=5" title="Edit section: Substances versus mixtures">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Vintage_cranberry_glass.jpg">
+        <img alt="" class="thumbimage" data-file-height="512" data-file-width="600" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vintage_cranberry_glass.jpg/220px-Vintage_cranberry_glass.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vintage_cranberry_glass.jpg/330px-Vintage_cranberry_glass.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vintage_cranberry_glass.jpg/440px-Vintage_cranberry_glass.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Vintage_cranberry_glass.jpg" title="Enlarge">
+         </a>
+        </div>
+        Cranberry glass, while it looks homogeneous, is a
+        <i>
+         mixture
+        </i>
+        consisting of glass and
+        <a href="/wiki/Gold" title="Gold">
+         gold
+        </a>
+        colloidal particles of ca. 40 nm diameter, which give it a red color.
+       </div>
+      </div>
+     </div>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Mixture" title="Mixture">
+       Mixture
+      </a>
+     </div>
+     <p>
+      All matter consists of various elements and chemical compounds, but these are often intimately mixed together. Mixtures contain more than one chemical substance, and they do not have a fixed composition. In principle, they can be separated into the component substances by purely
+      <a href="/wiki/Mechanics" title="Mechanics">
+       mechanical
+      </a>
+      processes.
+      <a href="/wiki/Butter" title="Butter">
+       Butter
+      </a>
+      ,
+      <a href="/wiki/Soil" title="Soil">
+       soil
+      </a>
+      and
+      <a href="/wiki/Wood" title="Wood">
+       wood
+      </a>
+      are common examples of mixtures.
+     </p>
+     <p>
+      Grey iron metal and yellow
+      <a href="/wiki/Sulfur" title="Sulfur">
+       sulfur
+      </a>
+      are both chemical elements, and they can be mixed together in any ratio to form a yellow-grey mixture. No chemical process occurs, and the material can be identified as a mixture by the fact that the sulfur and the iron can be separated by a mechanical process, such as using a
+      <a href="/wiki/Magnet" title="Magnet">
+       magnet
+      </a>
+      to attract the iron away from the sulfur.
+     </p>
+     <p>
+      In contrast, if iron and sulfur are heated together in a certain ratio (1 atom of iron for each atom of sulfur, or by weight, 56
+      <a href="/wiki/Gram" title="Gram">
+       grams
+      </a>
+      (1
+      <a href="/wiki/Mole_(unit)" title="Mole (unit)">
+       mol
+      </a>
+      ) of iron to 32 grams (1 mol) of sulfur), a chemical reaction takes place and a new substance is formed, the compound
+      <a href="/wiki/Iron(II)_sulfide" title="Iron(II) sulfide">
+       iron(II) sulfide
+      </a>
+      , with chemical formula FeS. The resulting compound has all the properties of a chemical substance and is not a mixture. Iron(II) sulfide has its own distinct properties such as
+      <a href="/wiki/Melting_point" title="Melting point">
+       melting point
+      </a>
+      and
+      <a href="/wiki/Solubility" title="Solubility">
+       solubility
+      </a>
+      , and the two elements cannot be separated using normal mechanical processes; a magnet will be unable to recover the iron, since there is no metallic iron present in the compound.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Chemicals_versus_chemical_substances">
+       Chemicals versus chemical substances
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=6" title="Edit section: Chemicals versus chemical substances">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      While the term
+      <i>
+       chemical substance
+      </i>
+      is a precise technical term that is synonymous with "chemical" for professional chemists, the meaning of the word
+      <i>
+       chemical
+      </i>
+      varies for non-chemists within the English speaking world or those using English. For industries, government and society in general in some countries,
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      the word
+      <i>
+       chemical
+      </i>
+      includes a wider class of substances that contain many mixtures of such chemical substances, often finding application in many vocations.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      In countries that require a list of ingredients in products, the "chemicals" listed would be equated with "chemical substances".
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Within the chemical industry, manufactured "chemicals" are chemical substances, which can be classified by production volume into bulk chemicals,
+      <a href="/wiki/Fine_chemical" title="Fine chemical">
+       fine chemicals
+      </a>
+      and chemicals found in research only:
+     </p>
+     <ul>
+      <li>
+       Bulk chemicals are produced in very large quantities, usually with highly optimized continuous processes and to a relatively low price.
+      </li>
+      <li>
+       Fine chemicals are produced at a high cost in small quantities for special low-volume applications such as biocides, pharmaceuticals and speciality chemicals for technical applications.
+      </li>
+      <li>
+       Research chemicals are produced individually for research, such as when searching for synthetic routes or screening substances for pharmaceutical activity. In effect, their price per gram is very high, although they are not sold.
+      </li>
+     </ul>
+     <p>
+      The cause of the difference in production volume is the complexity of the molecular structure of the chemical. Bulk chemicals are usually much less complex. While fine chemicals may be more complex, many of them are simple enough to be sold as "building blocks" in the synthesis of more complex molecules targeted for single use, as named above. The
+      <i>
+       production
+      </i>
+      of a chemical includes not only its synthesis but also its purification to eliminate by-products and impurities involved in the synthesis. The last step in production should be the analysis of batch lots of chemicals in order to identify and quantify the percentages of impurities for the buyer of the chemicals. The required purity and analysis depends on the application, but higher tolerance of impurities is usually expected in the production of bulk chemicals. Thus, the user of the chemical in the US might choose between the bulk or "technical grade" with higher amounts of impurities or a much purer "pharmaceutical grade" (labeled "USP",
+      <a href="/wiki/United_States_Pharmacopeia" title="United States Pharmacopeia">
+       United States Pharmacopeia
+      </a>
+      ).
+     </p>
+     <h2>
+      <span class="mw-headline" id="Naming_and_indexing">
+       Naming and indexing
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=7" title="Edit section: Naming and indexing">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Every chemical substance has one or more
+      <a href="/wiki/Systematic_name" title="Systematic name">
+       systematic names
+      </a>
+      , usually named according to the
+      <a class="mw-redirect" href="/wiki/IUPAC_nomenclature" title="IUPAC nomenclature">
+       IUPAC rules for naming
+      </a>
+      . An alternative system is used by the
+      <a href="/wiki/Chemical_Abstracts_Service" title="Chemical Abstracts Service">
+       Chemical Abstracts Service
+      </a>
+      (CAS).
+     </p>
+     <p>
+      Many compounds are also known by their more common, simpler names, many of which predate the systematic name. For example, the long-known
+      <a href="/wiki/Sugar" title="Sugar">
+       sugar
+      </a>
+      <a href="/wiki/Glucose" title="Glucose">
+       glucose
+      </a>
+      is now systematically named 6-(hydroxymethyl)oxane-2,3,4,5-tetrol.
+      <a href="/wiki/Secondary_metabolite" title="Secondary metabolite">
+       Natural products
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Pharmaceutical" title="Pharmaceutical">
+       pharmaceuticals
+      </a>
+      are also given simpler names, for example the mild pain-killer
+      <a href="/wiki/Naproxen" title="Naproxen">
+       Naproxen
+      </a>
+      is the more common name for the chemical compound (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid.
+     </p>
+     <p>
+      <a href="/wiki/Chemist" title="Chemist">
+       Chemists
+      </a>
+      frequently refer to
+      <a href="/wiki/Chemical_compound" title="Chemical compound">
+       chemical compounds
+      </a>
+      using
+      <a href="/wiki/Chemical_formula" title="Chemical formula">
+       chemical formulae
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Molecular_structure" title="Molecular structure">
+       molecular structure
+      </a>
+      of the compound. There has been a phenomenal growth in the number of chemical compounds being synthesized (or isolated), and then reported in the
+      <a href="/wiki/Scientific_literature" title="Scientific literature">
+       scientific literature
+      </a>
+      by professional chemists around the world.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      An enormous number of chemical compounds are possible through the chemical combination of the known chemical elements. As of May 2011, about sixty million chemical compounds are known.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      The names of many of these compounds are often nontrivial and hence not very easy to remember or cite accurately. Also it is difficult to keep the track of them in the literature. Several international organizations like
+      <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">
+       IUPAC
+      </a>
+      and CAS have initiated steps to make such tasks easier. CAS provides the abstracting services of the chemical literature, and provides a numerical identifier, known as
+      <a class="mw-redirect" href="/wiki/CAS_registry_number" title="CAS registry number">
+       CAS registry number
+      </a>
+      to each chemical substance that has been reported in the chemical literature (such as
+      <a class="mw-redirect" href="/wiki/Chemistry_journal" title="Chemistry journal">
+       chemistry journals
+      </a>
+      and
+      <a href="/wiki/Patent" title="Patent">
+       patents
+      </a>
+      ). This information is compiled as a
+      <a href="/wiki/Database" title="Database">
+       database
+      </a>
+      and is popularly known as the Chemical substances index. Other computer-friendly systems that have been developed for substance information, are:
+      <a class="mw-redirect" href="/wiki/Simplified_molecular_input_line_entry_specification" title="Simplified molecular input line entry specification">
+       SMILES
+      </a>
+      and the
+      <a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">
+       International Chemical Identifier
+      </a>
+      or InChI.
+     </p>
+     <table border="1" cellpadding="2" style="border-collapse: collapse;">
+      <caption>
+       Identification of a typical chemical substance
+      </caption>
+      <tr>
+       <th>
+        Common name
+       </th>
+       <th>
+        <a class="mw-redirect" href="/wiki/IUPAC_nomenclature" title="IUPAC nomenclature">
+         Systematic name
+        </a>
+       </th>
+       <th>
+        <a href="/wiki/Chemical_formula" title="Chemical formula">
+         Chemical formula
+        </a>
+       </th>
+       <th>
+        <a href="/wiki/Chemical_structure" title="Chemical structure">
+         Chemical structure
+        </a>
+       </th>
+       <th>
+        <a class="mw-redirect" href="/wiki/CAS_registry_number" title="CAS registry number">
+         CAS registry number
+        </a>
+       </th>
+       <th>
+        <a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">
+         InChI
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td>
+        alcohol, or
+        <br/>
+        ethyl alcohol
+       </td>
+       <td>
+        ethanol
+       </td>
+       <td>
+        C
+        <sub>
+         2
+        </sub>
+        H
+        <sub>
+         5
+        </sub>
+        OH
+       </td>
+       <td>
+        <div class="center">
+         <div class="floatnone">
+          <a class="image" href="/wiki/File:Ethanol-2D-skeletal.png">
+           <img alt="Ethanol-2D-skeletal.png" data-file-height="403" data-file-width="1053" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ethanol-2D-skeletal.png/60px-Ethanol-2D-skeletal.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ethanol-2D-skeletal.png/90px-Ethanol-2D-skeletal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ethanol-2D-skeletal.png/120px-Ethanol-2D-skeletal.png 2x" width="60"/>
+          </a>
+         </div>
+        </div>
+       </td>
+       <td>
+        [64-17-5]
+       </td>
+       <td>
+        1/C2H6O/c1-2-3/h3H,2H2,1H3
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="Isolation.2C_purification.2C_characterization.2C_and_identification">
+       Isolation, purification, characterization, and identification
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=8" title="Edit section: Isolation, purification, characterization, and identification">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Often a pure substance needs to be isolated from a
+      <a href="/wiki/Mixture" title="Mixture">
+       mixture
+      </a>
+      , for example from a
+      <a href="/wiki/Nature" title="Nature">
+       natural source
+      </a>
+      (where a sample often contains numerous chemical substances) or after a
+      <a href="/wiki/Chemical_reaction" title="Chemical reaction">
+       chemical reaction
+      </a>
+      (which often give mixtures of chemical substances).
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=9" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/28px-Papapishu-Lab-icon-6.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/42px-Papapishu-Lab-icon-6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Papapishu-Lab-icon-6.svg/56px-Papapishu-Lab-icon-6.svg.png 2x" width="28"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">
+          Chemistry portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Chemical_safety_signs" title="Chemical safety signs">
+        Chemical safety signs
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/IUPAC_nomenclature" title="IUPAC nomenclature">
+        IUPAC nomenclature
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Prices_of_elements_and_their_compounds" title="Prices of elements and their compounds">
+        Prices of elements and their compounds
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Notes_and_references">
+       Notes and references
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Chemical_substance&amp;action=edit&amp;section=10" title="Edit section: Notes and references">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">
+          IUPAC
+         </a>
+         ,
+         <i>
+          <a href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">
+           Compendium of Chemical Terminology
+          </a>
+         </i>
+         , 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "
+         <a class="external text" href="http://goldbook.iupac.org/C01039.html" rel="nofollow">
+          Chemical Substance
+         </a>
+         ".
+        </span>
+       </li>
+       <li id="cite_note-HillPetrucciP5-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-HillPetrucciP5_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hill, J. W.; Petrucci, R. H.; McCreary, T. W.; Perry, S. S.
+         <i>
+          General Chemistry
+         </i>
+         , 4th ed., p5, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.diracdelta.co.uk/science/source/p/u/pure%20substance/source.html" rel="nofollow">
+           "Pure Substance – DiracDelta Science &amp; Engineering Encyclopedia"
+          </a>
+          . Diracdelta.co.uk
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-06
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.btitle=Pure+Substance+%93+DiracDelta+Science+%26+Engineering+Encyclopedia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.diracdelta.co.uk%2Fscience%2Fsource%2Fp%2Fu%2Fpure%2520substance%2Fsource.html&amp;rft.pub=Diracdelta.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf" rel="nofollow">
+          Appendix IV: Chemical Substance Index Names
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.epa.gov/oppt/newchems/pubs/invntory.htm" rel="nofollow">
+           "What is the TSCA Chemical Substance Inventory?"
+          </a>
+          . US Environmental Protection Agency
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2009-10-19
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.btitle=What+is+the+TSCA+Chemical+Substance+Inventory%3F&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Foppt%2Fnewchems%2Fpubs%2Finvntory.htm&amp;rft.pub=US+Environmental+Protection+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Hill_et_al_p37-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Hill_et_al_p37_6-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hill, J. W.; Petrucci, R. H.; McCreary, T. W.; Perry, S. S.
+         <i>
+          General Chemistry
+         </i>
+         , 4th ed., p37, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005.
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://dbhs.wvusd.k12.ca.us/webdocs/AtomicStructure/LawofDefiniteProportion.html" rel="nofollow">
+          Law of Definite Proportions
+         </a>
+         <a class="external text" href="https://web.archive.org/web/20071118150853/http://dbhs.wvusd.k12.ca.us/webdocs/AtomicStructure/LawofDefiniteProportion.html" rel="nofollow">
+          Archived
+         </a>
+         November 18, 2007, at the
+         <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+          Wayback Machine
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-Hill_et_al_pp44-45-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Hill_et_al_pp44-45_8-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hill, J. W.; Petrucci, R. H.; McCreary, T. W.; Perry, S. S.
+         <i>
+          General Chemistry
+         </i>
+         , 4th ed., pp 45–46, Pearson Prentice Hall, Upper Saddle River, New Jersey, 2005.
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         The boundary between metalloids and non-metals is imprecise, as explained in the previous reference.
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.nicnas.gov.au/Industry/New_Chemicals/Does_My_Chemical_Require_Notification/What_Is_A_Chemical.asp" rel="nofollow">
+           "What is a chemical"
+          </a>
+          . Nicnas.gov.au. 2005-06-01
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-06
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.btitle=What+is+a+chemical&amp;rft.date=2005-06-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nicnas.gov.au%2FIndustry%2FNew_Chemicals%2FDoes_My_Chemical_Require_Notification%2FWhat_Is_A_Chemical.asp&amp;rft.pub=Nicnas.gov.au&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.bfr.bund.de/cd/569" rel="nofollow">
+           "BfR – Chemicals"
+          </a>
+          . Bfr.bund.de. 1980-09-18
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-06
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.btitle=BfR+%93+Chemicals&amp;rft.date=1980-09-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bfr.bund.de%2Fcd%2F569&amp;rft.pub=Bfr.bund.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         There is only one definition for "chemical", that of a substance, in the US Unabridged Edition of the Random House Dictionary of the English Language, New York, 1966.
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Joachim Schummer.
+          <a class="external text" href="http://www.rz.uni-karlsruhe.de/~ed01/Jslit/eduquim.htm" rel="nofollow">
+           "Coping with the Growth of Chemical Knowledge: Challenges for Chemistry Documentation, Education, and Working Chemists"
+          </a>
+          . Rz.uni-karlsruhe.de
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-06
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.au=Joachim+Schummer&amp;rft.btitle=Coping+with+the+Growth+of+Chemical+Knowledge%3A+Challenges+for+Chemistry+Documentation%2C+Education%2C+and+Working+Chemists&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rz.uni-karlsruhe.de%2F~ed01%2FJslit%2Feduquim.htm&amp;rft.pub=Rz.uni-karlsruhe.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.cas.org/newsevents/releases/60millionth052011.html" rel="nofollow">
+           "Chemical Abstracts substance count"
+          </a>
+          . Cas.org
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-06
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+substance&amp;rft.btitle=Chemical+Abstracts+substance+count&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cas.org%2Fnewsevents%2Freleases%2F60millionth052011.html&amp;rft.pub=Cas.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <p>
+      <br/>
+     </p>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Chemical_substances" title="commons:Category:Chemical substances">
+           Chemical substances
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:9722260-0!*!0!!en!4!* and timestamp 20161103101848 and revision id 747612040
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chemical_substance&amp;oldid=747612040">
+      https://en.wikipedia.org/w/index.php?title=Chemical_substance&amp;oldid=747612040
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:General_chemistry" title="Category:General chemistry">
+         General chemistry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Chemical_substances" title="Category:Chemical substances">
+         Chemical substances
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">
+         Articles with Wayback Machine links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chemical+substance" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Chemical+substance" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Chemical_substance" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Chemical_substance" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Chemical_substance">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Chemical_substance&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Chemical_substance&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Chemical_substance" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Chemical_substance" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Chemical_substance&amp;oldid=747612040" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Chemical_substance&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q79529" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chemical_substance&amp;id=747612040" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chemical+substance">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Chemical+substance&amp;returnto=Chemical+substance&amp;oldid=747612040&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Chemical_substance&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Chemical_substances" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%AF%D8%A9_%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="مادة كيميائية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Madd%C9%99" hreflang="az" lang="az" title="Maddə – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ho%C3%A0-ha%CC%8Dk_bu%CC%8Dt-chit" hreflang="zh-min-nan" lang="zh-min-nan" title="Hoà-ha̍k bu̍t-chit – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A5%D1%96%D0%BC%D1%96%D1%87%D0%BD%D0%B0%D0%B5_%D1%80%D1%8D%D1%87%D1%8B%D0%B2%D0%B0" hreflang="be" lang="be" title="Хімічнае рэчыва – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D1%8D%D1%87%D1%8B%D0%B2%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Рэчыва – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bh">
+        <a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5" hreflang="bh" lang="bh" title="रासायनिक पदार्थ – भोजपुरी">
+         भोजपुरी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%BD%D0%BE_%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" hreflang="bg" lang="bg" title="Химично вещество – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Subst%C3%A0ncia_qu%C3%ADmica" hreflang="ca" lang="ca" title="Substància química – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%AF%D0%BF%D0%B0%D0%BB%D0%B0%D0%BB%C4%83%D1%85" hreflang="cv" lang="cv" title="Япалалăх – Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/L%C3%A1tka" hreflang="cs" lang="cs" title="Látka – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sn">
+        <a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Mushonga" hreflang="sn" lang="sn" title="Mushonga – Shona">
+         ChiShona
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kemisk_stof" hreflang="da" lang="da" title="Kemisk stof – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Chemischer_Stoff" hreflang="de" lang="de" title="Chemischer Stoff – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keemiline_aine" hreflang="et" lang="et" title="Keemiline aine – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A7%CE%B7%CE%BC%CE%B9%CE%BA%CE%AE_%CE%BF%CF%85%CF%83%CE%AF%CE%B1" hreflang="el" lang="el" title="Χημική ουσία – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sustancia_qu%C3%ADmica" hreflang="es" lang="es" title="Sustancia química – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kemia%C4%B5o" hreflang="eo" lang="eo" title="Kemiaĵo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Gai_kimiko" hreflang="eu" lang="eu" title="Gai kimiko – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%A7%D8%AF_%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="مواد شیمیایی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Substance_chimique" hreflang="fr" lang="fr" title="Substance chimique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Substancia_qu%C3%ADmica" hreflang="gl" lang="gl" title="Substancia química – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%99%94%ED%95%99_%EB%AC%BC%EC%A7%88" hreflang="ko" lang="ko" title="화학 물질 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%86%D5%B5%D5%B8%D6%82%D5%A9" hreflang="hy" lang="hy" title="Նյութ – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kemijska_tvar" hreflang="hr" lang="hr" title="Kemijska tvar – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Kemiala_kompozo" hreflang="io" lang="io" title="Kemiala kompozo – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Zat_kimia" hreflang="id" lang="id" title="Zat kimia – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Substantia_chimic" hreflang="ia" lang="ia" title="Substantia chimic – Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sostanza_pura" hreflang="it" lang="it" title="Sostanza pura – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9B%D7%99%D7%9E%D7%99%D7%A7%D7%9C" hreflang="he" lang="he" title="כימיקל – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Zat_Kimia" hreflang="jv" lang="jv" title="Zat Kimia – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%95%E1%83%97%E1%83%98%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%90" hreflang="ka" lang="ka" title="ნივთიერება – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D0%BA%D0%B0%D1%82%D1%82%D0%B0%D1%80" hreflang="kk" lang="kk" title="Химикаттар – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Sibstans" hreflang="ht" lang="ht" title="Sibstans – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%97%D0%B0%D1%82" hreflang="ky" lang="ky" title="Зат – Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ltg">
+        <a class="interlanguage-link-target" href="https://ltg.wikipedia.org/wiki/L%C4%ABtne_(kimej%C4%81)" hreflang="ltg" lang="ltg" title="Lītne (kimejā) – Latgalian">
+         Latgaļu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/%C4%B6%C4%ABmisk%C4%81_viela" hreflang="lv" lang="lv" title="Ķīmiskā viela – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Chemin%C4%97_med%C5%BEiaga" hreflang="lt" lang="lt" title="Cheminė medžiaga – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Chemische_sjtof" hreflang="li" lang="li" title="Chemische sjtof – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B0" hreflang="mk" lang="mk" title="Супстанца – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5" hreflang="mr" lang="mr" title="रासायनिक पदार्थ – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Bahan_kimia" hreflang="ms" lang="ms" title="Bahan kimia – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stof_(scheikunde)" hreflang="nl" lang="nl" title="Stof (scheikunde) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5" hreflang="ne" lang="ne" title="रासायनिक पदार्थ – Nepali">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B3%AA" hreflang="ja" lang="ja" title="化学物質 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kjemisk_substans" hreflang="no" lang="no" title="Kjemisk substans – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kjemikalie" hreflang="nn" lang="nn" title="Kjemikalie – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mhr">
+        <a class="interlanguage-link-target" href="https://mhr.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D0%BD" hreflang="mhr" lang="mhr" title="Эмен – Eastern Mari">
+         Олык марий
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B0%E0%A8%B8%E0%A8%BE%E0%A8%87%E0%A8%A3%E0%A8%95_%E0%A8%AA%E0%A8%A6%E0%A8%BE%E0%A8%B0%E0%A8%A5" hreflang="pa" lang="pa" title="ਰਸਾਇਣਕ ਪਦਾਰਥ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%9F%E1%9E%B6%E1%9E%9A%E1%9E%92%E1%9E%B6%E1%9E%8F%E1%9E%BB%E1%9E%82%E1%9E%B8%E1%9E%98%E1%9E%B8" hreflang="km" lang="km" title="សារធាតុគីមី – Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Cheemsch_Stoff" hreflang="nds" lang="nds" title="Cheemsch Stoff – Low German">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Substancja_chemiczna" hreflang="pl" lang="pl" title="Substancja chemiczna – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Subst%C3%A2ncia" hreflang="pt" lang="pt" title="Substância – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Substan%C8%9B%C4%83_chimic%C4%83" hreflang="ro" lang="ro" title="Substanță chimică – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" hreflang="ru" lang="ru" title="Вещество – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Chemical_substance" hreflang="sco" lang="sco" title="Chemical substance – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Chemical_substance" hreflang="simple" lang="simple" title="Chemical substance – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%B8%D1%98%D1%81%D0%BA%D0%B0_%D1%81%D1%83%D0%BF%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B0" hreflang="sr" lang="sr" title="Хемијска супстанца – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Hemijska_supstanca" hreflang="sh" lang="sh" title="Hemijska supstanca – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-su">
+        <a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Bahan_kimia" hreflang="su" lang="su" title="Bahan kimia – Sundanese">
+         Basa Sunda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kemiallinen_aine" hreflang="fi" lang="fi" title="Kemiallinen aine – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Kompuwesto" hreflang="tl" lang="tl" title="Kompuwesto – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="வேதிப்பொருள் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5" hreflang="th" lang="th" title="สารเคมี – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kimyasal_madde" hreflang="tr" lang="tr" title="Kimyasal madde – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D1%87%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Речовина – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C_%D8%B4%DB%92" hreflang="ur" lang="ur" title="کیمیائی شے – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Sostansa" hreflang="vec" lang="vec" title="Sostansa – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%C3%B3a_ch%E1%BA%A5t" hreflang="vi" lang="vi" title="Hóa chất – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fiu-vro">
+        <a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/Ollus" hreflang="fiu-vro" lang="fiu-vro" title="Ollus – Võro">
+         Võro
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%9B%D7%A2%D7%9E%D7%99%D7%A9%D7%A2_%D7%A1%D7%95%D7%91%D7%A1%D7%98%D7%90%D7%A0%D7%A5" hreflang="yi" lang="yi" title="כעמישע סובסטאנץ – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yo">
+        <a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Ohun_%C3%A0p%C3%B2p%E1%BB%8D%CC%80%C3%B2g%C3%B9n" hreflang="yo" lang="yo" title="Ohun àpòpọ̀ògùn – Yoruba">
+         Yorùbá
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8" hreflang="zh" lang="zh" title="化学物质 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q79529#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 3 November 2016, at 10:18.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Chemical_substance&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.160",
+            "walltime": "0.207",
+            "ppvisitednodes": {
+                "value": 680,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 14191,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 334,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  148.685      1 -total",
+                " 47.39%   70.466      1 Template:Reflist",
+                " 33.35%   49.593      6 Template:Cite_web",
+                " 15.82%   23.523      1 Template:Commons_category",
+                " 14.92%   22.190      1 Template:Redirect",
+                "  6.45%    9.585      1 Template:Portal",
+                "  5.99%    8.909      1 Template:Commons",
+                "  5.29%    7.861      1 Template:Sister_project",
+                "  4.71%    6.997      3 Template:Main",
+                "  3.88%    5.776      1 Template:Side_box"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.050",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2700035,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1221",
+            "timestamp": "20161103101848",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":56,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>

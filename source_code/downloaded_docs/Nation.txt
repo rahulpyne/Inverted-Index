@@ -1,0 +1,4021 @@
+https://en.wikipedia.org/wiki/Nation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Nation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nation","wgTitle":"Nation","wgCurRevisionId":746280762,"wgRevisionId":746280762,"wgArticleId":21754,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["NPOV disputes from July 2015","All NPOV disputes","All articles with unsourced statements","Articles with unsourced statements from January 2014","Use dmy dates from July 2012","Ethnicity","Nationality","Political geography","Political science terminology","Social constructionism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nation","wgRelevantArticleId":21754,"wgRequestId":"WBztCQpAMFkAAIrhXAAAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6266","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nation" rel="alternate"/>
+  <link href="/w/index.php?title=Nation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Nation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Nation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nation rootpage-Nation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Nation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      For other uses, see
+      <a class="mw-disambig" href="/wiki/Nation_(disambiguation)" title="Nation (disambiguation)">
+       Nation (disambiguation)
+      </a>
+      .
+     </div>
+     <div class="hatnote" role="note">
+      Not to be confused with
+      <a href="/wiki/State_(polity)" title="State (polity)">
+       State (polity)
+      </a>
+      or
+      <a href="/wiki/Country" title="Country">
+       Country
+      </a>
+      .
+     </div>
+     <p>
+      A
+      <b>
+       nation
+      </b>
+      (from
+      <a href="/wiki/Latin" title="Latin">
+       Latin
+      </a>
+      :
+      <i>
+       natio
+      </i>
+      , "people, tribe, kin, genus, class, flock") is a large group or collective of people with common characteristics attributed to them - including
+      <a href="/wiki/Language" title="Language">
+       language
+      </a>
+      ,
+      <a href="/wiki/Tradition" title="Tradition">
+       traditions
+      </a>
+      ,
+      <i>
+       <a href="/wiki/Mores" title="Mores">
+        mores
+       </a>
+      </i>
+      (customs),
+      <a href="/wiki/Habitus_(sociology)" title="Habitus (sociology)">
+       <i>
+        habitus
+       </i>
+      </a>
+      (habits), and
+      <a href="/wiki/Ethnic_group" title="Ethnic group">
+       ethnicity
+      </a>
+      . By comparison, a nation is more impersonal, abstract, and overtly political than an
+      <a href="/wiki/Ethnic_group" title="Ethnic group">
+       ethnic group
+      </a>
+      . It is a cultural-political community that has become conscious of its autonomy, unity, and particular interests.
+      <sup class="reference" id="cite_ref-Smith1991_1-0">
+       <a href="#cite_note-Smith1991-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Joseph_Stalin" title="Joseph Stalin">
+       Stalin's
+      </a>
+      <i>
+       <a href="/wiki/Marxism_and_the_National_Question" title="Marxism and the National Question">
+        Marxism and the National Question
+       </a>
+      </i>
+      (1913) declares that "a nation is not a
+      <a class="mw-redirect" href="/wiki/Race_(human_classification)" title="Race (human classification)">
+       racial
+      </a>
+      or
+      <a href="/wiki/Tribe" title="Tribe">
+       tribal
+      </a>
+      , but a historically constituted
+      <a href="/wiki/Community" title="Community">
+       community
+      </a>
+      of people;" "a nation is not a casual or ephemeral
+      <a class="extiw" href="https://en.wiktionary.org/wiki/conglomeration" title="wiktionary:conglomeration">
+       conglomeration
+      </a>
+      , but a stable community of people"; "a nation is formed only as a result of lengthy and systematic
+      <a href="/wiki/Interpersonal_communication" title="Interpersonal communication">
+       intercourse
+      </a>
+      , as a result of people living together generation after generation"; and, in its entirety: "a nation is a historically constituted, stable community of people, formed on the basis of a common language, territory, economic life, and psychological make-up manifested in a common
+      <a href="/wiki/Culture" title="Culture">
+       culture
+      </a>
+      ."
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The nation has been described by
+      <a href="/wiki/Benedict_Anderson" title="Benedict Anderson">
+       Benedict Anderson
+      </a>
+      as an "
+      <a class="mw-redirect" href="/wiki/Imagined_communities" title="Imagined communities">
+       imagined community
+      </a>
+      "
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      and by
+      <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">
+       Paul James
+      </a>
+      as an "abstract community".
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      It is an imagined community in the sense that the material conditions exist for imagining extended and shared connections. It is an abstract community in the sense that it is objectively impersonal, even if each individual in the nation experiences him or herself as subjectively part of an embodied unity with others. For the most part, members of a nation remain strangers to each other and will never likely meet.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      Hence the phrase, "a nation of strangers" used by such writers as
+      <a href="/wiki/Vance_Packard" title="Vance Packard">
+       Vance Packard
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Etymology_and_terminology">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Etymology and terminology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Ancient_nations">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Ancient nations
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Medieval_nations">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Medieval nations
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Use_of_term_nationes_by_medieval_universities_and_other_medieval_institutions">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Use of term
+            <i>
+             nationes
+            </i>
+            by medieval universities and other medieval institutions
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Early_modern_nations">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Early modern nations
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Social_science">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Social science
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Black_nationalism">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Black nationalism
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Nation_of_Islam">
+           <span class="tocnumber">
+            6.1
+           </span>
+           <span class="toctext">
+            Nation of Islam
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#See_also">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Notes">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Notes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#References">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#Sources">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          Sources
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Etymology_and_terminology">
+       Etymology and terminology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=1" title="Edit section: Etymology and terminology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The word
+      <i>
+       nation
+      </i>
+      came to English from the
+      <a href="/wiki/Old_French" title="Old French">
+       Old French
+      </a>
+      word
+      <i>
+       nacion
+      </i>
+      - meaning "birth" (
+      <i>
+       naissance
+      </i>
+      ), "place of origin" -, which in turn originates from the
+      <a class="mw-redirect" href="/wiki/Latin_language" title="Latin language">
+       Latin
+      </a>
+      word
+      <i>
+       <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/natio" title="wikt:Special:Search/natio">
+        natio
+       </a>
+      </i>
+      (
+      <i>
+       nātĭō
+      </i>
+      ) literally meaning "birth".
+      <sup class="reference" id="cite_ref-etymonline_6-0">
+       <a href="#cite_note-etymonline-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The word "nation" is sometimes used as synonym for:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/State_(polity)" title="State (polity)">
+        State (polity)
+       </a>
+       or
+       <a href="/wiki/Sovereign_state" title="Sovereign state">
+        sovereign state
+       </a>
+       : a government which controls a specific territory, which may or may not be associated with any particular ethnic group
+      </li>
+      <li>
+       <a href="/wiki/Country" title="Country">
+        Country
+       </a>
+       : a geographic territory, which may or may not have an affiliation with a government or ethnic group
+      </li>
+     </ul>
+     <p>
+      Thus the phrase "nations of the world" could be referring to the top-level governments (as in the name for the
+      <a href="/wiki/United_Nations" title="United Nations">
+       United Nations
+      </a>
+      ), various large geographical territories, or various large ethnic groups of the planet.
+     </p>
+     <p>
+      Depending on the meaning of "nation" used, the term "
+      <a href="/wiki/Nation_state" title="Nation state">
+       nation state
+      </a>
+      " could be used to distinguish larger states from small
+      <a class="mw-redirect" href="/wiki/City_state" title="City state">
+       city states
+      </a>
+      , or could be used to distinguish
+      <a href="/wiki/Multinational_state" title="Multinational state">
+       multinational states
+      </a>
+      from those with a single ethnic group.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ancient_nations">
+       Ancient nations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=2" title="Edit section: Ancient nations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox ambox-content ambox-POV" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="Unbalanced scales.svg" data-file-height="354" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" width="45"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         The
+         <b>
+          <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">
+           neutrality
+          </a>
+          of this section is
+          <a href="/wiki/Wikipedia:NPOV_dispute" title="Wikipedia:NPOV dispute">
+           disputed
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Relevant discussion may be found on the
+          <a href="/wiki/Talk:Nation#.23" title="Talk:Nation">
+           talk page
+          </a>
+          . Please do not remove this message until
+          <a href="/wiki/Template:POV#When_to_remove" title="Template:POV">
+           conditions to do so are met
+          </a>
+          .
+         </span>
+         <small>
+          <i>
+           (July 2015)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      Although some scholars
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      of
+      <a href="/wiki/Nationalism" title="Nationalism">
+       nationalism
+      </a>
+      argue that nations are a modern phenomenon arising around the time of the
+      <a href="/wiki/French_Revolution" title="French Revolution">
+       French Revolution
+      </a>
+      , other scholars assert that nations are an old, or even an ancient, type of political formation. Political scientist
+      <a href="/wiki/Azar_Gat" title="Azar Gat">
+       Azar Gat
+      </a>
+      argues that ancient Egypt was the world's "first national state," emerging "quite early as a unified state, congruent with a distinct people of shared ethnicity."
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Gat goes on to argue that the next group of national states to emerge were in the ancient Levant, citing
+      <a href="/wiki/Steven_Grosby" title="Steven Grosby">
+       Steven Grosby
+      </a>
+      's book,
+      <i>
+       Biblical Ideas of Nationality: Ancient and Modern
+      </i>
+      , as an effective demonstration of the emergence of nations in
+      <a href="/wiki/Land_of_Israel" title="Land of Israel">
+       Israel
+      </a>
+      ,
+      <a href="/wiki/Ammon" title="Ammon">
+       Ammon
+      </a>
+      ,
+      <a href="/wiki/Moab" title="Moab">
+       Moab
+      </a>
+      , and
+      <a href="/wiki/Edom" title="Edom">
+       Edom
+      </a>
+      , a process of nation-formation provoked by the threat of conquest by the
+      <a class="mw-redirect" href="/wiki/Assyrian_Empire" title="Assyrian Empire">
+       Assyrian Empire
+      </a>
+      .
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      In particular, Gat cites
+      <a href="/wiki/Hans_Kohn" title="Hans Kohn">
+       Hans Kohn
+      </a>
+      's
+      <i>
+       The Idea of Nationalism: A Study in Its Origins and Background
+      </i>
+      , 1944, pp. 27–30 as an early scholarly treatment of "the idea that ancient Israel was an example of a premodern nation."
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In his book,
+      <i>
+       The Athenian Nation
+      </i>
+      Edward E. Cohen, argues that ancient Athens met all modern definitions of nationhood,
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      and
+      <a href="/wiki/Aviel_Roshwald" title="Aviel Roshwald">
+       Aviel Roshwald
+      </a>
+      makes a similar argument in
+      <i>
+       The Endurance of Nationalism: Ancient Roots and Modern Dilemmas
+      </i>
+      .
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Medieval_nations">
+       Medieval nations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=3" title="Edit section: Medieval nations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In her book
+      <i>
+       Kingdoms and Communities in Western Europe 900-1300
+      </i>
+      ,
+      <a href="/wiki/Susan_Reynolds" title="Susan Reynolds">
+       Susan Reynolds
+      </a>
+      argues that many European medieval kingdoms were nations in the modern sense except that political participation in nationalism was available only to a limited prosperous and literate class.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      In his book
+      <i>
+       The Construction of Nationhood: Ethnicity, Religion and Nationalism
+      </i>
+      ,
+      <a href="/wiki/Adrian_Hastings" title="Adrian Hastings">
+       Adrian Hastings
+      </a>
+      argues that England's Anglo Saxon kings mobilized mass nationalism in their struggle to repel Norse invasions. Hastings argues that
+      <a href="/wiki/Alfred_the_Great" title="Alfred the Great">
+       Alfred the Great
+      </a>
+      , in particular, drew on
+      <a class="new" href="/w/index.php?title=Biblical_nationalism&amp;action=edit&amp;redlink=1" title="Biblical nationalism (page does not exist)">
+       biblical nationalism
+      </a>
+      , using biblical language in his law code and that during his reign selected books of the Bible were translated into
+      <a href="/wiki/Old_English" title="Old English">
+       Old English
+      </a>
+      to inspire Englishmen to fight to turn back the Norse invaders. Hastings argues for a strong renewal of English nationalism (following a hiatus after the
+      <a class="mw-redirect" href="/wiki/Norman_conquest" title="Norman conquest">
+       Norman conquest
+      </a>
+      ) beginning with the
+      <a href="/wiki/Wycliffe%27s_Bible" title="Wycliffe's Bible">
+       translation of the complete bible into English by the Wycliffe circle in the 1380s
+      </a>
+      , arguing that
+      <a href="/wiki/English_nationalism" title="English nationalism">
+       English nationalism
+      </a>
+      and the English nation have been continuous since that time.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Another prudent example of Medieval nationalism is the
+      <a href="/wiki/Declaration_of_Arbroath" title="Declaration of Arbroath">
+       Declaration of Arbroath
+      </a>
+      , a document produced by Scottish nobles and clergy during the
+      <a class="mw-redirect" href="/wiki/Scottish_Wars_of_Independence" title="Scottish Wars of Independence">
+       Scottish Wars of Independence
+      </a>
+      . The purpose of the document was to demonstrate to the Pope that Scotland was indeed a nation of its own, with its own unique culture, history and language and that it was indeed an older nation than England. The document went on to justify the actions of
+      <a href="/wiki/Robert_the_Bruce" title="Robert the Bruce">
+       Robert the Bruce
+      </a>
+      and his forces in resisting the occupation and to chastise the English for having violated Scottish sovereignty without justification. The propaganda campaign supplemented a military campaign on the part of the Bruce, which after the
+      <a href="/wiki/Battle_of_Bannockburn" title="Battle of Bannockburn">
+       Battle of Bannockburn
+      </a>
+      was successful and eventually resulted in the end of England's occupation and recognition of Scottish independence on the part of the English crown. The document is widely seen as an early example of both
+      <a href="/wiki/Scottish_nationalism" title="Scottish nationalism">
+       Scottish nationalism
+      </a>
+      and
+      <a href="/wiki/Popular_sovereignty" title="Popular sovereignty">
+       popular sovereignty
+      </a>
+      .
+     </p>
+     <p>
+      <a class="new" href="/w/index.php?title=Anthony_Kaldellis&amp;action=edit&amp;redlink=1" title="Anthony Kaldellis (page does not exist)">
+       Anthony Kaldellis
+      </a>
+      affirms in
+      <i>
+       Hellenism in Byzantium
+      </i>
+      (2008) that what is called the
+      <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">
+       Byzantine Empire
+      </a>
+      was the Roman Empire transformed into a
+      <a class="mw-redirect" href="/wiki/Nation-state" title="Nation-state">
+       nation-state
+      </a>
+      in Middle Ages.
+     </p>
+     <p>
+      Azar Gat is among the scholars who argue that
+      <a href="/wiki/China" title="China">
+       China
+      </a>
+      ,
+      <a href="/wiki/Korea" title="Korea">
+       Korea
+      </a>
+      and
+      <a href="/wiki/Japan" title="Japan">
+       Japan
+      </a>
+      were nations by the time of the European Middle Ages.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Use_of_term_nationes_by_medieval_universities_and_other_medieval_institutions">
+       Use of term
+       <i>
+        nationes
+       </i>
+       by medieval universities and other medieval institutions
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=4" title="Edit section: Use of term nationes by medieval universities and other medieval institutions">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Nation_(university)" title="Nation (university)">
+       Nation (university)
+      </a>
+     </div>
+     <p>
+      A significant early use of the term
+      <i>
+       nation
+      </i>
+      , as
+      <i>
+       natio
+      </i>
+      , occurred at
+      <a class="mw-redirect" href="/wiki/Mediaeval_university" title="Mediaeval university">
+       mediaeval universities
+      </a>
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      to describe the colleagues in a college or students, above all at the
+      <a href="/wiki/University_of_Paris" title="University of Paris">
+       University of Paris
+      </a>
+      , who were all born within a
+      <i>
+       pays
+      </i>
+      , spoke the same language and expected to be ruled by their own familiar law. In 1383 and 1384, while studying theology at Paris,
+      <a href="/wiki/Jean_Gerson" title="Jean Gerson">
+       Jean Gerson
+      </a>
+      was elected twice as a procurator for the French
+      <i>
+       natio
+      </i>
+      . The
+      <a class="mw-redirect" href="/wiki/Charles_University_in_Prague" title="Charles University in Prague">
+       University of Prague
+      </a>
+      adopted the division of students into
+      <i>
+       nationes
+      </i>
+      : from its opening in 1349 the
+      <i>
+       <a href="/wiki/Studium_generale" title="Studium generale">
+        studium generale
+       </a>
+      </i>
+      which consisted of Bohemian, Bavarian, Saxon and Silesian
+      <i>
+       nations
+      </i>
+      .
+     </p>
+     <p>
+      In a similar way, the
+      <i>
+       nationes
+      </i>
+      were segregated by the
+      <a href="/wiki/Knights_Hospitaller" title="Knights Hospitaller">
+       Knights Hospitaller of Jerusalem
+      </a>
+      , who maintained at
+      <a href="/wiki/Rhodes" title="Rhodes">
+       Rhodes
+      </a>
+      the hostels from which they took their name "where foreigners eat and have their places of meeting, each nation apart from the others, and a Knight has charge of each one of these hostels, and provides for the necessities of the inmates according to their religion", as the Spanish traveller
+      <a href="/wiki/Pedro_Tafur" title="Pedro Tafur">
+       Pedro Tafur
+      </a>
+      noted in 1436.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Early_modern_nations">
+       Early modern nations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=5" title="Edit section: Early modern nations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Nation_state" title="Nation state">
+       Nation state
+      </a>
+     </div>
+     <p>
+      In his article, "The Mosaic Moment: An Early Modernist Critique of the Modernist Theory of Nationalism",
+      <a href="/wiki/Philip_S._Gorski" title="Philip S. Gorski">
+       Philip S. Gorski
+      </a>
+      argues that the first modern nation was the
+      <a href="/wiki/Dutch_Republic" title="Dutch Republic">
+       Dutch Republic
+      </a>
+      , created by a fully modern political nationalism rooted in the model of
+      <a class="new" href="/w/index.php?title=Biblical_nationalism&amp;action=edit&amp;redlink=1" title="Biblical nationalism (page does not exist)">
+       biblical nationalism
+      </a>
+      .
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      In a 2013 article "Biblical nationalism and the sixteenth-century states",
+      <a href="/wiki/Diana_Muir" title="Diana Muir">
+       Diana Muir Appelbaum
+      </a>
+      expands Gorski's argument to apply to a series of new, Protestant, sixteenth-century nation states.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      A similar, albeit broader, argument was made by
+      <a href="/wiki/Anthony_D._Smith" title="Anthony D. Smith">
+       Anthony D. Smith
+      </a>
+      in his books,
+      <i>
+       Chosen Peoples: Sacred Sources of National Identity
+      </i>
+      and
+      <i>
+       Myths and Memories of the Nation
+      </i>
+      .
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In her book
+      <i>
+       Nationalism: Five Roads to Modernity
+      </i>
+      ,
+      <a href="/wiki/Liah_Greenfeld" title="Liah Greenfeld">
+       Liah Greenfeld
+      </a>
+      argued that nationalism was invented in England by 1600. According to Greenfeld, England was “the first nation in the world".
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Social_science">
+       Social science
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=6" title="Edit section: Social science">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In the late 20th century, many social scientists argued that there were two types of nations, the
+      <a class="mw-redirect" href="/wiki/Civic_nation" title="Civic nation">
+       civic nation
+      </a>
+      of which France was the principal example and the
+      <a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">
+       ethnic nation
+      </a>
+      exemplified by the German peoples. The German tradition was conceptualized as originating with early 19th-century philosophers, like
+      <a href="/wiki/Johann_Gottlieb_Fichte" title="Johann Gottlieb Fichte">
+       Johann Gottlieb Fichte
+      </a>
+      , and referred to people sharing a common language, religion, culture, history, and
+      <a class="mw-redirect" href="/wiki/Ethnic_origins" title="Ethnic origins">
+       ethnic origins
+      </a>
+      , that differentiate them from people of other nations.
+      <sup class="reference" id="cite_ref-Noiriel_23-0">
+       <a href="#cite_note-Noiriel-23">
+        [23]
+       </a>
+      </sup>
+      On the other hand, the civic nation was traced to the
+      <a href="/wiki/French_Revolution" title="French Revolution">
+       French Revolution
+      </a>
+      and ideas deriving from 18th-century French philosophers. It was understood as being centered in a willingness to "live together", this producing a nation that results from an act of affirmation.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      This is the vision, among others, of
+      <a href="/wiki/Ernest_Renan" title="Ernest Renan">
+       Ernest Renan
+      </a>
+      .
+      <sup class="reference" id="cite_ref-Noiriel_23-1">
+       <a href="#cite_note-Noiriel-23">
+        [23]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Present day analysis tend to be based in socio-historical studies about the building of
+      <a href="/wiki/National_identity" title="National identity">
+       national identity
+      </a>
+      sentiments, trying to identify the individual and collective mechanisms, either conscient or non-conscient, intended or un-intended. According to some of these studies, it seems that the
+      <a href="/wiki/State_(polity)" title="State (polity)">
+       State
+      </a>
+      often plays a significant role, and communications, particularly of economic content, also have a high significance.
+      <sup class="reference" id="cite_ref-Noiriel_23-2">
+       <a href="#cite_note-Noiriel-23">
+        [23]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Black_nationalism">
+       Black nationalism
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=7" title="Edit section: Black nationalism">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/African_diaspora" title="African diaspora">
+       African diaspora
+      </a>
+     </div>
+     <p>
+      The 18th century brought an alteration to the meaning of the term "nation", which became more narrowly referred to as a group with a recognizable and sovereign government with physical borders. This new definition aligns more with the concept of a nation-state.
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+      The nation began to emerge in the late 18th century as the leading form of government and social organization.
+      <sup class="reference" id="cite_ref-26">
+       <a href="#cite_note-26">
+        [26]
+       </a>
+      </sup>
+      In the Americas, the catalyst that brought about this change in meaning was the influence of the African diaspora and its people in other states.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (January 2014)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      National identity brought rights to vote, to hold office, and independence for a growing number of black territories held under colonial rule.
+      <sup class="reference" id="cite_ref-27">
+       <a href="#cite_note-27">
+        [27]
+       </a>
+      </sup>
+     </p>
+     <p>
+      This change occurred in the New World as Africans were brought as enslaved peoples.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (January 2014)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      The white population of the New World considered these aliens to be in one category of nation that was based entirely on color and continent of origin. The identity of the enslaved at the time was then shaped by their skin color rather than what nation or tribe they truly originated from. Prior to the 18th and 19th centuries, the term mainly referred to a group of people unified by language, region and cultural background; what is now considered to be one's ethnicity. It was through the process of emancipation and the end of the slave trade that the concept of nation began to change. As the previously enslaved began to fight for rights they had to discover what kind of rights they were searching for. It was in this process of emancipation that nationality began to take on a different meaning. Language and cultural background were no longer the only requirements of nation. Instead, now the idea of an established government and physical boundaries also shaped what it meant to be a nation.
+      <sup class="reference" id="cite_ref-28">
+       <a href="#cite_note-28">
+        [28]
+       </a>
+      </sup>
+     </p>
+     <p>
+      However, within the diaspora, particularly among groups that have been politicized, the term
+      <i>
+       nation
+      </i>
+      has been used to describe a more abstract national experience, one that transcends physical borders and language differences. This description of nation is pinned to the shared experience of being radicalized and termed as Black. The expansion of
+      <a href="/wiki/Black_nationalism" title="Black nationalism">
+       Black nationalism
+      </a>
+      demonstrates that although some expanded the view that nation requires definable boundaries, those who shared the experience of the diaspora also found a nationality among themselves.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Nation_of_Islam">
+       Nation of Islam
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=8" title="Edit section: Nation of Islam">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Nation_of_Islam" title="Nation of Islam">
+       Nation of Islam
+      </a>
+     </div>
+     <p>
+      The NOI teaches that black people constitute a nation and that through the institution of the
+      <a href="/wiki/Atlantic_slave_trade" title="Atlantic slave trade">
+       Atlantic slave trade
+      </a>
+      they were systematically denied knowledge of
+      <a href="/wiki/History_of_Africa" title="History of Africa">
+       their history
+      </a>
+      ,
+      <a href="/wiki/Languages_of_Africa" title="Languages of Africa">
+       language
+      </a>
+      ,
+      <a href="/wiki/Culture_of_Africa" title="Culture of Africa">
+       culture
+      </a>
+      , and
+      <a href="/wiki/Traditional_African_religion" title="Traditional African religion">
+       religion
+      </a>
+      and, in effect, lost control of their lives. Founder
+      <a href="/wiki/Elijah_Muhammad" title="Elijah Muhammad">
+       Elijah Muhammad
+      </a>
+      called for the establishment of a separate nation for black Americans and the adoption of a religion based on the worship of
+      <a href="/wiki/Allah" title="Allah">
+       Allah
+      </a>
+      and on the belief that blacks were his
+      <a href="/wiki/Chosen_people" title="Chosen people">
+       chosen people
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=9" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+      <ul>
+       <li>
+        <a href="/wiki/Citizenship" title="Citizenship">
+         Citizenship
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Country" title="Country">
+         Country
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Government" title="Government">
+         Government
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Identity_(social_science)" title="Identity (social science)">
+         Identity (social science)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Imagined_Communities" title="Imagined Communities">
+         Imagined Communities
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Invented_tradition" title="Invented tradition">
+         Invented tradition
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Lists_of_people_by_nationality" title="Lists of people by nationality">
+         Lists of people by nationality
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Meta-ethnicity" title="Meta-ethnicity">
+         Meta-ethnicity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Multinational_state" title="Multinational state">
+         Multinational state
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/National_emblem" title="National emblem">
+         National emblem
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/National_god" title="National god">
+         National god
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Nationalism" title="Nationalism">
+         Nationalism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Nationality" title="Nationality">
+         Nationality
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Polity" title="Polity">
+         Polity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Qaum" title="Qaum">
+         Qaum
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Race_(human_classification)" title="Race (human classification)">
+         Race (human classification)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Separatism" title="Separatism">
+         Separatism
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Society" title="Society">
+         Society
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Sovereign_state" title="Sovereign state">
+         Sovereign state
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tribe" title="Tribe">
+         Tribe
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/United_Nations" title="United Nations">
+         United Nations
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Notes">
+       Notes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=10" title="Edit section: Notes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=11" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-Smith1991-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Smith1991_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Anthony D. Smith (8 January 1991).
+          <a class="external text" href="https://books.google.com/books?id=740O4K52DCwC" rel="nofollow">
+           <i>
+            The Ethnic Origins of Nations
+           </i>
+          </a>
+          . Wiley. p. 17.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-631-16169-1" title="Special:BookSources/978-0-631-16169-1">
+           978-0-631-16169-1
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.au=Anthony+D.+Smith&amp;rft.btitle=The+Ethnic+Origins+of+Nations&amp;rft.date=1991-01-08&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D740O4K52DCwC&amp;rft.isbn=978-0-631-16169-1&amp;rft.pages=17&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Stalin, Joseph.
+          <a class="external text" href="https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm" rel="nofollow">
+           "Marxism and the National Question"
+          </a>
+          .
+          <i>
+           marxists.org
+          </i>
+          . Marxists Internet Archive
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            10 May
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.atitle=Marxism+and+the+National+Question&amp;rft.aufirst=Joseph&amp;rft.aulast=Stalin&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.marxists.org%2Freference%2Farchive%2Fstalin%2Fworks%2F1913%2F03a.htm&amp;rft.jtitle=marxists.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Anderson, Benedict (1983).
+          <i>
+           Imagined Communities
+          </i>
+          . London: Verso Publications.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Benedict&amp;rft.aulast=Anderson&amp;rft.btitle=Imagined+Communities&amp;rft.date=1983&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Verso+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          James, Paul (1996).
+          <a class="external text" href="https://books.google.com/books?isbn=0761950737" rel="nofollow">
+           <i>
+            Nation Formation: Towards a Theory of Abstract Community
+           </i>
+          </a>
+          . London: Sage Publications. p. 34 'A nation is at once an objectively abstract society of strangers, usually connected by a state, and a subjectively embodied community whose members experience themselves as an integrated group of compatriots.'.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-7619-5072-9" title="Special:BookSources/0-7619-5072-9">
+           0-7619-5072-9
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Paul&amp;rft.aulast=James&amp;rft.btitle=Nation+Formation%3A+Towards+a+Theory+of+Abstract+Community&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fisbn%3D0761950737&amp;rft.isbn=0-7619-5072-9&amp;rft.pages=34+%27A+nation+is+at+once+an+objectively+abstract+society+of+strangers%2C+usually+connected+by+a+state%2C+and+a+subjectively+embodied+community+whose+members+experience+themselves+as+an+integrated+group+of+compatriots.%27&amp;rft.place=London&amp;rft.pub=Sage+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">
+           James, Paul
+          </a>
+          (2006).
+          <a class="external text" href="http://www.academia.edu/1642214/Globalism_Nationalism_Tribalism_Bringing_Theory_Back_In_author_Sage_Publications_London_2006" rel="nofollow">
+           <i>
+            Globalism, Nationalism, Tribalism: Bringing Theory Back In
+           </i>
+          </a>
+          . London: Sage Publications.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Paul&amp;rft.aulast=James&amp;rft.btitle=Globalism%2C+Nationalism%2C+Tribalism%3A+Bringing+Theory+Back+In&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F1642214%2FGlobalism_Nationalism_Tribalism_Bringing_Theory_Back_In_author_Sage_Publications_London_2006&amp;rft.place=London&amp;rft.pub=Sage+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-etymonline-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-etymonline_6-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Harper, Douglas.
+          <a class="external text" href="http://www.etymonline.com/index.php?term=nation" rel="nofollow">
+           "Nation"
+          </a>
+          .
+          <i>
+           Online Etymology Dictionary
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            5 June
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.atitle=Nation&amp;rft.aufirst=Douglas&amp;rft.aulast=Harper&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dnation&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+         .
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Ernest_Gellner" title="Ernest Gellner">
+          Ernest Gellner
+         </a>
+         , Nations and Nationalism, 1983.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism. Cambridge: Cambridge University Press. 2013, p. 85
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism. Cambridge: Cambridge University Press. 2013, p. 89
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism. Cambridge: Cambridge University Press. 2013, p. 90
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Edward E. Cohen, The Athenian Nation. Princeton: Princeton University Press, 2000
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         The Endurance of Nationalism: Ancient Roots and Modern Dilemmas (Cambridge: Cambridge University Press, 2006).
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Susan Reynolds, Kingdoms and Communities in Western Europe 900-1300, Oxford, 1997.
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Adrian Hastings, The Construction of Nationhood: Ethnicity, Religion and Nationalism. Cambridge: Cambridge University Press, 1997
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Azar Gat,
+         <i>
+          Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism
+         </i>
+         , Cambridge: Cambridge University Press. 2013, China, p. 93 Korea, p. 104 and Japan p., 105.
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <i>
+          see:
+          <a href="/wiki/Nation_(university)" title="Nation (university)">
+           nation (university)
+          </a>
+         </i>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Pedro Tafur,
+         <i>
+          <a class="external text" href="http://depts.washington.edu/silkroad/texts/tafur.html#ch5" rel="nofollow">
+           Andanças e viajes
+          </a>
+         </i>
+         .
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Philip S. Gorski, "The Mosaic Moment: An Early Modernist Critique of the Modernist Theory of Nationalism", American Journal of Sociology 105:5 (2000), pp. 1428–68.
+         <a class="external autonumber" href="http://www.jstor.org/discover/10.2307/3003771?uid=3739256&amp;uid=2129&amp;uid=2&amp;uid=70&amp;uid=4&amp;sid=21103778558453" rel="nofollow">
+          [1]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Diana Muir Appelbaum, Biblical nationalism and the sixteenth-century states,
+         <i>
+          National Identities
+         </i>
+         , 2013,
+         <a class="external autonumber" href="https://www.academia.edu/4879193/Biblical_Nationalism_and_the_Sixteenth_Century_States" rel="nofollow">
+          [2]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Anthony D. Smith, Chosen Peoples: Sacred Sources of National Identity (Oxford University Press, 2003) and Myths and Memories of the Nation (Oxford University Press, 1999).
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Steven Guilbert, The Making of English National Identity,
+         <a class="external free" href="http://www.cercles.com/review/R12/kumar7.htm" rel="nofollow">
+          http://www.cercles.com/review/R12/kumar7.htm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Liah Greenfeld, Nationalism: Five Roads to Modernity, Harvard University Press, 1992.
+        </span>
+       </li>
+       <li id="cite_note-Noiriel-23">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Noiriel_23-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Noiriel_23-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Noiriel_23-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Noiriel, Gérard (1992).
+          <i>
+           Population, immigration et identité national en France:XIX-XX Siècle
+          </i>
+          . Hachette.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/2010166779" title="Special:BookSources/2010166779">
+           2010166779
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=G%C3%A9rard&amp;rft.aulast=Noiriel&amp;rft.btitle=Population%2C+immigration+et+identit%C3%A9+national+en+France%3AXIX-XX+Si%C3%A8cle.&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=2010166779&amp;rft.pub=Hachette&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Rogers_Brubaker" title="Rogers Brubaker">
+          Rogers Brubaker
+         </a>
+         , Citizenship and nationhood in France and Germany, Harvard University Press, 1992,
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780674131781">
+          ISBN 978-0-674-13178-1
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Bauböck, Rainer, and Thomas Faist. Diaspora and Transnationalism: Concepts, Theories and Methods. Amsterdam: Amsterdam UP, 2010. Print.
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          <a href="/wiki/Patrick_Manning_(professor)" title="Patrick Manning (professor)">
+           Manning, Patrick
+          </a>
+          (2013).
+          <a class="external text" href="https://books.google.com/books?id=Z013mXynh1wC" rel="nofollow">
+           <i>
+            The African Diaspora: A History through Culture
+           </i>
+          </a>
+          . Columbia studies in international and global history. Columbia University Press. p. np.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780231513555" title="Special:BookSources/9780231513555">
+           9780231513555
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-01-02
+           </span>
+          </span>
+          .
+          <q>
+           The nation began to emerge, in the late eighteenth century, as the leading form of government and social organization.
+          </q>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Patrick&amp;rft.aulast=Manning&amp;rft.btitle=The+African+Diaspora%3A+A+History+through+Culture&amp;rft.date=2013&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZ013mXynh1wC&amp;rft.isbn=9780231513555&amp;rft.pages=np&amp;rft.pub=Columbia+University+Press&amp;rft.series=Columbia+studies+in+international+and+global+history&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          <a href="/wiki/Patrick_Manning_(professor)" title="Patrick Manning (professor)">
+           Manning, Patrick
+          </a>
+          (2013).
+          <a class="external text" href="https://books.google.com/books?id=Z013mXynh1wC" rel="nofollow">
+           <i>
+            The African Diaspora: A History through Culture
+           </i>
+          </a>
+          . Columbia studies in international and global history. Columbia University Press. p. np.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9780231513555" title="Special:BookSources/9780231513555">
+           9780231513555
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-01-02
+           </span>
+          </span>
+          .
+          <q>
+           Haiti and Liberia stand out as early black nations; the United States and Brazil stand out as early, multicultural nations with large black populations. Nationhood came gradually to all black people. National identity brought rights to vote, to hold office, and independence for a growing number of black territories held under colonial rule.
+          </q>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Patrick&amp;rft.aulast=Manning&amp;rft.btitle=The+African+Diaspora%3A+A+History+through+Culture&amp;rft.date=2013&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZ013mXynh1wC&amp;rft.isbn=9780231513555&amp;rft.pages=np&amp;rft.pub=Columbia+University+Press&amp;rft.series=Columbia+studies+in+international+and+global+history&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Manning, Patrick. The African Diaspora: A History through Culture. New York: Columbia UP, 2009. Print.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Sources">
+       Sources
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=12" title="Edit section: Sources">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <cite class="citation book">
+        Anderson, Benedict (1983).
+        <i>
+         Imagined Communities
+        </i>
+        . London: Verso Publications.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Benedict&amp;rft.aulast=Anderson&amp;rft.btitle=Imagined+Communities&amp;rft.date=1983&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Verso+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Gellner, Ernest (1983).
+        <i>
+         Nations and Nationalism
+        </i>
+        . Cambridge: Blackwell.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Ernest&amp;rft.aulast=Gellner&amp;rft.btitle=Nations+and+Nationalism&amp;rft.date=1983&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft.pub=Blackwell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">
+         James, Paul
+        </a>
+        (1996).
+        <a class="external text" href="https://books.google.com/books?isbn=0761950737" rel="nofollow">
+         <i>
+          Nation Formation: Towards a Theory of Abstract Community
+         </i>
+        </a>
+        . London: Sage Publications.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Paul&amp;rft.aulast=James&amp;rft.btitle=Nation+Formation%3A+Towards+a+Theory+of+Abstract+Community&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fisbn%3D0761950737&amp;rft.place=London&amp;rft.pub=Sage+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        <a href="/wiki/Paul_James_(academic)" title="Paul James (academic)">
+         James, Paul
+        </a>
+        (2006).
+        <a class="external text" href="http://www.academia.edu/1642214/Globalism_Nationalism_Tribalism_Bringing_Theory_Back_In_author_Sage_Publications_London_2006" rel="nofollow">
+         <i>
+          Globalism, Nationalism, Tribalism: Bringing Theory Back In —Volume 2 of Towards a Theory of Abstract Community
+         </i>
+        </a>
+        . London: Sage Publications.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Paul&amp;rft.aulast=James&amp;rft.btitle=Globalism%2C+Nationalism%2C+Tribalism%3A+Bringing+Theory+Back+In+%94Volume+2+of+Towards+a+Theory+of+Abstract+Community&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.academia.edu%2F1642214%2FGlobalism_Nationalism_Tribalism_Bringing_Theory_Back_In_author_Sage_Publications_London_2006&amp;rft.place=London&amp;rft.pub=Sage+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation book">
+        Smith, Anthony (1986).
+        <i>
+         The Ethnic Origins of Nations
+        </i>
+        . London: Blackwell.
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANation&amp;rft.aufirst=Anthony&amp;rft.aulast=Smith&amp;rft.btitle=The+Ethnic+Origins+of+Nations&amp;rft.date=1986&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Blackwell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nation&amp;action=edit&amp;section=13" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Pierre_Manent" title="Pierre Manent">
+        Manent, Pierre
+       </a>
+       (2007).
+       <a class="external text" href="http://www.mmisi.org/IR/42_02/manent.pdf" rel="nofollow">
+        "What is a Nation?"
+       </a>
+       ,
+       <i>
+        The Intercollegiate Review
+       </i>
+       , Vol. XLII, No. 2, pp. 23–31.
+      </li>
+      <li>
+       <a href="/wiki/Ernest_Renan" title="Ernest Renan">
+        Renan, Ernest
+       </a>
+       (1896).
+       <a class="external text" href="https://archive.org/stream/poetryofcelticra00renauoft#page/60/mode/2up" rel="nofollow">
+        "What is a Nation?"
+       </a>
+       In:
+       <i>
+        The Poetry of the Celtic Races, and Other Essays
+       </i>
+       . London: The Walter Scott Publishing Co., pp. 61–83.
+      </li>
+     </ul>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wikiquote-logo.svg">
+         <img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikiquote has quotations related to:
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Nation" title="q:Special:Search/Nation">
+           Nation
+          </a>
+         </b>
+        </i>
+       </td>
+      </tr>
+     </table>
+     <div aria-labelledby="Ethnicity" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Ethnicity" title="Template:Ethnicity">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Ethnicity" title="Template talk:Ethnicity">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ethnicity&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Ethnicity" style="font-size:114%">
+          <a href="/wiki/Ethnic_group" title="Ethnic group">
+           Ethnicity
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Related concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:left;">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Clan" title="Clan">
+             Clan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_group" title="Ethnic group">
+             Ethnic group
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Ethnolinguistics" title="Ethnolinguistics">
+               Ethno-linguistic group
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ethnoreligious_group" title="Ethnoreligious group">
+               Ethno-religious group
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">
+             Indigenous peoples
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ingroups_and_outgroups" title="Ingroups and outgroups">
+             Ingroups and outgroups
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Meta-ethnicity" title="Meta-ethnicity">
+             Meta-ethnicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Metroethnicity" title="Metroethnicity">
+             Metroethnicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Minority_group" title="Minority group">
+             Minority group
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Monoethnicity" title="Monoethnicity">
+             Monoethnicity
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Nation
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Nationality" title="Nationality">
+             Nationality
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Panethnicity" title="Panethnicity">
+             Panethnicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Polyethnicity" title="Polyethnicity">
+             Polyethnicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Population" title="Population">
+             Population
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Race_(human_categorization)" title="Race (human categorization)">
+             Race
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Symbolic_ethnicity" title="Symbolic ethnicity">
+             Symbolic ethnicity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tribe" title="Tribe">
+             Tribe
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Ethnology" title="Ethnology">
+          Ethnology
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Anthropology" title="Anthropology">
+             Anthropology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_studies" title="Ethnic studies">
+             Ethnic studies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnoarchaeology" title="Ethnoarchaeology">
+             Ethnoarchaeology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnobiology" title="Ethnobiology">
+             Ethnobiology
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Ethnobotany" title="Ethnobotany">
+               Ethnobotany
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ethnozoology" title="Ethnozoology">
+               Ethnozoology
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ethnoecology" title="Ethnoecology">
+               Ethnoecology
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Ethnocinema" title="Ethnocinema">
+             Ethnocinema
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnogeology" title="Ethnogeology">
+             Ethnogeology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnography" title="Ethnography">
+             Ethnography
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Autoethnography" title="Autoethnography">
+               Autoethnography
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Clinical_ethnography" title="Clinical ethnography">
+               Clinical
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Critical_ethnography" title="Critical ethnography">
+               Critical
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Cyber-ethnography" title="Cyber-ethnography">
+               Cyber-
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Netnography" title="Netnography">
+               Netnography
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/Online_ethnography" title="Online ethnography">
+               Online
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Person-centered_ethnography" title="Person-centered ethnography">
+               Person-centered
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Salvage_ethnography" title="Salvage ethnography">
+               Salvage
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Transidioethnography" title="Transidioethnography">
+               Transidioethnography
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Video_ethnography" title="Video ethnography">
+               Video
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Ethnohistory" title="Ethnohistory">
+             Ethnohistory
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnolinguistics" title="Ethnolinguistics">
+             Ethnolinguistics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnology" title="Ethnology">
+             Ethnology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnomathematics" title="Ethnomathematics">
+             Ethnomathematics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnomethodology" title="Ethnomethodology">
+             Ethnomethodology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnomuseology" title="Ethnomuseology">
+             Ethnomuseology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnomusicology" title="Ethnomusicology">
+             Ethnomusicology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnophilosophy" title="Ethnophilosophy">
+             Ethnophilosophy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnopoetics" title="Ethnopoetics">
+             Ethnopoetics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnoscience" title="Ethnoscience">
+             Ethnoscience
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnosemiotics" title="Ethnosemiotics">
+             Ethnosemiotics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnotaxonomy" title="Ethnotaxonomy">
+             Ethnotaxonomy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_contemporary_ethnic_groups" title="List of contemporary ethnic groups">
+          Groups by region
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="font-weight:normal;">
+            <div class="hlist">
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/Ethnic_groups_of_Africa" title="Ethnic groups of Africa">
+                Africa
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_groups_in_Europe" title="Ethnic groups in Europe">
+                Europe
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oceania" title="Oceania">
+                Oceania
+               </a>
+              </li>
+             </ul>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Demographics_of_the_Arab_League" title="Demographics of the Arab League">
+                Arab League
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_groups_in_Europe" title="Ethnic groups in Europe">
+                Europe
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Ethnic_groups_in_Australia" title="Ethnic groups in Australia">
+                Australian
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Indigenous_peoples_of_Australia" title="Indigenous peoples of Australia">
+                  indigenous
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Indigenous_peoples_of_Oceania" title="Indigenous peoples of Oceania">
+                Indigenous Oceanian
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Europeans_in_Oceania" title="Europeans in Oceania">
+                Europeans in Oceania
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="font-weight:normal;">
+            <a href="/wiki/Americas" title="Americas">
+             Americas
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">
+                Indigenous
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_origins_of_people_in_Canada" title="Ethnic origins of people in Canada">
+                Canada
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Demographics_of_Mexico#Ethnic_groups" title="Demographics of Mexico">
+                Mexico
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Race_and_ethnicity_in_the_United_States" title="Race and ethnicity in the United States">
+                United States
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_groups_in_Central_America" title="Ethnic groups in Central America">
+                Central America
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Ethnic_groups_in_South_America" title="Ethnic groups in South America">
+                South America
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="font-weight:normal;">
+            <a href="/wiki/Ethnic_groups_in_Asia" title="Ethnic groups in Asia">
+             Asia
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Demographics_of_Central_Asia" title="Demographics of Central Asia">
+                Central
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Ethnic_groups_of_East_Asia" title="Ethnic groups of East Asia">
+                East
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Indigenous_peoples_of_Siberia" title="Indigenous peoples of Siberia">
+                Northern
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/South_Asian_ethnic_groups" title="South Asian ethnic groups">
+                South
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_groups_of_Southeast_Asia" title="Ethnic groups of Southeast Asia">
+                Southeast
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ethnic_groups_in_West_Asia" title="Ethnic groups in West Asia">
+                West
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Identity_(social_science)" title="Identity (social science)">
+           Identity
+          </a>
+          and
+          <br/>
+          <a href="/wiki/Ethnogenesis" title="Ethnogenesis">
+           ethnogenesis
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Cross-race_effect" title="Cross-race effect">
+             Cross-race effect
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cultural_assimilation" title="Cultural assimilation">
+             Cultural assimilation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cultural_identity" title="Cultural identity">
+             Cultural identity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demonym" title="Demonym">
+             Demonym
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_identity_development" title="Ethnic identity development">
+             Development
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Exonym_and_endonym" title="Exonym and endonym">
+             Endonym
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_flag" title="Ethnic flag">
+             Ethnic flag
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_option" title="Ethnic option">
+             Ethnic option
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_origin" title="Ethnic origin">
+             Ethnic origin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_religion" title="Ethnic religion">
+             Ethnic religion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Race_and_ethnicity_in_censuses" title="Race and ethnicity in censuses">
+             Ethnicity in census
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnofiction" title="Ethnofiction">
+             Ethnofiction
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnonym" title="Ethnonym">
+             Ethnonym
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Folk_religion" title="Folk religion">
+             Folk religion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Historical_race_concepts" title="Historical race concepts">
+             Historical
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Imagined_community" title="Imagined community">
+             Imagined community
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kinship" title="Kinship">
+             Kinship
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Legendary_progenitor" title="Legendary progenitor">
+             Legendary progenitor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lineage-bonded_society" title="Lineage-bonded society">
+             Lineage-bonded society
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mores" title="Mores">
+             Mores
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nation-building" title="Nation-building">
+             Nation-building
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nation_state" title="Nation state">
+             Nation state
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/National_language" title="National language">
+             National language
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/National_myth" title="National myth">
+             National myth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Origin_myth" title="Origin myth">
+             Origin myth
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Pantribal_sodalities" title="Pantribal sodalities">
+             Pantribal sodalities
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tribal_name" title="Tribal name">
+             Tribal name
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tribalism" title="Tribalism">
+             Tribalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Urheimat" title="Urheimat">
+             Urheimat
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Multinational_state" title="Multinational state">
+          Multiethnic society
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Consociationalism" title="Consociationalism">
+             Consociationalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Diaspora_politics" title="Diaspora politics">
+             Diaspora politics
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dominant_minority" title="Dominant minority">
+             Dominant minority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_democracy" title="Ethnic democracy">
+             Ethnic democracy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_enclave" title="Ethnic enclave">
+             Ethnic enclave
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_interest_group" title="Ethnic interest group">
+             Ethnic interest group
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_majority" title="Ethnic majority">
+             Ethnic majority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_media" title="Ethnic media">
+             Ethnic media
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_pornography" title="Ethnic pornography">
+             Ethnic pornography
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_theme_park" title="Ethnic theme park">
+             Ethnic theme park
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnoburb" title="Ethnoburb">
+             Ethnoburb
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnocracy" title="Ethnocracy">
+             Ethnocracy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnopluralism" title="Ethnopluralism">
+             Ethnopluralism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Indigenous_rights" title="Indigenous rights">
+             Indigenous rights
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Middleman_minority" title="Middleman minority">
+             Middleman minority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Minority_rights" title="Minority rights">
+             Minority rights
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Model_minority" title="Model minority">
+             Model minority
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Multinational_state" title="Multinational state">
+             Multinational state
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Ideology and
+          <br/>
+          <a href="/wiki/Ethnic_conflict" title="Ethnic conflict">
+           ethnic conflict
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ethnic_bioweapon" title="Ethnic bioweapon">
+             Ethnic bioweapon
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_cleansing" title="Ethnic cleansing">
+             Ethnic cleansing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_hatred" title="Ethnic hatred">
+             Ethnic hatred
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_joke" title="Ethnic joke">
+             Ethnic joke
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">
+             Ethnic nationalism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_nepotism" title="Ethnic nepotism">
+             Ethnic nepotism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_penalty" title="Ethnic penalty">
+             Ethnic penalty
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_ethnic_slurs" title="List of ethnic slurs">
+             Ethnic slur
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_stereotype" title="Ethnic stereotype">
+             Ethnic stereotype
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnic_violence" title="Ethnic violence">
+             Ethnic violence
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnocentrism" title="Ethnocentrism">
+             Ethnocentrism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnocide" title="Ethnocide">
+             Ethnocide
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethnosymbolism" title="Ethnosymbolism">
+             Ethnosymbolism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Indigenism" title="Indigenism">
+             Indigenism
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lists_of_active_separatist_movements" title="Lists of active separatist movements">
+             Separatist movements
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Xenophobia" title="Xenophobia">
+             Xenophobia
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:21754-0!*!0!!en!4!* and timestamp 20161030234751 and revision id 746280762
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nation&amp;oldid=746280762">
+      https://en.wikipedia.org/w/index.php?title=Nation&amp;oldid=746280762
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Ethnicity" title="Category:Ethnicity">
+         Ethnicity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Nationality" title="Category:Nationality">
+         Nationality
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Political_geography" title="Category:Political geography">
+         Political geography
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Political_science_terminology" title="Category:Political science terminology">
+         Political science terminology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Social_constructionism" title="Category:Social constructionism">
+         Social constructionism
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:NPOV_disputes_from_July_2015" title="Category:NPOV disputes from July 2015">
+         NPOV disputes from July 2015
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">
+         All NPOV disputes
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2014" title="Category:Articles with unsourced statements from January 2014">
+         Articles with unsourced statements from January 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">
+         Use dmy dates from July 2012
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Nation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Nation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Nation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Nation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Nation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Nation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Nation&amp;oldid=746280762" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Nation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q6266" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nation&amp;id=746280762" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nation&amp;returnto=Nation&amp;oldid=746280762&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Nation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Nations" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote">
+        <a href="https://en.wikiquote.org/wiki/Nations" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Nasie" hreflang="af" lang="af" title="Nasie – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Nation" hreflang="als" lang="als" title="Nation – Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D8%A9" hreflang="ar" lang="ar" title="أمة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Naci%C3%B3n" hreflang="an" lang="an" title="Nación – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arc">
+        <a class="interlanguage-link-target" href="https://arc.wikipedia.org/wiki/%DC%90%DC%98%DC%A1%DC%AC%DC%90" hreflang="arc" lang="arc" title="ܐܘܡܬܐ – Aramaic">
+         ܐܪܡܝܐ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Naci%C3%B3n" hreflang="ast" lang="ast" title="Nación – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-av">
+        <a class="interlanguage-link-target" href="https://av.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B0%D1%82" hreflang="av" lang="av" title="Миллат – Avaric">
+         Авар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Mill%C9%99t" hreflang="az" lang="az" title="Millət – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF" hreflang="bn" lang="bn" title="জাতি – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/B%C3%AEn-cho%CC%8Dk" hreflang="zh-min-nan" lang="zh-min-nan" title="Bîn-cho̍k – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Нацыя – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be-x-old" lang="be-x-old" title="Нацыя – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Нация – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Nation" hreflang="bar" lang="bar" title="Nation – Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Nacija" hreflang="bs" lang="bs" title="Nacija – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Naci%C3%B3" hreflang="ca" lang="ca" title="Nació – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/N%C3%A1rod" hreflang="cs" lang="cs" title="Národ – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Cenedl" hreflang="cy" lang="cy" title="Cenedl – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Nation" hreflang="da" lang="da" title="Nation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nation" hreflang="de" lang="de" title="Nation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Rahvus" hreflang="et" lang="et" title="Rahvus – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%88%CE%B8%CE%BD%CE%BF%CF%82_(%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1)" hreflang="el" lang="el" title="Έθνος (κοινωνιολογία) – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Naci%C3%B3n" hreflang="es" lang="es" title="Nación – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Nacio" hreflang="eo" lang="eo" title="Nacio – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ext">
+        <a class="interlanguage-link-target" href="https://ext.wikipedia.org/wiki/Naci%C3%B3n" hreflang="ext" lang="ext" title="Nación – Extremaduran">
+         Estremeñu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Nazio" hreflang="eu" lang="eu" title="Nazio – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%AA" hreflang="fa" lang="fa" title="ملت – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fo">
+        <a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Tj%C3%B3%C3%B0" hreflang="fo" lang="fo" title="Tjóð – Faroese">
+         Føroyskt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Nation" hreflang="fr" lang="fr" title="Nation – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/N%C3%A1isi%C3%BAn" hreflang="ga" lang="ga" title="Náisiún – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/N%C3%A0isean" hreflang="gd" lang="gd" title="Nàisean – Scottish Gaelic">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Naci%C3%B3n" hreflang="gl" lang="gl" title="Nación – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hak">
+        <a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/M%C3%ACn-chhu%CC%8Dk" hreflang="hak" lang="hak" title="Mìn-chhu̍k – Hakka Chinese">
+         客家語/Hak-kâ-ngî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC" hreflang="ko" lang="ko" title="국민 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Nacija" hreflang="hr" lang="hr" title="Nacija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Naciono" hreflang="io" lang="io" title="Naciono – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Bangsa" hreflang="id" lang="id" title="Bangsa – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-iu">
+        <a class="interlanguage-link-target" href="https://iu.wikipedia.org/wiki/%E1%90%83%E1%93%85%E1%96%83%E1%91%8E%E1%92%8C%E1%91%A6_%E1%90%83%E1%93%95%E1%96%85%E1%91%AF%E1%93%AF%E1%96%83%E1%91%8E%E1%92%8C%E1%92%83%E1%91%90%E1%91%A6" hreflang="iu" lang="iu" title="ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ – Inuktitut">
+         ᐃᓄᒃᑎᑐᑦ/inuktitut
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Ej%C3%B3%C3%B0" hreflang="is" lang="is" title="Þjóð – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Nazione" hreflang="it" lang="it" title="Nazione – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%9E%D7%94" hreflang="he" lang="he" title="אומה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%A0%E1%83%98" hreflang="ka" lang="ka" title="ერი – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D2%B0%D0%BB%D1%82" hreflang="kk" lang="kk" title="Ұлт – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Taifa" hreflang="sw" lang="sw" title="Taifa – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Nasyon" hreflang="ht" lang="ht" title="Nasyon – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Netewe" hreflang="ku" lang="ku" title="Netewe – Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Natio" hreflang="la" lang="la" title="Natio – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/N%C4%81cija" hreflang="lv" lang="lv" title="Nācija – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Natioun" hreflang="lb" lang="lb" title="Natioun – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Nacija" hreflang="lt" lang="lt" title="Nacija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Naziun" hreflang="lmo" lang="lmo" title="Naziun – Lombard">
+         Lumbaart
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Nemzet" hreflang="hu" lang="hu" title="Nemzet – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Нација – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="राष्ट्र – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-min">
+        <a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/Bangso" hreflang="min" lang="min" title="Bangso – Minangkabau">
+         Baso Minangkabau
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cdo">
+        <a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/M%C3%ACng-c%C5%ADk" hreflang="cdo" lang="cdo" title="Mìng-cŭk – Min Dong Chinese">
+         Mìng-dĕ̤ng-ngṳ̄
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D2%AE%D0%BD%D0%B4%D1%8D%D1%81%D1%82%D1%8D%D0%BD" hreflang="mn" lang="mn" title="Үндэстэн – Mongolian">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%9C%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8" hreflang="my" lang="my" title="လူမျိုး – Burmese">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Natie" hreflang="nl" lang="nl" title="Natie – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-new">
+        <a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0" hreflang="new" lang="new" title="राष्ट्र – Newari">
+         नेपाल भाषा
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91" hreflang="ja" lang="ja" title="国民 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Nasjon" hreflang="no" lang="no" title="Nasjon – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Nasjon" hreflang="nn" lang="nn" title="Nasjon – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Nacion" hreflang="oc" lang="oc" title="Nacion – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Millat" hreflang="uz" lang="uz" title="Millat – Uzbek">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8C%E0%A8%AE" hreflang="pa" lang="pa" title="ਕੌਮ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ps">
+        <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%D9%88%D9%84%D8%B3" hreflang="ps" lang="ps" title="ولس – Pashto">
+         پښتو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Nar%C3%B3d" hreflang="pl" lang="pl" title="Naród – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Na%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Nação – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Na%C8%9Biune" hreflang="ro" lang="ro" title="Națiune – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rmy">
+        <a class="interlanguage-link-target" href="https://rmy.wikipedia.org/wiki/Sel" hreflang="rmy" lang="rmy" title="Sel – Romani">
+         Romani
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rue">
+        <a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D1%8F" hreflang="rue" lang="rue" title="Нація – Rusyn">
+         Русиньскый
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Нация – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sc">
+        <a class="interlanguage-link-target" href="https://sc.wikipedia.org/wiki/Natzione" hreflang="sc" lang="sc" title="Natzione – Sardinian">
+         Sardu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Kombi" hreflang="sq" lang="sq" title="Kombi – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Nazziuni" hreflang="scn" lang="scn" title="Nazziuni – Sicilian">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Nation" hreflang="simple" lang="simple" title="Nation – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sd">
+        <a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D9%82%D9%88%D9%85" hreflang="sd" lang="sd" title="قوم – Sindhi">
+         سنڌي
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/N%C3%A1rod" hreflang="sk" lang="sk" title="Národ – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-so">
+        <a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Qaran" hreflang="so" lang="so" title="Qaran – Somali">
+         Soomaaliga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%86%DB%95%D8%AA%DB%95%D9%88%DB%95" hreflang="ckb" lang="ckb" title="نەتەوە – Central Kurdish">
+         کوردیی ناوەندی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Нација – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Nacija" hreflang="sh" lang="sh" title="Nacija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kansakunta" hreflang="fi" lang="fi" title="Kansakunta – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Nation" hreflang="sv" lang="sv" title="Nation – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%87%E0%AE%9A%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="தேசம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D3%99%D1%82" hreflang="tt" lang="tt" title="Милләт – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%9C%E0%B0%BE%E0%B0%A4%E0%B1%80%E0%B0%AF" hreflang="te" lang="te" title="జాతీయ – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="ชาติ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B0%D1%82" hreflang="tg" lang="tg" title="Миллат – Tajik">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Millet" hreflang="tr" lang="tr" title="Millet – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-udm">
+        <a class="interlanguage-link-target" href="https://udm.wikipedia.org/wiki/%D0%99%D3%A7%D1%81%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA" hreflang="udm" lang="udm" title="Йӧскалык – Udmurt">
+         Удмурт
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Нація – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%82%D9%88%D9%85" hreflang="ur" lang="ur" title="قوم – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Nasion" hreflang="vec" lang="vec" title="Nasion – Venetian">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/D%C3%A2n_t%E1%BB%99c_(c%E1%BB%99ng_%C4%91%E1%BB%93ng)" hreflang="vi" lang="vi" title="Dân tộc (cộng đồng) – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A4%D7%90%D7%9C%D7%A7_(%D7%A0%D7%90%D7%A6%D7%99%D7%90%D7%9F)" hreflang="yi" lang="yi" title="פאלק (נאציאן) – Yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yo">
+        <a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/%C3%8Cb%C3%ADnib%C3%AD" hreflang="yo" lang="yo" title="Ìbínibí – Yoruba">
+         Yorùbá
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B0%91%E6%97%8F" hreflang="zh-yue" lang="zh-yue" title="民族 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/M%C4%B1let" hreflang="diq" lang="diq" title="Mılet – Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%97%8F" hreflang="zh" lang="zh" title="國族 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q6266#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 26 October 2016, at 12:10.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.200",
+            "walltime": "0.269",
+            "ppvisitednodes": {
+                "value": 1599,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 61114,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1326,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  213.318      1 -total",
+                " 31.34%   66.852      2 Template:Reflist",
+                " 26.11%   55.689     12 Template:Cite_book",
+                " 12.91%   27.532      2 Template:Citation_needed",
+                " 12.28%   26.198      1 Template:POV_section",
+                " 11.51%   24.551      2 Template:Fix",
+                " 10.85%   23.154      1 Template:POV",
+                "  9.98%   21.296      1 Template:Ambox",
+                "  9.33%   19.893      2 Template:Navbox",
+                "  8.13%   17.333      1 Template:Other_uses"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.087",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4758141,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1272",
+            "timestamp": "20161030234752",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1254"});});
+  </script>
+ </body>
+</html>

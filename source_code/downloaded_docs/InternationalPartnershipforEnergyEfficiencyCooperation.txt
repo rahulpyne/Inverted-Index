@@ -1,0 +1,1580 @@
+https://en.wikipedia.org/wiki/International_Partnership_for_Energy_Efficiency_Cooperation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   International Partnership for Energy Efficiency Cooperation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"International_Partnership_for_Energy_Efficiency_Cooperation","wgTitle":"International Partnership for Energy Efficiency Cooperation","wgCurRevisionId":746253566,"wgRevisionId":746253566,"wgArticleId":17888887,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Energy economics","International energy organizations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"International_Partnership_for_Energy_Efficiency_Cooperation","wgRelevantArticleId":17888887,"wgRequestId":"WBwZkQpAMFwAAHUHRN4AAABQ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q17081633","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/International_Partnership_for_Energy_Efficiency_Cooperation" rel="alternate"/>
+  <link href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/International_Partnership_for_Energy_Efficiency_Cooperation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-International_Partnership_for_Energy_Efficiency_Cooperation rootpage-International_Partnership_for_Energy_Efficiency_Cooperation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    International Partnership for Energy Efficiency Cooperation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table border="1" cellpadding="4" class="infobox" style="float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; font-size: 90%; clear: right">
+      <tr>
+       <th>
+        International Partnership for Energy Efficiency Cooperation (IPEEC)
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a class="image" href="/wiki/File:IPEEC_Logo.jpg" title="Map of MEF members">
+         <img alt="Map of MEF members" data-file-height="585" data-file-width="1070" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IPEEC_Logo.jpg/220px-IPEEC_Logo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IPEEC_Logo.jpg/330px-IPEEC_Logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/IPEEC_Logo.jpg/440px-IPEEC_Logo.jpg 2x" width="220"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <hr/>
+        <p>
+         <b>
+          Website:
+         </b>
+         <a class="external text" href="http://www.ipeec.org" rel="nofollow">
+          www.ipeec.org
+         </a>
+        </p>
+        <p>
+         <b>
+          IPEEC Members
+         </b>
+        </p>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="640" data-file-width="1280" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Australia" title="Australia">
+           Australia
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="504" data-file-width="720" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" width="22"/>
+          </span>
+          <a href="/wiki/Brazil" title="Brazil">
+           Brazil
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Canada" title="Canada">
+           Canada
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/China" title="China">
+           China
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="540" data-file-width="810" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/European_Union" title="European Union">
+           European Union
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/France" title="France">
+           France
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Germany" title="Germany">
+           Germany
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="900" data-file-width="1350" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/India" title="India">
+           India
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="1000" data-file-width="1500" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Italy" title="Italy">
+           Italy
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Japan" title="Japan">
+           Japan
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/South_Korea" title="South Korea">
+           South Korea
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="480" data-file-width="840" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Mexico" title="Mexico">
+           Mexico
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/Russia" title="Russia">
+           Russia
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/South_Africa" title="South Africa">
+           South Africa
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/United_Kingdom" title="United Kingdom">
+           United Kingdom
+          </a>
+         </dt>
+        </dl>
+        <dl>
+         <dt>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/United_States" title="United States">
+           United States
+          </a>
+         </dt>
+        </dl>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Partnership for Energy Efficiency Cooperation
+      </b>
+      (
+      <b>
+       IPEEC
+      </b>
+      ) is a high-level international forum which includes developed and developing countries. Its purpose is to enhance global cooperation in the field of
+      <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+       energy efficiency
+      </a>
+      and to facilitate policies that yield energy efficiency gains across all sectors globally.
+      <sup class="reference" id="cite_ref-iea.org_1-0">
+       <a href="#cite_note-iea.org-1">
+        [1]
+       </a>
+      </sup>
+      IPEEC provides information to decision-makers in major economies, facilitating candid discussions for exchanging ideas and experiences and helping countries undertake joint projects to develop and implement energy efficiency policies and measures at a global scale. It is also a forum for member and non-member economies to share information about various bilateral and multilateral initiatives.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      IPEEC supported initiatives are open to both member and non-member nations as well as the private sector.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      IPEEC is coordinating the implementation of the
+      <a href="/wiki/G20" title="G20">
+       Group of 20 (G20)
+      </a>
+      Energy Efficiency Action Plan, which was agreed by G20 leaders in late 2014 as a practical approach to strengthening voluntary international energy efficiency collaboration. And since July 2016, IPEEC is coordinating the
+      <a class="external text" href="http://www.ipeec.org/upload/publication_related_language/pdf/481.pdf" rel="nofollow">
+       G20 Energy Efficiency Leading Programme
+      </a>
+      (EELP) that provides the basis for a ‘comprehensive, flexible, and adequately-resourced’ framework for strengthened voluntary collaboration on energy efficiency among G20 members and beyond.
+     </p>
+     <p>
+      IPEEC has two core committees: the Executive Committee and the Policy Committee. Both these committees meet twice a year to determine the forward work program and discuss results of current and previous projects.
+      <sup class="reference" id="cite_ref-IPEEC_4-0">
+       <a href="#cite_note-IPEEC-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Membership">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Membership
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#IPEEC.27s_work">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          IPEEC's work
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#G20_Action">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            G20 Action
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Appliances_and_equipment">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Appliances and equipment
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Buildings">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            Buildings
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Industry">
+           <span class="tocnumber">
+            3.4
+           </span>
+           <span class="toctext">
+            Industry
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Power">
+           <span class="tocnumber">
+            3.5
+           </span>
+           <span class="toctext">
+            Power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Transport">
+           <span class="tocnumber">
+            3.6
+           </span>
+           <span class="toctext">
+            Transport
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Cross-sector">
+           <span class="tocnumber">
+            3.7
+           </span>
+           <span class="toctext">
+            Cross-sector
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      At the Gleneagles (2005) and the St.Petersburg (2006) Summits, the
+      <a href="/wiki/Group_of_Eight" title="Group of Eight">
+       Group of Eight
+      </a>
+      (G8)
+      <a class="mw-redirect" href="/wiki/Industrialized_countries" title="Industrialized countries">
+       industrialized countries
+      </a>
+      emphasized the need for global cooperation in the field of
+      <a href="/wiki/33rd_G8_summit" title="33rd G8 summit">
+       33rd G8 summit
+      </a>
+      at Heiligendamm in June 2007,
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      the G8 approved an EU proposal for an international initiative on energy efficiency and decided to explore the most efficient way to promote energy efficiency worldwide, jointly with the
+      <a href="/wiki/International_Energy_Agency" title="International Energy Agency">
+       International Energy Agency
+      </a>
+      (IEA).
+      <sup class="reference" id="cite_ref-iea.org_1-1">
+       <a href="#cite_note-iea.org-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Since its creation by the
+      <a class="mw-redirect" href="/wiki/Organization_for_Economic_Cooperation_and_Development" title="Organization for Economic Cooperation and Development">
+       Organization for Economic Cooperation and Development
+      </a>
+      (OECD) in 1974, the IEA has promoted energy efficiency. However its members are all developed countries. The growing economic interdependence among nations, the increasingly globalized energy market and the environmental issues affecting every country make the idea of a worldwide forum particularly relevant. IPEEC provides a forum that opens up a dialogue on energy, economic and environment issues between developed and developing nations as well as the private sector.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+      One year after the Heiligendamm Summit, on 8 June 2008, in Aomori, at the Energy Ministerial meeting hosted by Japan during its G8 Presidency, the
+      <a href="/wiki/Energy_minister" title="Energy minister">
+       energy ministers
+      </a>
+      from the G8 and from
+      <a href="/wiki/China" title="China">
+       China
+      </a>
+      ,
+      <a href="/wiki/India" title="India">
+       India
+      </a>
+      ,
+      <a href="/wiki/South_Korea" title="South Korea">
+       South Korea
+      </a>
+      and the European Community agreed to establish the IPEEC.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      In the Aomori Declaration, signed on June 8, 2008, the energy ministers acknowledged that
+      <i>
+       "all countries , both developed and developing, share common interests for improving their energy efficiency performance"
+      </i>
+      , and that
+      <i>
+       "developed countries need to play an important role in cooperation with developing countries, accelerating dissemination and transfer of best practices and efficient technologies"
+      </i>
+      .
+      <sup class="reference" id="cite_ref-ie_8-0">
+       <a href="#cite_note-ie-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      On May 24, 2009 in Rome, the G8 members, China, South Korea, Brazil and Mexico signed the Terms of Reference of the IPEEC.
+      <sup class="reference" id="cite_ref-ie_8-1">
+       <a href="#cite_note-ie-8">
+        [8]
+       </a>
+      </sup>
+      This group signature officially created the IPEEC. The same day, the representatives of these countries also signed the Memorandum' asking the IEA to host the IPEEC Secretariat.
+      <sup class="reference" id="cite_ref-ei_9-0">
+       <a href="#cite_note-ei-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The 9th meeting of Asia-Pacific Economic Cooperation (APEC) Energy Ministers in Japan in 2010 resulted in the Fukui Declaration that supported IPEEC’s goal by stating that
+      <i>
+       "improving energy efficiency is one of the quickest, greenest and most cost-effective ways to address energy security, economic growth and climate change challenges at the same time"
+      </i>
+      .
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Membership">
+       Membership
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=2" title="Edit section: Membership">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Members of IPEEC as of October 2016 are Australia, Brazil, Canada, China, the European Union, France, Germany, India, Italy, Japan, Mexico, Russia, South Africa, South Korea, United Kingdom and United States. Turkey is currently in the process of joining IPEEC. IPEEC is an autonomous partnership of nations founded in 2009 by the Group of 8 (G8) to promote collaboration on energy efficiency. Its membership now includes 16 of the Group of 20 (G20) economies, which represent over 80% of global energy use and over 80% of global greenhouse gas (GHG) emissions (OECD, 2015).
+      <sup class="reference" id="cite_ref-IPEEC_4-1">
+       <a href="#cite_note-IPEEC-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="IPEEC.27s_work">
+       IPEEC's work
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=3" title="Edit section: IPEEC's work">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      IPEEC' work covers 6 different sectors. In each of these sectors, Task Groups are the acting entities that carry IPEEC's work. Each Task Group is funded directly by its members and the participation is voluntary.
+     </p>
+     <h3>
+      <span class="mw-headline" id="G20_Action">
+       G20 Action
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=4" title="Edit section: G20 Action">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC is coordinating the implementation of the Group of 20 (G20)
+      <a class="external text" href="http://www.ipeec.org/upload/publication_related_language/pdf/11.pdf" rel="nofollow">
+       Energy Efficiency Action Plan
+      </a>
+      , which was agreed by G20 leaders in November 2014.
+     </p>
+     <p>
+      Dedicated task groups are cooperating on six different work streams with the aim of accelerating the adoption of energy efficiency policies. Each task group is directly funded by its participating members and run by officials from IPEEC member countries and other participating nations, with the support of various expert organisations.
+     </p>
+     <p>
+      The Action Plan established three new task groups to address recognised gaps and emerging challenges, including:
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/15-networked-devices-task-group-ndtg-.html" rel="nofollow">
+       networked devices, through the Networked Devices Task Group
+      </a>
+      (NDTG);
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/20-transport-task-group-ttg-.html" rel="nofollow">
+       transport, through the Transport Task Group (TTG)
+      </a>
+      ; and
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/21-energy-efficiency-finance-task-group-eeftg-.html" rel="nofollow">
+       finance, through the Energy Efficiency Finance Task Group
+      </a>
+      (EEFTG).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Appliances_and_equipment">
+       Appliances and equipment
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=5" title="Edit section: Appliances and equipment">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The two Task Groups that are involved in this sector are:
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/13-super-efficient-equipment-and-appliancedeploy-ment-initiative-sead-.html" rel="nofollow">
+       The Super-Efficient Equipment and Appliance Deployment initiative
+      </a>
+      (SEAD); and
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/15-networked-devices-task-group-ndtg-.html" rel="nofollow">
+       Networked Devices Task Group
+      </a>
+      (NDTG)
+     </p>
+     <h3>
+      <span class="mw-headline" id="Buildings">
+       Buildings
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=6" title="Edit section: Buildings">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC’s work in this sector is led by the
+      <a class="external text" href="http://www.ipeec.org/cms/16-buildings-energy-efficiency-task-group-beet-.html" rel="nofollow">
+       Buildings Energy Efficiency Task Group
+      </a>
+      (BEET).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Industry">
+       Industry
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=7" title="Edit section: Industry">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC’s work on these issues is coordinated through the
+      <a class="external text" href="http://www.ipeec.org/cms/17-energy-management-working-group-emwg-.html" rel="nofollow">
+       Energy Management Working Group
+      </a>
+      (EMWG), which encompasses the
+      <a class="external text" href="http://www.ipeec.org/cms/18-energy-management-action-network-for-industrial-efficiency-emak-.html" rel="nofollow">
+       Energy Management Action Network for Industrial Efficiency
+      </a>
+      (EMAK).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Power">
+       Power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=8" title="Edit section: Power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC’s current work on the power sector is focused on the dissemination of energy efficient technologies and best practices in thermal power generation through the
+      <a class="external text" href="http://www.ipeec.org/cms/19-high-efficiency-low-emissions-task-group-hele-.html" rel="nofollow">
+       High Efficiency Low Emissions Task Group
+      </a>
+      (HELE).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Transport">
+       Transport
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=9" title="Edit section: Transport">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC’s work in this sector is led by the
+      <a class="external text" href="http://www.ipeec.org/cms/20-transport-task-group-ttg-.html" rel="nofollow">
+       Transport Task Group
+      </a>
+      (TTG).
+     </p>
+     <h3>
+      <span class="mw-headline" id="Cross-sector">
+       Cross-sector
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=10" title="Edit section: Cross-sector">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      IPEEC currently oversees three task groups aimed at addressing cross-sectoral issues.
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/21-energy-efficiency-finance-task-group-eeftg-.html" rel="nofollow">
+       Energy Efficiency Finance Task Group
+      </a>
+      (EEFTG)
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/22-improving-policies-through-energy-efficiency-indicators-task-group-ipeei-.html" rel="nofollow">
+       Improving Policies through Energy Efficiency Indicators
+      </a>
+      (IPEEI)
+     </p>
+     <p>
+      -
+      <a class="external text" href="http://www.ipeec.org/cms/23-the-top-ten-energy-efficiency-best-practices-and-best-available-technologies-task-group-top-tens-.html" rel="nofollow">
+       The Top Ten Energy Efficiency Best Practices and Best Available Technologies Task Group
+      </a>
+      (TOP TENs)
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/International_Renewable_Energy_Agency" title="International Renewable Energy Agency">
+        International Renewable Energy Agency
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_policy" title="Energy policy">
+        Energy policy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_policy_of_the_European_Union" title="Energy policy of the European Union">
+        Energy policy of the European Union
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Data_center_infrastructure_efficiency" title="Data center infrastructure efficiency">
+        Data center infrastructure efficiency
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/International_Energy_Agency" title="International Energy Agency">
+        International Energy Agency
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit&amp;section=12" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-iea.org-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-iea.org_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-iea.org_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.iea.org/impagr/cip/pdf/Issue56WaideArticleJan27_09.pdf" rel="nofollow">
+          http://www.iea.org/impagr/cip/pdf/Issue56WaideArticleJan27_09.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.iea.org/impagr/cip/pdf/Issue56WaideArticleJan27_09.pdf" rel="nofollow">
+          <i>
+           A new force for global energy effiency
+          </i>
+          , IEA
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.facebook.com/pages/IPEEC/112801928800080?sk=info" rel="nofollow">
+          https://www.facebook.com/pages/IPEEC/112801928800080?sk=info
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-IPEEC-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-IPEEC_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-IPEEC_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.industry.gov.au/Energy/InternationalEngagement/Pages/InternationalPartnershipEnergyEfficiency.aspx" rel="nofollow">
+          International Partnership for Energy Efficiency Cooperation (IPEEC)
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.g-8.de/Content/EN/Artikel/__g8-summit/anlagen/chairs-summary,templateId=raw,property=publicationFile.pdf/chairs-summary.pdf" rel="nofollow">
+          Chair's summary, Heiligendamm, 8 June 2007
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ipeec.org/HISTORY.aspx" rel="nofollow">
+          History
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/08/380&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en" rel="nofollow">
+          Rapid - Press Releases - EUROPA - The International Partnership for Energy Efficiency Cooperation (IPEEC)
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-ie-8">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-ie_8-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ie_8-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.ipeec.org/HISTORY.aspx" rel="nofollow">
+          [1]
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-ei-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ei_9-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.g8energy2009.it/pdf/27.05/24th_May-Memorandum_of_IPEEC.pdf" rel="nofollow">
+          Memorandum concerning the hosting by the IEA of the Secretariat to the IPEEC, 24 May 2009
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ncapec.org/docs/2010" rel="nofollow">
+          Energy Ministers Meeting - Fukui Declaration.pdf Fukui Declaration, 19 June 2010
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:17888887-0!*!0!!en!4!* and timestamp 20161026065355 and revision id 746253566
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;oldid=746253566">
+      https://en.wikipedia.org/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;oldid=746253566
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_economics" title="Category:Energy economics">
+         Energy economics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:International_energy_organizations" title="Category:International energy organizations">
+         International energy organizations
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=International+Partnership+for+Energy+Efficiency+Cooperation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=International+Partnership+for+Energy+Efficiency+Cooperation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/International_Partnership_for_Energy_Efficiency_Cooperation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:International_Partnership_for_Energy_Efficiency_Cooperation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/International_Partnership_for_Energy_Efficiency_Cooperation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/International_Partnership_for_Energy_Efficiency_Cooperation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/International_Partnership_for_Energy_Efficiency_Cooperation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;oldid=746253566" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q17081633" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=International_Partnership_for_Energy_Efficiency_Cooperation&amp;id=746253566" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=International+Partnership+for+Energy+Efficiency+Cooperation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=International+Partnership+for+Energy+Efficiency+Cooperation&amp;returnto=International+Partnership+for+Energy+Efficiency+Cooperation&amp;oldid=746253566&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:International_Partnership_for_Energy_Efficiency_Cooperation" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q17081633#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 26 October 2016, at 06:53.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=International_Partnership_for_Energy_Efficiency_Cooperation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.064",
+            "walltime": "0.091",
+            "ppvisitednodes": {
+                "value": 1358,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 6123,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1618,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   47.776      1 -total",
+                " 67.50%   32.248     16 Template:Flag",
+                " 17.06%    8.151      1 Template:Reflist",
+                " 12.88%    6.154     16 Template:Flag/core",
+                "  6.85%    3.273      1 Template:Country_data_Australia",
+                "  5.21%    2.490      1 Template:Country_data_United_States",
+                "  4.77%    2.278      1 Template:Country_data_Canada",
+                "  4.28%    2.046      1 Template:Country_data_South_Africa",
+                "  4.17%    1.991      1 Template:Country_data_Germany",
+                "  4.12%    1.967      1 Template:Country_data_Japan"
+            ]
+        },
+        "cachereport": {
+            "origin": "mw1232",
+            "timestamp": "20161026065355",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1257"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1950 @@
+https://en.wikipedia.org/wiki/Nameplate_capacity
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Nameplate capacity - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nameplate_capacity","wgTitle":"Nameplate capacity","wgCurRevisionId":745286035,"wgRevisionId":745286035,"wgArticleId":20548535,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Power station technology","Electric power","Electrical generators","Energy conversion"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nameplate_capacity","wgRelevantArticleId":20548535,"wgRequestId":"WByt5QpAMEsAAAY4VtIAAACR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q200974","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nameplate_capacity" rel="alternate"/>
+  <link href="/w/index.php?title=Nameplate_capacity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Nameplate_capacity&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Nameplate_capacity" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nameplate_capacity rootpage-Nameplate_capacity skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Nameplate capacity
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Nameplate capacity
+      </b>
+      , also known as the
+      <b>
+       rated capacity
+      </b>
+      ,
+      <b>
+       nominal capacity
+      </b>
+      ,
+      <b>
+       installed capacity
+      </b>
+      , or
+      <b>
+       maximum effect
+      </b>
+      , is the intended full-load sustained output of a facility such as a
+      <a class="mw-disambig" href="/wiki/Power_plant_(disambiguation)" title="Power plant (disambiguation)">
+       power plant
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-nceia_1-0">
+       <a href="#cite_note-nceia-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ncnrc_2-0">
+       <a href="#cite_note-ncnrc-2">
+        [2]
+       </a>
+      </sup>
+      a
+      <a href="/wiki/Chemical_plant" title="Chemical plant">
+       chemical plant
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-ncchem_3-0">
+       <a href="#cite_note-ncchem-3">
+        [3]
+       </a>
+      </sup>
+      fuel plant,
+      <sup class="reference" id="cite_ref-nccan_4-0">
+       <a href="#cite_note-nccan-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ncrefine_5-0">
+       <a href="#cite_note-ncrefine-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ncethanol_6-0">
+       <a href="#cite_note-ncethanol-6">
+        [6]
+       </a>
+      </sup>
+      metal refinery,
+      <sup class="reference" id="cite_ref-ncalcoa_7-0">
+       <a href="#cite_note-ncalcoa-7">
+        [7]
+       </a>
+      </sup>
+      mine,
+      <sup class="reference" id="cite_ref-ncmine_8-0">
+       <a href="#cite_note-ncmine-8">
+        [8]
+       </a>
+      </sup>
+      and many others. Nameplate capacity is the number registered with authorities for classifying the
+      <a href="/wiki/Power_(physics)" title="Power (physics)">
+       power
+      </a>
+      output of a power station usually expressed in
+      <a href="/wiki/Watt#Megawatt" title="Watt">
+       megawatts (MW)
+      </a>
+      .
+      <sup class="reference" id="cite_ref-ncdod_9-0">
+       <a href="#cite_note-ncdod-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Power plants with an output consistently near their nameplate capacity have a high
+      <a href="/wiki/Capacity_factor" title="Capacity factor">
+       capacity factor
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Dispatchable_power">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Dispatchable power
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Non-dispatchable_power">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Non-dispatchable power
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Generator_capacity">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Generator capacity
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Dispatchable_power">
+       Dispatchable power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nameplate_capacity&amp;action=edit&amp;section=1" title="Edit section: Dispatchable power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      For
+      <a href="/wiki/Dispatchable_generation" title="Dispatchable generation">
+       dispatchable power
+      </a>
+      , this capacity depends on the internal technical capability of the plant to maintain output for a reasonable amount of time (for example, a day), neither momentarily nor permanently, and without considering external events such as lack of fuel or internal events such as maintenance.
+      <sup class="reference" id="cite_ref-ncbelow_10-0">
+       <a href="#cite_note-ncbelow-10">
+        [10]
+       </a>
+      </sup>
+      Actual output can be different from nameplate capacity for a number of reasons depending on equipment and circumstances.
+      <sup class="reference" id="cite_ref-ncbelow_10-1">
+       <a href="#cite_note-ncbelow-10">
+        [10]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ncabove_11-0">
+       <a href="#cite_note-ncabove-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Non-dispatchable_power">
+       Non-dispatchable power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nameplate_capacity&amp;action=edit&amp;section=2" title="Edit section: Non-dispatchable power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      For
+      <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+       non-dispatchable power
+      </a>
+      , particularly
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable energy
+      </a>
+      , nameplate capacity refers to generation under ideal conditions. Output is generally limited by weather conditions,
+      <a class="mw-redirect" href="/wiki/Hydroelectric_dam" title="Hydroelectric dam">
+       hydroelectric dam
+      </a>
+      water levels,
+      <a class="mw-redirect" href="/wiki/Tidal" title="Tidal">
+       tidal
+      </a>
+      variations and other outside forces. Equipment failures and maintenance usually contribute less to capacity factor reduction than the innate variation of the power source. In
+      <a href="/wiki/Photovoltaics" title="Photovoltaics">
+       photovoltaics
+      </a>
+      , capacity is rated under
+      <i>
+       Standard Test Conditions
+      </i>
+      usually expressed in the non-
+      <a href="/wiki/International_System_of_Units" title="International System of Units">
+       SI
+      </a>
+      compliant unit
+      <a class="mw-redirect" href="/wiki/Watt-peak" title="Watt-peak">
+       watt-peak
+      </a>
+      (W
+      <sub>
+       p
+      </sub>
+      ). In addition, a
+      <a class="mw-redirect" href="/wiki/PV_system" title="PV system">
+       PV system
+      </a>
+      's nameplate capacity is sometimes denoted by a subindex, for example,
+      <a class="mw-redirect" href="/wiki/Watt-peak_AC" title="Watt-peak AC">
+       MW
+       <sub>
+        DC
+       </sub>
+       or MW
+       <sub>
+        AC
+       </sub>
+      </a>
+      , in order to clarify, whether the raw
+      <a href="/wiki/Direct_current" title="Direct current">
+       DC
+      </a>
+      or already converted
+      <a href="/wiki/Alternating_current" title="Alternating current">
+       AC
+      </a>
+      power output is referred to.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Generator_capacity">
+       Generator capacity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nameplate_capacity&amp;action=edit&amp;section=3" title="Edit section: Generator capacity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:COGES_diagram.svg">
+        <img alt="" class="thumbimage" data-file-height="417" data-file-width="526" height="174" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COGES_diagram.svg/220px-COGES_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COGES_diagram.svg/330px-COGES_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COGES_diagram.svg/440px-COGES_diagram.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:COGES_diagram.svg" title="Enlarge">
+         </a>
+        </div>
+        Diagram of a
+        <a class="mw-redirect" href="/wiki/Turbo-electric" title="Turbo-electric">
+         turbo-electric
+        </a>
+        <a href="/wiki/Combined_gas_and_steam" title="Combined gas and steam">
+         COGES
+        </a>
+        power-plant, with power-consuming pump
+       </div>
+      </div>
+     </div>
+     <p>
+      The term is connected with
+      <a href="/wiki/Nameplate" title="Nameplate">
+       nameplates
+      </a>
+      on
+      <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">
+       electrical generators
+      </a>
+      as these plates describing the model name and manufacturer usually also contain the rated output,
+      <sup class="reference" id="cite_ref-nc_12-0">
+       <a href="#cite_note-nc-12">
+        [12]
+       </a>
+      </sup>
+      but the rated output of a power station to the
+      <a href="/wiki/Electrical_grid" title="Electrical grid">
+       electrical grid
+      </a>
+      is invariably less than the generator nameplate capacity, because the components connecting the actual generator to the "grid" also use power. Thus there is a distinction between component capacity and facility capacity.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nameplate_capacity&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Availability_factor" title="Availability factor">
+        Availability factor
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Declared_net_capacity" title="Declared net capacity">
+        Declared net capacity
+       </a>
+       (power plants)
+      </li>
+      <li>
+       <a href="/wiki/Electricity_generation" title="Electricity generation">
+        Electricity generation
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Intermittent_power_source#Terminology" title="Intermittent power source">
+        Intermittent power source#Terminology
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">
+        List of energy storage projects
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nameplate_capacity&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-nceia-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-nceia_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/glossary/index.cfm?id=G#gen_nameplate" rel="nofollow">
+          Energy glossary
+         </a>
+         <i>
+          <a href="/wiki/Energy_Information_Administration" title="Energy Information Administration">
+           Energy Information Administration
+          </a>
+         </i>
+         . Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncnrc-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncnrc_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nrc.gov/reading-rm/basic-ref/glossary/generator-nameplate-capacity.html" rel="nofollow">
+          Glossary
+         </a>
+         <i>
+          <a href="/wiki/Nuclear_Regulatory_Commission" title="Nuclear Regulatory Commission">
+           Nuclear Regulatory Commission
+          </a>
+         </i>
+         , 2 August 2010. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncchem-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncchem_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.icis.com/StaticPages/Plant_Performance_Data.htm" rel="nofollow">
+          Plant Performance Data (PPD)
+         </a>
+         <i>
+          ICIS
+         </i>
+         . Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-nccan-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-nccan_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://nrcan.gc.ca/eneene/sources/petpet/refraf-eng.php" rel="nofollow">
+          Refinery Economics
+         </a>
+         <i>
+          <a href="/wiki/Natural_Resources_Canada" title="Natural Resources Canada">
+           Natural Resources Canada
+          </a>
+         </i>
+         , 5 january 2009. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncrefine-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncrefine_5-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.arabianbusiness.com/522168-magnificent-seven" rel="nofollow">
+          Magnificent seven
+         </a>
+         <i>
+          Arabian Business
+         </i>
+         , 17 June 2008. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncethanol-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncethanol_6-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Daniel O’Brien and Mike Woolverton.
+         <a class="external text" href="http://www.agmanager.info/energy/EthanolPlantCapacityTrends_Aug-09.pdf" rel="nofollow">
+          Trends in U.S. fuel ethanol production capacity: 2005-2009
+         </a>
+         <i>
+          K-State &amp; Extension
+         </i>
+         , August 2009. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncalcoa-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncalcoa_7-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.alcoa.com/alumina/en/info_page/refineries.asp" rel="nofollow">
+          Refining Capacity
+         </a>
+         <i>
+          <a href="/wiki/Alcoa" title="Alcoa">
+           Alcoa
+          </a>
+         </i>
+         , December 31, 2009 . Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncmine-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncmine_8-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.mining-technology.com/features/feature74139/" rel="nofollow">
+          The Future of Tantalum and Niobium
+         </a>
+         <i>
+          Mining-Technology
+         </i>
+         , 14 Jan 2010. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncdod-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncdod_9-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.development.ohio.gov/Business/documents/CertificateOfNameplateCapacityForCompletedEnergyProject.pdf" rel="nofollow">
+          Certificate of Nameplate Capacity
+         </a>
+         <i>
+          <a href="/wiki/Ohio" title="Ohio">
+           Ohio
+          </a>
+          Department of Development
+         </i>
+         . Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncbelow-10">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-ncbelow_10-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ncbelow_10-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Kleiser, Thomas.
+         <a class="external text" href="http://cdm.unfccc.int/Projects/DB/DNV-CUK1130160031.78/iProcess/TUEV-SUED1227777806.56/ReviewInitialComments/LI99J7QWQ8LUOWOBOK67F6CA1JEKFH" rel="nofollow">
+          Response to CDM
+         </a>
+         page 2-4 by
+         <i>
+          <a href="/wiki/Technischer_%C3%9Cberwachungsverein" title="Technischer Überwachungsverein">
+           TÜV
+          </a>
+         </i>
+         , 4 March 2009. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-ncabove-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ncabove_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Swain, Bibb.
+         <a class="external text" href="http://www.ethanolproducer.com/article.jsp?article_id=2463" rel="nofollow">
+          Designed to go above Nameplate Capacity
+         </a>
+         <i>
+          Ethanol Producer
+         </i>
+         , November 2006. Retrieved: 23 September 2010.
+        </span>
+       </li>
+       <li id="cite_note-nc-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-nc_12-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Reitze, Arnold W.
+         <a class="external text" href="http://books.google.dk/books?id=M8w5yJbNTD0C&amp;pg=PA260&amp;dq=%22Nameplate+capacity%22&amp;source=gbs_toc_r&amp;cad=4#v=onepage&amp;q=%22Nameplate%20capacity%22&amp;f=false" rel="nofollow">
+          Air pollution control law: compliance and enforcement
+         </a>
+         page 260
+         <i>
+          <a href="/wiki/George_Washington_University_Law_School" title="George Washington University Law School">
+           George Washington University Law School
+          </a>
+         </i>
+         , 2001.
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1585760277">
+          ISBN 1-58576-027-7
+         </a>
+         ,
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781585760275">
+          ISBN 978-1-58576-027-5
+         </a>
+         Retrieved: 23 September 2010.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <div aria-labelledby="Electricity_delivery" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electricity_delivery" title="Template:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electricity_delivery" title="Template talk:Electricity delivery">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_delivery&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Electricity_delivery" style="font-size:114%">
+          <a href="/wiki/Electricity_delivery" title="Electricity delivery">
+           Electricity delivery
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Availability_factor" title="Availability factor">
+             Availability factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Base_load" title="Base load">
+             Base load
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Black_start" title="Black start">
+             Black start
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Capacity_factor" title="Capacity factor">
+             Capacity factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_factor" title="Demand factor">
+             Demand factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_demand_management" title="Energy demand management">
+             Demand management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fault_(power_engineering)" title="Fault (power engineering)">
+             Fault
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grid_energy_storage" title="Grid energy storage">
+             Grid storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">
+             Intermittency
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">
+             Load factor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_following_power_plant" title="Load following power plant">
+             Load following
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Nameplate capacity
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Peak_demand" title="Peak demand">
+             Peak demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_quality" title="Electric power quality">
+             Power quality
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power-flow_study" title="Power-flow study">
+             Power-flow study
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Repowering" title="Repowering">
+             Repowering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Variable_renewable_energy" title="Variable renewable energy">
+             Variability
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Sources
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a class="mw-redirect" href="/wiki/Non-renewable_energy" title="Non-renewable energy">
+              Nonrenewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Coal" title="Coal">
+                Coal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">
+                Fossil-fuel power station
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Natural_gas" title="Natural gas">
+                Natural gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Petroleum" title="Petroleum">
+                Petroleum
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power" title="Nuclear power">
+                Nuclear
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Oil_shale" title="Oil shale">
+                Oil shale
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;width:7em;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/Renewable_energy" title="Renewable energy">
+              Renewable
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Biomass" title="Biomass">
+                Biomass
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Biofuel" title="Biofuel">
+                Biofuel
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Geothermal_power" title="Geothermal power">
+                Geothermal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+                Hydro
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Marine_energy" title="Marine energy">
+                Marine
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Marine_current_power" title="Marine current power">
+                  Current
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Osmotic_power" title="Osmotic power">
+                  Osmotic
+                 </a>
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/Ocean_thermal_energy" title="Ocean thermal energy">
+                  Thermal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Tidal_power" title="Tidal power">
+                  Tidal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Wave_power" title="Wave power">
+                  Wave
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Solar_power" title="Solar power">
+                Solar
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wind_power" title="Wind power">
+                Wind
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+          Generation
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/AC_power" title="AC power">
+             AC power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cogeneration" title="Cogeneration">
+             Cogeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Combined_cycle" title="Combined cycle">
+             Combined cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooling_tower" title="Cooling tower">
+             Cooling tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Induction_generator" title="Induction generator">
+             Induction generator
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Micro_combined_heat_and_power" title="Micro combined heat and power">
+             Micro CHP
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Microgeneration" title="Microgeneration">
+             Microgeneration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rankine_cycle" title="Rankine cycle">
+             Rankine cycle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">
+             Three-phase electric power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Virtual_power_plant" title="Virtual power plant">
+             Virtual power plant
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+           Transmission
+          </a>
+          <br/>
+          and
+          <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+           distribution
+          </a>
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Power_outage" title="Power outage">
+             Blackout
+            </a>
+            (
+            <a class="mw-redirect" href="/wiki/Rolling_blackout" title="Rolling blackout">
+             Rolling blackout
+            </a>
+            )
+           </li>
+           <li>
+            <a href="/wiki/Brownout_(electricity)" title="Brownout (electricity)">
+             Brownout
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demand_response" title="Demand response">
+             Demand response
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Distributed_generation" title="Distributed generation">
+             Distributed generation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dynamic_demand_(electric_power)" title="Dynamic demand (electric power)">
+             Dynamic demand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_distribution" title="Electric power distribution">
+             Electric power distribution
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_system" title="Electric power system">
+             Electric power system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electric_power_transmission" title="Electric power transmission">
+             Electric power transmission
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_grid" title="Electrical grid">
+             Electrical grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">
+             High-voltage direct current
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Load_management" title="Load management">
+             Load management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pumped-storage_hydroelectricity" title="Pumped-storage hydroelectricity">
+             Pumped hydro
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Power_station" title="Power station">
+             Power station
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Power_storage" title="Power storage">
+             Power storage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Smart_grid" title="Smart grid">
+             Smart grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electrical_substation" title="Electrical substation">
+             Substation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Super_grid" title="Super grid">
+             Super grid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transformer" title="Transformer">
+             Transformer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Transmission_system_operator" title="Transmission system operator">
+             Transmission system operator
+            </a>
+            (TSO)
+           </li>
+           <li>
+            <a href="/wiki/Transmission_tower" title="Transmission tower">
+             Transmission tower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Utility_pole" title="Utility pole">
+             Utility pole
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Protective
+          <br/>
+          devices
+         </div>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Arc-fault_circuit_interrupter" title="Arc-fault circuit interrupter">
+             Arc-fault_circuit_interrupter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">
+             Earth leakage circuit breaker
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Residual-current_device" title="Residual-current device">
+             Residual-current device
+            </a>
+            (GFI)
+           </li>
+           <li>
+            <a href="/wiki/Power-system_protection" title="Power-system protection">
+             Power-system protection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Protective_relay" title="Protective relay">
+             Protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Digital_protective_relay" title="Digital protective relay">
+             Digital protective relay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sulfur_hexafluoride_circuit_breaker" title="Sulfur hexafluoride circuit breaker">
+             Sulfur hexafluoride circuit breaker
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <div style="padding:0.1em 0;line-height:1.2em;">
+          Economics
+          <br/>
+          and policies
+         </div>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Carbon_offset" title="Carbon offset">
+             Carbon offset
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">
+             Cost of electricity by source
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ecotax" title="Ecotax">
+             Ecotax
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_subsidies" title="Energy subsidies">
+             Energy subsidies
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Feed-in_tariff" title="Feed-in tariff">
+             Feed-in tariff
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">
+             Fossil-fuel phase-out
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Net_metering" title="Net metering">
+             Net metering
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pigovian_tax" title="Pigovian tax">
+             Pigovian tax
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_Energy_Certificates" title="Renewable Energy Certificates">
+             Renewable Energy Certificates
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_payments" title="Renewable energy payments">
+             Renewable energy payments
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Renewable_energy_policy" title="Renewable energy policy">
+             Renewable energy policy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spark_spread" title="Spark spread">
+             Spark spread
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <dl>
+           <dt>
+            Categories
+           </dt>
+           <dd>
+            <a href="/wiki/Category:Electric_power_distribution" title="Category:Electric power distribution">
+             Electric power distribution
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Electricity_economics" title="Category:Electricity economics">
+             Electricity economics
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+             Power station technology
+            </a>
+           </dd>
+           <dt>
+            Portals
+           </dt>
+           <dd>
+            <a href="/wiki/Portal:Energy" title="Portal:Energy">
+             Energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy
+            </a>
+           </dd>
+           <dd>
+            <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+             Sustainable development
+            </a>
+           </dd>
+          </dl>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:20548535-0!*!0!!en!4!* and timestamp 20161104154853 and revision id 745286035
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nameplate_capacity&amp;oldid=745286035">
+      https://en.wikipedia.org/w/index.php?title=Nameplate_capacity&amp;oldid=745286035
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">
+         Power station technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Electric_power" title="Category:Electric power">
+         Electric power
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Electrical_generators" title="Category:Electrical generators">
+         Electrical generators
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">
+         Energy conversion
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nameplate+capacity" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nameplate+capacity" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Nameplate_capacity" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Nameplate_capacity" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Nameplate_capacity">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Nameplate_capacity&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Nameplate_capacity&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Nameplate_capacity" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nameplate_capacity" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Nameplate_capacity&amp;oldid=745286035" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Nameplate_capacity&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q200974" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nameplate_capacity&amp;id=745286035" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nameplate+capacity">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nameplate+capacity&amp;returnto=Nameplate+capacity&amp;oldid=745286035&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Nameplate_capacity&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Naamplaatkapasiteit" hreflang="af" lang="af" title="Naamplaatkapasiteit – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Capacitat_instal%C2%B7lada" hreflang="ca" lang="ca" title="Capacitat instal·lada – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Installierte_Leistung" hreflang="de" lang="de" title="Installierte Leistung – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Puissance_nominale" hreflang="fr" lang="fr" title="Puissance nominale – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Установленная мощность – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D1%96%D1%81%D1%82%D1%8C" hreflang="uk" lang="uk" title="Встановлена потужність – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%A1%8D%E5%AE%9A%E5%AE%B9%E9%87%8F" hreflang="zh" lang="zh" title="額定容量 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q200974#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 20 October 2016, at 08:14.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nameplate_capacity&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.076",
+            "walltime": "0.096",
+            "ppvisitednodes": {
+                "value": 701,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 25857,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 732,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   51.485      1 -total",
+                " 55.01%   28.321      2 Template:Navbox",
+                " 52.13%   26.841      1 Template:Electricity_generation",
+                " 27.96%   14.393      1 Template:Portal",
+                " 24.29%   12.504      1 Template:Navbox_subgroup",
+                " 19.56%   10.068      1 Template:Reflist",
+                "  2.41%    1.241      3 Template:Longitem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.011",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 874700,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1240",
+            "timestamp": "20161104154853",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":166,"wgHostname":"mw1240"});});
+  </script>
+ </body>
+</html>

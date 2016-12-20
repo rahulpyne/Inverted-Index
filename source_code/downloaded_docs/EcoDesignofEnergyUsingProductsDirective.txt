@@ -1,0 +1,997 @@
+https://en.wikipedia.org/wiki/Eco-Design_of_Energy-Using_Products_Directive
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   European Ecodesign Directive - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Ecodesign_Directive","wgTitle":"European Ecodesign Directive","wgCurRevisionId":728830703,"wgRevisionId":728830703,"wgArticleId":27302963,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from May 2013","Use dmy dates from May 2013","European Union and the environment","Policies of the European Union"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Ecodesign_Directive","wgRelevantArticleId":27302963,"wgRequestId":"WBxG-gpAAEIAAjGCOOAAAACB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Eco-Design_of_Energy-Using_Products_Directive","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/European_Ecodesign_Directive","wgWikibaseItemId":"Q3708955","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/European_Ecodesign_Directive" rel="alternate"/>
+  <link href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/European_Ecodesign_Directive" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-European_Ecodesign_Directive rootpage-European_Ecodesign_Directive skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    European Ecodesign Directive
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Eco-Design_of_Energy-Using_Products_Directive&amp;redirect=no" title="Eco-Design of Energy-Using Products Directive">
+       Eco-Design of Energy-Using Products Directive
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      The
+      <a href="/wiki/European_Union" title="European Union">
+       European Union
+      </a>
+      's
+      <b>
+       Ecodesign Directive
+      </b>
+      (Directive 2009/125/EC)
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      establishes a framework to set mandatory ecological requirements for energy-using and energy-related products sold in all 28 Member States. Its scope currently covers more than 40 product groups (such as
+      <a href="/wiki/Boiler" title="Boiler">
+       boilers
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Lightbulb" title="Lightbulb">
+       lightbulbs
+      </a>
+      ,
+      <a href="/wiki/Television" title="Television">
+       TVs
+      </a>
+      and
+      <a href="/wiki/Refrigerator" title="Refrigerator">
+       fridges
+      </a>
+      ), which are responsible for around 40% of all EU
+      <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+       greenhouse gas
+      </a>
+      emissions.
+     </p>
+     <p>
+      The 2009 revision of the Directive extended its scope to energy-related products such as
+      <a href="/wiki/Window" title="Window">
+       windows
+      </a>
+      ,
+      <a href="/wiki/Building_insulation" title="Building insulation">
+       insulation
+      </a>
+      materials and certain water-using products.
+     </p>
+     <p>
+      The ultimate aim of the Ecodesign Directive is that manufacturers of energy-using products will, at the design stage, be obliged to reduce the
+      <a href="/wiki/Energy_consumption" title="Energy consumption">
+       energy consumption
+      </a>
+      and other negative
+      <a href="/wiki/Environmental_degradation" title="Environmental degradation">
+       environmental impacts
+      </a>
+      of products. While the Directive's primary aim is to reduce
+      <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+       energy use
+      </a>
+      , it is also aimed at enforcing other environmental considerations including: materials use;
+      <a href="/wiki/Water_use" title="Water use">
+       water use
+      </a>
+      ;
+      <a href="/wiki/Pollution" title="Pollution">
+       polluting emissions
+      </a>
+      ;
+      <a href="/wiki/Waste" title="Waste">
+       waste
+      </a>
+      issues and
+      <a href="/wiki/Recycling" title="Recycling">
+       recyclability
+      </a>
+      .
+     </p>
+     <p>
+      The Ecodesign Directive is a
+      <a class="mw-redirect mw-disambig" href="/wiki/Framework_Directive_(disambiguation)" title="Framework Directive (disambiguation)">
+       framework directive
+      </a>
+      , meaning that it does not directly set minimum ecological requirements. These are adopted through specific implementing measures for each group of products in the scope of the Directive. The implementing measures are adopted through the so-called
+      <a href="/wiki/Comitology" title="Comitology">
+       comitology
+      </a>
+      procedure. Implementing measures are based on EU internal market rules governing which products may be placed on the market. Manufacturers who begin marketing an energy using product covered by an implementing measure in the EU area have to ensure that it conforms to the energy and environmental standards set out by the measure.
+     </p>
+     <p>
+      In practice, the introduction of a new minimum requirement results in effectively banning all non-compliant products from being sold in the 28 Member States. This was for example the case of
+      <a class="mw-redirect" href="/wiki/Incandescent_lamp" title="Incandescent lamp">
+       incandescent lamps
+      </a>
+      , for which a gradual phaseout started in the EU in 2009 under this Directive.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      This measure alone – which received some criticism in parts of the media but welcomed by environmentalists
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      – is expected to reduce annual CO
+      <sub>
+       2
+      </sub>
+      emissions by 16 million tons in 2020.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Scope_of_the_Directive">
+       Scope of the Directive
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit&amp;section=1" title="Edit section: Scope of the Directive">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The 2005 Ecodesign directive covered energy-using products, which use, generate, transfer or measure energy, including consumer goods such as boilers,
+      <a href="/wiki/Water_heating" title="Water heating">
+       water heaters
+      </a>
+      , computers, televisions, and industrial products such as
+      <a href="/wiki/Transformer" title="Transformer">
+       transformers
+      </a>
+      . The implementing measures focus on those products which have a high potential for reducing
+      <a class="mw-redirect" href="/wiki/Greenhouse_gas_emissions" title="Greenhouse gas emissions">
+       greenhouse gas emissions
+      </a>
+      at low cost, through reduced
+      <a class="mw-redirect" href="/wiki/Energy_demand" title="Energy demand">
+       energy demand
+      </a>
+      .
+     </p>
+     <p>
+      The first Working Plan of the Ecodesign Directive was adopted on 21 October 2008.
+     </p>
+     <p>
+      It establishes a list of 10 product groups to be considered in priority for implementing measures in 2009–2011:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Air_conditioning" title="Air conditioning">
+        Air conditioning
+       </a>
+       and
+       <a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">
+        ventilation
+       </a>
+       systems, including
+       <a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">
+        air conditioning system pumps
+       </a>
+      </li>
+      <li>
+       Electric and
+       <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+        fossil-fuelled
+       </a>
+       heating equipment
+      </li>
+      <li>
+       Food-preparing equipment
+      </li>
+      <li>
+       Industrial and laboratory
+       <a href="/wiki/Furnace" title="Furnace">
+        furnaces
+       </a>
+       and ovens
+      </li>
+      <li>
+       <a href="/wiki/Machine_tool" title="Machine tool">
+        Machine tools
+       </a>
+      </li>
+      <li>
+       Network, data processing and data storing equipment
+      </li>
+      <li>
+       Refrigerating and freezing equipment
+      </li>
+      <li>
+       Sound and imaging equipment
+      </li>
+      <li>
+       Transformers
+      </li>
+      <li>
+       Water-using equipment
+      </li>
+     </ul>
+     <p>
+      Nine implementing measures have already been adopted – for a total
+      <a class="mw-redirect" href="/wiki/Energy_saving" title="Energy saving">
+       energy saving
+      </a>
+      of 341 TWh, or 12% of the
+      <a class="mw-redirect" href="/wiki/Electricity_consumption" title="Electricity consumption">
+       electricity consumption
+      </a>
+      of the EU.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      Several preparatory studies by DG Energy are completed or ongoing.
+     </p>
+     <p>
+      The European Commission will be tabling a Circular Economy proposal towards the end of 2015.
+      <a class="mw-redirect" href="/wiki/Eco-design" title="Eco-design">
+       Eco-design
+      </a>
+      is likely to be discussed within this framework.
+     </p>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit&amp;section=2" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://ec.europa.eu/enterprise/policies/sustainable-business/ecodesign" rel="nofollow">
+        DG Enterprise and Industry website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://ec.europa.eu/energy/efficiency/ecodesign/eco_design_en.htm" rel="nofollow">
+        DG Energy and Transport website
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.eceee.org/Eco_design/" rel="nofollow">
+        European Council for an Energy Efficient Economy pages on the Directive
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ecothis.eu" rel="nofollow">
+        ECOTHIS.eu campaign for Eco-Design to be a Core Component of EU's Circular Economy
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.coolproducts.eu" rel="nofollow">
+        Coolproducts for a Cool Planet campaign
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit&amp;section=3" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0125:EN:NOT" rel="nofollow">
+           "Directive's legal text"
+          </a>
+          . Eur-lex.europa.eu
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-12-11
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Ecodesign+Directive&amp;rft.btitle=Directive%27s+legal+text&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Feur-lex.europa.eu%2FLexUriServ%2FLexUriServ.do%3Furi%3DCELEX%3A32009L0125%3AEN%3ANOT&amp;rft.pub=Eur-lex.europa.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Jha, Alok.
+          <a class="external text" href="http://www.theguardian.com/environment/2009/sep/25/eco-lightbulbs-energy-saving-bills" rel="nofollow">
+           "Eco bulbs: How I found the light"
+          </a>
+          . The Guardian
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            6 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Ecodesign+Directive&amp;rft.aufirst=Alok&amp;rft.aulast=Jha&amp;rft.btitle=Eco+bulbs%3A+How+I+found+the+light&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Fenvironment%2F2009%2Fsep%2F25%2Feco-lightbulbs-energy-saving-bills&amp;rft.pub=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.coolproducts.eu/cool_blog_archive_press_release_green_groups_celebrate_end_of_energy_wasting_lightbulbs,_but_demand_clear_consumer_information_55.aspx" rel="nofollow">
+          http://www.coolproducts.eu/cool_blog_archive_press_release_green_groups_celebrate_end_of_energy_wasting_lightbulbs,_but_demand_clear_consumer_information_55.aspx
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://ec.europa.eu/enterprise/policies/sustainable-business/ecodesign/product-groups/index_en.htm" rel="nofollow">
+           "EU Commission Enterprise and Industry pages on Products"
+          </a>
+          . Ec.europa.eu
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2013-06-15
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Ecodesign+Directive&amp;rft.btitle=EU+Commission+Enterprise+and+Industry+pages+on+Products&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fec.europa.eu%2Fenterprise%2Fpolicies%2Fsustainable-business%2Fecodesign%2Fproduct-groups%2Findex_en.htm&amp;rft.pub=Ec.europa.eu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:27302963-0!*!0!!*!*!* and timestamp 20161031123831 and revision id 728830703
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=European_Ecodesign_Directive&amp;oldid=728830703">
+      https://en.wikipedia.org/w/index.php?title=European_Ecodesign_Directive&amp;oldid=728830703
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:European_Union_and_the_environment" title="Category:European Union and the environment">
+         European Union and the environment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Policies_of_the_European_Union" title="Category:Policies of the European Union">
+         Policies of the European Union
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Use_British_English_from_May_2013" title="Category:Use British English from May 2013">
+         Use British English from May 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">
+         Use dmy dates from May 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=European+Ecodesign+Directive" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=European+Ecodesign+Directive" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/European_Ecodesign_Directive" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:European_Ecodesign_Directive" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/European_Ecodesign_Directive">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=European_Ecodesign_Directive&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=European_Ecodesign_Directive&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/European_Ecodesign_Directive" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/European_Ecodesign_Directive" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=European_Ecodesign_Directive&amp;oldid=728830703" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=European_Ecodesign_Directive&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q3708955" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=European_Ecodesign_Directive&amp;id=728830703" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Ecodesign+Directive">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=European+Ecodesign+Directive&amp;returnto=European+Ecodesign+Directive&amp;oldid=728830703&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=European_Ecodesign_Directive&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/%C3%96kodesign-Richtlinie" hreflang="de" lang="de" title="Ökodesign-Richtlinie – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Directiva_Europea_sobre_Dise%C3%B1o_Ecol%C3%B3gico" hreflang="es" lang="es" title="Directiva Europea sobre Diseño Ecológico – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Direttiva_2009/125/CE" hreflang="it" lang="it" title="Direttiva 2009/125/CE – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q3708955#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 7 July 2016, at 23:05.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=European_Ecodesign_Directive&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.060",
+            "walltime": "0.083",
+            "ppvisitednodes": {
+                "value": 349,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 5455,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 206,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   70.295      1 -total",
+                " 59.07%   41.521      1 Template:Reflist",
+                " 49.22%   34.597      3 Template:Cite_web",
+                " 30.61%   21.520      1 Template:Use_British_English",
+                " 15.10%   10.615      2 Template:DMCA",
+                " 13.47%    9.467      2 Template:Dated_maintenance_category",
+                "  8.16%    5.738      2 Template:FULLROOTPAGENAME",
+                "  6.14%    4.315      1 Template:Use_dmy_dates",
+                "  5.82%    4.089      2 Template:Ns_has_subpages"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.023",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1765822,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1210",
+            "timestamp": "20161031123831",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1271"});});
+  </script>
+ </body>
+</html>
